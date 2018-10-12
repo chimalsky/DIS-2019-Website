@@ -1,0 +1,198 @@
+
+
+.hide {
+    display: none;
+}
+
+.skip-link {
+    position: fixed;
+    top: -30em;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    background: #3281dc;
+    color: white;
+    padding: .5em 1em;
+    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
+    transition: top .1s linear;
+}
+
+h1,
+.body-single h1,
+.post-content h1 {
+    font-size: .8em;
+    font-weight: 700;
+}
+h1.post-title {
+    font-size: 1em;
+}
+
+h2,
+.post-content h2 {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: .6em;
+    font-weight: 700;
+    letter-spacing: .2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h1,h2,h3,p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    font-size: 1.5em;
+}
+
+p, a, li {
+    font-size: .8em;
+}
+
+p > a {
+    font-size: 1em;
+}
+
+.markdown p {
+    margin-bottom: 1em;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+body.home,
+body.home header.site-header {
+    color:  #f2efe0;
+    background-color: #272726;
+}
+
+header.site-header {
+    background-color: #f27365;
+    color: rgb(242, 239, 224);
+    padding: 2.4em .5em;
+}
+
+body.home main.main {
+    padding: 0;
+}
+
+body.home button.menu-toggle {
+    color: #f2efe0;
+    font-size: .5em;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: .5em;
+}
+button.menu-toggle::before,
+button.menu-toggle::after {
+    content: initial;
+}
+.site-logo {
+    max-width: 5em;
+}
+
+img.site-logo {
+    width: 100%;
+}
+
+body.home header.hero {
+    padding: 5em 0;
+    height: 100vh;
+    color: #f2efe0;
+}
+
+
+body.home header.hero p,
+body.home header.hero a {
+    font-size: .8em;
+}
+
+body.home header.hero h1 {
+    font-size: 4.5em;
+}
+
+body.home header.hero h2 {
+    font-size: 2em;
+}
+
+body.home .tagline {
+    color:  #27b0c5;
+}
+
+body.home div.table {
+    background: #f27365;
+    color: #f2efe0;
+}
+
+body.single {
+    color: #525352;
+}
+
+body.single h1 {
+    color: #525352;
+}
+body.single h2 {
+    color: #f27365;
+}
+footer.site-footer {
+    background: #f27365;
+    border-bottom: 1.2em solid transparent;
+    border-image: url(/img/pinkhazardhorizontal.png) 95 repeat;
+}
+
+footer.site-footer a {
+    color: rgb(242, 239, 224);
+}
+
+section.light {
+    padding: 2em 0;
+    background: #fff;
+    color: #525352;
+}
+
+section.cream {
+    background: #f2efe0;
+    color: #353535;
+    padding: 6.5em 0;
+}
+
+section.darkish {
+    background: #525352;
+    padding: 2em 0;
+}
+
+section.dark {
+    background: #272726;
+    padding: 2em 0;
+}
+
+
+.menu > li {
+    display: inline-block;
+}
+
+.dropdown.menu>li.is-dropdown-submenu-parent>a::after {
+    border-color: #f2efe0 transparent transparent; 
+}
+
+.menu a {
+    font-size: .5em;
+    line-height: 1.5em;
+    margin-right: 1em;
+}
+
+.menu a:hover {
+    color: #f2efe0;
+}
+
+.menu .is-submenu-item a {
+    color: #525352;
+}
