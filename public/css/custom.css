@@ -19,14 +19,18 @@
     transition: top .1s linear;
 }
 
-h1 {
+h1,
+.body-single h1,
+.post-content h1 {
     font-size: .8em;
     font-weight: 700;
 }
 h1.post-title {
     font-size: 1em;
 }
-h2 {
+
+h2,
+.post-content h2 {
     font-size: 1em;
     font-weight: 400;
 }
@@ -49,7 +53,7 @@ nav {
     font-size: 1.5em;
 }
 
-p, a {
+p, a, li {
     font-size: .8em;
 }
 
@@ -170,12 +174,13 @@ section.dark {
     padding: 2em 0;
 }
 
-.menu {
-    display: initial;
+
+.menu > li {
+    display: inline-block;
 }
 
-.menu * {
-    display: inline-block;
+.dropdown.menu>li.is-dropdown-submenu-parent>a::after {
+    border-color: #f2efe0 transparent transparent; 
 }
 
 .menu a {
@@ -186,4 +191,8 @@ section.dark {
 
 .menu a:hover {
     color: #f2efe0;
+}
+
+.menu .is-submenu-item a {
+    color: #525352;
 }

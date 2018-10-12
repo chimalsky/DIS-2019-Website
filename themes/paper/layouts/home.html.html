@@ -31,7 +31,7 @@ background-repeat: no-repeat;">
                 </li>
                 {{ end }}
             </ul>
-        </nav>
+        </nav>  
 </header>
 
 {{ with .Site.GetPage "/about" }}
@@ -78,7 +78,7 @@ background-repeat: no-repeat;">
 
 <main id="main" class="main">
 <section class="grid-x grid-margin-y grid-padding-y align-center light">
-    <main class="cell large-10 grid-x grid-padding-x">
+    <main class="cell large-8 grid-x grid-margin-x grid-padding-x">
         <div class="cell medium-auto small-12 markdown">
             <h1 class="text-center">
                 Designing Interactive Systems (DIS) 2019 <br/>
@@ -90,19 +90,23 @@ background-repeat: no-repeat;">
 
             {{ .Content }}
         </div>
-        <div class="cell medium-auto small-12 grid-x grid-margin-x align-middle">
+        <div class="cell medium-auto small-12 grid-x grid-margin-x align-top">
             <div class="cell auto">
                 <img src="/img/DIS-logo-orange.svg"/>
             </div>
 
-            <div class="cell shrink">
-                {{ partial "socialmedia" . }}
-            </div>
-
             <div class="cell grid-x">
-                <h1>Key Dates:</h1>
-                <ul>
-                    <li></li>
+                <h1 class="cell">Key Dates:</h1>
+                <ul class="cell">
+                {{ range $.Site.Data.keyDates }}
+                    <li>
+                       <strong>
+                           {{ .event }}:   
+                       </strong>  
+
+                        {{ .date }}
+                    </li>
+                {{ end }}
                 </ul>
             </div>
         </div>
@@ -111,22 +115,28 @@ background-repeat: no-repeat;">
 
 {{ end }}
 
-{{ with .Site.GetPage "/organizers" }}
 <section class="grid-x grid-margin-y grid-padding-y align-center darkish">
-    <main class="cell large-10 grid-x grid-padding-x">
-        
+    <main class="cell large-8 grid-x grid-padding-x">
+        <h2 class="cell small-12 text-center">
+            DIS 2019 Organizing Commmittee
+        </h2>
+
+        <br/>
+        <br/>
+
+        {{ with .Site.GetPage "/organizers1" }}
         <div class="cell medium-auto markdown">
-            <h1>
-                {{ .Title }}
-            </h1>
-
-            <br/>
-
             {{ .Content }}
         </div>
+        {{ end }}
+
+        {{ with .Site.GetPage "/organizers2" }}
+        <div class="cell medium-auto markdown">
+            {{ .Content }}
+        </div>
+        {{ end }}
     </main>
 </section>
-{{ end }}
 
     
 
@@ -138,7 +148,7 @@ background-repeat: no-repeat;">
 >
     <div class="cell medium-6 text-center">
         We are excited to co-locate our conference with 
-        <strong> Creativity and Cognition 2019.</strong>. 
+        <strong> Creativity and Cognition 2019.</strong> 
         There will be some overlapping programs to strengthen the 
         dialogues between our related communities.
     </div>
