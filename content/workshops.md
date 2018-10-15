@@ -56,11 +56,13 @@ http://dis2018.org/workshop-program/
 http://dis2017.org/workshop-program/
  
 # Workshops Chairs
+Silvia Lindtner (University of Michigan)  & Lisa P. Nathan (University of British Columbia) 
+
 [workshopchairs [AT] dis2019.acm.org](mailto:workshopchairs@dis2019.acm.org)
 
 
 
-Silvia Lindtner (University of Michigan)  & Lisa P. Nathan (University of British Columbia) 
+
 
 
 
