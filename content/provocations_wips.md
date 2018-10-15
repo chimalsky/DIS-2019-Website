@@ -39,8 +39,4 @@ Accepted PWiPs will be required to present a poster or similar physical visual/a
 # Provocations Chairs
 [provocationschairs [AT] dis2019.acm.org](mailto:provocationschairs@dis2019.acm.org)
 
-Lone Hansen  
-Aarhus University
-
-Norman Su  
-Indiana University
+Lone Hansen (Aarhus University) & Norman Su (Indiana University)
