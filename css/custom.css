@@ -20,29 +20,30 @@
 }
 
 h1,
+h1.post-title
 .body-single h1,
 .post-content h1 {
-    font-size: 1em;
+    font-size: 1.2rem;
     font-weight: 700;
-}
-h1.post-title {
-    font-size: 1em;
 }
 
 h2,
 .post-content h2 {
-    font-size: 1em;
-    font-weight: 400;
+    font-size: 1rem;
+    font-weight: 700;
 }
 
 h3 {
-    font-size: .6em;
-    font-weight: 700;
-    letter-spacing: .2em;
+    font-size: 1rem;
+    color: #f27365;
 }
 
 h4 {
     font-size: 1em;
+}
+
+body {
+    font-size: 1rem;
 }
 
 h1,h2,h3,p {
@@ -85,7 +86,6 @@ table {
 /* Medium and up */
 @media screen and (min-width: 40em) {
     header.site-header {
-        padding: 2.4em .5em;
     }
     
     #colocate {
@@ -133,12 +133,6 @@ body.home header.hero {
     color: #f2efe0;
 }
 
-
-body.home header.hero p,
-body.home header.hero a {
-    font-size: .8em;
-}
-
 body.home header.hero h1 {
     font-size: 4.5em;
 }
@@ -158,13 +152,6 @@ body.home div.table {
 
 body.single {
     color: #525352;
-}
-
-body.single h1 {
-    color: #525352;
-}
-body.single h2 {
-    color: #f27365;
 }
 
 body.home footer.site-footer {

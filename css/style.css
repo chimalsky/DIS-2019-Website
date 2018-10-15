@@ -85,7 +85,6 @@ pre, code {
 .header {
   display: flex;
   justify-content: space-between;
-  height: 65px;
   padding-left: 30px;
   padding-right: 30px;
   line-height: 65px;
@@ -285,27 +284,7 @@ pre, code {
 .post-content h6 {
   font-weight: 400;
 }
-.post-content h1 {
-  font-size: 45px;
-  margin-top: 50px;
-}
-.post-content h2 {
-  font-size: 32px;
-  margin-top: 40px;
-}
-.post-content h3 {
-  font-size: 28px;
-  margin-top: 30px;
-}
-.post-content h4 {
-  font-size: 24px;
-}
-.post-content h5 {
-  font-size: 20px;
-}
-.post-content h6 {
-  font-size: 18px;
-}
+
 .post-content a {
   padding-bottom: 2px;
   border-bottom: 1.5px solid rgba(0, 0, 0, .8);
