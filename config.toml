@@ -330,15 +330,21 @@ enableGitInfo = false
 # Attending Menu
 
 [[menu.main]]  
-  name = "Code of Conduct / Acccessibility"
-  url = "#"
-  weight = 5
+  name = "Diversity and Inclusion Statement"
+  url = "/diversity"
+  weight = 1
   parent = "attending"
 
 [[menu.main]]  
-  name = "Diversity and Inclusion"
+  name = "Conference Venue"
   url = "/diversity"
-  weight = 5
+  weight = 2
+  parent = "attending"
+
+[[menu.main]]  
+  name = "Travel and Hotel Information"
+  url = "/diversity"
+  weight = 3
   parent = "attending"
 
 
