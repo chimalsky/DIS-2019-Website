@@ -53,6 +53,7 @@ nav {
     font-size: 1.5em;
 }
 
+
 p, a, li {
     font-size: 1rem;
 }
@@ -69,23 +70,46 @@ p > a {
     text-transform: uppercase;
 }
 
+
 body.home,
-body.home header.site-header {
+header.site-header,
+#site-nav {
     color:  #f2efe0;
     background-color: #272726;
 }
 
-header.site-header {
-    background-color: #272726;
-    color: rgb(242, 239, 224);
-    padding: 2.4em .5em;
+table {
+    font-size: 1rem;
 }
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+    header.site-header {
+        padding: 2.4em .5em;
+    }
+    
+    #colocate {
+        background-image: url(/img/logoarrowTop.png), url(/img/logoarrowRight.png), 
+                    url(/img/logoarrowBottom.png), url(/img/logoarrowLeft.png);
+        background-position: top, right, bottom, left;
+        background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    }   
+
+    .main-container {
+        border-left: 5em solid transparent;
+        border-right: 5em solid transparent;
+        border-image: url('/img/crosses-big.svg');
+        border-image-slice: 300;
+        border-image-repeat: repeat;
+    }
+}
+
 
 body.home main.main {
     padding: 0;
 }
 
-body.home button.menu-toggle {
+button.menu-toggle {
     color: #f2efe0;
     font-size: .5em;
     font-family: 'Open Sans', sans-serif;
@@ -142,14 +166,19 @@ body.single h1 {
 body.single h2 {
     color: #f27365;
 }
-footer.site-footer {
+
+body.home footer.site-footer {
     background: #f27365;
     border-bottom: 1.2em solid transparent;
-    border-image: url(/img/pinkhazardhorizontal.png) 95 repeat;
+    color: rgb(242, 239, 224);
+}
+
+footer.site-footer {
+    color:  #f2efe0;
+    background-color: #272726;
 }
 
 footer.site-footer a {
-    color: rgb(242, 239, 224);
 }
 
 section.light {

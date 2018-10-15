@@ -1,9 +1,15 @@
-<nav class="menu cell shrink">
+<div data-responsive-toggle="site-nav" data-hide-for="medium">
+    <button class="menu-toggle" data-toggle="site-nav" type="button">MENU</button>
+</div>
+
+<nav id="site-nav" class="menu cell shrink">
     <ul class="dropdown menu" data-dropdown-menu data-disable-hover="true" data-click-open="true"
         data-close-on-click="true">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <li>
+        <li {{if .HasChildren }}
+         class="is-dropdown-submenu-parent"
+        {{ end }}>
             <a href="{{ .URL }}">{{ .Name }}</a>
 
             {{ if .HasChildren }}            

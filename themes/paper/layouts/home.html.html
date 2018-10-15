@@ -9,29 +9,7 @@ background-repeat: no-repeat;">
     
     <button class="menu-toggle hide" type="button">MENU</button>
 
-    <nav class="menu cell shrink">
-            <ul class="dropdown menu" data-dropdown-menu data-disable-hover="true" data-click-open="true"
-                data-close-on-click="true">
-                {{ $currentPage := . }}
-                {{ range .Site.Menus.main }}
-                <li>
-                    <a href="{{ .URL }}">{{ .Name }}</a>
-        
-                    {{ if .HasChildren }}            
-                    <ul class="menu">
-                        {{ range .Children }}
-                        <li>
-                            <a href="{{ .URL }}">
-                            {{ .Name }}
-                            </a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                    {{ end }}
-                </li>
-                {{ end }}
-            </ul>
-        </nav>  
+    {{ partial "nav" . }}
 </header>
 
 {{ with .Site.GetPage "/about" }}
@@ -58,10 +36,10 @@ background-repeat: no-repeat;">
 </div>
 
 <main id="main" class="main">
-<section class="grid-x grid-margin-y grid-padding-y align-center darkish">
-    <main class="cell large-8 grid-x grid-margin-x grid-padding-x">
+<section class="grid-x align-center darkish">
+    <main class="cell large-8 grid-x grid-margin-x grid-padding-x grid-margin-y grid-padding-y">
         <div class="cell medium-auto small-12 markdown">
-            <h1 class="text-center" style="font-size: 1rem">
+            <h1 class="text-center" style="font-size: 1rem; line-height: 1.6rem;">
                 Designing Interactive Systems (DIS) 2019 <br/>
                 International Conference Series <br/>
                 Sunday June 23 to Friday June 28 2019
@@ -71,9 +49,9 @@ background-repeat: no-repeat;">
 
             {{ .Content }}
         </div>
-        <div class="cell medium-auto small-12 grid-x grid-margin-x align-top">
+        <div class="cell medium-auto small-12 grid-x grid-margin-x grid-margin-y align-top">
             <div class="cell auto">
-                <img src="/img/DIS-logo-orange.svg"/>
+                <img  src="/img/DIS-logo-orange.svg"/>
             </div>
 
             <div class="cell grid-x">
@@ -98,12 +76,7 @@ background-repeat: no-repeat;">
 
     
 
-<section class="grid-x align-center cream"
-    style="background-image: url(/img/logoarrowTop.png), url(/img/logoarrowRight.png), 
-                url(/img/logoarrowBottom.png), url(/img/logoarrowLeft.png);
-    background-position: top, right, bottom, left;
-    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;"
->
+<section class="grid-x grid-padding-x align-center cream" id="colocate">
     <div class="cell medium-6 text-center">
         We are excited to co-locate our conference with 
         <strong> Creativity and Cognition 2019.</strong> 
