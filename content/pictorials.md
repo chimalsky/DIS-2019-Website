@@ -21,12 +21,15 @@ Accepted submissions will be included in the Proceedings of DIS 2019 and will be
 The DIS 2019 Pictorials track builds on the success of the Pictorials track in DIS from 2014-2018, and the addition of Pictorials to the Creativity and Cognition 2017 conference. 
  
 As design perspectives have increasingly become integrated in HCI practice and research, new approaches are needed to communicate design practices, processes, products and artifacts to the HCI community. Pictorials may have a practical nature, a theoretical nature or both. Through DIS Pictorials, design practitioners in academia, industry, non-profits, or collectives are encouraged to express and unpack their design concepts, practices and projects in rich, heavily visual ways. This format helps foster discussions among authors, conference attendees, and the wider community through the sharing of methods, insights and lessons learned from engaging in the design of interactive systems and artifacts.
+
+</br>
  
 ## Important dates
 - **Full Submission:** 18 January, 2019 (The submission system closes at 23:59 PST)
 - **Author Notification:** 21 March, 2019
 - **Pictorials camera ready due:** 18 April, 2019
  
+</br> 
 ## What to submit?
 Submissions may cover diverse topics that include (but are not limited to):
 
@@ -62,11 +65,13 @@ Other important factors to consider in creating a Pictorial:
 
 Another feature of Pictorials is that they must turn into engaging presentations at the DIS conference. Before submitting a pictorial, please think about the presentation:
 
-- ‍Does the pictorial require visuals?
+- Does the pictorial require visuals?
 - What would these visuals be?
 - Can you build a visually engaging presentation around them?
 - Do they clarify the argument better than a traditional slideshow and text?
 - Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?
+
+</br>
 
 ## Checklist for reviewers
 Does the Pictorial:
@@ -110,7 +115,8 @@ In DIS 2019, Pictorials follow a rigorous blind peer review process similar to F
 | 7  | PC meeting decides which Pictorials are accepted to the conference  |   |
 | 8  | Author Notifications  | 21 March 2019  |
 
- 
+</br>
+
 ## Pictorials Chairs
 Kristina Andersen & Shad Gross
 
