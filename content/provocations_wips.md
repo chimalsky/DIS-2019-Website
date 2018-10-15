@@ -18,14 +18,14 @@ All PWiP submissions will be peer-reviewed.
 
 Accepted PWiP submissions will be published in the DIS 2019 companion publication and appear in the ACM Digital Library (adjunct proceedings). A PWiP publication is not an archival publication.
 
-# Important Dates
+## Important Dates
 
 - **Provocations & Works-in-Progress due:** Friday, 8 February 2019 (Submission closes at 5pm Pacific time)
 - **Provocations & Works-in-Progress author notifications:** Thursday, 21 March 2019
 - **Camera ready papers due:** Friday, 19 April 2019
 - **DIS 2019 Conference, San Diego, USA:** 24-28 June 2019
 
-# Preparing and Submitting
+## Preparing and Submitting
 
 A PWiP paper should not exceed 4 pages (excluding references) formatted using the most recent SIGCHI Extended Abstracts Format (horizontal).
 
@@ -33,10 +33,10 @@ Please include one sentence that can be used in the conference program as a stan
 
 All submissions should be anonymised and submitted via the Precision Conference System by 8 February, 2019.
 
-# Presentation
+## Presentation
 Accepted PWiPs will be required to present a poster or similar physical visual/aural artefact as means of presenting your work and engaging conference attendees. We intend to do some innovation around the usual poster session format so we will work with authors of accepted PWiPs between the notification deadline and the conference itself to make this happen.
 
-# Provocations Chairs
+## Provocations Chairs
 Lone Hansen (Aarhus University) & Norman Su (Indiana University)
 
 [provocationschairs [AT] dis2019.acm.org](mailto:provocationschairs@dis2019.acm.org)
