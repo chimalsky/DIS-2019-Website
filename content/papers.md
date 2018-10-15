@@ -87,6 +87,8 @@ All published papers will appear online in the ACM Digital Library and be distri
 At the conference, authors of accepted papers must be in attendance to present their papers and answer questions from the audience. Presenters of Papers will have a presentation slot of approximately 20 minutes, though this may be altered prior to the conference based on scheduling needs.  Papers whose authors are not at the conference to present may be removed from the ACM Digital Library and the conference proceedings.
  
 # DIS2019 Technical Program Chairs
+Carman Neustaedter (Simon Fraser University), Deborah Tatar (Virginia Tech) 
+
+[technicalchairs [AT] dis2019.acm.org](mailto:technicalchairs@dis2019.acm.org)
 
 
-[Carman Neustaedter](mailto:technicalchairs@dis2019.acm.org) (Simon Fraser University), [Deborah Tatar](mailto:technicalchairs@dis2019.acm.org) (Virginia Tech) 
