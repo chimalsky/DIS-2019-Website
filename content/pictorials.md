@@ -112,27 +112,9 @@ In DIS 2019, Pictorials follow a rigorous blind peer review process similar to F
 | 7  | PC meeting decides which Pictorials are accepted to the conference  |   |
 | 8  | Author Notifications  | 21 March 2019  |
 
-
-# Examples
-Pictorials from previous DIS conferences are available from ACM Library. Here are a selection of excellent pictorials from prior years:
- 
-- Eli Blevis. 2014. Stillness and motion, meaning and form. In Proceedings of the 2014 conference on Designing interactive systems (DIS '14). ACM, New York, NY, USA, 493-502. DOI: https://doi.org/10.1145/2598510.2602963
- 
-- Audrey Desjardins, Ron Wakkary, and William Odom. 2016. Behind the Lens: A Visual Exploration of Epistemological Commitments in HCI Research on the Home. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). ACM, New York, NY, USA, 360-376. DOI: https://doi.org/10.1145/2901790.2901910
- 
-- Elvin Karana, Elisa Giaccardi, Niels Stamhuis, and Jasper Goossensen. 2016. The Tuning of Materials: A Designer's Journey. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). ACM, New York, NY, USA, 619-631. DOI: https://doi.org/10.1145/2901790.2901909
- 
-- Heather McKinnon. 2016. Finding Design Value in Modern Mundanity. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). ACM, New York, NY, USA, 1059-1071. DOI: https://doi.org/10.1145/2901790.2901906
- 
-- Thomas Dykes, Jayne Wallace, Mark Blythe, and James Thomas. 2016. Paper Street View: A Guided Tour of Design and Making Using Comics. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS '16). ACM, New York, NY, USA, 334-346. DOI: https://doi.org/10.1145/2901790.2901904
- 
-- Pauline Gourlet and Thierry Dassé. 2017. Cairn: A Tangible Apparatus for Situated Data Collection, Visualization and Analysis. In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS '17). ACM, New York, NY, USA, 247-258. DOI: https://doi.org/10.1145/3064663.3064794
- 
-- James Pierce and Carl DiSalvo. 2017. Dark Clouds, Io&#!+, and [Crystal Ball Emoji]: Projecting Network Anxieties with Alternative Design Metaphors. In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS '17). ACM, New York, NY, USA, 1383-1393. DOI: https://doi.org/10.1145/3064663.3064795
  
 # Pictorials Chairs
 [pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
 
-Kristina Andersen  
-Shad Gross
+Kristina Andersen & Shad Gross
 
