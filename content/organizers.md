@@ -4,61 +4,112 @@ title: "Organizers"
 
 ## Conference Chairs
 ![alt text](/img/organizers/Harrison-Steve.jpg "Steve Harrison")
-
 ![alt text](/img/organizers/Bardzell-Shaowen.jpg "Shaowen Bardzell")
 
-
-[generalchairs [at] dis2019.acm.org](mailto:generalchairs@dis2019.acm.org)  
 Steve Harrison & Shaowen Bardzell
+[generalchairs [at] dis2019.acm.org](mailto:generalchairs@dis2019.acm.org)  
+
 
 ## Associate Chairs
-[chairs2019 [at] cc.acm.org](mailto:chairs2019@cc.acm.org) </br>
+![alt text](/img/organizers/Dow-Steve.jpg "Steven Dow")
+![alt text](/img/organizers/Maher-Mary-Lou.jpg "Mary Lou Maher")
+
 Steven Dow & Mary Lou Maher (C&C2019 co-chairs)
+[chairs2019 [at] cc.acm.org](mailto:chairs2019@cc.acm.org) </br>
+
 
 ## Technical Program Chairs
-[technicalchairs [at] dis2019.acm.org](mailto:technicalchairs@dis2019.acm.org)  
+![alt text](/img/organizers/Neustaedter-Carman.jpg "Carman Neustaedter")
+![alt text](/img/organizers/Tatar-Deborah.jpg "Deborah Tatar")
+
 Carman Neustaedter & Deborah Tatar
+[technicalchairs [at] dis2019.acm.org](mailto:technicalchairs@dis2019.acm.org)  
+
 
 ## Doctoral Consortium Chairs
-[dcchairs [at] dis2019.acm.org](mailto:dcchairs@dis2019.acm.org)  
+![alt text](/img/organizers/Bodker-Susanne.jpg "Susanne Bødker")
+![alt text](/img/organizers/Bowers-John.jpg "John Bowers")
+
 Susanne Bødker & John Bowers
+[dcchairs [at] dis2019.acm.org](mailto:dcchairs@dis2019.acm.org)  
+
 
 ## Pictorials Chairs
-[pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
+![alt text](/img/organizers/Anderson-Kristina.jpg "Kristina Anderson")
+![alt text](/img/organizers/Gross-Shad.jpg "Shad Gross")
+
 Kristina Anderson & Shad Gross
+[pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
+
 
 ## Provocations / WIPS Chairs
-[provocationschairs [at] dis2019.acm.org](mailto:provocationschairs@dis2019.acm.org)  
+![alt text](/img/organizers/Koefoed-Hansen-Lone.jpg "Lone Koefoed Hansen")
+![alt text](/img/organizers/Su-Norman.jpg "Norman Su")
+
 Lone Koefoed Hansen & Norman Su
+[provocationschairs [at] dis2019.acm.org](mailto:provocationschairs@dis2019.acm.org)  
+
 
 ## Workshops Chairs
-[workshopchairs [at] dis2019.acm.org](mailto:workshopchairs@dis2019.acm.org)  
+![alt text](/img/organizers/Lindtner-Silvia.jpg "Silvia Lindtner")
+![alt text](/img/organizers/Nathan-Lisa.jpg "Lisa Nathan")
+
 Silvia Lindtner & Lisa Nathan
+[workshopchairs [at] dis2019.acm.org](mailto:workshopchairs@dis2019.acm.org)  
+
 
 ## Demos Chairs
-[demochairs [at] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)  
+![alt text](/img/organizers/Kuznetzov-Stacy.jpg "Stacy Kuznetzov")
+![alt text](/img/organizers/Davidoff-Scott.jpg "Scott Davidoff")
+
 Stacy Kuznetzov & Scott Davidoff
+[demochairs [at] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)  
+
 
 ## Art Chairs
+![alt text](/img/organizers/Fritsch-Jonas.jpg "Jonas Fritsch")
+![alt text](/img/organizers/Brown-Sheldon.jpg "Sheldon Brown")
+
 Jonas Fritsch & Sheldon Brown 
 
 ## Accessibility & Diversity Chairs
-[accessibilitychair [at] dis2019.acm.org](mailto:accessibilitychair@dis2019.acm.org)  
+![alt text](/img/organizers/Branham-Stacy.jpg "Stacy Branham")
+
 Stacy Branham
+[accessibilitychair [at] dis2019.acm.org](mailto:accessibilitychair@dis2019.acm.org)  
+
 
 ## Publicity/Social Media Chairs
-[publicitymediachairs [at] dis2019.acm.org](mailto:publicitymediachairs@dis2019.acm.org)  
+![alt text](/img/organizers/Su-Chih-Sheng.jpg "Chih-Sheng Su")
+![alt text](/img/organizers/Peters-Anicia.jpg "Anicia Peters")
+![alt text](/img/organizers/Hansen-Nicolai.jpg "Nicolai Hansen")
+![alt text](/img/organizers/Hauser-Sabrina.jpg "Sabrina Hauser")
+
 Chih-Sheng Su, Anicia Peters, Nicolai Hansen & Sabrina Hauser
+[publicitymediachairs [at] dis2019.acm.org](mailto:publicitymediachairs@dis2019.acm.org)  
+
 
 ## Local Liaison Chairs
-[localchairs [at] dis2019.acm.org](mailto:localchairs@dis2019.acm.org)  
+![alt text](/img/organizers/Irani-Lilly.jpg "Lilly Irani")
+![alt text](/img/organizers/Kellogg-Wendy.jpg "Wendy Kellogg")
+![alt text](/img/organizers/Thomas-John.jpg "John Thomas")
+
 Lilly Irani, Wendy Kellogg & John Thomas
+[localchairs [at] dis2019.acm.org](mailto:localchairs@dis2019.acm.org)  
+
 
 ## Student Volunteer Chairs 
-Szu-Yu (Cyn) Liu (Indiana University), Aakash Gautam (Virginia Tech), Leon Bucker (HK PolyU)
+![alt text](/img/organizers/Liu-Cyn.jpg "Szu-Yu (Cyn) Liu")
+![alt text](/img/organizers/Gautam-Aakash.jpg "Aakash Gautam")
+![alt text](/img/organizers/Bucker-Leon.jpg "Leon Bucker")
 
-## Web Development/Graphic Design Chairs
-Patrycja Zdziarska & Meaghan Dee 
+Szu-Yu (Cyn) Liu (Indiana University), Aakash Gautam (Virginia Tech), Leon Bucker (HK PolyU)
+[svchairs [at] dis2019.acm.org](mailto:svchairs@dis2019.acm.org) 
+
+## Webmaster
+![alt text](/img/organizers/Zdziarska-Patrycja.jpg "Patrycja Zdziarska")
+
+Patrycja Zdziarska
 
 <br>
 
@@ -66,17 +117,33 @@ Patrycja Zdziarska & Meaghan Dee
 <br>
 
 ### Critical Computing and Design Theory
-[theory_criticalcomputing_sc [at] dis2019.acm.org](mailto:theory_criticalcomputing_sc@dis2019.acm.org)  
+![alt text](/img/organizers/Dourish-Paul.jpg "Paul Dourish")
+![alt text](/img/organizers/Bardzell-Jeffery.jpg "Jeffery Bardzell")
+
 Paul Dourish & Jeffery Bardzell
+[theory_criticalcomputing_sc [at] dis2019.acm.org](mailto:theory_criticalcomputing_sc@dis2019.acm.org)  
+
 
 ### Design Methods and Processes
-[methods_processes_sc [at] dis2019.acm.org](mailto:methods_processes_sc@dis2019.acm.org)  
+![alt text](/img/organizers/Do-Ellen.jpg "Ellen Do")
+![alt text](/img/organizers/Zimmerman-John.jpg "John Zimmerman")
+
 Ellen Do & John Zimmerman
+[methods_processes_sc [at] dis2019.acm.org](mailto:methods_processes_sc@dis2019.acm.org)  
+
 
 ### Experience, Artifacts, and Technology
-[artifacts_experiences_sc [at] dis2019.acm.org](mailto:artifacts_experiences_sc@dis2019.acm.org)  
+![alt text](/img/organizers/de Paula-Rogerio.jpg "Rogerio de Paula")
+![alt text](/img/organizers/Lawson-Shaun.jpg "Shaun Lawson")
+
 Rogerio de Paula & Shaun Lawson
+[artifacts_experiences_sc [at] dis2019.acm.org](mailto:artifacts_experiences_sc@dis2019.acm.org)  
+
 
 ### Change Through Design
-[change_sc [at] dis2019.acm.org](mailto:change_sc@dis2019.acm.org)  
+![alt text](/img/organizers/Bratteteig-Tone.jpg "Tone Bratteteig")
+![alt text](/img/organizers/Tennenbaum-Josh.jpg "Josh Tennenbaum")
+
 Tone Bratteteig & Josh Tennenbaum
+[change_sc [at] dis2019.acm.org](mailto:change_sc@dis2019.acm.org)  
+
