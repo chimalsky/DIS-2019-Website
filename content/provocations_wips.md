@@ -37,6 +37,8 @@ All submissions should be anonymised and submitted via the Precision Conference 
 Accepted PWiPs will be required to present a poster or similar physical visual/aural artefact as means of presenting your work and engaging conference attendees. We intend to do some innovation around the usual poster session format so we will work with authors of accepted PWiPs between the notification deadline and the conference itself to make this happen.
 
 # Provocations Chairs
+Lone Hansen (Aarhus University) & Norman Su (Indiana University)
+
 [provocationschairs [AT] dis2019.acm.org](mailto:provocationschairs@dis2019.acm.org)
 
-Lone Hansen (Aarhus University) & Norman Su (Indiana University)
+
