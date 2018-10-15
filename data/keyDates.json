@@ -1,26 +1,26 @@
-{
-    "Abstract and title due": {
+[
+    {
         "event": "Abstract and title due",
         "date": "Tuesday, January 15, 2019"
     },
-    "Paper submission deadline": {
+    {
         "event": "Paper submission deadline",
         "date": "Friday, January 18, 2019"
     },
-    "External reviews due": {
+    {
         "event": "External reviews due",
         "date": "Friday, March 1, 2019"
     },
-    "Virtual Program Committee Meeting": {
+    {
         "event": "Virtual Program Committee Meeting",
         "date": "Thursday, March 21, 2019"
     },
-    "Papers camera ready deadline": {
+    {
         "event": "Papers camera ready deadline",
         "date": "Wednesday, April 17, 2019"
     },
-    "Conference": {
+    {
         "event": "Conference",
         "date": "June 23-29, 2019"
     }
-}
+]

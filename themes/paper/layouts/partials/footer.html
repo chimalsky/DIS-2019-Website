@@ -1,20 +1,24 @@
 <footer class="site-footer footer">
-  <section class="grid-container grid-x">
-    <div class="cell shrink grid-x grid-margin-x">
-      <a class="cell auto" href="{{.Site.BaseURL}}">
+  <section class="grid-container grid-x text-left">
+    <div class="cell shrink grid-x grid-margin-x grid-margin-y">
+      <a class="cell" href="{{.Site.BaseURL}}">
         <img class="site-logo" src="{{.Site.BaseURL}}img/yellowlogo.png"/> 
       </a>
 
-      <a class="cell auto" href="">
-        <img class="site-logo cc-logo" src="{{.Site.BaseURL}}img/CCLogo-white.svg"/>
-      </a>
-    </div>
-
-    <div class="cell auto">
+      <p class="cell">
+        June 23 to 28, 2019
+        <br/>
+        San Diego, California
+      </p>
     </div>
     
-    <div class="cell auto">
-      {{ partial "socialmedia" . }}
+    <div class="cell auto align-right grid-x grid-margin-x">
+      {{ range $.Site.Params.social }}
+      {{ $pack := or .icon_pack "fa" }}
+        <a class="cell shrink" itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+          <i class="{{ $pack }}b {{ $pack }}-{{ .icon }} big-icon"></i> {{ .icon }}
+        </a>
+      {{ end }}
     </div>
   </section>
 
@@ -27,6 +31,8 @@
 
 <script src="{{.Site.BaseURL}}js/jquery.js"></script>
 <script src="{{.Site.BaseURL}}js/foundation.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
 <script>
   $(document).ready(() => {
      $(document).foundation()

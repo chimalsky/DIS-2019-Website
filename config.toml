@@ -13,7 +13,7 @@ title = "DIS 2019"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-#copyright = "&copy; 2018"
+#copyright = "&copy; 2019"
 
 theme = "paper"
 enableEmoji = true
@@ -232,10 +232,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
+  # [[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
@@ -243,12 +243,12 @@ enableGitInfo = false
     link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
+    icon = "facebook"
+    icon_pack = "fa"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = "instagram"
     icon_pack = "fa"
     link = "//github.com/gcushen"
 
@@ -283,7 +283,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Attending"
-  url = "/diversity"
+  url = "#"
   weight = 4
   identifier = "attending"
 
@@ -301,12 +301,6 @@ enableGitInfo = false
 
 
 # Submit Menu
-
-[[menu.main]]  
-  name = "CFP"
-  url = "/cfp"
-  weight = 1
-  parent = "submit"
 
 [[menu.main]]  
   name = "Papers"
@@ -331,6 +325,21 @@ enableGitInfo = false
   url = "/workshops"
   weight = 5
   parent = "submit"
+
+
+# Attending Menu
+
+[[menu.main]]  
+  name = "Code of Conduct / Acccessibility"
+  url = "#"
+  weight = 5
+  parent = "attending"
+
+[[menu.main]]  
+  name = "Diversity and Inclusion"
+  url = "/diversity"
+  weight = 5
+  parent = "attending"
 
 
 

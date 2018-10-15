@@ -11,10 +11,6 @@
   </url>
   
   <url>
-    <loc>/cfp/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -35,14 +31,6 @@
   
   <url>
     <loc>/organizers/</loc>
-  </url>
-  
-  <url>
-    <loc>/organizers1/</loc>
-  </url>
-  
-  <url>
-    <loc>/organizers2/</loc>
   </url>
   
   <url>

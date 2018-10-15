@@ -49,12 +49,6 @@
             <ul class="menu">
                 
                 <li>
-                    <a href="/cfp">
-                    CFP
-                    </a>
-                </li>
-                
-                <li>
                     <a href="/papers">
                     Papers
                     </a>
@@ -83,8 +77,24 @@
         </li>
         
         <li>
-            <a href="/diversity">Attending</a>
+            <a href="#">Attending</a>
 
+                        
+            <ul class="menu">
+                
+                <li>
+                    <a href="#">
+                    Code of Conduct / Acccessibility
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/diversity">
+                    Diversity and Inclusion
+                    </a>
+                </li>
+                
+            </ul>
             
         </li>
         
@@ -122,24 +132,36 @@
 
 
 <footer class="site-footer footer">
-  <section class="grid-container grid-x">
-    <div class="cell shrink grid-x grid-margin-x">
-      <a class="cell auto" href="/">
+  <section class="grid-container grid-x text-left">
+    <div class="cell shrink grid-x grid-margin-x grid-margin-y">
+      <a class="cell" href="/">
         <img class="site-logo" src="/img/yellowlogo.png"/> 
       </a>
 
-      <a class="cell auto" href="">
-        <img class="site-logo cc-logo" src="/img/CCLogo-white.svg"/>
-      </a>
-    </div>
-
-    <div class="cell auto">
+      <p class="cell">
+        June 23 to 28, 2019
+        <br/>
+        San Diego, California
+      </p>
     </div>
     
-    <div class="cell auto">
-      <a href="">Facebook</a> <br/>
-<a href="">Twitter</a> <br/>
-<a href="">Instagram</a> <br/>
+    <div class="cell auto align-right grid-x grid-margin-x">
+      
+      
+        <a class="cell shrink" itemprop="sameAs" href="//twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+          <i class="fab fa-twitter big-icon"></i> twitter
+        </a>
+      
+      
+        <a class="cell shrink" itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+          <i class="fab fa-facebook big-icon"></i> facebook
+        </a>
+      
+      
+        <a class="cell shrink" itemprop="sameAs" href="//github.com/gcushen" target="_blank" rel="noopener">
+          <i class="fab fa-instagram big-icon"></i> instagram
+        </a>
+      
     </div>
   </section>
 
@@ -152,6 +174,8 @@
 
 <script src="/js/jquery.js"></script>
 <script src="/js/foundation.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
 <script>
   $(document).ready(() => {
      $(document).foundation()

@@ -22,7 +22,7 @@
 h1,
 .body-single h1,
 .post-content h1 {
-    font-size: .8em;
+    font-size: 1em;
     font-weight: 700;
 }
 h1.post-title {
@@ -54,7 +54,7 @@ nav {
 }
 
 p, a, li {
-    font-size: .8em;
+    font-size: 1rem;
 }
 
 p > a {
@@ -76,7 +76,7 @@ body.home header.site-header {
 }
 
 header.site-header {
-    background-color: #f27365;
+    background-color: #272726;
     color: rgb(242, 239, 224);
     padding: 2.4em .5em;
 }
@@ -184,7 +184,7 @@ section.dark {
 }
 
 .menu a {
-    font-size: .5em;
+    font-size: 1rem;
     line-height: 1.5em;
     margin-right: 1em;
 }
