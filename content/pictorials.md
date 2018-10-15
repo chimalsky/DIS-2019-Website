@@ -114,7 +114,9 @@ In DIS 2019, Pictorials follow a rigorous blind peer review process similar to F
 
  
 # Pictorials Chairs
-[pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
-
 Kristina Andersen & Shad Gross
+
+pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
+
+
 
