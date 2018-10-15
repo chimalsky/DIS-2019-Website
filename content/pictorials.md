@@ -93,9 +93,8 @@ Pictorials should be submitted in the DIS 2019 [SIGCHI Extended Abstracts Format
 The first page of the submission should include the submission’s title, author(s) and their affiliation(s) (leave blank for double blind review), and a written abstract of no more than 100 words succinctly describing the background and context of the pictorial as well as its contribution to the DIS community.
  
 Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:
- 
-**MISSING LINK**: DISPictorials2019.zip
- 
+
+
 We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.
  
 # Review and Selection
