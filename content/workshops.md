@@ -20,11 +20,15 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 - Joint with Creativity and Cognition 2019: DIS and C&C will share the conference venue. If you believe that your topic would be of particular interest to attendees of C&C as well as DIS, please note it. The Workshop Chairs of C&C and DIS will share proposals to create an overall program of workshops that not only serve the particular needs and interest of their own communities but will look for opportunities to increase the dialogue between them, as well as try to minimize duplication.
 - Taking advantage of location and theme: Workshops that involve local engagement around the DIS 2019 theme of contesting borders and intersections are encouraged. While the conference does have on-site space, innovative workshops that are place-specific in the San Diego area are invited; such proposals need to explain access plans.
 
+</br>
+
 ## Important Dates
 - **Proposals to host a workshop due:** 18 January 2019 (The submission system closes at 23:59 PST)
 - **Notifications to authors on whether their proposed workshop was accepted:** 8 March 2018
 - **All camera ready papers due:** 22  March 2018
 - **Workshops and Doctoral Consortium:** 23-24 June 2018
+
+</br>
  
 ## Submission Details
 Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:
@@ -55,7 +59,7 @@ http://dis2018.org/workshop-program/
  
 http://dis2017.org/workshop-program/
 
-<br/>
+</br>
  
 ## Workshops Chairs
 Silvia Lindtner (University of Michigan) & Lisa P. Nathan (University of British Columbia) 
