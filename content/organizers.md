@@ -7,7 +7,7 @@ title: "Organizers"
 Steve Harrison & Shaowen Bardzell
 
 ## Associate Chairs
-[chairs2019 [at] cc.acm.org](mailto:chairs2019@cc.acm.org)
+[chairs2019 [at] cc.acm.org](mailto:chairs2019@cc.acm.org) </br>
 Steven Dow & Mary Lou Maher (C&C2019 co-chairs)
 
 ## Technical Program Chairs
