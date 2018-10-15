@@ -2,7 +2,7 @@
 title: "Pictorials"
 ---
 
-# What are Pictorials?
+## What are Pictorials?
 
 Pictorials are papers in which the visual components (e.g. diagrams, sketches, illustrations, renderings, photographs, annotated photographs, collages) are the primary means of conveying information with at least, if not more, importance as the accompanying text.  
 
@@ -16,18 +16,18 @@ Visual components can be contributions to design knowledge in and of themselves,
 
 Accepted submissions will be included in the Proceedings of DIS 2019 and will be considered archival publications – that is, they will be similarly double-blind peer reviewed and will stand as the same quality of contribution as technical program papers and short papers. 
  
-# Why Pictorials?
+## Why Pictorials?
 
 The DIS 2019 Pictorials track builds on the success of the Pictorials track in DIS from 2014-2018, and the addition of Pictorials to the Creativity and Cognition 2017 conference. 
  
 As design perspectives have increasingly become integrated in HCI practice and research, new approaches are needed to communicate design practices, processes, products and artifacts to the HCI community. Pictorials may have a practical nature, a theoretical nature or both. Through DIS Pictorials, design practitioners in academia, industry, non-profits, or collectives are encouraged to express and unpack their design concepts, practices and projects in rich, heavily visual ways. This format helps foster discussions among authors, conference attendees, and the wider community through the sharing of methods, insights and lessons learned from engaging in the design of interactive systems and artifacts.
  
-# Important dates
+## Important dates
 - **Full Submission:** 18 January, 2019 (The submission system closes at 23:59 PST)
 - **Author Notification:** 21 March, 2019
 - **Pictorials camera ready due:** 18 April, 2019
  
-# What to submit?
+## What to submit?
 Submissions may cover diverse topics that include (but are not limited to):
 
 - Design processes and decisions affecting the material or interactive elements of prototypes
@@ -38,7 +38,7 @@ Submissions may cover diverse topics that include (but are not limited to):
 - Experiences in design-based research
 - Other insights, practices or processes often unmentioned in important phases of design research and practice
 
-# Presentation quality
+## Presentation quality
 In pictorials, production values and visual quality matters. We encourage authors to be creative with their submissions. Pictorial contents could consist of (but are not limited to):
 
 - Design sketches
@@ -48,7 +48,7 @@ In pictorials, production values and visual quality matters. We encourage author
 - Collages
 - Photographs and annotated photographs
 
-# Checklist for authors
+## Checklist for authors
 Other important factors to consider in creating a Pictorial:
 
 - Are images/diagrams emphasized over text as the primary means of communicating the research contribution?
@@ -68,7 +68,7 @@ Another feature of Pictorials is that they must turn into engaging presentations
 - Do they clarify the argument better than a traditional slideshow and text?
 - Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?
 
-# Checklist for reviewers
+## Checklist for reviewers
 Does the Pictorial:
 
 - Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?
@@ -78,14 +78,14 @@ Does the Pictorial:
 - Represent a visual quality high enough to convey the message of the Pictorial?
 - Do you think it turns into a visually engaging presentation? What would the format for such a presentation be?
 
-# Acceptance rate and copyrighted materials
+## Acceptance rate and copyrighted materials
 Pictorials are expected to be original work created specifically for the pictorials track. Expect the track to be competitive and submit your best work. Expect an acceptance rate of around 20-25%.
  
 Please do not submit work you have submitted elsewhere with a few images added. Doing so may violate dual submission rules. You may submit previously published work to which you have added significant visual content, provided only that such work is clearly and prominently attributed as such in a footnote to the title with a clear description of what the pictorial uniquely contributes or adds to the previous work. In this last case, at least 30% of the material must be new, per ACM rules.
  
 You must be the author and copyright holder of all materials you submit, particularly all visual materials. Submitted work must comply with ACM policies.
  
-# Format {#pictorial_format}
+## Format {#pictorial_format}
 All submissions should be anonymous and submitted via the PCS submission system. PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.
  
 Pictorials should be submitted in the DIS 2019 [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/), and not exceed 12 pages, excluding references.
@@ -94,10 +94,9 @@ The first page of the submission should include the submission’s title, author
  
 Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:
 
-
 We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.
  
-# Review and Selection
+## Review and Selection
 In DIS 2019, Pictorials follow a rigorous blind peer review process similar to Full Papers and Notes. The review process is managed by the Technical Program Chairs (TPC), the Pictorials Chairs for each theme, and Associate Chairs (ACs). Confidentiality of submissions is maintained throughout the review process.
 
 | Step  | Action   | Timeline  |
@@ -112,10 +111,10 @@ In DIS 2019, Pictorials follow a rigorous blind peer review process similar to F
 | 8  | Author Notifications  | 21 March 2019  |
 
  
-# Pictorials Chairs
+## Pictorials Chairs
 Kristina Andersen & Shad Gross
 
-pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
+[pictorialchairs [at] dis2019.acm.org](mailto:pictorialchairs@dis2019.acm.org)  
 
 
 
