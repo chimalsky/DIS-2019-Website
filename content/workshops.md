@@ -54,6 +54,8 @@ For first time workshop organizers, successful submissions from previous DIS con
 http://dis2018.org/workshop-program/
  
 http://dis2017.org/workshop-program/
+
+<br/>
  
 ## Workshops Chairs
 Silvia Lindtner (University of Michigan) & Lisa P. Nathan (University of British Columbia) 
