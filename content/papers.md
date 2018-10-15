@@ -4,7 +4,7 @@ title: "Papers"
 
 Full papers published at DIS2019 are ACM archival publications and will be made available through the [ACM in the Digital Library](http://dl.acm.org). DIS 2019 will be held jointly with the [Creativity and Cognition (C&C) 2019 conference](http://cc.acm.org/2019/). There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&C and DIS.
 
-# Subcommittees
+## Subcommittees
 
 DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences): 
  
@@ -20,10 +20,12 @@ Interactions with digital artifacts and technologies are an inescapable facet of
 ### Change through Design
 Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. [Contact the subcommittee](mailto:change_sc@dis2019.acm.org).
 
+</br>
+
 ## Special Note on Broader Impact
 At DIS2019, all submissions will be assessed based on their [broader impact to society](https://acm-fca.org/2018/03/29/negativeimpacts/). We encourage authors to address the positive and negative, actual and potential, and/or pragmatic significance of their work; that is, they should engage with substantive and reflective discussions of the impact of their research beyond a narrow intellectual contribution to the field.  
 
-
+</br>
 ## Important Dates
 
 - **Abstract and title due:** Tuesday, January 15, 2019
@@ -34,6 +36,7 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 - **Papers camera ready deadline:** Wednesday, April 17, 2019
 - **Conference:** June 23-29, 2019
 
+</br>
 
 ## Preparing and Submitting Your Submissions {#preparing}
 
@@ -49,6 +52,7 @@ We no longer have the category of “Notes”; however, you may submit a paper t
 
 All Papers must present original, unpublished research. Papers are not allowed to be under concurrent review with other conferences, journals, or venues.
 
+</br>
 ### Anonymity
  
 Papers should be anonymised for blind peer review. Authors are expected to remove author and institutional identity from the title and header of the paper, as well as any information embedded within the meta-data of the submission file. Suppression of identity in the body of the paper is left up to the discretion of authors. However, reviewers must be able to compare your current submission to other related work in the area. In many situations, this is the author’s own work found in other papers. We ask that if you are citing your own work, you refer to it in the third person as opposed to removing it completely because of blind review. *For example, rather than stating, “This study builds on our prior work [removed for anonymity],” please refer to it in the third person, such as, “This study builds on prior work by \<authors, where you list your names\> [2].”*  Thus, you should be including the full citation to the prior work in the references list, rather than removing it.
@@ -86,7 +90,8 @@ All published papers will appear online in the ACM Digital Library and be distri
 
 At the conference, authors of accepted papers must be in attendance to present their papers and answer questions from the audience. Presenters of Papers will have a presentation slot of approximately 20 minutes, though this may be altered prior to the conference based on scheduling needs.  Papers whose authors are not at the conference to present may be removed from the ACM Digital Library and the conference proceedings.
  
-# DIS2019 Technical Program Chairs
+</br> 
+## DIS2019 Technical Program Chairs
 Carman Neustaedter (Simon Fraser University), Deborah Tatar (Virginia Tech) 
 
 [technicalchairs [AT] dis2019.acm.org](mailto:technicalchairs@dis2019.acm.org)
