@@ -3,15 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/socialmedia/</loc>
-  </url>
-  
-  <url>
     <loc>/home/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/cfp/</loc>
   </url>
   
   <url>
@@ -35,14 +27,6 @@
   
   <url>
     <loc>/organizers/</loc>
-  </url>
-  
-  <url>
-    <loc>/organizers1/</loc>
-  </url>
-  
-  <url>
-    <loc>/organizers2/</loc>
   </url>
   
   <url>

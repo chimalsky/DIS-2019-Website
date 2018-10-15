@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/socialmedia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/socialmedia/</guid>
-      <description>Facebook Twitter Instagram </description>
-    </item>
-    
-    <item>
       <title>ACM Designing Interactive Systems 2019</title>
       <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,16 +18,6 @@
       <guid>/home/about/</guid>
       <description>The ACM conference on Designing Interactive Systems (DIS) is the premier international and interdisciplinary conference encompassing all issues related to the design and deployment of interactive systems where designers, artists, theorists, psychologists, user experience researchers, systems engineers and many more come together to debate and shape the future of interaction systems research, design, and practice.
 The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&amp;rdquo; Both borders and intersections are simultaneously about separation, margins, and friction as well as opportunities, promises, and imaginaries where alternative and diverse modes of engagements can be made possible and unfold.</description>
-    </item>
-    
-    <item>
-      <title>Call for Participation</title>
-      <link>/cfp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cfp/</guid>
-      <description>The ACM conference on Designing Interactive Systems (DIS) is the premier, international, and interdisciplinary conference encompassing all issues related to the design and deployment of interactive systems where designers, artists, theorists, psychologists, user experience researchers, systems engineers and many more come together to debate and shape the future of interactive systems research, design, and practice.
-THEME The theme for ACM DIS2019 is “Contesting Borders and Intersections.” Both borders and intersections are simultaneously about separation, margins, and friction as well as opportunities, promises, and imaginaries where alternative and diverse modes of engagements can be made possible and unfold.</description>
     </item>
     
     <item>
@@ -54,64 +35,17 @@ THEME The theme for ACM DIS2019 is “Contesting Borders and Intersections.” B
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/organizers/</guid>
-      <description>Conference Chairs: generalchairs [at] dis2019.acm.org
+      <description>Conference Chairs generalchairs [at] dis2019.acm.org
 Steve Harrison &amp;amp; Shaowen Bardzell
-Associate Chairs: Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)
-Technical Program Chairs: technicalchairs [at] dis2019.acm.org
+Associate Chairs chairs2019 [at] cc.acm.org  Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)
+Technical Program Chairs technicalchairs [at] dis2019.acm.org
 Carman Neustaedter &amp;amp; Deborah Tatar
-Doctoral Consortium: dcchairs [at] dis2019.acm.org
+Doctoral Consortium Chairs dcchairs [at] dis2019.acm.org
 Susanne Bødker &amp;amp; John Bowers
-Pictorials: pictorialchairs [at] dis2019.acm.org
+Pictorials Chairs pictorialchairs [at] dis2019.acm.org
 Kristina Anderson &amp;amp; Shad Gross
-Provocations / WIPS: provocationschairs [at] dis2019.acm.org
-Lone Koefoed Hansen &amp;amp; Norman Su
-Workshops: workshopchairs [at] dis2019.acm.org
-Silvia Lindtner &amp;amp; Lisa Nathan</description>
-    </item>
-    
-    <item>
-      <title>Organizers</title>
-      <link>/organizers1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/organizers1/</guid>
-      <description>Conference Chairs: generalchairs [at] dis2019.acm.org
-Steve Harrison Shaowen Bardzell
-Technical Program Chairs: technicalchairs [at] dis2019.acm.org
-Carman Neustaedter Deborah Tatar
-Pictorials: pictorialchairs [at] dis2019.acm.org
-Kristina Anderson Shad Gross
-Workshops: workshopchairs [at] dis2019.acm.org
-Silvia Lindtner Lisa Nathan
-Art Chairs: Jonas Fritsch Sheldon Brown
-Publicity/Social Media: publicitymediachairs [at] dis2019.acm.org
-Chih-Sheng Su Anicia Peters Nicolai Hansen Sabrina Hauser
-Local Liaison: localchairs [at] dis2019.acm.org
-Lilly Irani Wendy Kellogg John Thomas
-Student Volunteer Chairs: Szu-Yu (Cyn) Liu (Indiana University) Aakash Gautam (Virginia Tech) Leon Bucker (HK PolyU) [Special Advisor to SV chairs]</description>
-    </item>
-    
-    <item>
-      <title>Organizers</title>
-      <link>/organizers2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/organizers2/</guid>
-      <description>Associate Chairs: Steven Dow Mary Lou Maher (C&amp;amp;C2019 co-chairs)
-Doctoral Consortium: dcchairs [at] dis2019.acm.org
-Susanne Bødker John Bowers
-Provocations / WIPS: provocationschairs [at] dis2019.acm.org
-Lone Koefoed Hansen Norman Su
-Demos: demochairs [at] dis2019.acm.org
-Stacy Kuznetzov Scott Davidoff
-Accessibility &amp;amp; Diversity: accessibilitychair [at] dis2019.acm.org
-Stacy Branham
-
-Paper Sub-Committees 
-Critical Computing and Design Theory: theory_criticalcomputing_sc [at] dis2019.acm.org
-Paul Dourish Jeffery Bardzell
-Design Methods and Processes: methods_processes_sc [at] dis2019.acm.org
-Ellen Do John Zimmerman</description>
+Provocations / WIPS Chairs provocationschairs [at] dis2019.acm.org
+Lone Koefoed Hansen &amp;amp; Norman Su</description>
     </item>
     
     <item>
