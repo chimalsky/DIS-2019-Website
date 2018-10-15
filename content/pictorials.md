@@ -23,9 +23,9 @@ The DIS 2019 Pictorials track builds on the success of the Pictorials track in D
 As design perspectives have increasingly become integrated in HCI practice and research, new approaches are needed to communicate design practices, processes, products and artifacts to the HCI community. Pictorials may have a practical nature, a theoretical nature or both. Through DIS Pictorials, design practitioners in academia, industry, non-profits, or collectives are encouraged to express and unpack their design concepts, practices and projects in rich, heavily visual ways. This format helps foster discussions among authors, conference attendees, and the wider community through the sharing of methods, insights and lessons learned from engaging in the design of interactive systems and artifacts.
  
 # Important dates
-- **Full Submission:** 18 Jan, 2019 (The submission system closes at 23:59 PST)
-- **Author Notification:** 21 March 2019
-- **Pictorials camera ready due:** 18 April 2019
+- **Full Submission:** 18 January, 2019 (The submission system closes at 23:59 PST)
+- **Author Notification:** 21 March, 2019
+- **Pictorials camera ready due:** 18 April, 2019
  
 # What to submit?
 Submissions may cover diverse topics that include (but are not limited to):
