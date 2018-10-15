@@ -3,6 +3,9 @@ title: "Organizers"
 ---
 
 ## Conference Chairs
+![alt text](/img/organizers/Harrison-Steve.jpg "Steve Harrison")
+
+![alt text](/img/organizers/Bardzell-Shaowen.jpg "Shaowen Bardzell")
 
 
 [generalchairs [at] dis2019.acm.org](mailto:generalchairs@dis2019.acm.org)  
