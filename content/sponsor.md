@@ -10,7 +10,7 @@ All sponsorship will go towards supporting both conferences.  We offer five corp
 
 Interested in sponsoring DIS2019 and C&C2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.cam.org).
 
-# Platinum sponsors
+## Platinum sponsors
 Contribution of $20,000 or more:
 
 - 12 free registrations for people from your company to attend both conferences.
@@ -21,7 +21,7 @@ Contribution of $20,000 or more:
 - First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
-# Gold sponsors
+## Gold sponsors
 Contribution of $15,000 or more:
 
 - 8 free registrations for people from your company to attend both conferences.
@@ -33,7 +33,7 @@ Contribution of $15,000 or more:
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 
-# Silver sponsors
+## Silver sponsors
 Contribution of $10,000 or more:
 
 - 4 free registrations for people from your company to attend both conferences.
@@ -45,7 +45,7 @@ Contribution of $10,000 or more:
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 
-# Bronze sponsors
+## Bronze sponsors
 Contribution of $5,000 or more:
 
 - 2 free registrations for people from your company to attend both conferences.
@@ -55,7 +55,7 @@ Contribution of $5,000 or more:
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 
-# Friends of DIS2019 and C&C2019
+## Friends of DIS2019 and C&C2019
 Contribution of $1,000 or more:
 
 - Company logo on signage at both conferences and on both conference websites.
