@@ -240,17 +240,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "#"
 
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "#"
 
   [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "#"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
