@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIS 2019</title>
+    <link>/</link>
+    <description>Recent content on DIS 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACM Designing Interactive Systems 2019</title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>The ACM conference on Designing Interactive Systems (DIS) is the premier international and interdisciplinary conference encompassing all issues related to the design and deployment of interactive systems where designers, artists, theorists, psychologists, user experience researchers, systems engineers and many more come together to debate and shape the future of interaction systems research, design, and practice.
+The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&amp;rdquo; Both borders and intersections are simultaneously about separation, margins, and friction as well as opportunities, promises, and imaginaries where alternative and diverse modes of engagements can be made possible and unfold.</description>
+    </item>
+    
+    <item>
+      <title>DIS2019 Diversity and Inclusion Statement</title>
+      <link>/diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/diversity/</guid>
+      <description>The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the DIS 2019 conference. The DIS community commits to providing a harassment-free, accessible, and pleasant conference experience with equity in rights for all. We want every participant to feel welcome, included, and safe at the conference. Moreover, we will do our best to accommodate specific needs such as accessibility, or dietary requirements.</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/organizers/</guid>
+      <description>Conference Chairs generalchairs [at] dis2019.acm.org
+Steve Harrison &amp;amp; Shaowen Bardzell
+Associate Chairs chairs2019 [at] cc.acm.org  Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)
+Technical Program Chairs technicalchairs [at] dis2019.acm.org
+Carman Neustaedter &amp;amp; Deborah Tatar
+Doctoral Consortium Chairs dcchairs [at] dis2019.acm.org
+Susanne Bødker &amp;amp; John Bowers
+Pictorials Chairs pictorialchairs [at] dis2019.acm.org
+Kristina Anderson &amp;amp; Shad Gross
+Provocations / WIPS Chairs provocationschairs [at] dis2019.acm.org
+Lone Koefoed Hansen &amp;amp; Norman Su</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>Full papers published at DIS2019 are ACM archival publications and will be made available through the ACM in the Digital Library. DIS 2019 will be held jointly with the Creativity and Cognition (C&amp;amp;C) 2019 conference. There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&amp;amp;C and DIS.</description>
+    </item>
+    
+    <item>
+      <title>Pictorials</title>
+      <link>/pictorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pictorials/</guid>
+      <description>What are Pictorials? Pictorials are papers in which the visual components (e.g. diagrams, sketches, illustrations, renderings, photographs, annotated photographs, collages) are the primary means of conveying information with at least, if not more, importance as the accompanying text.
+Pictorials are not full papers. A good Pictorial requires precision and contextualization, but in terms of evidence and detail in argumentation, should aim at the level of a short paper rather than a full paper.</description>
+    </item>
+    
+    <item>
+      <title>Provocations and Works-in-Progress</title>
+      <link>/provocations_wips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/provocations_wips/</guid>
+      <description>The DIS 2019 Provocations and Works-in-Progress (PWiP) track is a format that allows authors to propose novel, in-progress, and thought provoking research that may emphasize different values than what are usually promoted. The PWiP format is intended to facilitate discussion between authors and conference attendees. We welcome all submissions related to the design of interactive systems as well as the conference theme of Contesting Borders and Intersections.
+We particularly welcome design research contributions that value:</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsor/</guid>
+      <description>In June 2019, the premier ACM conferences DIS and C&amp;amp;C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.
+Sponsoring this joint event is an ideal way to demonstrate your organization&amp;rsquo;s commitment to research on design and creativity, and to publicize this support to many leaders and students in the field. Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/</guid>
+      <description>We welcome proposals for hosting a workshop at DIS 2019 that align with the conference theme. Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building.</description>
+    </item>
+    
+  </channel>
+</rss>
