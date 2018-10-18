@@ -33,6 +33,11 @@ h2,
     font-weight: 700;
 }
 
+.post-content h2:not(:first-child),
+.post-content h3:not(:first-child) {
+    margin-top: 4rem;
+}
+
 h3 {
     font-size: 1rem;
     color: #f27365;
