@@ -21,6 +21,15 @@ The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&am
     </item>
     
     <item>
+      <title>Conference Venue</title>
+      <link>/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/venue/</guid>
+      <description>To be determined.</description>
+    </item>
+    
+    <item>
       <title>DIS2019 Diversity and Inclusion Statement</title>
       <link>/diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,22 +39,26 @@ The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&am
     </item>
     
     <item>
+      <title>Doctoral Consortium</title>
+      <link>/consortium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/consortium/</guid>
+      <description>To be determined.</description>
+    </item>
+    
+    <item>
       <title>Organizers</title>
       <link>/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/organizers/</guid>
-      <description>Conference Chairs generalchairs [at] dis2019.acm.org
-Steve Harrison &amp;amp; Shaowen Bardzell
-Associate Chairs chairs2019 [at] cc.acm.org  Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)
-Technical Program Chairs technicalchairs [at] dis2019.acm.org
-Carman Neustaedter &amp;amp; Deborah Tatar
-Doctoral Consortium Chairs dcchairs [at] dis2019.acm.org
-Susanne Bødker &amp;amp; John Bowers
-Pictorials Chairs pictorialchairs [at] dis2019.acm.org
-Kristina Anderson &amp;amp; Shad Gross
-Provocations / WIPS Chairs provocationschairs [at] dis2019.acm.org
-Lone Koefoed Hansen &amp;amp; Norman Su</description>
+      <description>Conference Chairs Steve Harrison &amp;amp; Shaowen Bardzell  generalchairs [at] dis2019.acm.org
+Associate Chairs Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)  chairs2019 [at] cc.acm.org
+Technical Program Chairs Carman Neustaedter &amp;amp; Deborah Tatar  technicalchairs [at] dis2019.acm.org
+Doctoral Consortium Chairs Susanne Bødker &amp;amp; John Bowers  dcchairs [at] dis2019.acm.org
+Pictorials Chairs Kristina Anderson &amp;amp; Shad Gross  pictorialchairs [at] dis2019.acm.org
+Provocations / WIPS Chairs Lone Koefoed Hansen &amp;amp; Norman Su  provocationschairs [at] dis2019.</description>
     </item>
     
     <item>
@@ -85,6 +98,15 @@ We particularly welcome design research contributions that value:</description>
       <guid>/sponsor/</guid>
       <description>In June 2019, the premier ACM conferences DIS and C&amp;amp;C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.
 Sponsoring this joint event is an ideal way to demonstrate your organization&amp;rsquo;s commitment to research on design and creativity, and to publicize this support to many leaders and students in the field. Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year.</description>
+    </item>
+    
+    <item>
+      <title>Travel and Hotel Information</title>
+      <link>/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/travel/</guid>
+      <description>To be determined.</description>
     </item>
     
     <item>

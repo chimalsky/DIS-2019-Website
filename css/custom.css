@@ -33,6 +33,11 @@ h2,
     font-weight: 700;
 }
 
+.post-content h2:not(:first-child),
+.post-content h3:not(:first-child) {
+    margin-top: 4rem;
+}
+
 h3 {
     font-size: 1rem;
     color: #f27365;
@@ -101,9 +106,20 @@ table {
         border-image: url('/img/crosses-big.svg');
         border-image-slice: 300;
         border-image-repeat: repeat;
+
+        
+    }
+
+    body.single {
+        
     }
 }
 
+@media screen and (max-width: 40em) {
+    #main {
+        padding-top: 1em;
+    }
+}
 
 body.home main.main {
     padding: 0;
@@ -123,9 +139,42 @@ button.menu-toggle::after {
     max-width: 5em;
 }
 
-img.site-logo {
-    width: 100%;
+.site-logo svg {
+    vertical-align: middle;
 }
+
+header .site-logo,
+footer .site-logo {
+    width: 5em;
+    fill: #f37665;
+}
+
+header .site-logo path {
+    fill: #f2efe0;
+}
+
+header .site-logo polygon {
+    fill: #f37665;
+}
+
+footer .site-logo polygon {
+    fill: #f37665;
+}
+
+footer .site-logo {
+    fill: #f2efe0;
+}
+
+
+body.home footer .site-logo polygon,
+body.home footer .site-logo path {
+    fill: #f2efe0;
+}
+
+body.home .site-logo {
+    fill: #f2efe0;
+}
+
 
 body.home header.hero {
     padding: 5em 0;
@@ -139,6 +188,13 @@ body.home header.hero h1 {
 
 body.home header.hero h2 {
     font-size: 2em;
+}
+
+#hero-pattern {
+    background-image: url(/img/long-v.svg), url(/img/long-v-rotated.svg); 
+    background-position: left top, center bottom; 
+    background-size: 650px, 600px;
+    background-repeat: no-repeat, no-repeat;
 }
 
 body.home .tagline {
@@ -159,14 +215,20 @@ body.home footer.site-footer {
     border-bottom: 1.2em solid transparent;
     color: rgb(242, 239, 224);
 }
+body.home footer.site-footer a:hover {
+    color: #272726;
+}
 
 footer.site-footer {
     color:  #f2efe0;
     background-color: #272726;
 }
 
-footer.site-footer a {
+footer.site-footer a:hover {
+    color: #f27365;
+    text-decoration: initial;
 }
+
 
 section.light {
     padding: 2em 0;
