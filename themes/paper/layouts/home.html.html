@@ -1,10 +1,10 @@
 {{ partial "home-header.html" . }}
-<div style="background-image: url(/img/long-v.svg); 
-background-position: left top; background-size: 800px;
-background-repeat: no-repeat;">
+<div id="hero-pattern">
 <header class="header site-header grid-x grid-padding-y align-middle">
     <a class="cell shrink" href="{{.Site.BaseURL}}">
-        <img class="site-logo" src="{{.Site.BaseURL}}img/logosmall.png"/> 
+        <div class="site-logo">
+            {{ partial "svg/DIS-logo.svg" }}
+        </div>
     </a>
     
     {{ partial "nav" . }}

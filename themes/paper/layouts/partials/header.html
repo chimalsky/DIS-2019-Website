@@ -46,7 +46,9 @@
 
   <header class="header site-header grid-x grid-padding-y align-middle">
     <a class="cell shrink" href="{{.Site.BaseURL}}">
-      <img class="site-logo" src="{{.Site.BaseURL}}img/yellowlogo.png"/> 
+      <div class="site-logo">
+        {{ partial "svg/DIS-logo.svg" }}
+      </div>
     </a>
     
     {{ partial "nav" . }}
