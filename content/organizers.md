@@ -115,7 +115,6 @@ Patrycja Zdziarska
 <br>
 
 ## Paper Sub-Committee Chairs
-<br>
 
 ### Critical Computing and Design Theory
 ![alt text](/img/organizers/Dourish-Paul.jpg "Paul Dourish")
