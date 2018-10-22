@@ -85,7 +85,7 @@ Old Town is the “historic heart of San Diego”, and is a great place to wande
 ##Coastal Highway
 The Pacific Coast Highway is a beautiful way to see California. It runs along the coast and through a number of towns & neighbourhoods on its way north. Drive just a little ways up to Del Mar for a nice brunch or dinner, or keep going as far north as you wish!
 
-#OTHER STUFF
+#OTHER
 
 ###Weather
 San Diego is generally moderate and sunny year-round. Temperatures usually sit around 65-75 degrees Fahrenheit. The sun is strong so be sure to bring sun protection! The coastal breeze can be chilly, so bring a jacket for shady areas and evenings.
