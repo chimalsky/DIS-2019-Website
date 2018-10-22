@@ -70,7 +70,7 @@ Stacy Kuznetzov & Scott Davidoff <br/>
 ![alt text](/img/organizers/Fritsch-Jonas.jpg "Jonas Fritsch")
 ![alt text](/img/organizers/Sheldon-Brown.jpg "Sheldon Brown")
 
-Jonas Fritsch & Sheldon Brown 
+Jonas Fritsch & Sheldon Brown [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org)
 
 ## Accessibility & Diversity Chairs
 ![alt text](/img/organizers/Branham-Stacy.jpg "Stacy Branham")
