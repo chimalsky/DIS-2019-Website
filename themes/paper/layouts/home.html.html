@@ -1,5 +1,8 @@
 {{ partial "home-header.html" . }}
 <div id="hero-pattern">
+{{ partial "svg/long-v.svg" }}
+</div>
+
 <header class="header site-header grid-x grid-padding-y align-middle">
     <a class="cell shrink" href="{{.Site.BaseURL}}">
         <div class="site-logo">
@@ -31,11 +34,10 @@
             </section>
         </div>
     </header>
-</div>
 
 <main id="main" class="main">
 <section class="grid-x align-center darkish">
-    <main class="cell medium-10 large-9 grid-x grid-margin-x grid-padding-x grid-margin-y grid-padding-y">
+    <main class="cell medium-12 large-9 grid-x grid-margin-x grid-padding-x grid-margin-y grid-padding-y">
         <div class="cell medium-auto small-12 markdown">
             <h1 class="text-center" style="font-size: 1rem; line-height: 1.6rem;">
                 Designing Interactive Systems (DIS) 2019 <br/>
@@ -53,7 +55,7 @@
             </div>
 
             <div class="cell grid-x">
-                <h1 class="cell">Key Dates:</h1>
+                <h2 class="cell">Key Dates:</h2>
                 <ul class="cell">
                 {{ range $.Site.Data.keyDates }}
                     <li>
@@ -74,7 +76,7 @@
 
     
 
-<section class="grid-x grid-padding-x grid-padding-y grid-margin-y align-center cream" id="colocate">
+<section class="grid-x grid-padding-x grid-padding-y grid-margin-y align-center align-middle cream" id="colocate">
     <div class="cell medium-6 text-center">
         We are excited to co-locate our conference with 
         <strong> Creativity and Cognition 2019.</strong> 

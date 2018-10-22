@@ -12,6 +12,12 @@
         <br/>
         San Diego, California
       </p>
+
+      <a class="cell hide" href="http://cc.acm.org/2019">
+        <div class="site-logo">
+          <img class="fit" src="{{.Site.BaseURL}}img/cc-logo.png" />
+        </div> 
+      </a>
     </div>
     
     <div class="cell medium-auto align-right grid-x grid-padding-x">
@@ -42,19 +48,25 @@
 
 <script>
   $(document).ready(() => {
-     $(document).foundation()
+    $(document).foundation()
 
-     $(window).resize(repositionHero)
+    $('#site-nav').removeClass('hide')
+    
+    $heroPattern = $('#hero-pattern')
+    $heroPatternSvg = $('#hero-pattern svg')
+    $heroAnchor = $('#hero-anchor')
+
+    if ($heroPattern) {
+      repositionHero()
+      $(window).resize(repositionHero)
+    }
   })  
 
-  $heroPattern = $('#hero-pattern')
-  $heroAnchor = $('#hero-anchor')
+  
 
   function repositionHero() {
-    if (! $heroPattern)
-      return;
-    
-    $heroPattern.css('backgroundPosition', $heroAnchor.offset().left)
+    $heroPattern.css('left', $heroAnchor.offset().left * 1.2)
+      .css('top', $heroAnchor.offset().top - ($heroPatternSvg.height() * .55))
   }
 </script>
 
