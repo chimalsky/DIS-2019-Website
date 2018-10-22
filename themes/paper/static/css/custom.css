@@ -196,9 +196,9 @@ body.home header.hero h2 {
 }
 
 #hero-pattern {
-    background-image: url(/img/long-v.svg), url(/img/long-v-rotated.svg); 
-    background-position: left top, center bottom; 
-    background-size: 650px, 600px;
+    background-image: url(/img/long-v15.svg); 
+    background-position: 100px; 
+    background-size: 600px;
     background-repeat: no-repeat, no-repeat;
 }
 
