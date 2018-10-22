@@ -98,7 +98,7 @@ Check out this website for deals & offers on local activities to do in San Diego
 The currency in San Diego is US Dollars. Most international ATM cards and credit cards can also be used. If you are traveling from outside the US you may need adapters for electrical appliances; the standard voltage in the US is 120 V and the frequency is 60 Hz.
 
 ###Visa Letter
-If you need a support letter to attend ACM Creativity and Cognition, please send an email to the following email address: supportletters@acm.org. Please be sure to include all of the following information below in your email:
+If you need a support letter to attend ACM DIS 2019, please send an email to the following email address: supportletters@acm.org. Please be sure to include all of the following information below in your email:
 
 Your name as it appears on your passport
 Your current postal mailing address
@@ -108,7 +108,7 @@ If you have any papers accepted for the conference, please provide the title and
 Visa Support Letters will only be provided to participants who have registered and paid for the Conference. Should participants withdraw from the conference after the issue of Visa Support Letter the consulate will be notified of the withdrawal accordingly.
 
 ###Accessibility
-Creativity and Cognition 2019 is committed to providing an inclusive environment and we will do our best to accommodate requests. Our modern venues should be fully accessible. If you have a concern or require a special request, have a personal care assistant, or just have a question, please contact the General Chairs and we'll answer questions and help where we can.
+DIS 2019 is committed to providing an inclusive environment and we will do our best to accommodate requests. Our modern venues should be fully accessible. If you have a concern or require a special request, have a personal care assistant, or just have a question, please contact the General Chairs and we'll answer questions and help where we can.
 
 ###Child Care
 We suggest attendees who need childcare contact care.com for drop-in daycare services.
