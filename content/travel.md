@@ -60,7 +60,6 @@ Walk the boardwalk at Mission Beach
 Rent kayaks, stand-up paddleboards, sailboats, and more from one of many nearby aquatic centers (Mission Bay Sportcenter, Seaforth Boat Rentals, Adventure Water Sports, or see above for complimentary rentals from the hotel)
 Have a picnic in Mission Bay Park
 Rent bicycles from Adventure Water Sports, Mission Beach Surf Rentals, or Ray’s Rentals
-BEFORE OR AFTER THE CONFERENCE (SRSLY!)
 
 ###Food
 Being a coastal city near the Mexican border, San Diego is known for its seafood and Mexican food. San Diego is also a craft beer haven. Some local favorites are fish tacos, California burritos, and IPA beers.
