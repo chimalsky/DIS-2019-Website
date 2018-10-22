@@ -43,7 +43,19 @@
 <script>
   $(document).ready(() => {
      $(document).foundation()
+
+     $(window).resize(repositionHero)
   })  
+
+  $heroPattern = $('#hero-pattern')
+  $heroAnchor = $('#hero-anchor')
+
+  function repositionHero() {
+    if (! $heroPattern)
+      return;
+    
+    $heroPattern.css('backgroundPosition', $heroAnchor.offset().left)
+  }
 </script>
 
 </body>

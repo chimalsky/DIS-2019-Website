@@ -72,6 +72,11 @@ p > a {
     margin-bottom: 1em;
 }
 
+.post-content a {
+    border-bottom: initial;
+    color: #f37665;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
