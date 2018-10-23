@@ -46,20 +46,21 @@ The MTS Bus 8 route runs from the central Old Town Transit Center to Mission Bay
 
 There are a number of restaurants and activities walking distance from the Hyatt Regency.
 
-### Restaurants:
-Red Marlin (in the Hyatt Regency)
-Sportsmen’s Seafood (0.2 miles from Hyatt Regency)
-Firefly Eatery & Bar (0.5 miles from Hyatt Regency)
-Cafe Bahia (0.7 miles from Hyatt Regency)
-The Coaster Saloon (1 mile from Hyatt Regency)
-Marcy’s Mexican Food (1 mile from Hyatt Regency)
-South Draft Mission (1.1 miles from Hyatt Regency)
-Activities:
-Visit the marine animals and other attractions at Sea World
-Walk the boardwalk at Mission Beach
-Rent kayaks, stand-up paddleboards, sailboats, and more from one of many nearby aquatic centers (Mission Bay Sportcenter, Seaforth Boat Rentals, Adventure Water Sports, or see above for complimentary rentals from the hotel)
-Have a picnic in Mission Bay Park
-Rent bicycles from Adventure Water Sports, Mission Beach Surf Rentals, or Ray’s Rentals
+### Restaurants
+Red Marlin (in the Hyatt Regency) </br>
+Sportsmen’s Seafood (0.2 miles from Hyatt Regency)</br>
+Firefly Eatery & Bar (0.5 miles from Hyatt Regency)</br>
+Cafe Bahia (0.7 miles from Hyatt Regency)</br>
+The Coaster Saloon (1 mile from Hyatt Regency)</br>
+Marcy’s Mexican Food (1 mile from Hyatt Regency)</br>
+South Draft Mission (1.1 miles from Hyatt Regency)</br>
+
+### Activities
+Visit the marine animals and other attractions at Sea World</br>
+Walk the boardwalk at Mission Beach</br>
+Rent kayaks, stand-up paddleboards, sailboats, and more from one of many nearby aquatic centers (Mission Bay Sportcenter, Seaforth Boat Rentals, Adventure Water Sports, or see above for complimentary rentals from the hotel)</br>
+Have a picnic in Mission Bay Park</br>
+Rent bicycles from Adventure Water Sports, Mission Beach Surf Rentals, or Ray’s Rentals</br>
 
 ### Food
 Being a coastal city near the Mexican border, San Diego is known for its seafood and Mexican food. San Diego is also a craft beer haven. Some local favorites are fish tacos, California burritos, and IPA beers.
