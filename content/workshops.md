@@ -14,6 +14,7 @@ We encourage provocative, interdisciplinary, boundary crossing and experimental 
 - Themes: Sustainability, Health, resilience, longer-term approaches, children-computer interaction, games and play, digital arts, making, craft, digital labor, etc.
 - Technological Innovation (systems, tools, and/or artifact designs): Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.
 
+</br>
 ## The Conference Context
 There are some unusual elements to consider when proposing a workshop for DIS 2019:
 
@@ -33,7 +34,7 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 ## Submission Details
 Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:
  
-## Abstract
+# Abstract
 An abstract describing your proposed workshop should be up to 4 pages in length including references in the [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/), submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
 
 - Title and proposed duration
