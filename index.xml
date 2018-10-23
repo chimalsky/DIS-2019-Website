@@ -101,12 +101,24 @@ Sponsoring this joint event is an ideal way to demonstrate your organization&amp
     </item>
     
     <item>
+      <title>Submit</title>
+      <link>/submit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/submit/</guid>
+      <description>Papers  Pictorials  Provocations and Works-in-Progress  Workshops  Doctoral Consortium</description>
+    </item>
+    
+    <item>
       <title>Travel and Hotel Information</title>
       <link>/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/travel/</guid>
-      <description>To be determined.</description>
+      <description>ACM DIS 2019 will take place at:
+Hyatt Regency Mission Bay 1441 Quivira Road San Diego, California, USA, 92109
+The Hyatt Regency is located right on the waterfront in Mission Bay, a beautiful area with lots to do and explore. The hotel features views of the Pacific Ocean, Mission Beach, and the downtown San Diego skyline.
+Attendees will be guaranteed a rate of $249/night + tax for standard run of house.</description>
     </item>
     
     <item>

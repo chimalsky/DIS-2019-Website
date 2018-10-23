@@ -33,8 +33,8 @@ h2,
     font-weight: 700;
 }
 
-.post-content h2:not(:first-child),
-.post-content h3:not(:first-child) {
+#Organizers .post-content h2:not(:first-child),
+#Organizers .post-content h3:not(:first-child) {
     margin-top: 4rem;
 }
 
@@ -72,6 +72,19 @@ p > a {
     margin-bottom: 1em;
 }
 
+body a {
+    color: #27b0c5;
+    border-bottom: initial;
+}
+
+body a:hover {
+    border-bottom: 1px solid #27b0c5;
+}
+
+.no-hover:hover {
+    border-bottom: none;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -79,9 +92,20 @@ p > a {
 
 body.home,
 header.site-header,
-#site-nav {
+header.site-header a,
+#site-nav,
+#site-nav a {
     color:  #f2efe0;
     background-color: #272726;
+}
+
+header.site-header a:hover {
+    border: none;
+}
+
+header.site-header {
+    position: relative;
+    z-index: 999;
 }
 
 table {
@@ -98,6 +122,8 @@ table {
                     url(/img/logoarrowBottom.png), url(/img/logoarrowLeft.png);
         background-position: top, right, bottom, left;
         background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+        background-size: 20vw;
+        min-height: 600px;
     }   
 
     .main-container {
@@ -118,6 +144,20 @@ table {
 @media screen and (max-width: 40em) {
     #main {
         padding-top: 1em;
+    }
+
+    #colocate {
+        background-image: url(/img/logoarrowTop.png), url(/img/logoarrowBottom.png);
+        background-position: top, bottom;
+        background-repeat: no-repeat, no-repeat;
+        background-size: 30vh;
+    }   
+    
+    .carousel {
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap; 
+        overflow-x: auto;
     }
 }
 
@@ -191,10 +231,19 @@ body.home header.hero h2 {
 }
 
 #hero-pattern {
-    background-image: url(/img/long-v.svg), url(/img/long-v-rotated.svg); 
-    background-position: left top, center bottom; 
-    background-size: 650px, 600px;
-    background-repeat: no-repeat, no-repeat;
+    /*background-image: url(/img/long-v15.svg); 
+    background-position: 100px; 
+    background-size: 600px;
+    background-repeat: no-repeat, no-repeat;*/
+
+    position: absolute;
+    overflow: hidden;
+    z-index: -99;
+}
+
+#hero-pattern svg {
+    width: 600px;   
+    transform: translate(0px, -300px);
 }
 
 body.home .tagline {
@@ -212,9 +261,14 @@ body.single {
 
 body.home footer.site-footer {
     background: #f27365;
-    border-bottom: 1.2em solid transparent;
-    color: rgb(242, 239, 224);
+    border-bottom: initial;
+    color: #f2efe0;
 }
+
+body.home footer.site-footer a {
+    color: #f2efe0;
+}
+
 body.home footer.site-footer a:hover {
     color: #272726;
 }
@@ -224,9 +278,14 @@ footer.site-footer {
     background-color: #272726;
 }
 
+footer.site-footer a {
+    color: #f2efe0;
+}
+
 footer.site-footer a:hover {
     color: #f27365;
     text-decoration: initial;
+    border-bottom: initial;
 }
 
 
@@ -269,8 +328,4 @@ section.dark {
 
 .menu a:hover {
     color: #f2efe0;
-}
-
-.menu .is-submenu-item a {
-    color: #525352;
 }

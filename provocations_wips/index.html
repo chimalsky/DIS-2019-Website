@@ -42,9 +42,11 @@ We particularly welcome design research contributions that value:">
     <button class="menu-toggle" data-toggle="site-nav" type="button">MENU</button>
 </div>
 
-<nav id="site-nav" class="menu cell shrink">
-    <ul class="dropdown menu" data-dropdown-menu data-disable-hover="true" data-click-open="true"
-        data-close-on-click="true">
+<nav id="site-nav" class="menu cell medium-shrink hide">
+    <ul class="dropdown menu" data-dropdown-menu 
+    data-disable-hover="true" 
+    data-click-open="true"
+    data-close-on-click="true">
         
         
         <li 
@@ -92,20 +94,20 @@ We particularly welcome design research contributions that value:">
             <ul class="menu">
                 
                 <li>
-                    <a href="/diversity">
-                    Diversity and Inclusion Statement
-                    </a>
-                </li>
-                
-                <li>
-                    <a href="/diversity">
+                    <a href="/venue">
                     Conference Venue
                     </a>
                 </li>
                 
                 <li>
-                    <a href="/diversity">
+                    <a href="/travel">
                     Travel and Hotel Information
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/diversity">
+                    Diversity and Inclusion Statement
                     </a>
                 </li>
                 
@@ -133,7 +135,7 @@ We particularly welcome design research contributions that value:">
   <div class="main-container">
   <main id="main" class="main grid-container">
 
-<section class="grid-container grid-x grid-margin-x align-center markdown light">
+<section id="Provocations and Works-in-Progress" class="grid-container grid-x grid-margin-x align-center markdown light">
   <article class="cell medium-10 large-9">
     <header class="post-header">
       <h1 class="post-title">Provocations and Works-in-Progress</h1>
@@ -222,7 +224,7 @@ We particularly welcome design research contributions that value:">
       </p>
     </div>
     
-    <div class="cell medium-auto align-right grid-x grid-padding-x">
+    <div class="cell medium-auto align-right grid-x">
       
       
         <div class="cell auto">
@@ -264,8 +266,25 @@ We particularly welcome design research contributions that value:">
 
 <script>
   $(document).ready(() => {
-     $(document).foundation()
+    $(document).foundation()
+
+    $('#site-nav').removeClass('hide')
+    
+    $heroPattern = $('#hero-pattern')
+    $heroPatternSvg = $('#hero-pattern svg')
+    $heroAnchor = $('#hero-anchor')
+
+    if ($heroPattern) {
+      repositionHero()
+      $(window).resize(repositionHero)
+    }
   })  
+
+  
+
+  function repositionHero() {
+    $heroPatternSvg.css('transform', `translate(${$heroAnchor.offset().left * 1.5}px, ${-($heroAnchor.offset().top * .6)}px)`)
+  }
 </script>
 
 </body>
