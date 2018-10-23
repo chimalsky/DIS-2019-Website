@@ -10,6 +10,8 @@ All sponsorship will go towards supporting both conferences.  We offer five corp
 
 Interested in sponsoring DIS2019 and C&C2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.cam.org).
 
+</br>
+
 ## Platinum sponsors
 Contribution of $20,000 or more:
 
@@ -20,6 +22,8 @@ Contribution of $20,000 or more:
 - First priority for a demo booth.
 - First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
+
+</br>
 
 ## Gold sponsors
 Contribution of $15,000 or more:
@@ -32,7 +36,7 @@ Contribution of $15,000 or more:
 - Second priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
-
+</br>
 ## Silver sponsors
 Contribution of $10,000 or more:
 
@@ -43,7 +47,7 @@ Contribution of $10,000 or more:
 - Third priority for a demo booth.
 - Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
-
+</br>
 
 ## Bronze sponsors
 Contribution of $5,000 or more:
@@ -53,7 +57,7 @@ Contribution of $5,000 or more:
 - We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.
 - Fourth priority for a demo booth.
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
-
+</br>
 
 ## Friends of DIS2019 and C&C2019
 Contribution of $1,000 or more:
