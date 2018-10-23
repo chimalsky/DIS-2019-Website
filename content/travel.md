@@ -29,7 +29,7 @@ San Diego, California, USA, 92109
 
 Attendees may also find accommodation through AirBnB or other vacation rental services.
 
-# GETTING AROUND
+## GETTING AROUND
 
 The Hyatt Regency is most easily accessed by car, but can also be accessed by bus.
 
@@ -42,7 +42,7 @@ Lyft and Uber are both prevalent in San Diego, and can be called from the airpor
 ### Public Transit
 The MTS Bus 8 route runs from the central Old Town Transit Center to Mission Bay. Bus fair and pass details can be found here.
 
-# NEAR THE HOTEL
+## NEAR THE HOTEL
 
 There are a number of restaurants and activities walking distance from the Hyatt Regency.
 
@@ -82,10 +82,10 @@ Little Italy is neighbourhood downtown famous for… you guessed it, Italian foo
 ### Old Town
 Old Town is the “historic heart of San Diego”, and is a great place to wander around, visit the shops, and have some authentic Mexican food.
 
-## Coastal Highway
+### Coastal Highway
 The Pacific Coast Highway is a beautiful way to see California. It runs along the coast and through a number of towns & neighbourhoods on its way north. Drive just a little ways up to Del Mar for a nice brunch or dinner, or keep going as far north as you wish!
 
-# OTHER
+## OTHER
 
 ### Weather
 San Diego is generally moderate and sunny year-round. Temperatures usually sit around 65-75 degrees Fahrenheit. The sun is strong so be sure to bring sun protection! The coastal breeze can be chilly, so bring a jacket for shady areas and evenings.
