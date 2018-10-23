@@ -25,13 +25,13 @@ As design perspectives have increasingly become integrated in HCI practice and r
 
 </br>
  
-## Important dates
+## Important Dates
 - **Full Submission:** 18 January, 2019 (The submission system closes at 23:59 PST)
 - **Author Notification:** 21 March, 2019
 - **Pictorials camera ready due:** 18 April, 2019
  
 </br> 
-## What to submit?
+## What to Submit?
 Submissions may cover diverse topics that include (but are not limited to):
 
 - Design processes and decisions affecting the material or interactive elements of prototypes
@@ -41,9 +41,9 @@ Submissions may cover diverse topics that include (but are not limited to):
 - Deployments of interactive design artifacts
 - Experiences in design-based research
 - Other insights, practices or processes often unmentioned in important phases of design research and practice
-</br>
 
-## Presentation quality
+</br>
+## Presentation Quality
 In pictorials, production values and visual quality matters. We encourage authors to be creative with their submissions. Pictorial contents could consist of (but are not limited to):
 
 - Design sketches
@@ -52,9 +52,9 @@ In pictorials, production values and visual quality matters. We encourage author
 - Field notes or sketches (ensure that sketches are readable for the intended purposes)
 - Collages
 - Photographs and annotated photographs
-</br>
 
-## Checklist for authors
+</br>
+## Checklist for Authors
 Other important factors to consider in creating a Pictorial:
 
 - Are images/diagrams emphasized over text as the primary means of communicating the research contribution?
@@ -75,7 +75,7 @@ Another feature of Pictorials is that they must turn into engaging presentations
 - Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?
 
 </br>
-## Checklist for reviewers
+## Checklist for Reviewers
 Does the Pictorial:
 
 - Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?
@@ -87,7 +87,7 @@ Does the Pictorial:
 
 </br>
 
-## Acceptance rate and copyrighted materials
+## Acceptance Rate and Copyrighted Materials
 Pictorials are expected to be original work created specifically for the pictorials track. Expect the track to be competitive and submit your best work. Expect an acceptance rate of around 20-25%.
  
 Please do not submit work you have submitted elsewhere with a few images added. Doing so may violate dual submission rules. You may submit previously published work to which you have added significant visual content, provided only that such work is clearly and prominently attributed as such in a footnote to the title with a clear description of what the pictorial uniquely contributes or adds to the previous work. In this last case, at least 30% of the material must be new, per ACM rules.
