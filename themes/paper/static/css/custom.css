@@ -285,6 +285,7 @@ footer.site-footer a {
 footer.site-footer a:hover {
     color: #f27365;
     text-decoration: initial;
+    border-bottom: initial;
 }
 
 
