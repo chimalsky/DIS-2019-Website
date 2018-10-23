@@ -4,6 +4,8 @@ title: "Papers"
 
 Full papers published at DIS2019 are ACM archival publications and will be made available through the [ACM in the Digital Library](http://dl.acm.org). DIS 2019 will be held jointly with the [Creativity and Cognition (C&C) 2019 conference](http://cc.acm.org/2019/). There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&C and DIS.
 
+</br>
+
 ## Subcommittees
 
 DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences): 
@@ -52,9 +54,8 @@ We no longer have the category of “Notes”; however, you may submit a paper t
 
 All Papers must present original, unpublished research. Papers are not allowed to be under concurrent review with other conferences, journals, or venues.
 
-</br>
 ### Anonymity
- 
+
 Papers should be anonymised for blind peer review. Authors are expected to remove author and institutional identity from the title and header of the paper, as well as any information embedded within the meta-data of the submission file. Suppression of identity in the body of the paper is left up to the discretion of authors. However, reviewers must be able to compare your current submission to other related work in the area. In many situations, this is the author’s own work found in other papers. We ask that if you are citing your own work, you refer to it in the third person as opposed to removing it completely because of blind review. *For example, rather than stating, “This study builds on our prior work [removed for anonymity],” please refer to it in the third person, such as, “This study builds on prior work by \<authors, where you list your names\> [2].”*  Thus, you should be including the full citation to the prior work in the references list, rather than removing it.
 
 ### Submission
