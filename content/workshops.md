@@ -27,7 +27,7 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 
 ## Important Dates
 - **Proposals to host a workshop due:** 18 January 2019 (The submission system closes at 23:59 PST)
-- **Notifications to authors on whether their proposed workshop was accepted:** 8 March 2018
+- **Notifications of acceptance to authors:** 8 March 2018
 - **All camera ready papers due:** 22  March 2018
 - **Workshops and Doctoral Consortium:** 23-24 June 2018
 
