@@ -113,7 +113,6 @@ Szu-Yu (Cyn) Liu, Aakash Gautam, Leon Bucker <br/>
 
 Patrycja Zdziarska
 
-<br>
 
 ## Paper Sub-Committee Chairs
 
