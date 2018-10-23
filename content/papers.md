@@ -11,16 +11,16 @@ Full papers published at DIS2019 are ACM archival publications and will be made 
 DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences): 
  
 ### Critical Computing and Design Theory
-Critical computing and design theory have contributed to one another for decades. This subcommittee seeks papers that carry this work into a new generation--exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. [Contact the subcommittee](mailto:theory_criticalcomputing_sc@dis2019.acm.org).
+Critical computing and design theory have contributed to one another for decades. This subcommittee seeks papers that carry this work into a new generation--exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. [Contact the Critical Computing and Design Theory subcommittee](mailto:theory_criticalcomputing_sc@dis2019.acm.org).
 
 ### Design Methods and Processes
-Share your inventions and insights that open up new spaces for design, allow for engagement with new, difficult to access communities, and enable designers to play with exciting new materials. This subcommittee seeks papers that document, innovate and/or advance the methods and processes used by UX and service design practitioners; user researchers from industry, academia, and NGOs; and academic design researchers working in HCI and interaction design. [Contact the subcommittee](mailto:methods_processes_sc@dis2019.acm.org).
+Share your inventions and insights that open up new spaces for design, allow for engagement with new, difficult to access communities, and enable designers to play with exciting new materials. This subcommittee seeks papers that document, innovate and/or advance the methods and processes used by UX and service design practitioners; user researchers from industry, academia, and NGOs; and academic design researchers working in HCI and interaction design. [Contact the Design Methods and Processes subcommittee](mailto:methods_processes_sc@dis2019.acm.org).
 
 ### Experiences, Artifacts, and Technology
-Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered. [Contact the subcommittee](mailto:artifacts_experiences_sc@dis2019.acm.org).
+Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered. [Contact the Experiences, Artifats, and Technology subcommittee](mailto:artifacts_experiences_sc@dis2019.acm.org).
 
-### Change through Design
-Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. [Contact the subcommittee](mailto:change_sc@dis2019.acm.org).
+### Change Through Design
+Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. [Contact the Change Through Design subcommittee](mailto:change_sc@dis2019.acm.org).
 
 </br>
 
