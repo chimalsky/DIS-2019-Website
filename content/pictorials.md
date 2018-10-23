@@ -71,8 +71,6 @@ Another feature of Pictorials is that they must turn into engaging presentations
 - Do they clarify the argument better than a traditional slideshow and text?
 - Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?
 
-</br>
-
 ## Checklist for reviewers
 Does the Pictorial:
 
