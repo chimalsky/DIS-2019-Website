@@ -26,10 +26,10 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 </br>
 
 ## Important Dates
-- **Proposals to host a workshop due:** 18 January 2019 (The submission system closes at 23:59 PST)
-- **Notifications of acceptance to authors:** 8 March 2018
-- **All camera ready papers due:** 22  March 2018
-- **Workshops and Doctoral Consortium:** 23-24 June 2018
+- **Proposals to host a workshop due:** January 18, 2019 (The submission system closes at 23:59 PST)
+- **Notifications of acceptance to authors:** March 8, 2019
+- **All camera ready papers due:** March 22, 2018
+- **Workshops and Doctoral Consortium:** June 23-24, 2019
 
 </br>
  
@@ -68,10 +68,3 @@ For first time workshop organizers, successful submissions from previous DIS con
 Silvia Lindtner (University of Michigan) & Lisa P. Nathan (University of British Columbia) 
 
 [workshopchairs [AT] dis2019.acm.org](mailto:workshopchairs@dis2019.acm.org)
-
-
-
-
-
-
-
