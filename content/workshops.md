@@ -56,9 +56,9 @@ All submissions will be reviewed by the workshop chairs. Successful proposals to
  
 For first time workshop organizers, successful submissions from previous DIS conferences are a helpful indication of appropriate content and style:
  
-http://dis2018.org/workshop-program/
+[DIS 2018 Workshop Program](http://dis2018.org/workshop-program/)
  
-http://dis2017.org/workshop-program/
+[DIS 2017 Workshop Program](http://dis2017.org/workshop-program/)
 
 </br>
  
