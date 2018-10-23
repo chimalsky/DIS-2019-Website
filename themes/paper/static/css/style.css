@@ -99,15 +99,7 @@ pre, code {
 .noscroll {
   overflow: hidden;
 }
-.menu-toggle {
-  display: block;
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 20;
-  width: 80px;
-  height: 65px;
-}
+
 .menu-toggle::before,
 .menu-toggle::after {
   content: '';
@@ -179,8 +171,8 @@ pre, code {
   .list-footer,
   .post-view {
     width: 100%;
-    padding-left: 30px;
-    padding-right: 30px;
+    /*padding-left: 30px;
+    padding-right: 30px; */
   }
 }
 /* List header
@@ -285,10 +277,6 @@ pre, code {
   font-weight: 400;
 }
 
-.post-content a {
-  padding-bottom: 2px;
-  border-bottom: 1.5px solid rgba(0, 0, 0, .8);
-}
 .post-content p,
 .post-content ul,
 .post-content ol,
@@ -386,9 +374,7 @@ pre, code {
 .post-tags li + li {
   margin-left: 3px;
 }
-.post-tags a:hover {
-  background: #eee;
-}
+
 @media (max-width: 767px) {
   .post-content blockquote {
     margin: 0 0 0 -30px;
@@ -428,9 +414,7 @@ pre, code {
   margin-left: 2px;
   margin-right: 2px;
 }
-.footer a:hover {
-  text-decoration: underline;
-}
+
 @media (max-width: 767px) {
   .footer span:last-child {
     display: block;

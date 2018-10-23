@@ -331,13 +331,13 @@ enableGitInfo = false
 
 [[menu.main]]  
   name = "Conference Venue"
-  url = "/diversity"
+  url = "/venue"
   weight = 1
   parent = "attending"
 
 [[menu.main]]  
   name = "Travel and Hotel Information"
-  url = "/diversity"
+  url = "/travel"
   weight = 2
   parent = "attending"
 

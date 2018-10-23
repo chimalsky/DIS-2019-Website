@@ -12,15 +12,9 @@
         <br/>
         San Diego, California
       </p>
-
-      <a class="cell hide" href="http://cc.acm.org/2019">
-        <div class="site-logo">
-          <img class="fit" src="{{.Site.BaseURL}}img/cc-logo.png" />
-        </div> 
-      </a>
     </div>
     
-    <div class="cell medium-auto align-right grid-x grid-padding-x">
+    <div class="cell medium-auto align-right grid-x">
       {{ range $.Site.Params.social }}
       {{ $pack := or .icon_pack "fa" }}
         <div class="cell auto">
@@ -65,8 +59,7 @@
   
 
   function repositionHero() {
-    $heroPattern.css('left', $heroAnchor.offset().left * 1.2)
-      .css('top', $heroAnchor.offset().top - ($heroPatternSvg.height() * .55))
+    $heroPatternSvg.css('transform', `translate(${$heroAnchor.offset().left * 1.5}px, ${-($heroAnchor.offset().top * .6)}px)`)
   }
 </script>
 
