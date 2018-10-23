@@ -29,6 +29,8 @@ San Diego, California, USA, 92109
 
 Attendees may also find accommodation through AirBnB or other vacation rental services.
 
+</br>
+
 ## GETTING AROUND
 
 The Hyatt Regency is most easily accessed by car, but can also be accessed by bus.
@@ -41,6 +43,8 @@ Lyft and Uber are both prevalent in San Diego, and can be called from the airpor
 
 ### Public Transit
 The MTS Bus 8 route runs from the central Old Town Transit Center to Mission Bay. Bus fair and pass details can be found here.
+
+</br>
 
 ## NEAR THE HOTEL
 
@@ -85,6 +89,8 @@ Old Town is the “historic heart of San Diego”, and is a great place to wande
 
 ### Coastal Highway
 The Pacific Coast Highway is a beautiful way to see California. It runs along the coast and through a number of towns & neighbourhoods on its way north. Drive just a little ways up to Del Mar for a nice brunch or dinner, or keep going as far north as you wish!
+
+</br>
 
 ## OTHER
 
