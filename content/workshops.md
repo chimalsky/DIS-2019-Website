@@ -3,6 +3,8 @@ title: "Workshops"
 ---
 
 We welcome proposals for hosting a workshop at DIS 2019 that align with the conference theme. Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building. We encourage proposals to host a workshop that encourage participants to engage in alternatives to established approaches in design and computing; this can include but is not limited to artistic and humanistic approaches, craft, tinkering, hacking, feminist, postcolonial, and longer-term approaches to design, reflective engagements with politics and cultures of design.
+
+</br>
  
 ## Workshop Planning
 DIS 2019 workshops will be held on the first two days of the conference (23-24 June, 2019); workshops may be for half-day, whole day, or two days. Plan for 6 working hours per day, with morning, afternoon and lunch breaks. Reserving unhurried time for socializing is critical. Workshops should aim to attract between 10-25 participants.
@@ -34,7 +36,7 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 ## Submission Details
 Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:
  
-# Abstract
+### Abstract
 An abstract describing your proposed workshop should be up to 4 pages in length including references in the [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/), submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
 
 - Title and proposed duration
