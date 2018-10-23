@@ -31,7 +31,7 @@ Attendees may also find accommodation through AirBnB or other vacation rental se
 
 </br>
 
-## GETTING AROUND
+## Getting Around
 
 The Hyatt Regency is most easily accessed by car, but can also be accessed by bus.
 
@@ -46,7 +46,7 @@ The MTS Bus 8 route runs from the central Old Town Transit Center to Mission Bay
 
 </br>
 
-## NEAR THE HOTEL
+## Near the Hotel
 
 There are a number of restaurants and activities walking distance from the Hyatt Regency.
 
@@ -92,7 +92,7 @@ The Pacific Coast Highway is a beautiful way to see California. It runs along th
 
 </br>
 
-## OTHER
+## Other
 
 ### Weather
 San Diego is generally moderate and sunny year-round. Temperatures usually sit around 65-75 degrees Fahrenheit. The sun is strong so be sure to bring sun protection! The coastal breeze can be chilly, so bring a jacket for shady areas and evenings.
