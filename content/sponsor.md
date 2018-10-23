@@ -47,8 +47,8 @@ Contribution of $10,000 or more:
 - Third priority for a demo booth.
 - Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
-</br>
 
+</br>
 ## Bronze sponsors
 Contribution of $5,000 or more:
 
@@ -57,8 +57,8 @@ Contribution of $5,000 or more:
 - We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.
 - Fourth priority for a demo booth.
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
-</br>
 
+</br>
 ## Friends of DIS2019 and C&C2019
 Contribution of $1,000 or more:
 
