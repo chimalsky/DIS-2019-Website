@@ -111,7 +111,7 @@ Szu-Yu (Cyn) Liu, Aakash Gautam, Leon Bucker <br/>
 ## Webmaster
 ![alt text](/img/organizers/Zdziarska-Patrycja.jpg "Patrycja Zdziarska")
 
-Patrycja Zdziarska
+Patrycja Zdziarska <br/>
 [webmaster [at] dis2019.acm.org](mailto:webmaster@dis2019.acm.org) 
 
 ## Paper Sub-Committee Chairs
