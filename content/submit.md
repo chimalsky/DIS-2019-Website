@@ -1,5 +1,5 @@
 ---
-title: "Submit"
+title: "Call for Proposals"
 ---
 
 [Papers](https://dis2019.com/papers/) </br>
