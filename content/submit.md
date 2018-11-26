@@ -14,17 +14,17 @@ Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 18, 2019 </br> 
 
 [Workshops](https://dis2019.com/workshops/) </br>
-Proposals Due: January 18, 2019 
-Notifications: March 8, 2019
-Camera Ready Deadline: March 22, 2019
+Proposals Due: January 18, 2019 </br>
+Notifications: March 8, 2019 </br>
+Camera Ready Deadline: March 22, 2019 </br>
 
 [Provocations and Works-in-Progress](https://dis2019.com/provocations_wips/) </br>
-Due: February 8,  2019 
-Notifications: March 21, 2019
-Camera Ready Deadline: April 19, 2019
+Due: February 8,  2019 </br>
+Notifications: March 21, 2019 </br>
+Camera Ready Deadline: April 19, 2019 </br>
 
 [Doctoral Consortium](https://dis2019.com/consortium/) </br>
-To be determined.
+To be determined.</br>
 
 [Art Show](https://dis2019.com/artshow/)</br>
-To be determined.
+To be determined.</br>
