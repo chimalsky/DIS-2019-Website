@@ -245,7 +245,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "#"
+    link = "http://github.com"
 
   [[params.social]]
     icon = "instagram"
@@ -299,18 +299,23 @@ enableGitInfo = false
   weight = 6
   identifier = "sponsor"
 
-
 # Submit Menu
 
 [[menu.main]]  
   name = "Papers"
   url = "/papers"
-  weight = 2
+  weight = 1
   parent = "submit"
 
 [[menu.main]]  
   name = "Pictorials"
   url = "/pictorials"
+  weight = 2
+  parent = "submit"
+
+[[menu.main]]  
+  name = "Consortium"
+  url = "/consortium"
   weight = 3
   parent = "submit"
 
@@ -325,6 +330,13 @@ enableGitInfo = false
   url = "/workshops"
   weight = 5
   parent = "submit"
+
+[[menu.main]]  
+  name = "Artshow"
+  url = "/artshow"
+  weight = 6
+  parent = "submit"
+
 
 
 # Attending Menu

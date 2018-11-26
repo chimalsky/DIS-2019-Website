@@ -57,10 +57,16 @@
             </div>
 
             <div class="cell grid-x">
-                <h2 class="cell">Key Dates:</h2>
-                <ul class="cell">
+                <p class="cell">
+                    Paper Submission Key Dates:
+                </p>
+
+                <br/>
+                <br/>
+
+                <ul class="cell grid-x grid-padding-y">
                 {{ range $.Site.Data.keyDates }}
-                    <li>
+                    <li class="cell">
                        <strong>
                            {{ .event }}:   
                        </strong>  
@@ -69,6 +75,11 @@
                     </li>
                 {{ end }}
                 </ul>
+
+                <p class="cell" style="margin-top: 1em">
+                    For key dates of other submission categories, 
+                    please visit the <a href="">Calls for Proposals</a> page.
+                </p>
             </div>
         </div>
     </main>
