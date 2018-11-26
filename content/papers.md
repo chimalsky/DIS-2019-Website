@@ -36,7 +36,7 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 - **Virtual Program Committee Meeting with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):** Mon/Tues, March 18 and 19, 2019
 - **Paper notifications to authors:** Thursday, March 21, 2019
 - **Papers camera ready deadline:** Wednesday, April 17, 2019
-- **Conference:** June 23-29, 2019
+- **Conference:** June 23-28, 2019
 
 </br>
 
