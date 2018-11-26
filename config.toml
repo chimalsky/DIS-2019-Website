@@ -245,7 +245,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "http://github.com"
+    link = "https://facebook.com"
 
   [[params.social]]
     icon = "instagram"
@@ -276,7 +276,7 @@ enableGitInfo = false
 # Main Menu
 
 [[menu.main]]
-  name = "Submit"
+  name = "Call for Proposals"
   url = "#"
   weight = 1
   identifier = "submit"
