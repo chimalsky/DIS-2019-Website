@@ -17,7 +17,7 @@ Critical computing and design theory have contributed to one another for decades
 Share your inventions and insights that open up new spaces for design, allow for engagement with new, difficult to access communities, and enable designers to play with exciting new materials. This subcommittee seeks papers that document, innovate and/or advance the methods and processes used by UX and service design practitioners; user researchers from industry, academia, and NGOs; and academic design researchers working in HCI and interaction design. [Contact the Design Methods and Processes subcommittee](mailto:methods_processes_sc@dis2019.acm.org).
 
 ### Experiences, Artifacts, and Technology
-Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered. [Contact the Experiences, Artifats, and Technology subcommittee](mailto:artifacts_experiences_sc@dis2019.acm.org).
+Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered. [Contact the Experiences, Artifacts, and Technology subcommittee](mailto:artifacts_experiences_sc@dis2019.acm.org).
 
 ### Change Through Design
 Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. [Contact the Change Through Design subcommittee](mailto:change_sc@dis2019.acm.org).
@@ -36,16 +36,16 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 - **Virtual Program Committee Meeting with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):** Mon/Tues, March 18 and 19, 2019
 - **Paper notifications to authors:** Thursday, March 21, 2019
 - **Papers camera ready deadline:** Wednesday, April 17, 2019
-- **Conference:** June 23-29, 2019
+- **Conference:** June 23-28, 2019
 
 </br>
 
 ## Preparing and Submitting Your Submissions {#preparing}
 
-### Abstract and Title Submissions
+## Abstract and Title Submissions
 DIS 2019 has two submission deadlines for papers.  The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences.   We will use this information to help plan the specifics of the review process and subcommittee work.  The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.
 
-### Paper Formatting and Length
+## Paper Formatting and Length
 All submissions should be formatted using the [SIGCHI Conference Publications Format](https://sigchi.org/templates/). Please use the most recent SIGCHI Papers template in either Word or LaTeX format. Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
 __The SIGCHI publication templates are undergoing revisions and will be updated by Fall 2018.  We will post the final templates for DIS 2019 after they are completed by ACM.__
@@ -54,17 +54,17 @@ We no longer have the category of “Notes”; however, you may submit a paper t
 
 All Papers must present original, unpublished research. Papers are not allowed to be under concurrent review with other conferences, journals, or venues.
 
-### Anonymity
+## Anonymity
 
 Papers should be anonymised for blind peer review. Authors are expected to remove author and institutional identity from the title and header of the paper, as well as any information embedded within the meta-data of the submission file. Suppression of identity in the body of the paper is left up to the discretion of authors. However, reviewers must be able to compare your current submission to other related work in the area. In many situations, this is the author’s own work found in other papers. We ask that if you are citing your own work, you refer to it in the third person as opposed to removing it completely because of blind review. *For example, rather than stating, “This study builds on our prior work [removed for anonymity],” please refer to it in the third person, such as, “This study builds on prior work by \<authors, where you list your names\> [2].”*  Thus, you should be including the full citation to the prior work in the references list, rather than removing it.
 
-### Submission
+## Submission
 
 You must submit your Notice of Intent (NOI) to submit a Paper or Pictorial to the PCS submission system by January 15, 2019. The NOI is an entry in PCS with tentative author names, title and abstract. You can make changes as many times as you like before the final submission deadline on January 18, 2019. Note that this represents a compromise between the tight review schedule this year and the submission deadline being close to public holidays. There will be no further extensions!
 
 As part of the submission process, authors must submit an abstract, keywords, and meta-data related to the submission’s contents. Authors will also be asked to select a ranked list of between one and three subcommittees that fit their paper. This selection will be used to assign your Paper to one of the review subcommittees/themes.  It is not necessarily the case that your submission will be handled by the subcommittee that you choose as a first preference.  
 
-### Review Process
+## Review Process
 
 Papers follow a rigorous blind peer review process. This process is managed by the Technical Program Chairs (TCs), the Subcommittee Chairs (SCs) for each theme, and Associate Chairs (ACs). Confidentiality of submissions is maintained throughout the review process.
 
@@ -79,7 +79,7 @@ The 1AC will present a recommendation for the paper’s acceptance or rejection 
 
 SCs and ACs will meet at a virtual program committee meeting with the TCs to discuss the final acceptance of papers for inclusion in the DIS 2019 program.
  
-### Upon Acceptance of Your Paper or Note
+## Upon Acceptance of Your Paper or Note
 
 Authors will be notified of conditional acceptance or rejection of their Paper or Note on or before the notification date of March 21, 2019. Meta reviews will describe any further changes that the authors are expected to make to the paper prior to its publication. These should be made as part of a “camera ready submission” into PCS by the deadline of April 17, 2019. Final changes will be checked by members of the program committee prior to making a final acceptance of the paper. If authors are unable to meet the requirements for changes, the program chairs will be notified and may reject the paper.
 
