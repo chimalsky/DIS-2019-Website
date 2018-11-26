@@ -276,7 +276,7 @@ enableGitInfo = false
 # Main Menu
 
 [[menu.main]]
-  name = "Call for Proposals"
+  name = "Submit"
   url = "#"
   weight = 1
   identifier = "submit"
@@ -302,6 +302,12 @@ enableGitInfo = false
 # Submit Menu
 
 [[menu.main]]  
+  name = "Call for Proposals"
+  url = "/cfp"
+  weight = 1
+  parent = "submit"
+
+[[menu.main]]  
   name = "Papers"
   url = "/papers"
   weight = 1
@@ -314,7 +320,7 @@ enableGitInfo = false
   parent = "submit"
 
 [[menu.main]]  
-  name = "Consortium"
+  name = "Doctoral Consortium"
   url = "/consortium"
   weight = 3
   parent = "submit"
@@ -332,7 +338,7 @@ enableGitInfo = false
   parent = "submit"
 
 [[menu.main]]  
-  name = "Artshow"
+  name = "Art Show"
   url = "/artshow"
   weight = 6
   parent = "submit"
