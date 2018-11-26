@@ -21,6 +21,26 @@ The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&am
     </item>
     
     <item>
+      <title>Art Show</title>
+      <link>/artshow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/artshow/</guid>
+      <description>To be determined.</description>
+    </item>
+    
+    <item>
+      <title>Call for Proposals</title>
+      <link>/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfp/</guid>
+      <description>Papers &amp;mdash; pdf  Abstract and Title Submission Due: January 15, 2019  Full Submissions due: January 18, 2019  Notifications: March 21, 2019  Camera Ready Deadline: April 17, 2019 
+Pictorials &amp;mdash; pdf  Full Submissions due: January 18, 2019  Notifications: March 21, 2019  Camera Ready Deadline: April 18, 2019 
+Workshops &amp;mdash; pdf  Proposals Due: January 18, 2019  Notifications: March 8, 2019  Camera Ready Deadline: March 22, 2019</description>
+    </item>
+    
+    <item>
       <title>Conference Venue</title>
       <link>/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,15 +120,6 @@ We particularly welcome design research contributions that value:</description>
       <guid>/sponsor/</guid>
       <description>In June 2019, the premier ACM conferences DIS and C&amp;amp;C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.
 Sponsoring this joint event is an ideal way to demonstrate your organization&amp;rsquo;s commitment to research on design and creativity, and to publicize this support to many leaders and students in the field. Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year.</description>
-    </item>
-    
-    <item>
-      <title>Submit</title>
-      <link>/submit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/submit/</guid>
-      <description>Papers  Pictorials  Provocations and Works-in-Progress  Workshops  Doctoral Consortium</description>
     </item>
     
     <item>

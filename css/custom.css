@@ -108,6 +108,28 @@ header.site-header {
     z-index: 999;
 }
 
+.menu > li {
+    display: inline-block;
+}
+
+.dropdown.menu>li.is-dropdown-submenu-parent>a::after {
+    border-color: #f2efe0 transparent transparent; 
+}
+
+.is-dropdown-submenu {
+    background: #272726;
+}
+
+.menu a {
+    font-size: 1rem;
+    line-height: 1.5em;
+    margin-right: 1em;
+}
+
+.menu a:hover {
+    color: #f2efe0;
+}
+
 table {
     font-size: 1rem;
 }
@@ -306,26 +328,13 @@ section.darkish {
     padding: 2em 0;
 }
 
+section.darkish a {
+    color: #3dd1e7;
+}
+
 section.dark {
     background: #272726;
     padding: 2em 0;
 }
 
 
-.menu > li {
-    display: inline-block;
-}
-
-.dropdown.menu>li.is-dropdown-submenu-parent>a::after {
-    border-color: #f2efe0 transparent transparent; 
-}
-
-.menu a {
-    font-size: 1rem;
-    line-height: 1.5em;
-    margin-right: 1em;
-}
-
-.menu a:hover {
-    color: #f2efe0;
-}
