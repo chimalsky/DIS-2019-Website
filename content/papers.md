@@ -46,7 +46,7 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 DIS 2019 has two submission deadlines for papers.  The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences.   We will use this information to help plan the specifics of the review process and subcommittee work.  The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.
 
 ## Paper Formatting and Length
-All submissions should be formatted using the [SIGCHI Conference Publications Format](https://sigchi.org/templates/). Please use the most recent SIGCHI Papers template in either Word or LaTeX format. Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
+All submissions should be formatted using the [SIGCHI Conference Publications Format](https://www.acm.org/publications/proceedings-template). Please use the most recent SIGCHI Papers template in either Word or LaTeX format. Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
 __The SIGCHI publication templates are undergoing revisions and will be updated by Fall 2018.  We will post the final templates for DIS 2019 after they are completed by ACM.__
 
