@@ -10,7 +10,7 @@ Notification: April 26th, 2019 </br>
 ## Chairs </br> 
 Sheldon Brown </br> 
 Jonas Fritsch </br> 
-Contact art2019@cc.acm.org </br> 
+Contact: artshowchairs [at] dis2019.acm.org </br> 
 
 The art exhibition will present artworks that manifest the conferences’ joint themes of Contesting Borders and Intersections and Transformational Creativity. </br> 
 
@@ -33,7 +33,7 @@ The exhibition will take place in Atkinson Hall home of the Qualcomm Institute, 
 
 For these specialized technologies, we will have additional interaction with selected artists for a period of time before the conference. </br>
 
-## To submit:</br>
+## To submit: </br>
 We are accepting two forms of submissions; 1) submissions of existing works and 2) proposals for doing work with the specialized infrastructure available at the venue (the Sun-CAVE, black box display wall, 8K projection).
 
 Send links to a visual portfolio of the artwork, including images and video for time based work. Submit a one page narrative description of the piece, including both its conceptual goals and its functional operations. On another page, provide all of its technical and logistical requirements, including equipment needed, whether you are providing that equipment, space requirements, including any special auditory, lighting or other physical need, time needed for set-up, and whether the piece needs to be staffed during the exhibition.
