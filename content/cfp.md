@@ -27,6 +27,6 @@ Camera Ready Deadline: April 19, 2019 </br>
 To be determined.</br>
 
 [Art Show](/artshow/)</br>
-Art Showcase: June 25, 2019 </br>
-Submission deadline: February 12th, 2019, 11:59 PM (UTC) </br>
+Due: February 12th, 2019, 11:59 PM (UTC) </br>
 Notification: April 26th, 2019 </br>
+Art Showcase: June 25, 2019 </br>
