@@ -105,6 +105,8 @@ The first page of the submission should include the submission’s title, author
 Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:
 
 We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.
+
+### <strong>Please use this <a href="https://www.dropbox.com/s/xb7opewbyr6tvde/Pictorials2019-package-folder.zip?dl=0" target="_blank">InDesign Template</a></strong>
  
 </br> 
 ## Review and Selection
