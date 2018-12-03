@@ -8,8 +8,7 @@ Submission deadline: February 12th, 2019, 11:59 PM (UTC)</br>
 Notification: April 26th, 2019 </br> 
 
 ## Chairs </br> 
-Sheldon Brown </br> 
-Jonas Fritsch </br> 
+Sheldon Brown & Jonas Fritsch </br> 
 Contact: artshowchairs [at] dis2019.acm.org </br> 
 
 The art exhibition will present artworks that manifest the conferences’ joint themes of Contesting Borders and Intersections and Transformational Creativity. </br> 
