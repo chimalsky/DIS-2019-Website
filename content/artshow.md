@@ -7,13 +7,9 @@ Art Showcase: June 25, 2019 </br>
 Submission deadline: February 12th, 2019, 11:59 PM (UTC)</br> 
 Notification: April 26th, 2019 </br> 
 
-## Chairs </br> 
-Sheldon Brown & Jonas Fritsch </br> 
-Contact: artshowchairs [at] dis2019.acm.org </br> 
-
 The art exhibition will present artworks that manifest the conferences’ joint themes of Contesting Borders and Intersections and Transformational Creativity. </br> 
 
-## ‘ECOLOGIES OF TRANSFORMATION’
+## ECOLOGIES OF TRANSFORMATION
 The "interface" is dead. It depended upon distinctions between elements that needed some intermediation. This was always an illusion, but it served some purpose for a time in simplifying design tasks while more substantial system ecologies developed. But we were never separate from systems that needed an interface, and now, the idea that the interface mediates interactions between us and computational systems misses almost the entire mark as human interactions, computational devices and the world become ever more entangled into social, economic, political, and environmental relations. A better concept might be the interlace. We are inherently intertwined with myriad systems with myriad agencies. And most of these systems are not primarily about us, we just live there. Some of these conditions are better engaged with enhanced visibility and cogence, and for others, it makes no difference.
 
 We seek activities in art, design and other, unnamable phenomena that give us some indication of what this might look/feel/smell/taste/sound like (or exist on some other carrier wave). We are looking for pointers (art, performance, sound) towards our condition that arises from the many interactions in- and foldings across, complex systems that transcend scales of time, space, materiality, cognition and logics. Maybe interfaces haven’t died, they’ve just fractally multiplied and become pervasive at all levels, becoming the fabric of our material/computational/biotic phenomena. Help us come to grip. Submit your work that indicates, clarifies and problematizes this condition.
@@ -40,4 +36,5 @@ Proposition for existing infrastructure should include the proposed description 
 All selected artists will get a free day of registration for both conferences. We can also provide limited funding for travel and practical expenses related to the exhibition pieces. More details soon.
 
 ## Questions </br>
+Sheldon Brown & Jonas Fritsch </br> 
 artshowchairs [at] dis2019.acm.org
