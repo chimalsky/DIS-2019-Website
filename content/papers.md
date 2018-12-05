@@ -91,7 +91,7 @@ At the conference, authors of accepted papers must be in attendance to present t
  
 </br> 
 ## DIS2019 Technical Program Chairs
-Carman Neustaedter (Simon Fraser University), Deborah Tatar (Virginia Tech) 
+Carman Neustaedter (Simon Fraser University), Deborah Tatar (Virginia Tech) </br>
 
 [technicalchairs [AT] dis2019.acm.org](mailto:technicalchairs@dis2019.acm.org)
 
