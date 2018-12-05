@@ -48,8 +48,6 @@ DIS 2019 has two submission deadlines for papers.  The first deadline, January 1
 ## Paper Formatting and Length
 All submissions should be formatted using the [SIGCHI Conference Publications Format](https://www.acm.org/publications/proceedings-template). Please use the most recent SIGCHI Papers template in either Word or LaTeX format (please use sample-sigchi.tex). Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
-__The SIGCHI publication templates are undergoing revisions and will be updated by Fall 2018.  We will post the final templates for DIS 2019 after they are completed by ACM.__
-
 We no longer have the category of “Notes”; however, you may submit a paper that is shorter than 10 pages that will be reviewed based on its contribution.
 
 All Papers must present original, unpublished research. Papers are not allowed to be under concurrent review with other conferences, journals, or venues.
@@ -60,7 +58,7 @@ Papers should be anonymised for blind peer review. Authors are expected to remov
 
 ## Submission
 
-You must submit your Notice of Intent (NOI) to submit a Paper or Pictorial to the PCS submission system by January 15, 2019. The NOI is an entry in PCS with tentative author names, title and abstract. You can make changes as many times as you like before the final submission deadline on January 18, 2019. Note that this represents a compromise between the tight review schedule this year and the submission deadline being close to public holidays. There will be no further extensions!
+You must submit your Notice of Intent (NOI) to submit a Paper to the PCS [submission system]( https://new.precisionconference.com/submissions) by January 15, 2019. The NOI is an entry in PCS with tentative author names, title and abstract. You can make changes as many times as you like before the final submission deadline on January 18, 2019. Note that this represents a compromise between the tight review schedule this year and the submission deadline being close to public holidays. There will be no further extensions!
 
 As part of the submission process, authors must submit an abstract, keywords, and meta-data related to the submission’s contents. Authors will also be asked to select a ranked list of between one and three subcommittees that fit their paper. This selection will be used to assign your Paper to one of the review subcommittees/themes.  It is not necessarily the case that your submission will be handled by the subcommittee that you choose as a first preference.  
 
