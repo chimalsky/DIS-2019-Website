@@ -24,10 +24,10 @@ Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 19, 2019 </br>
 
 [Doctoral Consortium](/consortium/) </br>
-Submission deadline: Friday, February 8, 2019 
-Notifications to authors: Thursday, March 21, 2019 
-Camera ready deadline: Friday, April 19, 2019 
-Doctoral Consortium: Tuesday, June 25, 2019 
+Submission deadline: Friday, February 8, 2019 </br>
+Notifications to authors: Thursday, March 21, 2019 </br>
+Camera ready deadline: Friday, April 19, 2019 </br>
+Doctoral Consortium: Tuesday, June 25, 2019 </br>
 
 [Art Show](/artshow/)</br>
 Due: February 12th, 2019, 11:59 PM (UTC) </br>
