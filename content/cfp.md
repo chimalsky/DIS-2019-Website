@@ -19,17 +19,17 @@ Notifications: March 8, 2019 </br>
 Camera Ready Deadline: March 22, 2019 </br>
 
 [Provocations and Works-in-Progress](/provocations_wips/) --- <i class="fas fa-file-download">[ pdf](/downloads/provocations_wips.pdf)</i> </br>
-Due: February 8,  2019 </br>
+Submissions Due: February 8,  2019 </br>
 Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 19, 2019 </br>
 
 [Doctoral Consortium](/consortium/) </br>
-Submission deadline: Friday, February 8, 2019 </br>
-Notifications to authors: Thursday, March 21, 2019 </br>
-Camera ready deadline: Friday, April 19, 2019 </br>
+Submission Due: Friday, February 8, 2019 </br>
+Notifications: Thursday, March 21, 2019 </br>
+Camera Ready Deadline: Friday, April 19, 2019 </br>
 Doctoral Consortium: Tuesday, June 25, 2019 </br>
 
 [Art Show](/artshow/)</br>
-Due: February 12th, 2019, 11:59 PM (UTC) </br>
+Submissions Due: February 12th, 2019, 11:59 PM (UTC) </br>
 Notification: April 26th, 2019 </br>
 Art Showcase: June 25, 2019 </br>
