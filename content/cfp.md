@@ -9,7 +9,7 @@ Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 17, 2019 </br> 
 
 [Pictorials](/pictorials/) --- <i class="fas fa-file-download">[ pdf](/downloads/pictorials.pdf)</i> </br>
-Full Submissions due: January 18, 2019 </br>
+Full Submissions Due: January 18, 2019 </br>
 Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 18, 2019 </br> 
 
