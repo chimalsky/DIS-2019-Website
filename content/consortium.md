@@ -38,8 +38,6 @@ Submissions will be reviewed by the Doctoral Consortium Chairs. Participation in
 If you are accepted to the Doctoral Consortium, we will send you registration instructions.  Participation in the Doctoral Consortium is free of charge to the invited participants. If you are presenting and/or participating in any other part of DIS 2019, you will need to pay the student conference registration fee.</br>
 
 ## Doctoral Consortium Chairs</br>
-Susanne Bødker</br>
-Aarhus University</br>
 
 John Bowers</br>
 Newcastle University</br>
