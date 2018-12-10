@@ -27,10 +27,9 @@ Carman Neustaedter & Deborah Tatar <br/>
 
 
 ## Doctoral Consortium Chairs
-![alt text](/img/organizers/Bodker-Susanne.jpg "Susanne Bødker")
 ![alt text](/img/organizers/Bowers-John.jpg "John Bowers")
 
-Susanne Bødker & John Bowers <br/>
+John Bowers <br/>
 [dcchairs [at] dis2019.acm.org](mailto:dcchairs@dis2019.acm.org)  
 
 
