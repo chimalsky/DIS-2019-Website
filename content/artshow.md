@@ -14,7 +14,7 @@ Art Showcase: June 25, 2019 </br>
 Sheldon Brown</br>
 Jonas Fritsch</br>
 
-### Curatorial Advisory Committee </br>
+## Curatorial Advisory Committee </br>
 Bruce Sterling</br>
 Mogens Jacobsen</br>
 Zhang Ga</br>
