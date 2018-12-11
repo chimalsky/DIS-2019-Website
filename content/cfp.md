@@ -29,7 +29,7 @@ Notifications: Thursday, March 21, 2019 </br>
 Camera Ready Deadline: Friday, April 19, 2019 </br>
 Doctoral Consortium: Tuesday, June 25, 2019 </br>
 
-[Art Show](/artshow/)</br>
+[Art Showcase](/artshow/)</br>
 Submissions Due: February 12th, 2019, 11:59 PM (UTC) </br>
 Notification: April 26th, 2019 </br>
 Art Showcase: June 25, 2019 </br>
