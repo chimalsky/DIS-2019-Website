@@ -48,7 +48,7 @@ DIS 2019 has two submission deadlines for papers.  The first deadline, January 1
 ## Paper Formatting and Length
 All submissions should be formatted using the [SIGCHI Conference Publications Format](https://www.acm.org/publications/proceedings-template). Please use the most recent SIGCHI Papers template in either Word or LaTeX format (please use sample-sigchi.tex). Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
-### _Dec 17, 2018 Update: We are in active discussions with ACM Publications and Sheridan about what template format we are able to use for DIS 2019.  Sorry for the delay; the new templates have only just become available and we are looking into their suitability for DIS.  We will post an update as soon as we have more information._
+### Dec 17, 2018 Update: We are in active discussions with ACM Publications and Sheridan about what template format we are able to use for DIS 2019.  Sorry for the delay; the new templates have only just become available and we are looking into their suitability for DIS.  We will post an update as soon as we have more information.
 
 We no longer have the category of “Notes”; however, you may submit a paper that is shorter than 10 pages that will be reviewed based on its contribution.
 
