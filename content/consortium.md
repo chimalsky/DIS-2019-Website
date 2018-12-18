@@ -9,12 +9,13 @@ You must be enrolled in a design-related discipline as a doctoral candidate at t
 As part of submissions to the Doctoral Consortium, we invite you to consider the conference theme, “Contesting Borders and Intersections.” With this theme, we encourage submissions that critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices, as well as those that present innovative thinking, and creative or provocative interaction design. </br>
 
 # Important Dates</br>
-
-Submission deadline: Friday, February 8, 2019 </br> 
-Notifications to authors: Thursday, March 21, 2019 </br>
-Camera ready deadline: Friday, April 19, 2019 </br>
-Doctoral Consortium at DIS 2019: Tuesday, June 25, 2019 </br>
-DIS 2019, San Diego, USA: June 24-28, 2019 </br>
+| Action | Timeline |
+|---|---|
+|**Submission deadline**:| Friday, February 8, 2019 |
+|**Notifications to authors:**| Thursday, March 21, 2019 |
+|**Camera ready deadline:**|Friday, April 19, 2019 |
+|**Doctoral Consortium at DIS 2019:**| Tuesday, June 25, 2019 |
+|**DIS 2019, San Diego, USA:**| June 24-28, 2019 |
 
 # Preparing and Submitting</br> 
 
