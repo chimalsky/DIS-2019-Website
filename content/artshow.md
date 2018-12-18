@@ -46,10 +46,10 @@ Works can be in a variety of forms such as interactive installations, virtual an
 
 The exhibition will take place in Atkinson Hall home of the Qualcomm Institute, the UC San Diego home of the California Institute of Telecommunications and Information Technologies (CalIT2). We will look for work that can take advantage of the [multiple spaces in this venue](http://qi.ucsd.edu/facilities.php) which include:
 
-- [a white walled gallery](https://twitter.com/gallerycalit2) </br>
-- an atrium and [outdoor patio](http://qi.ucsd.edu/include/courtyard.html) </br>
-- [a black box](http://qi.ucsd.edu/images/gallery/tours4.jpg) with a 78 gigapixel, 40 foot long x 10 foot tall, tiled display wall </br>
-- [an auditorium](http://qi.ucsd.edu/images/facilities/img-facilities-auditorium1.png) with 8K projection, 32 channels of surround sound and a stage for performances </br>
+- [a white walled gallery](https://twitter.com/gallerycalit2), </br>
+- an atrium and [outdoor patio](http://qi.ucsd.edu/include/courtyard.html), </br>
+- [a black box](http://qi.ucsd.edu/images/gallery/tours4.jpg) with a 78 gigapixel, 40 foot long x 10 foot tall, tiled display wall, </br>
+- [an auditorium](http://qi.ucsd.edu/images/facilities/img-facilities-auditorium1.png) with 8K projection, 32 channels of surround sound and a stage for performances, </br>
 - [a virtual reality room](http://qi.ucsd.edu/images/gallery/tours9.jpg), the Sun-CAVE, made from 32 4K stereo video panels. </br>
 
 If your work is specifically for one of these spaces, please indicate. For these specialized technologies, we will have additional interaction with selected artists for a period of time before the conference. </br>
