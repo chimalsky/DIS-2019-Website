@@ -102,13 +102,12 @@ Pictorials should be submitted in the DIS 2019 SIGCHI Extended Abstracts Format,
  
 The first page of the submission should include the submission’s title, author(s) and their affiliation(s) (leave blank for double blind review), and a written abstract of no more than 100 words succinctly describing the background and context of the pictorial as well as its contribution to the DIS community.
  
-Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:
+Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example [InDesign template](https://www.dropbox.com/s/xb7opewbyr6tvde/Pictorials2019-package-folder.zip?dl=0), and a sample PDF file that shows possible layouts:
 
-We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.
+We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in [Word](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0).
 
-### <strong>Please use this <a href="https://www.dropbox.com/s/xb7opewbyr6tvde/Pictorials2019-package-folder.zip?dl=0" target="_blank">InDesign Template</a></strong>
+### Please use this [InDesign Template](https://www.dropbox.com/s/xb7opewbyr6tvde/Pictorials2019-package-folder.zip?dl=0)
 
-([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0))
  
 </br> 
 ## Review and Selection
