@@ -21,7 +21,7 @@ All sponsorship will go towards supporting both conferences. We offer three corp
 ![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech")
 
 </br>
- ### FRIENDS OF </br>
+### FRIENDS OF </br>
  ![alt text](/img/sponsors/sketch.jpg "Sktech")
 
 
