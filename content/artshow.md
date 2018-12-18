@@ -15,7 +15,6 @@ Notification: April 26th, 2019</br>
 
 Deadlines are specified as [Anywhere on Earth time](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
-</br>
 
 ## Chairs </br>
 Sheldon Brown</br>
@@ -23,7 +22,6 @@ Jonas Fritsch</br>
 
 Contact: [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org) 
 
-</br>
 
 ## Curatorial Advisory Committee </br>
 - Bruce Sterling
@@ -32,14 +30,13 @@ Contact: [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.o
 - Ken Goldberg
 - Tiffany Shlain
 
-</br>
 
 # ‘ECOLOGIES OF TRANSFORMATION’
 The "interface" is dead. It depended upon distinctions between elements that needed some intermediation. This was always an illusion, but it served some purpose for a time in simplifying design tasks while more substantial system ecologies developed. But we were never separate from systems that needed an interface, and now, the idea that the interface mediates interactions between us and computational systems misses almost the entire mark as human interactions, computational devices and the world become ever more entangled into social, economic, political, and environmental relations. A better concept might be the _interlace_. We are inherently intertwined with myriad systems with myriad agencies. And most of these systems are not primarily about us, we just live there. Some of these conditions are better engaged with enhanced visibility and cogence, and for others, it makes no difference.
 
 We seek activities in art, design and other, unnamable phenomena that give us some indication of what this might look/feel/smell/taste/sound like (or exist on some other carrier wave). We are looking for pointers (art, performance, sound) towards our condition that arises from the many interactions in- and foldings across, complex systems that transcend scales of time, space, materiality, cognition and logics. Maybe interfaces haven’t died, they’ve just fractally multiplied and become pervasive at all levels, becoming the fabric of our material/computational/biotic phenomena. Help us come to grip. Submit your work that indicates, clarifies and problematizes this condition.
 
-</br>
+
 
 ## Opportunities and infrastructures:
 Works can be in a variety of forms such as interactive installations, virtual and/or augmented realities, experimental cinematic shorts, performances and/or works that are suited to special technological platforms that will be part of the exhibition venue. You should indicate in your application the environmental needs of your work, i.e. needs to be in the dark/light, listens to sound/makes sound, can be outdoors, has a time duration, it runs once, it loops, etc.
