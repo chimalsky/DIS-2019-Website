@@ -82,4 +82,6 @@ Contribution of $1,000 or more:
 
 - Company logo on signage at both conferences and on both conference websites.
 
+</br>
+
 The joint conferences offer a number of events that can be sponsored including the combined Art Show, two general receptions, two dinners, lunch and coffee breaks, and other events. Naming of events will be decided based on the amount of the contribution and the order received. The price of events vary; please [contact us](mailto:sponsor2019@cc.cam.org) with inquiries.
