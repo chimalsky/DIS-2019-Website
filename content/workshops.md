@@ -11,10 +11,10 @@ DIS 2019 workshops will be held on the first two days of the conference (23-24 J
 
 We encourage provocative, interdisciplinary, boundary crossing and experimental proposals that relate to the topics of DIS:
 
-- Design Methods and Processes: Methods, tools, and techniques for engaging people; researching, designing, and co-designing interactive systems; participatory design, design artefacts, research through design; the use of critical theory, feminist methods, counter-factual histories and cultural analysis to understand, critique and reflect on design products and contexts as well as design practices.
-- Experience: Places, temporality, people, communities, events, phenomena, aesthetics, user experience, usability, engagement, empowerment, disruption, wellbeing, designing things that matter, diversity, participation, materiality, making, etc.
-- Themes: Sustainability, Health, resilience, longer-term approaches, children-computer interaction, games and play, digital arts, making, craft, digital labor, etc.
-- Technological Innovation (systems, tools, and/or artifact designs): Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.
+- __Design Methods and Processes__: Methods, tools, and techniques for engaging people; researching, designing, and co-designing interactive systems; participatory design, design artefacts, research through design; the use of critical theory, feminist methods, counter-factual histories and cultural analysis to understand, critique and reflect on design products and contexts as well as design practices.
+- __Experience__: Places, temporality, people, communities, events, phenomena, aesthetics, user experience, usability, engagement, empowerment, disruption, wellbeing, designing things that matter, diversity, participation, materiality, making, etc.
+- __Themes__: Sustainability, Health, resilience, longer-term approaches, children-computer interaction, games and play, digital arts, making, craft, digital labor, etc.
+- __Technological Innovation (systems, tools, and/or artifact designs)__: Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.
 
 </br>
 ## The Conference Context
@@ -37,7 +37,7 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:
  
 ### Abstract
-An abstract describing your proposed workshop should be up to 4 pages in length including references in the [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/), submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
+An abstract describing your proposed workshop should be up to 4 pages in length including references in the SIGCHI Extended Abstracts Format ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)), submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
 
 - Title and proposed duration
 - Organizers’ names and institutional addresses (proposals are not anonymized for review)
