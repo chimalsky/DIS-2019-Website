@@ -20,7 +20,6 @@ Accepted PWiP submissions will be published in the DIS 2019 companion publicatio
 
 </br>
 ## Important Dates
-
 - **Provocations & Works-in-Progress due:** Friday, 8 February 2019 (Submission closes at 5pm Pacific time)
 - **Provocations & Works-in-Progress author notifications:** Thursday, 21 March 2019
 - **Camera ready papers due:** Friday, 19 April 2019
@@ -30,7 +29,7 @@ Accepted PWiP submissions will be published in the DIS 2019 companion publicatio
 
 ## Preparing and Submitting
 
-A PWiP paper should not exceed 4 pages (excluding references) formatted using the most recent SIGCHI Extended Abstracts Format (horizontal).
+A PWiP paper should not exceed 4 pages (excluding references) formatted using the most recent SIGCHI Extended Abstracts Format (horizontal) ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)).
 
 Please include one sentence that can be used in the conference program as a stand-alone teaser or provocation related to your submission, with the aim of drawing attendees to your presentation and engage in discussion.
 
