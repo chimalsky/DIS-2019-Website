@@ -10,7 +10,7 @@ The track invites interface or system demonstrations, novel gadgets, techno-craf
 Demo submissions should be exploratory, provocative, innovative and ambitious. Submissions are encouraged from a wide range of areas that may include HCI, Design and Digital media, and physical computing prototypes and should ideally fit into one or more of the following domains: </br>
 
 -__Critical Computing and Design Theory__: Exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. 
--__Design Methods and Processes__: Document, innovate and/or advance the methods and processes used across research and practice  
+-__Design Methods and Processes__: Document, innovate and/or advance the methods and processes used across research and practice
 -__Experience, Artifacts, and Technology__: Explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered  
 -__Change Through Design__: What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for?
 -__Contesting Borders and Intersections__: The conference theme explores ways to critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices  
