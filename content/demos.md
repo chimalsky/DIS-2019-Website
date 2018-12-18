@@ -10,9 +10,13 @@ The track invites interface or system demonstrations, novel gadgets, techno-craf
 Demo submissions should be exploratory, provocative, innovative and ambitious. Submissions are encouraged from a wide range of areas that may include HCI, Design and Digital media, and physical computing prototypes and should ideally fit into one or more of the following domains: </br>
 
 ### Critical Computing and Design Theory: Exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. </br> 
+
 ### Design Methods and Processes: Document, innovate and/or advance the methods and processes used across research and practice </br> 
+
 ### Experience, Artifacts, and Technology: Explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered </br> 
+
 ### Change Through Design: What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? </br> 
+
 ### Contesting Borders and Intersections: The conference theme explores ways to critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices </br> 
 
 Accepted submissions will also feature an SIGCHI Extended Abstracts Format text of the demo (max. 4 pages, including references). 
@@ -32,11 +36,7 @@ Submissions to the Demo track for DIS2019 must be made through the Precision Con
 Submissions must include the following: </br> 
 
 - Extended Abstract: Demo abstracts are a maximum four pages in length. All submissions should be formatted using the SIGCHI Extended Abstracts Format (US Letter). Please use the most recent SIGCHI Extended Abstracts template in either Word or LaTeX format. This includes all figures, tables, appendices, and a synopsis of less than 150 words. References DO count towards the page limits. Submissions that are over the required length will be rejected. All submissions must present original, unpublished research. Submissions are not allowed to be under concurrent review with other conferences, journals, or venues. Since submissions will undergo chair review, your extended abstract submissions do not need to be anonymized.
-
-</br> 
 - Demos Specification: A separate supplemental demo specification document in US Letter format, that describes the demo’s infrastructure and space requirements, as well as the indicative size and any unusual set up requirements. Specification to include four photographs or diagrams of set up of the demo, and should outline basic technical requirements needed. Note that successful applicants will be expected to bring all primary technical equipment required for the Demo.
-
-</br> 
 - Optional video (for review only): An optional video of up to 2 minutes length can be provided for review purposes only. Authors must provide a link in the abstract (just before the References) and in the specification to view the video (e.g. from YouTube or Vimeo). The video may be password protected – in that case, please include the password with the link.
 
 
