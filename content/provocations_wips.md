@@ -33,7 +33,7 @@ A PWiP paper should not exceed 4 pages (excluding references) formatted using th
 
 Please include one sentence that can be used in the conference program as a stand-alone teaser or provocation related to your submission, with the aim of drawing attendees to your presentation and engage in discussion.
 
-All submissions should be anonymised and submitted via the Precision Conference System by 8 February, 2019.
+All submissions should be anonymised and submitted via the [PCS submission system](https://new.precisionconference.com/submissions) by 8 February, 2019.
 
 </br>
 
