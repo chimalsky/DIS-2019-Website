@@ -3,21 +3,17 @@ title: "Demos"
 ---
 
 
-DIS 2019 invites researchers, prototypes and practitioners to submit their work to the DIS 2019 Demo Track. </br>
+__DIS 2019__ invites researchers, prototypes and practitioners to submit their work to the __DIS 2019 Demo Track__. </br>
 
 The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. </br>
 
 Demo submissions should be exploratory, provocative, innovative and ambitious. Submissions are encouraged from a wide range of areas that may include HCI, Design and Digital media, and physical computing prototypes and should ideally fit into one or more of the following domains: </br>
 
-### Critical Computing and Design Theory: Exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. </br> 
-
-### Design Methods and Processes: Document, innovate and/or advance the methods and processes used across research and practice </br> 
-
-### Experience, Artifacts, and Technology: Explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered </br> 
-
-### Change Through Design: What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? </br> 
-
-### Contesting Borders and Intersections: The conference theme explores ways to critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices </br> 
+-__Critical Computing and Design Theory__: Exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. 
+-__Design Methods and Processes__: Document, innovate and/or advance the methods and processes used across research and practice  
+-__Experience, Artifacts, and Technology__: Explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered  
+-__Change Through Design__: What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for?
+-__Contesting Borders and Intersections__: The conference theme explores ways to critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices  
 
 Accepted submissions will also feature an [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/) text of the demo (max. 4 pages, including references). 
 This text will be published in the DIS 2019 proceedings in the ACM DL. Accepted demos may also include additional digital material for display such as videos and/or a poster. </br> 
