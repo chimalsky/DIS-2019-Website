@@ -7,9 +7,11 @@ title: "Call for Art Showcase"
 The art exhibition will present artworks that manifest the conferences’ joint themes of _Contesting Borders and Intersections_ and _Transformational Creativity_. The [C&C](http://cc.acm.org/2019/submit/artworks.php) website has the identical call for participation.
 </br>
 ## Important Dates  </br>
-Art Showcase: June 25, 2019 </br>
-Submission Deadline: February 12th, 2019 11:59 PM (UTC)</br>
-Notification: April 26th, 2019</br>
+| Action | Timeline|
+|---|---|
+|**Art Showcase:**| June 25, 2019|
+|**Submission Deadline**:| February 12th, 2019 11:59 PM (UTC)|
+|**Notification:**| April 26th, 2019|
 
 Deadlines are specified as [Anywhere on Earth time](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
