@@ -46,9 +46,16 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 DIS 2019 has two submission deadlines for papers.  The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences.   We will use this information to help plan the specifics of the review process and subcommittee work.  The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.
 
 ## Paper Formatting and Length
-All submissions should be formatted using the [SIGCHI Conference Publications Format](https://www.acm.org/publications/proceedings-template). Please use the most recent SIGCHI Papers template in either Word or LaTeX format (please use sample-sigchi.tex). Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
-### Dec 17, 2018 Update: We are in active discussions with ACM Publications and Sheridan about what template format we are able to use for DIS 2019.  Sorry for the delay; the new templates have only just become available and we are looking into their suitability for DIS.  We will post an update as soon as we have more information.
+All submissions should be formatted using the following templates:
+- [Word Papers template](https://www.dropbox.com/s/703ih7giiyd4335/DIS19-Sample-Paper.docx?dl=0)
+- [Latex Papers template](https://www.dropbox.com/s/4piuua92z4eci16/DIS19-Latex-Papers.zip?dl=0)
+
+Please use the most recent SIGCHI Papers template in either Word or LaTeX format (please use sample-sigchi.tex). Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
+
+### Dec 18, 2018: We have chosen to not use the new paper layouts produced by ACM.  Instead, we will be using the SIGCHI paper format that was updated for the ACM TEI 2019 conference.
+
+Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
 We no longer have the category of “Notes”; however, you may submit a paper that is shorter than 10 pages that will be reviewed based on its contribution.
 
