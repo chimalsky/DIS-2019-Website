@@ -37,7 +37,7 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:
  
 ### Abstract
-An abstract describing your proposed workshop should be up to 4 pages in length including references in the SIGCHI Extended Abstracts Format ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)), submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
+An abstract describing your proposed workshop should be up to 4 pages in length including references in the SIGCHI Extended Abstracts Format ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)), submitted via the [PCS submission system](https://new.precisionconference.com/submissions). This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
 
 - Title and proposed duration
 - Organizers’ names and institutional addresses (proposals are not anonymized for review)
