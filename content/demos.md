@@ -7,6 +7,15 @@ __DIS 2019__ invites researchers, prototypes and practitioners to submit their w
 
 The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. </br>
 
+
+## Important Dates 
+| Action | Timeline |
+|---|---|
+|**Extended abstract, demo specification (and optional video) due**:|8 Feb 2019 (Submission closes at 23:59 PDT.)|
+|**Successful demos author notifications:**| 21 March 2019 |
+|**All camera ready extended abstracts due:**| 19 April 2019|  
+|**DIS 2019 conference:**| 24-28 June 2019|
+
 Demo submissions should be exploratory, provocative, innovative and ambitious. Submissions are encouraged from a wide range of areas that may include HCI, Design and Digital media, and physical computing prototypes and should ideally fit into one or more of the following domains: </br>
 
 - __Critical Computing and Design Theory__: Exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. 
@@ -19,12 +28,6 @@ Accepted submissions will also feature an SIGCHI Extended Abstracts Format ([Dow
 This text will be published in the DIS 2019 proceedings in the ACM DL. Accepted demos may also include additional digital material for display such as videos and/or a poster. </br> 
 
 Accepted authors are expected to attend the conference and be on hand with their demo during the dedicated DIS Reception session. </br> 
-
-## Important Dates </br> 
-- 8 Feb 2019: Extended abstract, demo specification (and optional video) due. Submission closes at 23:59 PDT.
-- 21 March 2019: Successful demos author notifications
-- 19 April 2019: All camera ready extended abstracts due
-- 24-28 June 2019: DIS 2019 conference
 
 ## Submission and Application </br>
 Submissions to the Demo track for DIS2019 must be made through the [PCS submission system](https://new.precisionconference.com/submissions). </br> 
