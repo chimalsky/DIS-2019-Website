@@ -27,7 +27,7 @@ Accepted authors are expected to attend the conference and be on hand with their
 - 24-28 June 2019: DIS 2019 conference
 
 ## Submission and Application </br>
-Submissions to the Demo track for DIS2019 must be made through the Precision Conference System (updated link TBD). </br> 
+Submissions to the Demo track for DIS2019 must be made through the [PCS submission system](https://new.precisionconference.com/submissions). </br> 
 
 Submissions must include the following: </br> 
 
