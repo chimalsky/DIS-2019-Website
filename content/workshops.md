@@ -13,7 +13,7 @@ We welcome proposals for hosting a workshop at DIS 2019 that align with the conf
 |**Workshops and Doctoral Consortium:**| June 23-24, 2019 |
  
 </br>  
-## Workshop Planning
+## Workshop Planning </br> 
 DIS 2019 workshops will be held on the first two days of the conference (23-24 June, 2019); workshops may be for half-day, whole day, or two days. Plan for 6 working hours per day, with morning, afternoon and lunch breaks. Reserving unhurried time for socializing is critical. Workshops should aim to attract between 10-25 participants.
 
 We encourage provocative, interdisciplinary, boundary crossing and experimental proposals that relate to the topics of DIS:
@@ -32,10 +32,10 @@ There are some unusual elements to consider when proposing a workshop for DIS 20
 
 </br>
  
-## Submission Details
+## Submission Details </br> 
 Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:
  
-### Abstract
+### Abstract </br> 
 An abstract describing your proposed workshop should be up to 4 pages in length including references in the SIGCHI Extended Abstracts Format ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)), submitted via the [PCS submission system](https://new.precisionconference.com/submissions). This will serve as the longer-term record of accepted workshop proposals. The submission should contain:
 
 - Title and proposed duration
@@ -63,7 +63,7 @@ For first time workshop organizers, successful submissions from previous DIS con
 
 </br>
  
-## Workshops Chairs
+## Workshops Chairs </br> 
 Silvia Lindtner (University of Michigan) & Lisa P. Nathan (University of British Columbia) 
 
 [workshopchairs [AT] dis2019.acm.org](mailto:workshopchairs@dis2019.acm.org)
