@@ -15,12 +15,12 @@ All sponsorship will go towards supporting both conferences. We offer three corp
 (your organization's logo here)
 
 ### SILVER </br>
-![alt text](/img/sponsors/google.svg "Google")
-![alt text](/img/sponsors/designlab.png "UC San Diego Design Lab")
-![alt text](/img/sponsors/virginiatech.svg "Virginia Tech")
+![alt text](/img/sponsors/google.jpg "Google")
+![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab")
+![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech")
 
 ### FRIENDS OF </br>
-![alt text](/img/sponsors/sketch.png "Sktech")
+![alt text](/img/sponsors/sketch.jpg "Sktech")
 
 
 Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.acm.org).
