@@ -11,17 +11,17 @@ All sponsorship will go towards supporting both conferences. We offer three corp
 
 ## DIS/C&C 2019 Sponsors Include: </br>
 
-### PLATINUM </br>
+## PLATINUM </br>
 (your organization's logo here)
 
 </br>
-### SILVER </br>
+## SILVER </br>
 ![alt text](/img/sponsors/google.jpg "Google")
 ![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab")
 ![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech")
 
 </br>
-### FRIENDS OF </br>
+## FRIENDS OF </br>
  ![alt text](/img/sponsors/sketch.jpg "Sktech")
 
 
