@@ -15,7 +15,7 @@ Demo submissions should be exploratory, provocative, innovative and ambitious. S
 - __Change Through Design__: What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for?
 - __Contesting Borders and Intersections__: The conference theme explores ways to critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices  
 
-Accepted submissions will also feature an [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/) ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)) text of the demo (max. 4 pages, including references). 
+Accepted submissions will also feature an SIGCHI Extended Abstracts Format ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)) text of the demo (max. 4 pages, including references). 
 This text will be published in the DIS 2019 proceedings in the ACM DL. Accepted demos may also include additional digital material for display such as videos and/or a poster. </br> 
 
 Accepted authors are expected to attend the conference and be on hand with their demo during the dedicated DIS Reception session. </br> 
