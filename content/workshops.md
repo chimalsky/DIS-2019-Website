@@ -24,7 +24,7 @@ We encourage provocative, interdisciplinary, boundary crossing and experimental 
 - __Technological Innovation (systems, tools, and/or artifact designs)__: Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.
 
 </br>
-## The Conference Context
+## The Conference Context </br>
 There are some unusual elements to consider when proposing a workshop for DIS 2019:
 
 - Joint with Creativity and Cognition 2019: DIS and C&C will share the conference venue. If you believe that your topic would be of particular interest to attendees of C&C as well as DIS, please note it. The Workshop Chairs of C&C and DIS will share proposals to create an overall program of workshops that not only serve the particular needs and interest of their own communities but will look for opportunities to increase the dialogue between them, as well as try to minimize duplication.
