@@ -2,15 +2,26 @@
 title: "Sponsorship"
 ---
 
-In June 2019, the premier ACM conferences DIS and C&C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.  
+In June 2019, the premier ACM conferences DIS and C&C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.
 
-Sponsoring this joint event is an ideal way to demonstrate your organization's commitment to research on design and creativity, and to publicize this support to many leaders and students in the field.  Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year.  Sponsorship helps to keep registration fees affordable for academic researchers, especially students. Corporate support will also allow student volunteers to receive complimentary registration. 
+Sponsoring this joint event is an ideal way to demonstrate your organization's commitment to research on design and creativity, and to publicize this support to many leaders and students in the field. Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year. Sponsorship helps to keep registration fees affordable for academic researchers, especially students. Corporate support will also allow student volunteers to receive complimentary registration.
 
-All sponsorship will go towards supporting both conferences.  We offer five corporate support levels: Platinum, Gold, Silver, Bronze, and Friends.  See the benefits and costs below.
-
-Interested in sponsoring DIS2019 and C&C2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.cam.org).
-
+All sponsorship will go towards supporting both conferences. We offer three corporate support levels: Platinum, Silver, and Friends. See the benefits and costs below.
 </br>
+
+## C&C / DIS 2019 Sponsors Include: </br>
+
+### PLATINUM </br>
+(your organization's logo here)
+
+### SILVER </br>
+
+
+### FRIENDS OF </br>
+
+
+Interested in sponsoring [C&C](http://cc.acm.org/2019/) and DIS 2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.acm.org).
+
 
 ## Platinum sponsors
 Contribution of $20,000 or more:
