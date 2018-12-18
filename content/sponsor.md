@@ -9,7 +9,7 @@ Sponsoring this joint event is an ideal way to demonstrate your organization's c
 All sponsorship will go towards supporting both conferences. We offer three corporate support levels: Platinum, Silver, and Friends. See the benefits and costs below.
 </br>
 
-## C&C / DIS 2019 Sponsors Include: </br>
+## DIS/C&C 2019 Sponsors Include: </br>
 
 ### PLATINUM </br>
 (your organization's logo here)
