@@ -106,7 +106,8 @@ Further written parts known from other conference formats such as Introduction, 
 
 We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in [Word](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0).
 
-### Please use this [InDesign Template](https://www.dropbox.com/s/xb7opewbyr6tvde/Pictorials2019-package-folder.zip?dl=0)
+### [InDesign Template](https://www.dropbox.com/s/xb7opewbyr6tvde/Pictorials2019-package-folder.zip?dl=0)
+### [Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0)
 
  
 </br> 
