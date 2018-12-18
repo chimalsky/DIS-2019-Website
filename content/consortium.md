@@ -18,7 +18,7 @@ DIS 2019, San Diego, USA: June 24-28, 2019 </br>
 
 # Preparing and Submitting</br> 
 
-Submissions must be done through the Precision Conference System (PCS).</br>
+Submissions must be done through the [PCS submission system](https://new.precisionconference.com/submissions).</br>
 
 ## Document 1: PhD Abstract</br>
 The first document should be a 4-page extended abstract of your PhD, using SIGCHI Extended Abstracts Format ([Download the Word Template](https://www.dropbox.com/s/nuivw9xj4p1li5s/DIS19ExtendedAbstractsFormat.docx?dl=0), [Download the Latex Template](https://www.dropbox.com/s/4gwss51oc32li5k/DIS19-Latex-ExtendedAbstracts.zip?dl=0)). Please use US letter (not A4). </br>
