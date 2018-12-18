@@ -13,7 +13,7 @@ Art Showcase: June 25, 2019 </br>
 Submission Deadline: February 12th, 2019 11:59 PM (UTC)</br>
 Notification: April 26th, 2019</br>
 
-* Deadlines are specified as [Anywhere on Earth time](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
+Deadlines are specified as [Anywhere on Earth time](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
 ## Chairs </br>
 Sheldon Brown</br>
