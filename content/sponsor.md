@@ -6,7 +6,10 @@ In June 2019, the premier ACM conferences DIS and C&C will be joining forces in 
 
 Sponsoring this joint event is an ideal way to demonstrate your organization's commitment to research on design and creativity, and to publicize this support to many leaders and students in the field. Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year. Sponsorship helps to keep registration fees affordable for academic researchers, especially students. Corporate support will also allow student volunteers to receive complimentary registration.
 
-All sponsorship will go towards supporting both conferences. We offer three corporate support levels: Platinum, Silver, and Friends. See the benefits and costs below.
+All sponsorship will go towards supporting both conferences. We offer three corporate support levels: Platinum, Silver, and Friends. Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.acm.org).
+
+See the benefits and costs below.
+
 </br>
 
 # DIS/C&C 2019 Sponsors Include: </br>
@@ -25,10 +28,8 @@ All sponsorship will go towards supporting both conferences. We offer three corp
  ![alt text](/img/sponsors/sketch.jpg "Sktech")
 
 
+
 </br>
-Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.acm.org).
-
-
 ## Platinum sponsors
 Contribution of $20,000 or more:
 
