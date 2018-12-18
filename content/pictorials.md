@@ -96,7 +96,7 @@ You must be the author and copyright holder of all materials you submit, particu
  
 </br> 
 ## Format {#pictorial_format}
-All submissions should be anonymous and submitted via the PCS submission system. PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.
+All submissions should be anonymous and submitted via the [PCS submission system](https://new.precisionconference.com/submissions). PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.
  
 Pictorials should be submitted in the DIS 2019 SIGCHI Extended Abstracts Format, and not exceed 12 pages, excluding references.
  
