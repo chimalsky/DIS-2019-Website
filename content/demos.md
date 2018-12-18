@@ -19,7 +19,7 @@ Demo submissions should be exploratory, provocative, innovative and ambitious. S
 
 ### Contesting Borders and Intersections: The conference theme explores ways to critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices </br> 
 
-Accepted submissions will also feature an SIGCHI Extended Abstracts Format text of the demo (max. 4 pages, including references). 
+Accepted submissions will also feature an [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/) text of the demo (max. 4 pages, including references). 
 This text will be published in the DIS 2019 proceedings in the ACM DL. Accepted demos may also include additional digital material for display such as videos and/or a poster. </br> 
 
 Accepted authors are expected to attend the conference and be on hand with their demo during the dedicated DIS Reception session. </br> 
