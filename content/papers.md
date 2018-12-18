@@ -4,7 +4,16 @@ title: "Papers"
 
 Full papers published at DIS2019 are ACM archival publications and will be made available through the [ACM in the Digital Library](http://dl.acm.org). DIS 2019 will be held jointly with the [Creativity and Cognition (C&C) 2019 conference](http://cc.acm.org/2019/). There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&C and DIS.
 
-</br>
+## Important Dates
+| Action | Timeline |
+|---|---|
+|**Abstract and title due:**| Tuesday, January 15, 2019 |
+|**Paper submission deadline:**| Friday, January 18, 2019 |
+|**External reviews due:**| Friday, March 1, 2019 |
+|**Virtual Program Committee Meeting** </br> with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):| Mon/Tues, March 18 and 19, 2019 |
+|**Paper notifications to authors:**| Thursday, March 21, 2019 |
+|**Papers camera ready deadline:** | Wednesday, April 17, 2019 |
+|**Conference:**| June 23-28, 2019 |
 
 ## Subcommittees
 
@@ -26,17 +35,6 @@ Design has the potential to enact positive change and/or tackle large-scale and 
 
 ## Special Note on Broader Impact
 At DIS2019, all submissions will be assessed based on their [broader impact to society](https://acm-fca.org/2018/03/29/negativeimpacts/). We encourage authors to address the positive and negative, actual and potential, and/or pragmatic significance of their work; that is, they should engage with substantive and reflective discussions of the impact of their research beyond a narrow intellectual contribution to the field.  
-
-</br>
-## Important Dates
-
-- **Abstract and title due:** Tuesday, January 15, 2019
-- **Paper submission deadline:** Friday, January 18, 2019
-- **External reviews due:** Friday, March 1, 2019
-- **Virtual Program Committee Meeting with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):** Mon/Tues, March 18 and 19, 2019
-- **Paper notifications to authors:** Thursday, March 21, 2019
-- **Papers camera ready deadline:** Wednesday, April 17, 2019
-- **Conference:** June 23-28, 2019
 
 </br>
 
