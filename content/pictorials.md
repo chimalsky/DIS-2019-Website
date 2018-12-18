@@ -26,9 +26,11 @@ As design perspectives have increasingly become integrated in HCI practice and r
 </br>
  
 ## Important Dates
-- **Full Submission:** 18 January, 2019 (The submission system closes at 23:59 PST)
-- **Author Notification:** 21 March, 2019
-- **Pictorials camera ready due:** 18 April, 2019
+| Action  |  Timeline  |
+|---|---|
+|**Full Submission:** |18 January, 2019 (The submission system closes at 23:59 PST)|
+|**Author Notification:** |21 March, 2019|
+|**Pictorials camera ready due:** | 18 April, 2019|
  
 </br> 
 ## What to Submit?
