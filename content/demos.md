@@ -30,7 +30,7 @@ Accepted authors are expected to attend the conference and be on hand with their
 - 19 April 2019: All camera ready extended abstracts due
 - 24-28 June 2019: DIS 2019 conference
 
-## Submission and Application
+## Submission and Application </br>
 Submissions to the Demo track for DIS2019 must be made through the Precision Conference System (updated link TBD). </br> 
 
 Submissions must include the following: </br> 
@@ -40,16 +40,16 @@ Submissions must include the following: </br>
 - Optional video (for review only): An optional video of up to 2 minutes length can be provided for review purposes only. Authors must provide a link in the abstract (just before the References) and in the specification to view the video (e.g. from YouTube or Vimeo). The video may be password protected – in that case, please include the password with the link.
 
 
-## Review Process
+## Review Process </br>
 Demo submissions will be reviewed by the demo chairs. Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
 </br> 
-## Acceptance
+## Acceptance </br>
 Successful applicants will be informed along with reviewer’s comments on the Extended Abstracts if applicable.
 
 Please note that basic equipment can be provided by the conference, but the participants are expected to bring the necessary equipment to the conference with them. Apart from basic setup help no additional materials, technical expertise or economic support should be expected. The Demo Chairs will investigate infrastructure and equipment possibilities for the accepted demonstrations and will also provide comments on the specification, set up and technical requirements.
 
-## Video Preview Submission Guide for the Accepted Demos
+## Video Preview Submission Guide for the Accepted Demos </br>
 - File size must be under 20 MB
 - Video duration must be 30 seconds or less
 - Video resolution must be at 1080p (1920 x 1080)
