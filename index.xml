@@ -26,11 +26,9 @@ The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&am
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/artshow/</guid>
-      <description>Call for Art Showcase  ACM Creativity and Cognition 2019 and Designing Interactive Systems 2019. 
-Important Dates  Submission Deadline: February 12th, 2019 Notification: April 26th, 2019 Art Showcase: June 25, 2019 
-Chairs  Sheldon Brown Jonas Fritsch
-Curatorial Advisory Committee  Bruce Sterling Mogens Jacobsen Zhang Ga Ken Goldberg Tiffany Shlain
-Call for Submissions Art Showcase in conjunction with DIS’19 and C&amp;amp;C’19.  The art exhibition will present artworks that manifest the conferences’ joint themes of Contesting Borders and Intersections and Transformational Creativity.</description>
+      <description>Call for Art Showcase  ACM Creativity and Cognition 2019 and Designing Interactive Systems 2019.  The art exhibition will present artworks that manifest the conferences’ joint themes of Contesting Borders and Intersections and Transformational Creativity. The C&amp;amp;C website has the identical call for participation.
+Important Dates  Art Showcase: June 25, 2019  Submission Deadline: February 12th, 2019 11:59 PM (UTC) Notification: April 26th, 2019
+Deadlines are specified as Anywhere on Earth time.</description>
     </item>
     
     <item>
@@ -62,6 +60,17 @@ The Hyatt Regency is located right on the waterfront in Mission Bay, a beautiful
       
       <guid>/diversity/</guid>
       <description>The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the DIS 2019 conference. The DIS community commits to providing a harassment-free, accessible, and pleasant conference experience with equity in rights for all. We want every participant to feel welcome, included, and safe at the conference. Moreover, we will do our best to accommodate specific needs such as accessibility, or dietary requirements.</description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>/demos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/demos/</guid>
+      <description>DIS 2019 invites researchers, prototypes and practitioners to submit their work to the DIS 2019 Demo Track. 
+The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. 
+Demo submissions should be exploratory, provocative, innovative and ambitious.</description>
     </item>
     
     <item>
