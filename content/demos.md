@@ -60,7 +60,7 @@ Please note that basic equipment can be provided by the conference, but the part
 - Titles and credits should last less than 4 seconds
 
 ## Demo Chairs
-demos [AT] dis2019.org
+[demochairs [AT] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)
 
 Scott Davidoff </br> 
 NASA Jet Propulsion Laboratory, California Institute of Technology
