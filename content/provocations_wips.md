@@ -4,6 +4,15 @@ title: "Provocations and Works-in-Progress"
 
 The DIS 2019 Provocations and Works-in-Progress (PWiP) track is a format that allows authors to propose novel, in-progress, and thought provoking research that may emphasize different values than what are usually promoted. The PWiP format is intended to facilitate discussion between authors and conference attendees. We welcome all submissions related to the design of interactive systems as well as the conference theme of Contesting Borders and Intersections.
 
+## Important Dates
+| Action | Timeline |
+|---|---|
+|**Provocations & Works-in-Progress due:** | Friday, 8 February 2019 (Submission closes at 5pm Pacific time)|
+|**Provocations & Works-in-Progress author notifications:** | Thursday, 21 March 2019 |
+|**Camera ready papers due:** |Friday, 19 April 2019 |
+|**DIS 2019 Conference, San Diego, USA:**| 24-28 June 2019 |
+
+</br> 
 We particularly welcome design research contributions that value:
 
 - Novelty over evidence (You do not need a finished user study!)
@@ -17,13 +26,6 @@ PWiP submissions must represent original content and cannot be currently under r
 All PWiP submissions will be peer-reviewed.
 
 Accepted PWiP submissions will be published in the DIS 2019 companion publication and appear in the ACM Digital Library (adjunct proceedings). A PWiP publication is not an archival publication.
-
-</br>
-## Important Dates
-- **Provocations & Works-in-Progress due:** Friday, 8 February 2019 (Submission closes at 5pm Pacific time)
-- **Provocations & Works-in-Progress author notifications:** Thursday, 21 March 2019
-- **Camera ready papers due:** Friday, 19 April 2019
-- **DIS 2019 Conference, San Diego, USA:** 24-28 June 2019
 
 </br>
 
