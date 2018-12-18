@@ -43,7 +43,6 @@ Submissions must include the following: </br>
 ## Review Process </br>
 Demo submissions will be reviewed by the demo chairs. Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
-</br> 
 ## Acceptance </br>
 Successful applicants will be informed along with reviewer’s comments on the Extended Abstracts if applicable.
 
