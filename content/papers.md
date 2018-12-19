@@ -5,7 +5,7 @@ title: "Papers"
 Full papers published at DIS2019 are ACM archival publications and will be made available through the [ACM in the Digital Library](http://dl.acm.org). DIS 2019 will be held jointly with the [Creativity and Cognition (C&C) 2019 conference](http://cc.acm.org/2019/). There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&C and DIS.
 
 </br> 
-# Important Dates
+## Important Dates
 | Action | Timeline |
 |---|---|
 |**Abstract and title due:**| Tuesday, January 15, 2019 |
@@ -17,7 +17,7 @@ Full papers published at DIS2019 are ACM archival publications and will be made 
 |**Conference:**| June 23-28, 2019 |
 
 </br> 
-# Subcommittees
+## Subcommittees
 
 DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences): 
  
@@ -38,7 +38,7 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 
 </br>
 
-# Preparing and Submitting Your Submissions {#preparing}
+## Preparing and Submitting Your Submissions {#preparing}
 
 ## Abstract and Title Submissions
 DIS 2019 has two submission deadlines for papers.  The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences.   We will use this information to help plan the specifics of the review process and subcommittee work.  The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.
