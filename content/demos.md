@@ -8,7 +8,7 @@ __DIS 2019__ invites researchers, prototypes and practitioners to submit their w
 The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. </br>
 
 </br>
-# Important Dates 
+## Important Dates 
 | Action | Timeline |
 |---|---|
 |**Extended abstract, demo specification (and optional video) due**:|8 Feb 2019 (Submission closes at 23:59 PDT.)|
@@ -30,7 +30,8 @@ This text will be published in the DIS 2019 proceedings in the ACM DL. Accepted 
 
 Accepted authors are expected to attend the conference and be on hand with their demo during the dedicated DIS Reception session. </br> 
 
-# Submission and Application </br>
+</br> 
+## Submission and Application </br>
 Submissions to the Demo track for DIS2019 must be made through the [PCS submission system](https://new.precisionconference.com/submissions). </br> 
 
 Submissions must include the following: </br> 
@@ -40,7 +41,7 @@ Submissions must include the following: </br>
 - __Optional video (for review only)__: An optional video of up to 2 minutes length can be provided for review purposes only. Authors must provide a link in the abstract (just before the References) and in the specification to view the video (e.g. from YouTube or Vimeo). The video may be password protected – in that case, please include the password with the link.
 
 </br>
-# Review Process </br>
+## Review Process </br>
 Demo submissions will be reviewed by the demo chairs. Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
 </br>
