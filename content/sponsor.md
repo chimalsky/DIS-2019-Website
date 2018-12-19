@@ -11,8 +11,9 @@ All sponsorship will go towards supporting both conferences. We offer three corp
 Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.acm.org).
 
 
-# DIS/C&C 2019 Sponsors Include: 
+## DIS/C&C 2019 Sponsors Include: 
 
+</br>`                                            
 ## Platinum </br>
 (your organization's logo here)
 
