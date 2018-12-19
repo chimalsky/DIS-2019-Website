@@ -7,8 +7,8 @@ __DIS 2019__ invites researchers, prototypes and practitioners to submit their w
 
 The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. </br>
 
-
-## Important Dates 
+</br>
+# Important Dates 
 | Action | Timeline |
 |---|---|
 |**Extended abstract, demo specification (and optional video) due**:|8 Feb 2019 (Submission closes at 23:59 PDT.)|
@@ -16,6 +16,7 @@ The track invites interface or system demonstrations, novel gadgets, techno-craf
 |**All camera ready extended abstracts due:**| 19 April 2019|  
 |**DIS 2019 conference:**| 24-28 June 2019|
 
+</br>
 Demo submissions should be exploratory, provocative, innovative and ambitious. Submissions are encouraged from a wide range of areas that may include HCI, Design and Digital media, and physical computing prototypes and should ideally fit into one or more of the following domains: </br>
 
 - __Critical Computing and Design Theory__: Exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. 
@@ -29,7 +30,7 @@ This text will be published in the DIS 2019 proceedings in the ACM DL. Accepted 
 
 Accepted authors are expected to attend the conference and be on hand with their demo during the dedicated DIS Reception session. </br> 
 
-## Submission and Application </br>
+# Submission and Application </br>
 Submissions to the Demo track for DIS2019 must be made through the [PCS submission system](https://new.precisionconference.com/submissions). </br> 
 
 Submissions must include the following: </br> 
@@ -38,15 +39,17 @@ Submissions must include the following: </br>
 - __Demos Specification__: A separate supplemental demo specification document in US Letter format, that describes the demo’s infrastructure and space requirements, as well as the indicative size and any unusual set up requirements. Specification to include four photographs or diagrams of set up of the demo, and should outline basic technical requirements needed. Note that successful applicants will be expected to bring all primary technical equipment required for the Demo.
 - __Optional video (for review only)__: An optional video of up to 2 minutes length can be provided for review purposes only. Authors must provide a link in the abstract (just before the References) and in the specification to view the video (e.g. from YouTube or Vimeo). The video may be password protected – in that case, please include the password with the link.
 
-
-## Review Process </br>
+</br>
+# Review Process </br>
 Demo submissions will be reviewed by the demo chairs. Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
+</br>
 ## Acceptance </br>
 Successful applicants will be informed along with reviewer’s comments on the Extended Abstracts if applicable.
 
 Please note that basic equipment can be provided by the conference, but the participants are expected to bring the necessary equipment to the conference with them. Apart from basic setup help no additional materials, technical expertise or economic support should be expected. The Demo Chairs will investigate infrastructure and equipment possibilities for the accepted demonstrations and will also provide comments on the specification, set up and technical requirements.
 
+</br>
 ## Video Preview Submission Guide for the Accepted Demos </br>
 - File size must be under 20 MB
 - Video duration must be 30 seconds or less
@@ -58,6 +61,7 @@ Please note that basic equipment can be provided by the conference, but the part
 - The preview should contain a title slide with the title, authors, and affiliations.
 - Titles and credits should last less than 4 seconds
 
+</br>
 ## Demo Chairs
 [demochairs [AT] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)
 
