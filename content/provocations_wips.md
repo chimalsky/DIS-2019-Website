@@ -27,6 +27,7 @@ Accepted PWiP submissions will be published in the DIS 2019 companion publicatio
 |**Provocations & Works-in-Progress author notifications:** | Thursday, 21 March 2019 |
 |**Camera ready papers due:** |Friday, 19 April 2019 |
 |**DIS 2019 Conference, San Diego, USA:**| 24-28 June 2019 |
+</br>
 
 ## Preparing and Submitting
 
