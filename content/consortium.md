@@ -8,7 +8,7 @@ You must be enrolled in a design-related discipline as a doctoral candidate at t
 
 As part of submissions to the Doctoral Consortium, we invite you to consider the conference theme, “Contesting Borders and Intersections.” With this theme, we encourage submissions that critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices, as well as those that present innovative thinking, and creative or provocative interaction design. </br>
 
-# Important Dates</br>
+## Important Dates</br>
 | Action | Timeline |
 |---|---|
 |**Submission deadline**:| Friday, February 8, 2019 |
@@ -17,7 +17,8 @@ As part of submissions to the Doctoral Consortium, we invite you to consider the
 |**Doctoral Consortium at DIS 2019:**| Tuesday, June 25, 2019 |
 |**DIS 2019, San Diego, USA:**| June 24-28, 2019 |
 
-# Preparing and Submitting</br> 
+</br>
+## Preparing and Submitting</br> 
 
 Submissions must be done through the [PCS submission system](https://new.precisionconference.com/submissions).</br>
 
@@ -32,14 +33,16 @@ A list of three key readings that have influenced your PhD, with a short descrip
 A brief statement of support from your PhD supervisor, which includes a statement of where you are in your PhD process (max 200 words).</br>
 A written statement of commitment to do the requested preparation ahead of attending.</br>
 
+</br>
 ## Review Process</br>
 Submissions will be reviewed by the Doctoral Consortium Chairs. Participation in the Doctoral Consortium will be limited to candidates who have been accepted into the Consortium. You will be notified of the outcome by March 21, 2019.</br>
 
+</br>
 ## Registration</br>
 If you are accepted to the Doctoral Consortium, we will send you registration instructions.  Participation in the Doctoral Consortium is free of charge to the invited participants. If you are presenting and/or participating in any other part of DIS 2019, you will need to pay the student conference registration fee.</br>
 
+</br>
 ## Doctoral Consortium Chairs</br>
-
 John Bowers</br>
 Newcastle University</br>
 

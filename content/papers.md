@@ -4,6 +4,7 @@ title: "Papers"
 
 Full papers published at DIS2019 are ACM archival publications and will be made available through the [ACM in the Digital Library](http://dl.acm.org). DIS 2019 will be held jointly with the [Creativity and Cognition (C&C) 2019 conference](http://cc.acm.org/2019/). There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&C and DIS.
 
+</br> 
 ## Important Dates
 | Action | Timeline |
 |---|---|
@@ -15,6 +16,7 @@ Full papers published at DIS2019 are ACM archival publications and will be made 
 |**Papers camera ready deadline:** | Wednesday, April 17, 2019 |
 |**Conference:**| June 23-28, 2019 |
 
+</br> 
 ## Subcommittees
 
 DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences): 
@@ -30,8 +32,6 @@ Interactions with digital artifacts and technologies are an inescapable facet of
 
 ### Change Through Design
 Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. [Contact the Change Through Design subcommittee](mailto:change_sc@dis2019.acm.org).
-
-</br>
 
 ## Special Note on Broader Impact
 At DIS2019, all submissions will be assessed based on their [broader impact to society](https://acm-fca.org/2018/03/29/negativeimpacts/). We encourage authors to address the positive and negative, actual and potential, and/or pragmatic significance of their work; that is, they should engage with substantive and reflective discussions of the impact of their research beyond a narrow intellectual contribution to the field.  

@@ -9,24 +9,23 @@ Sponsoring this joint event is an ideal way to demonstrate your organization's c
 All sponsorship will go towards supporting both conferences. We offer three corporate support levels: Platinum, Silver, and Friends. Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.acm.org).
 
 See the benefits and costs below.
-
 </br>
 
-# DIS/C&C 2019 Sponsors Include: </br>
+# DIS/C&C 2019 Sponsors Include: 
+</br>
 
-## PLATINUM </br>
+### Platinum </br>
 (your organization's logo here)
 
 </br>
-## SILVER </br>
+### Silver </br>
 ![alt text](/img/sponsors/google.jpg "Google")
 ![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab")
 ![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech")
 
 </br>
-## FRIENDS OF </br>
+### Friends of </br>
  ![alt text](/img/sponsors/sketch.jpg "Sktech")
-
 
 
 </br>

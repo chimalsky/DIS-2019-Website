@@ -5,6 +5,7 @@ title: "Call for Art Showcase"
 ### ACM Creativity and Cognition 2019 and Designing Interactive Systems 2019. </br>
 
 The art exhibition will present artworks that manifest the conferences’ joint themes of _Contesting Borders and Intersections_ and _Transformational Creativity_. The [C&C](http://cc.acm.org/2019/submit/artworks.php) website has the identical call for participation.
+
 </br>
 ## Important Dates  </br>
 | Action | Timeline|
@@ -15,12 +16,14 @@ The art exhibition will present artworks that manifest the conferences’ joint 
 
 Deadlines are specified as [Anywhere on Earth time](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
+</br>
 ## Chairs </br>
 Sheldon Brown</br>
 Jonas Fritsch</br>
 
 Contact: [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org) 
 
+</br>
 ## Curatorial Advisory Committee </br>
 - Bruce Sterling
 - Mogens Jacobsen
@@ -28,11 +31,13 @@ Contact: [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.o
 - Ken Goldberg
 - Tiffany Shlain
 
+</br>
 # ‘ECOLOGIES OF TRANSFORMATION’
 The "interface" is dead. It depended upon distinctions between elements that needed some intermediation. This was always an illusion, but it served some purpose for a time in simplifying design tasks while more substantial system ecologies developed. But we were never separate from systems that needed an interface, and now, the idea that the interface mediates interactions between us and computational systems misses almost the entire mark as human interactions, computational devices and the world become ever more entangled into social, economic, political, and environmental relations. A better concept might be the _interlace_. We are inherently intertwined with myriad systems with myriad agencies. And most of these systems are not primarily about us, we just live there. Some of these conditions are better engaged with enhanced visibility and cogence, and for others, it makes no difference.
 
 We seek activities in art, design and other, unnamable phenomena that give us some indication of what this might look/feel/smell/taste/sound like (or exist on some other carrier wave). We are looking for pointers (art, performance, sound) towards our condition that arises from the many interactions in- and foldings across, complex systems that transcend scales of time, space, materiality, cognition and logics. Maybe interfaces haven’t died, they’ve just fractally multiplied and become pervasive at all levels, becoming the fabric of our material/computational/biotic phenomena. Help us come to grip. Submit your work that indicates, clarifies and problematizes this condition. </br>
 
+</br>
 ## Opportunities and infrastructures:
 Works can be in a variety of forms such as interactive installations, virtual and/or augmented realities, experimental cinematic shorts, performances and/or works that are suited to special technological platforms that will be part of the exhibition venue. You should indicate in your application the environmental needs of your work, i.e. needs to be in the dark/light, listens to sound/makes sound, can be outdoors, has a time duration, it runs once, it loops, etc.
 
@@ -46,6 +51,7 @@ The exhibition will take place in Atkinson Hall home of the Qualcomm Institute, 
 
 If your work is specifically for one of these spaces, please indicate. For these specialized technologies, we will have additional interaction with selected artists for a period of time before the conference. </br>
 
+</br>
 ## To submit: </br>
 We are accepting two forms of submissions; 1) submissions of existing works and 2) proposals for doing work with the specialized infrastructure available at the venue (the Sun-CAVE, black box display wall, 8K projection in the auditorium).
 
@@ -56,6 +62,7 @@ For either form of submission, we ask for a PDF in SIGCHI extended abstract form
 
 All selected artists will get a free day of registration for both conferences. We can also provide limited funding for travel and practical expenses related to the exhibition pieces. More details soon. </br>
 
+</br>
 ## Questions </br>
 Sheldon Brown & Jonas Fritsch </br> 
 [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org) 
