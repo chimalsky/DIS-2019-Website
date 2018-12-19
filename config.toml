@@ -326,21 +326,27 @@ enableGitInfo = false
   parent = "submit"
 
 [[menu.main]]  
+  name = "Demos"
+  url = "/demos"
+  weight = 4
+  parent = "submit"
+
+[[menu.main]]  
   name = "Provocations and WIPs"
   url = "/provocations_wips"
-  weight = 4
+  weight = 5
   parent = "submit"
 
 [[menu.main]]  
   name = "Workshops"
   url = "/workshops"
-  weight = 5
+  weight = 6
   parent = "submit"
 
 [[menu.main]]  
-  name = "Art Show"
+  name = "Art Showcase"
   url = "/artshow"
-  weight = 6
+  weight = 7
   parent = "submit"
 
 
