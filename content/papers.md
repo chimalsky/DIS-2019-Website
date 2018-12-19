@@ -33,8 +33,6 @@ Interactions with digital artifacts and technologies are an inescapable facet of
 ### Change Through Design
 Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. [Contact the Change Through Design subcommittee](mailto:change_sc@dis2019.acm.org).
 
-</br>
-
 ## Special Note on Broader Impact
 At DIS2019, all submissions will be assessed based on their [broader impact to society](https://acm-fca.org/2018/03/29/negativeimpacts/). We encourage authors to address the positive and negative, actual and potential, and/or pragmatic significance of their work; that is, they should engage with substantive and reflective discussions of the impact of their research beyond a narrow intellectual contribution to the field.  
 
