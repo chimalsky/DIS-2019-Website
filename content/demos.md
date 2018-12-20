@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Demos"
 ---
@@ -72,7 +71,6 @@ NASA Jet Propulsion Laboratory, California Institute of Technology
 Stacey Kuznetsov </br>
 School of Arts, Media, and Engineering
 Arizona State University
-=======
 ---
 title: "Demos"
 ---
@@ -147,4 +145,3 @@ NASA Jet Propulsion Laboratory, California Institute of Technology
 Stacey Kuznetsov </br>
 School of Arts, Media, and Engineering
 Arizona State University
->>>>>>> ff37962b4f8ccbd1c6320de04a1d5d334e74e2e6
