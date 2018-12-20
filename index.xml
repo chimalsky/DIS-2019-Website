@@ -11,18 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/demos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/demos/</guid>
-      <description>&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD title: &amp;ldquo;Demos&amp;rdquo; DIS 2019 invites researchers, prototypes and practitioners to submit their work to the DIS 2019 Demo Track. 
-The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. 
-
-Important Dates    Action Timeline     Extended abstract, demo specification (and optional video) due: 8 Feb 2019 (Submission closes at 23:59 PDT.</description>
-    </item>
-    
-    <item>
       <title>ACM Designing Interactive Systems 2019</title>
       <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,6 +60,18 @@ The Hyatt Regency is located right on the waterfront in Mission Bay, a beautiful
       
       <guid>/diversity/</guid>
       <description>The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the DIS 2019 conference. The DIS community commits to providing a harassment-free, accessible, and pleasant conference experience with equity in rights for all. We want every participant to feel welcome, included, and safe at the conference. Moreover, we will do our best to accommodate specific needs such as accessibility, or dietary requirements.</description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>/demos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/demos/</guid>
+      <description>DIS 2019 invites researchers, prototypes and practitioners to submit their work to the DIS 2019 Demo Track. 
+The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. 
+
+Important Dates    Action Timeline     Extended abstract, demo specification (and optional video) due: 8 Feb 2019 (Submission closes at 23:59 PDT.</description>
     </item>
     
     <item>
