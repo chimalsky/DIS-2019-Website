@@ -74,8 +74,9 @@ Jonas Fritsch & Sheldon Brown </br>
 
 ## Accessibility & Diversity Chairs
 ![alt text](/img/organizers/Branham-Stacy.jpg "Stacy Branham")
+![alt text](/img/organizers/Hamidi-Foad.jpg "Foad Hamidi")
 
-Stacy Branham <br/>
+Stacy Branham & Foad Hamidi <br/>
 [accessibilitychair [at] dis2019.acm.org](mailto:accessibilitychair@dis2019.acm.org)  
 
 
