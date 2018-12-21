@@ -45,9 +45,9 @@ DIS 2019 has two submission deadlines for papers. The first deadline, January 15
 
 ## Paper Formatting and Length
 
-All submissions should be formatted using the following templates:
-- [Word Papers template](https://www.dropbox.com/s/703ih7giiyd4335/DIS19-Sample-Paper.docx?dl=0)
-- [Latex Papers template](https://www.dropbox.com/s/4piuua92z4eci16/DIS19-Latex-Papers.zip?dl=0)
+All submissions should be formatted using the following templates: </br>
+*[Word Papers template](https://www.dropbox.com/s/703ih7giiyd4335/DIS19-Sample-Paper.docx?dl=0) </br>
+*[Latex Papers template](https://www.dropbox.com/s/4piuua92z4eci16/DIS19-Latex-Papers.zip?dl=0) </br>
 
 Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
