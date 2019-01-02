@@ -65,7 +65,7 @@ Stacy Kuznetzov & Scott Davidoff <br/>
 [demochairs [at] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)  
 
 
-## Art Show Chairs
+## Art Exhibition Chairs
 ![alt text](/img/organizers/Fritsch-Jonas.jpg "Jonas Fritsch")
 ![alt text](/img/organizers/Sheldon-Brown.jpg "Sheldon Brown")
 
