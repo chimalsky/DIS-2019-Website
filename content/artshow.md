@@ -1,5 +1,5 @@
 ---
-title: "Call for Art Showcase"
+title: "Call for Art Exhibition"
 ---
 
 ### ACM Creativity and Cognition 2019 and Designing Interactive Systems 2019. </br>
@@ -10,7 +10,7 @@ The art exhibition will present artworks that manifest the conferences’ joint 
 ## Important Dates  </br>
 | Action | Timeline|
 |---|---|
-|**Art Showcase:**| June 25, 2019|
+|**Art Exhibition:**| June 25, 2019|
 |**Submission Deadline**:| February 12th, 2019 11:59 PM (UTC)|
 |**Notification:**| April 26th, 2019|
 
