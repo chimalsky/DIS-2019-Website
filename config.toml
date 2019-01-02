@@ -344,8 +344,8 @@ enableGitInfo = false
   parent = "submit"
 
 [[menu.main]]  
-  name = "Art Showcase"
-  url = "/artshow"
+  name = "Art Exhibition"
+  url = "/artexhibition"
   weight = 7
   parent = "submit"
 
