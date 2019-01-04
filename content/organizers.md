@@ -98,6 +98,11 @@ Chih-Sheng Su, Anicia Peters, Nicolai Hansen & Sabrina Hauser <br/>
 Lilly Irani, Wendy Kellogg & John Thomas <br/>
 [localchairs [at] dis2019.acm.org](mailto:localchairs@dis2019.acm.org)  
 
+## Registration Chairs
+![alt text](/img/organizers/Freeman-Guo.jpg "Guo Freeman")
+
+Guo Freeman </br> 
+[regchair [at] dis2019.acm.org](mailto:regchair@dis2019.acm.org)
 
 ## Student Volunteer Chairs 
 
