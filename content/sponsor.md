@@ -18,9 +18,9 @@ Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019?
 
 </br>
 ## Silver </br>
-![alt text](/img/sponsors/google.jpg "Google") </br> 
-![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab") </br> 
-![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech") </br> 
+![alt text](/img/sponsors/google.jpg "Google") </br> </br> 
+![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab") </br> </br> 
+![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech") </br> </br> 
 
 </br>
 ## Friends of </br>
