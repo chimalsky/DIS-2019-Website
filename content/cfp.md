@@ -9,22 +9,22 @@ Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 17, 2019 </br> 
 
 [Pictorials](/pictorials/) </br> 
-Full Submissions Due: January 18, 2019 </br>
+Full Submissions Due: January 18, 2019 (23:59 PST) </br>
 Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 18, 2019 </br> 
 
 [Workshops](/workshops/) </br> 
-Proposals Due: January 18, 2019 </br>
+Proposals Due: January 18, 2019 (23:59 PST) </br>
 Notifications: March 8, 2019 </br>
 Camera Ready Deadline: March 22, 2019 </br>
 
 [Provocations and Works-in-Progress](/provocations_wips/)</br> 
-Submissions Due: February 8,  2019 </br>
+Submissions Due: February 8,  2019 (17:00 PST) </br>
 Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 19, 2019 </br>
 
 [Demos](/demos/)</br> 
-Extended abstract, demo specification (and optional video) due: 8 Feb 2019. Submission closes at 23:59 PDT.</br>
+Extended abstract, demo specification (and optional video) due: February 8, 2019 (23:59 PST) </br>
 Notifications: 21 March 2019 </br>
 Camera Ready Deadline: 19 April 2019 </br>
 
@@ -35,6 +35,6 @@ Camera Ready Deadline: Friday, April 19, 2019 </br>
 Doctoral Consortium: Tuesday, June 25, 2019 </br>
 
 [Art Exhibition](/artexhibition/)</br>
-Submissions Due: February 12th, 2019, 11:59 PM (UTC) </br>
+Submissions Due: February 12th, 2019 (23:59 UTC) </br>
 Notification: April 26th, 2019 </br>
 Art Showcase: June 25, 2019 </br>
