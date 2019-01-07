@@ -3,8 +3,8 @@ title: "Call for Proposals"
 ---
 
 [Papers](/papers/) </br> 
-Abstract and Title Submission Due: January 15, 2019 </br> 
-Full Submissions due: January 18, 2019 </br> 
+Abstract and Title Submission Due: January 15, 2019 (17:00 PST)</br> 
+Full Submissions due: January 18, 2019 (17:00 PST) </br> 
 Notifications: March 21, 2019 </br> 
 Camera Ready Deadline: April 17, 2019 </br> 
 
