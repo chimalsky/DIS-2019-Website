@@ -354,12 +354,6 @@ enableGitInfo = false
 # Attending Menu
 
 [[menu.main]]  
-  name = "SV Application"
-  url = "/sv"
-  weight = 1
-  parent = "attending"
-
-[[menu.main]]  
   name = "Conference Venue"
   url = "/venue"
   weight = 1
@@ -370,12 +364,17 @@ enableGitInfo = false
   url = "/travel"
   weight = 2
   parent = "attending"
-
   
 [[menu.main]]  
   name = "Diversity and Inclusion Statement"
   url = "/diversity"
   weight = 3
+  parent = "attending"
+  
+  [[menu.main]]  
+  name = "SV Application"
+  url = "/sv"
+  weight = 4
   parent = "attending"
 
 [sitemap]
