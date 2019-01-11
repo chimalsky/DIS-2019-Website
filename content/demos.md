@@ -11,7 +11,7 @@ The track invites interface or system demonstrations, novel gadgets, techno-craf
 | Action | Timeline |
 |---|---|
 |**Extended abstract, demo specification (and optional video) due**:|8 Feb 2019 (Submission closes at 23:59 PST.)|
-|**Successful demos author notifications:**| 21 March 2019 |
+|**Successful demos author notifications:**| 21 March 2019|
 |**All camera ready extended abstracts due:**| 19 April 2019|  
 |**DIS 2019 conference:**| 24-28 June 2019|
 
