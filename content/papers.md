@@ -8,8 +8,8 @@ Full papers published at DIS2019 are ACM archival publications and will be made 
 ## Important Dates
 | Action | Timeline |
 |---|---|
-|**Abstract and title due:**| Tuesday, January 15, 2019 |
-|**Paper submission deadline:**| Friday, January 18, 2019 |
+|**Abstract and title due:**| Tuesday, January 15, 2019 (17:00 PST)|
+|**Paper submission deadline:**| Friday, January 18, 2019 (17:00 PST)|
 |**External reviews due:**| Friday, March 1, 2019 |
 |**Virtual Program Committee Meeting** </br> with all Associate Chairs (AC’s), </br> Subcommittee Chairs (SC’s), </br> and Technical Chairs (TC’s)</br> (General Chairs (GC’s) will observe):| Mon/Tues, March 18 and 19, 2019 |
 |**Paper notifications to authors:**| Thursday, March 21, 2019 |
@@ -51,7 +51,7 @@ All submissions should be formatted using the following templates: </br>
 
 Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
-### Dec 18, 2018: We have chosen to not use the new paper layouts produced by ACM.  Instead, we will be using the SIGCHI paper format that was updated for the ACM TEI 2019 conference.
+### Dec 18, 2018: We have chosen to not use the new paper layouts produced by ACM. Instead, we will be using the SIGCHI paper format that was updated for the ACM TEI 2019 conference.
 
 Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
