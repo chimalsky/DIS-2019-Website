@@ -42,7 +42,7 @@ Contribution of $10,000 or more:
 
 </br>
 ## Silver sponsors
-Contribution of $5,000 or more
+Contribution of $5,000 or more:
 
 - 2 free registrations for people from your organization to attend both conferences.
 - Organization’s logo in the printed programs, signage at both conferences, and both conference websites.
