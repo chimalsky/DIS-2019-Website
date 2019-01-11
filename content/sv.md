@@ -22,10 +22,10 @@ Please note that DIS2019 will be co-located with C&C2019. While you might have t
 To register, you must be enrolled as an undergraduate, masters, or doctoral student between January to May in 2019 (e.g., Spring 2019). Students who are graduating at the time of the conference are also eligible to apply. DIS2019 will take place in San Diego, please note that it is your responsibility to obtain necessary travel visas if required. To apply, no previous experiences are required, but we are looking for people who are friendly, enthusiastic, and reliable.
 
 As an SV, you are expected to:
-o	Work around 15-20 hours during the five days of the conference 
-o	Show up on time to assigned tasks 
-o	Attend an orientation session (June 22) before the conference
-o	Wear the SV t-shirt when you are in duty, so people can easily spot you
+-	Work around 15-20 hours during the five days of the conference 
+-	Show up on time to assigned tasks 
+-	Attend an orientation session (June 22) before the conference
+-	Wear the SV t-shirt when you are in duty, so people can easily spot you
 
 ## Tentative schedule for DIS2019:
 - June 23 (Sun): Workshops
