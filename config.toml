@@ -245,7 +245,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "https://facebook.com"
+    link = "https://www.facebook.com/ACM-DIS-2019-1753516714758349/"
 
   [[params.social]]
     icon = "instagram"
@@ -352,6 +352,12 @@ enableGitInfo = false
 
 
 # Attending Menu
+
+[[menu.main]]  
+  name = "SV Application"
+  url = "/sv"
+  weight = 1
+  parent = "attending"
 
 [[menu.main]]  
   name = "Conference Venue"
