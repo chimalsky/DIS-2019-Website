@@ -29,7 +29,7 @@ Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019?
 
 </br>
 
-## Platinum sponsors
+## Platinum sponsors 
 Contribution of $10,000 or more:
 
 - 4 free registrations for people from your organization to attend both conferences.
