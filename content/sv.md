@@ -5,11 +5,11 @@ title: "Student Volunteers"
 ACM DIS2019 Student Volunteers
 
 ## Important dates:
-|--|--|
-|Date|Event|
-|January 10th, 2019| Student volunteer lottery registration system opens at [chisv.org](http://chisv.org/DIS2019/)|
-|March 25th, 2019| Deadline to register for volunteer lottery|
-|April 1st, 2019| Applicants will be informed of their acceptance or waitlist status|
+| Action | Timeline |
+|---|---|
+| Student volunteer lottery registration system opens at [chisv.org](http://chisv.org/DIS2019/)| January 10th, 2019|
+| Deadline to register for volunteer lottery| March 25th, 2019|
+| Applicants will be informed of their acceptance or waitlist status| April 1st, 2019| 
 
 ## Call for student volunteers:
 Student volunteers (SVs) are essential to the success of the DIS2019 conference. Being an SV provides a unique opportunity to contribute to organizing a conference as well to interact closely with DIS contributors, attendees, and your peers. As student volunteer, you will also receive a fabulous free t-shirt and get a full conference pass providing you access to all the paper sessions, workshops, demos, and social events. However, workshop registration fees, meals, and hotel expenses are not part of the SV benefits. As an SV, you are expected to work around 15-20 hours during the conference. 
