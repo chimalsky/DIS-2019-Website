@@ -28,49 +28,25 @@ Interested in sponsoring [C&C](http://cc.acm.org/2019/sponsor.php) and DIS 2019?
 
 
 </br>
+
 ## Platinum sponsors
-Contribution of $20,000 or more:
-
-- 12 free registrations for people from your company to attend both conferences.
-- Company logo in the printed programs, signage at both conferences, and both conference websites.
-- We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.
-- Job descriptions provided to attendees.
-- First priority for a demo booth.
-- First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
-- Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
-
-</br>
-
-## Gold sponsors
-Contribution of $15,000 or more:
-
-- 8 free registrations for people from your company to attend both conferences.
-- Company logo in the printed programs, signage at both conferences, and both conference websites.
-- We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.
-- Job descriptions provided to attendees.
-- Second priority for a demo booth.
-- Second priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
-- Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
-
-</br>
-## Silver sponsors
 Contribution of $10,000 or more:
 
-- 4 free registrations for people from your company to attend both conferences.
-- Company logo in the printed programs, signage at both conferences, and both conference websites.
-- We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.
+- 4 free registrations for people from your organization to attend both conferences.
+- Organization logo in the printed programs, signage at both conferences, and both conference websites.
+- We will acknowledge your organization’s contribution and offer thanks at the opening and closing sessions for both conferences.
 - Job descriptions provided to attendees.
 - Third priority for a demo booth.
 - Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 </br>
-## Bronze sponsors
-Contribution of $5,000 or more:
+## Silver sponsors
+Contribution of $5,000 or more
 
-- 2 free registrations for people from your company to attend both conferences.
-- Company logo in the printed programs, signage at both conferences, and both conference websites.
-- We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.
+- 2 free registrations for people from your organization to attend both conferences.
+- Organization’s logo in the printed programs, signage at both conferences, and both conference websites.
+- We will acknowledge your organization’s contribution and offer thanks at the opening and closing sessions for both conferences.
 - Fourth priority for a demo booth.
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
@@ -82,4 +58,4 @@ Contribution of $1,000 or more:
 
 </br>
 
-The joint conferences offer a number of events that can be sponsored including the combined Art Show, two general receptions, two dinners, lunch and coffee breaks, and other events. Naming of events will be decided based on the amount of the contribution and the order received. The price of events vary; please [contact us](mailto:sponsor2019@cc.cam.org) with inquiries.
+The joint conferences offer a number of events that can be sponsored including the combined Art Exhibit, two general receptions, two dinners, lunch and coffee breaks, and other events. Naming of events will be decided based on the amount of the contribution and the order received. The price of events vary; please [contact us](mailto:sponsor2019@cc.cam.org) with inquiries.
