@@ -23,7 +23,7 @@ Accepted PWiP submissions will be published in the DIS 2019 companion publicatio
 ## Important Dates
 | Action | Timeline |
 |---|---|
-|**Provocations & Works-in-Progress due:** | Friday, 8 February 2019 (Submission closes at 11:59 PST)|
+|**Provocations & Works-in-Progress due:** | Friday, 8 February 2019 (Submission closes at 23:59 PST)|
 |**Provocations & Works-in-Progress author notifications:** | Thursday, 21 March 2019 |
 |**Camera ready papers due:** |Friday, 19 April 2019 |
 |**DIS 2019 Conference, San Diego, USA:**| 24-28 June 2019 |
@@ -35,7 +35,7 @@ A PWiP paper should not exceed 4 pages (excluding references) formatted using th
 
 Please include one sentence that can be used in the conference program as a stand-alone teaser or provocation related to your submission, with the aim of drawing attendees to your presentation and engage in discussion.
 
-All submissions should be anonymised and submitted via the [PCS submission system](https://new.precisionconference.com/submissions) by 8 February (11:59 PST), 2019.
+All submissions should be anonymised and submitted via the [PCS submission system](https://new.precisionconference.com/submissions) by 8 February (23:59 PST), 2019.
 
 </br>
 
