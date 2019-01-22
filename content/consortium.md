@@ -11,7 +11,7 @@ As part of submissions to the Doctoral Consortium, we invite you to consider the
 ## Important Dates</br>
 | Action | Timeline |
 |---|---|
-|**Submission deadline**:| Friday, February 8, 2019 |
+|**Submission deadline**:| Friday, February 8, 2019 (23:59 PST) |
 |**Notifications to authors:**| Thursday, March 21, 2019 |
 |**Camera ready deadline:**|Friday, April 19, 2019 |
 |**Doctoral Consortium at DIS 2019:**| Tuesday, June 25, 2019 |
