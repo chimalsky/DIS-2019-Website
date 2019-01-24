@@ -43,8 +43,7 @@ If you are accepted to the Doctoral Consortium, we will send you registration in
 
 </br>
 ## Doctoral Consortium Chairs</br>
-John Bowers</br>
-Newcastle University</br>
+John Bowers (Newcastle University) & Wendy Ju (Cornell University)</br>
 
 [dcchairs [AT] dis2019.acm.org](mailto:dcchairs@dis2019.acm.org) </br> 
 
