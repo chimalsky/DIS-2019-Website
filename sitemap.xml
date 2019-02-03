@@ -63,6 +63,12 @@
   </url>
   
   <url>
+    <loc>/keynotes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/organizers/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
