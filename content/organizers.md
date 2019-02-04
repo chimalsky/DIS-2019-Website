@@ -59,10 +59,10 @@ Silvia Lindtner & Lisa Nathan <br/>
 
 
 ## Demos Chairs
-![alt text](/img/organizers/Kuznetzov-Stacy.jpg "Stacy Kuznetzov")
+![alt text](/img/organizers/Kuznetzov-Stacey.jpg "Stacey Kuznetzov")
 ![alt text](/img/organizers/Davidoff-Scott.jpg "Scott Davidoff")
 
-Stacy Kuznetzov & Scott Davidoff <br/>
+Stacey Kuznetzov & Scott Davidoff <br/>
 [demochairs [at] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)  
 
 
