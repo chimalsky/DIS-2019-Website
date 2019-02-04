@@ -69,5 +69,4 @@ Scott Davidoff </br>
 NASA Jet Propulsion Laboratory, California Institute of Technology
 
 Stacey Kuznetsov </br>
-School of Arts, Media, and Engineering
-Arizona State University
+School of Arts, Media, and Engineering, Arizona State University
