@@ -37,4 +37,4 @@ Doctoral Consortium: Tuesday, June 25, 2019 </br>
 [Art Exhibition](/artexhibition/)</br>
 Submissions Due: February 12th, 2019 (23:59 UTC) </br>
 Notification: April 26th, 2019 </br>
-Art Showcase: June 25, 2019 </br>
+Art Exhibition: June 25, 2019 </br>
