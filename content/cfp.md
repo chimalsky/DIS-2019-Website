@@ -24,7 +24,7 @@ Notifications: March 21, 2019 </br>
 Camera Ready Deadline: April 19, 2019 </br>
 
 [Demos](/demos/)</br> 
-Extended abstract, demo specification (and optional video) due: Extended to February 15, 2019 (23:59 PST) </br>
+Extended abstract, demo specification (and optional video) due: Feb 8, 2019 (23:59 PST) </br>
 Notifications: 21 March 2019 </br>
 Camera Ready Deadline: 19 April 2019 </br>
 
