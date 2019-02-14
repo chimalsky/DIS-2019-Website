@@ -1,6 +1,6 @@
-
-
-DIS Steering Committee
+---
+title: "DIS Steering Committee"
+---
 
 Steve Harrison, Virginia Tech (Chair) </br> 
 Shaowen Bardzell, Indiana University </br> 
