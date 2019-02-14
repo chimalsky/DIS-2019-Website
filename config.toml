@@ -309,7 +309,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Organizers"
-  url = "/organizers"
+  url = "#"
   weight = 1
   parent = "organizers"
   
