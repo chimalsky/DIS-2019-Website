@@ -284,26 +284,47 @@ enableGitInfo = false
 [[menu.main]]
   name = "Attending"
   url = "#"
-  weight = 4
+  weight = 2
   identifier = "attending"
   
  [[menu.main]]
   name = "Keynotes"
   url = "/keynotes"
-  weight = 5
+  weight = 3
   identifier = "keynotes" 
 
 [[menu.main]]
   name = "Organizers"
   url = "/organizers"
-  weight = 6
+  weight = 4
   identifier = "organizers"
 
 [[menu.main]]
   name = "Sponsor"
   url = "/sponsor"
-  weight = 7
+  weight = 5
   identifier = "sponsor"
+
+# Organizers Menu 
+
+[[menu.main]]
+  name = "Organizers"
+  url = "/organizers"
+  weight = 1
+  parent = "organizers"
+  
+ [[menu.main]]
+  name = "Paper Associate Chairs"
+  url = "/acs"
+  weight = 2
+  parent = "organizers"
+  
+ [[menu.main]]
+  name = "DIS Steering Committee"
+  url = "/steering"
+  weight = 3
+  parent = "organizers"
+
 
 # Submit Menu
 
@@ -316,43 +337,43 @@ enableGitInfo = false
 [[menu.main]]  
   name = "Papers"
   url = "/papers"
-  weight = 1
+  weight = 2
   parent = "submit"
 
 [[menu.main]]  
   name = "Pictorials"
   url = "/pictorials"
-  weight = 2
+  weight = 3
   parent = "submit"
 
 [[menu.main]]  
   name = "Doctoral Consortium"
   url = "/consortium"
-  weight = 3
+  weight = 4
   parent = "submit"
 
 [[menu.main]]  
   name = "Demos"
   url = "/demos"
-  weight = 4
+  weight = 5
   parent = "submit"
 
 [[menu.main]]  
   name = "Provocations and WIPs"
   url = "/provocations_wips"
-  weight = 5
+  weight = 6
   parent = "submit"
 
 [[menu.main]]  
   name = "Workshops"
   url = "/workshops"
-  weight = 6
+  weight = 7
   parent = "submit"
 
 [[menu.main]]  
   name = "Art Exhibition"
   url = "/artexhibition"
-  weight = 7
+  weight = 8
   parent = "submit"
 
 
