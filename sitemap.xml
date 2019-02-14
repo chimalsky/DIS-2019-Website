@@ -39,6 +39,12 @@
   </url>
   
   <url>
+    <loc>/steering/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/diversity/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -70,6 +76,12 @@
   
   <url>
     <loc>/organizers/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/acs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
