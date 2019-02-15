@@ -7,10 +7,10 @@ __DIS 2019__ invites researchers, prototypes and practitioners to submit their w
 The track invites interface or system demonstrations, novel gadgets, techno-craft, and other interactive experiences that critically or creatively explore the conference themes. These should rethink and challenge the conventional modalities of demonstration, preference will be for demos that involve and activate DIS participants. </br>
 
 </br>
-## Important Dates 
+## Important Dates </br>
 | Action | Timeline |
 |---|---|
-|**Extended Demo Deadline:**|Wednesday, March 27, 2019 (6 days after paper notifications)|
+|**Extended Demo Deadline:**| Wednesday, March 27, 2019 (6 days after paper notifications)|
 |**Demo Notifications:**| Monday, April 8, 2019|
 |**Camera Ready Deadline:**| 19 April 2019|  
 |**DIS 2019 conference:**| 24-28 June 2019|
