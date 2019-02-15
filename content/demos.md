@@ -10,10 +10,11 @@ The track invites interface or system demonstrations, novel gadgets, techno-craf
 ## Important Dates 
 | Action | Timeline |
 |---|---|
-|**Extended abstract, demo specification (and optional video) due**:|8 Feb 2019 (Submission closes at 23:59 PST.)|
-|**Successful demos author notifications:**| 21 March 2019|
-|**All camera ready extended abstracts due:**| 19 April 2019|  
+|**Extended Demo Deadline:**|Wednesday, March 27, 2019 (6 days after paper notifications)|
+|**Demo Notifications:**| Monday, April 8, 2019|
+|**Camera Ready Deadline:**| 19 April 2019|  
 |**DIS 2019 conference:**| 24-28 June 2019|
+
 
 </br>
 Demo submissions should be exploratory, provocative, innovative and ambitious. Submissions are encouraged from a wide range of areas that may include HCI, Design and Digital media, and physical computing prototypes and should ideally fit into one or more of the following domains: </br>
