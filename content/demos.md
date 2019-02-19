@@ -10,7 +10,7 @@ The track invites interface or system demonstrations, novel gadgets, techno-craf
 ## Important Dates </br>
 | Action | Timeline |
 |---|---|
-|**Demo Deadline:**|~~Feb 8, 2019, 11:59 PST~~|
+|**Demo Deadline:**|~~February 8, 2019, (23:59 PST)~~|
 |**Extended Demo Deadline:**| __Wednesday, March 27, 2019__ (6 days after paper notifications)|
 |**Demo Notifications:**| Monday, April 8, 2019|
 |**Camera Ready Deadline:**| 19 April 2019|  
