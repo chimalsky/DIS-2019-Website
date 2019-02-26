@@ -4,6 +4,7 @@ title: "Keynote Speakers"
 ---
 
 ## [Lisa Nakamura](https://lsa.umich.edu/ac/people/faculty/lnakamur.html) </br> 
+![alt text](/img/Nakamura-Lisa.jpg "Lisa Nakamura")
 
 ### Keynote Title: 
 Virtual Reality and the Feeling of Virtue: Women of Color Narrators, Enforced Hospitality, and the Leveraging of Empathy
@@ -20,6 +21,7 @@ She is the author of four books on race, gender, and digital media and gaming an
 
 
 ## [Danielle Wood](http://www.daniellerwood.com/) </br> 
+![alt text](/img/Wood-Danielle.jpg "Danielle Wood")
 
 ### Keynote Title: 
 The Role of Space Technology to Support Sustainable Development
