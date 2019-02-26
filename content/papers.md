@@ -49,8 +49,6 @@ All submissions should be formatted using the following templates: </br>
 *[Word Papers template](https://www.dropbox.com/s/703ih7giiyd4335/DIS19-Sample-Paper.docx?dl=0) </br>
 *[Latex Papers template](https://www.dropbox.com/s/4piuua92z4eci16/DIS19-Latex-Papers.zip?dl=0) </br>
 
-Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
-
 ### Dec 18, 2018: We have chosen to not use the new paper layouts produced by ACM. Instead, we will be using the SIGCHI paper format that was updated for the ACM TEI 2019 conference.
 
 Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
