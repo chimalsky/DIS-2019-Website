@@ -11,7 +11,7 @@ We welcome proposals for hosting a workshop at DIS 2019 that align with the conf
 |**Proposals to host a workshop due:**| January 18, 2019 (The submission system closes at 23:59 PST) |
 |**Notifications of acceptance to authors:**| March 8, 2019 |
 |**All camera ready papers due:**| March 22, 2018 |
-|**Workshops and Doctoral Consortium:**| June 23-24, 2019 |
+|**Workshops:**| June 23-24, 2019 |
  
 </br>  
 ## Workshop Planning </br> 
