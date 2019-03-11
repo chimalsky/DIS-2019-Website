@@ -18,6 +18,7 @@ Interested in sponsoring [DIS 2019](https://dis2019.com) and [C&C 2019](http://c
 
 </br>
 ## Silver </br>
+![alt text](/img/sponsors/adobe.jpg "Adobe") </br> </br> 
 ![alt text](/img/sponsors/google.jpg "Google") </br> </br> 
 ![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab") </br> </br> 
 ![alt text](/img/sponsors/virginiatech.jpg "Virginia Tech") </br> </br> 
@@ -36,8 +37,8 @@ Contribution of $10,000 or more:
 - Organization logo in the printed programs, signage at both conferences, and both conference websites.
 - We will acknowledge your organization’s contribution and offer thanks at the opening and closing sessions for both conferences.
 - Job descriptions provided to attendees.
-- Third priority for a demo booth.
-- Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
+- First priority for a demo booth.
+- First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 </br>
@@ -47,7 +48,7 @@ Contribution of $5,000 or more:
 - 2 free registrations for people from your organization to attend both conferences.
 - Organization’s logo in the printed programs, signage at both conferences, and both conference websites.
 - We will acknowledge your organization’s contribution and offer thanks at the opening and closing sessions for both conferences.
-- Fourth priority for a demo booth.
+- Second priority for a demo booth.
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 </br>
