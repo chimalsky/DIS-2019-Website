@@ -375,7 +375,12 @@ enableGitInfo = false
   url = "/artexhibition"
   weight = 8
   parent = "submit"
-
+  
+[[menu.main]]  
+  name = "Accepted Workshops"
+  url = "/accepted-workshops"
+  weight = 9
+  parent = "submit"
 
 
 # Attending Menu

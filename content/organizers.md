@@ -144,7 +144,7 @@ Ellen Do & John Zimmerman <br/>
 ![alt text](/img/organizers/Gamberini-Luciano.jpg "Luciano Gamberini")
 ![alt text](/img/organizers/Le Dantec-Christopher.jpg "Christopher Le Dantec")
 
-Rogerio de Paula, Shaun Lawson, Luciano Gamberini, & Christopher Le Dantec <br/>
+Rogerio de Paula, Shaun Lawson, Luciano Gamberini & Christopher Le Dantec <br/>
 [artifacts_experiences_sc [at] dis2019.acm.org](mailto:artifacts_experiences_sc@dis2019.acm.org)  
 
 
