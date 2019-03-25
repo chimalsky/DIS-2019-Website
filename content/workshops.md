@@ -2,6 +2,8 @@
 title: "Workshops"
 ---
 
+Please see the list of [Accepted Workshops here](https://dis2019.com/accepted-workshops). 
+
 We welcome proposals for hosting a workshop at DIS 2019 that align with the conference theme. Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building. We encourage proposals to host a workshop that encourage participants to engage in alternatives to established approaches in design and computing; this can include but is not limited to artistic and humanistic approaches, craft, tinkering, hacking, feminist, postcolonial, and longer-term approaches to design, reflective engagements with politics and cultures of design.
 
 </br>
