@@ -141,15 +141,18 @@ Ellen Do & John Zimmerman <br/>
 ### Experience, Artifacts, and Technology
 ![alt text](/img/organizers/de Paula-Rogerio.jpg "Rogerio de Paula")
 ![alt text](/img/organizers/Lawson-Shaun.jpg "Shaun Lawson")
+![alt text](/img/organizers/Gamberini-Luciano.jpg "Luciano Gamberini")
+![alt text](/img/organizers/Le Dantec-Christopher.jpg "Christopher Le Dantec")
 
-Rogerio de Paula & Shaun Lawson <br/>
+Rogerio de Paula, Shaun Lawson, Luciano Gamberini, & Christopher Le Dantec <br/>
 [artifacts_experiences_sc [at] dis2019.acm.org](mailto:artifacts_experiences_sc@dis2019.acm.org)  
 
 
 ### Change Through Design
 ![alt text](/img/organizers/Bratteteig-Tone.jpg "Tone Bratteteig")
 ![alt text](/img/organizers/Tennenbaum-Josh.jpg "Josh Tennenbaum")
+![alt text](/img/organizers/Muller-Michael.jpg "Michael Muller")
 
-Tone Bratteteig & Josh Tennenbaum <br/>
+Tone Bratteteig, Josh Tennenbaum & Michael Muller<br/>
 [change_sc [at] dis2019.acm.org](mailto:change_sc@dis2019.acm.org)  
 
