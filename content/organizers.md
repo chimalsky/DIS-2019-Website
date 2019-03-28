@@ -68,7 +68,7 @@ Stacey Kuznetzov & Scott Davidoff <br/>
 
 ## Art Exhibition Chairs
 ![alt text](/img/organizers/Fritsch-Jonas.jpg "Jonas Fritsch")
-![alt text](/img/organizers/Sheldon-Brown.jpg "Sheldon Brown")
+![alt text](/img/organizers/Crandall-Jordan.jpg "Jordan Crandall")
 
 Jonas Fritsch & Sheldon Brown </br>
 [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org)
