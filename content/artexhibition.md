@@ -18,8 +18,8 @@ Deadlines are specified as [Anywhere on Earth time](https://en.wikipedia.org/wik
 
 </br>
 ## Chairs </br>
-Sheldon Brown</br>
 Jonas Fritsch</br>
+Jordan Crandall </br>
 
 Contact: [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org) 
 
@@ -64,5 +64,5 @@ All selected artists will get a free day of registration for both conferences. W
 
 </br>
 ## Questions </br>
-Sheldon Brown & Jonas Fritsch </br> 
+Jonas Fritsch & Jordan Crandall</br> 
 [artshowchairs [at] dis2019.acm.org](mailto:artshowchairs@dis2019.acm.org) 
