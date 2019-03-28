@@ -15,7 +15,7 @@ W2: Crowd-powered Interfaces for Creative Design Thinking, [URL](https://creativ
 W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition? </br> 
 
 </br> 
-W4: Towards a Research Agenda for Gameful Creativity. [URL](https://gamefulcreativity18.wordpress.com/)</br> 
+W4: Towards a Research Agenda for Gameful Creativity, [URL](https://gamefulcreativity18.wordpress.com/)</br> 
  Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar </br> 
  
 </br> 
@@ -57,7 +57,7 @@ W12: A sample of One: First-person Research Methods in HCI, [URL](https://1stper
 W13: Designing at the End of the World </br> 
   Jonas Fritsch, Ann Light, Daria Loi </br> 
 
-W14: Larping (Live Action Role Playing) as an Embodied Design Research Method [URL](https://interaction.mere.st/)</br> 
+W14: Larping (Live Action Role Playing) as an Embodied Design Research Method, [URL](https://interaction.mere.st/)</br> 
   Elena Márquez Segura, Katta Spiel, Karin Johansson, Jon Back, Z O. Toups, Jessica Hammer, Annika Waern, Josh Tanenbaum, Katherine Isbister   </br> 
 
 
