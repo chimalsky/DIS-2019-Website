@@ -18,7 +18,7 @@ title: "Accepted Workshops"
   <dd>Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar </dd>
   
   <dt> W5: Crafting and Tasting in Everyday Human-Food Interactions </dt>
-  <dd> </dd>
+  <dd> Markéta Dolejšová, Ferran Altarriba Bertran, Danielle Wilde, Dr. Hilary Davis</dd>
   
   <dt> W6: Exploring, Defining, & Advancing Community-Driven Design for Social Impact</dt> 
   <dd> </dd> 
