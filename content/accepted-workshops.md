@@ -4,8 +4,18 @@ title: "Accepted Workshops"
 ---
 
 # Sunday, June 23 
-W1: Distributed Creativity in Play </br> 
-W2: Crowd-powered Interfaces for Creative Design Thinking </br> 
+<dl>
+  <dt>W1: Distributed Creativity in Play </dt>
+  <dd>Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay</dd>
+
+  <dt> W2: Crowd-powered Interfaces for Creative Design Thinking </dt> 
+  <dd>Jonas Oppenlaender, Halil Erhan, Naghmi Shireen, Jorge Goncalves, Maximilian Mackeprang, Simo Hosio </dd>
+  <dd>[Workshop Site](https://creativity-workshops.github.io/cc19/) </dd> 
+
+
+
+
+ 
 W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition? </br> 
 W4: Towards a Research Agenda for Gameful Creativity </br> 
 W5: Crafting and Tasting in Everyday Human-Food Interactions </br> 
