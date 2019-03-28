@@ -26,8 +26,8 @@ title: "Accepted Workshops"
   <dt> W7: CoDesigning AI Futures: Integrating AI Ethics, Social Computing, and Design, [URL](https://codesigningaifutures.wordpress.com) </dt>
   <dd> Daria Loi, Christine T. Wolf, Raphael Arar, Jeanette Blomberg, Margot Brereton </dd> 
   
-  <dt> W8: Academic Accomplices: Practical Strategies for Research Justice </dt> 
-  <dd> </dd> 
+  <dt> W8: Academic Accomplices: Practical Strategies for Research Justice [URL](http://accomplices.lmc.gatech.edu/)</dt> 
+  <dd> Mariam Asad, Lynn Dombrowski, Sasha Costanza-Chock, Sheena Erete, Christina Harrington </dd> 
   
   </dl>
 
