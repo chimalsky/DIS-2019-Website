@@ -43,6 +43,6 @@ W13: Designing at the End of the World </br>
   Jonas Fritsch, Ann Light, Daria Loi </br> 
 
 W14: [Larping (Live Action Role Playing) as an Embodied Design Research Method](https://interaction.mere.st/)</br> 
-  Elena Márquez Segura, Katta Spiel, Karin Johansson, Jon Back, Z O. Toups, Jessica Hammer, Annika Waern, Josh Tanenbaum, Katherine Isbister   </br> 
+  Elena Márquez Segura, Katta Spiel, Karin Johansson, Jon Back, Zach O. Toups, Jessica Hammer, Annika Waern, Josh Tanenbaum, Katherine Isbister   </br> 
 
 
