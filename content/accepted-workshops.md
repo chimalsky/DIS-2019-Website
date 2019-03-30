@@ -15,10 +15,10 @@ W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Co
 W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)</br> 
  Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar </br> 
  
-W5: Crafting and Tasting in Everyday Human-Food Interactions </br> 
+W5: [Crafting and Tasting in Everyday Human-Food Interactions](https://humanfoodinteraction.wordpress.com/) </br> 
    Markéta Dolejšová, Ferran Altarriba Bertran, Danielle Wilde, Dr. Hilary Davis</br> 
 
-W6: Exploring, Defining, & Advancing Community-Driven Design for Social Impact </br> 
+W6: [Exploring, Defining, & Advancing Community-Driven Design for Social Impact](https://designlab.ucsd.edu/events/community-driven-design-workshop-dis-2019/) </br> Eric Hekler, Jennifer Taylor, Steven Dow, m.c., Sayali Phatak, Don Norman, Faren Grant, Dana Lewis </br> 
 
 W7: [CoDesigning AI Futures: Integrating AI Ethics, Social Computing, and Design](https://codesigningaifutures.wordpress.com) </br> Daria Loi, Christine T. Wolf, Raphael Arar, Jeanette Blomberg, Margot Brereton </br> 
 
