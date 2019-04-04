@@ -30,7 +30,7 @@ Mariam Asad, Lynn Dombrowski, Sasha Costanza-Chock, Sheena Erete, Christina Harr
 W9: At the Intersection of Culture & Method: Designing Feminist Action __[Invitation Only]__ </br> 
  Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, Palashi Vaghela</br> 
  
-W10: [Exploring Noticing as Method in Design Research](https://artsofnoticingworkshop.wordpress.com) __[Invitation Only]__ </br> 
+W10: [Exploring Noticing as Method in Design Research](https://artsofnoticing.com) __[Invitation Only]__ </br> 
   Szu-Yu (Cyn) Liu, Jen Liu, Kristin Dew, Patrycja Zdziarska, Maya Livio, Shaowen Bardzell</br> 
 
 W11: [Intersection in HCI, Design and Dementia](https://design-intersections.wineme.wiwi.uni-siegen.de) __[Open for 15 slots | 10 invited slots]__</br> 
