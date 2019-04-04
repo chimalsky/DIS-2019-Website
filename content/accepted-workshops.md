@@ -18,9 +18,11 @@ title: "Accepted Workshops"
 ### W5: [Crafting and Tasting in Everyday Human-Food Interactions](https://humanfoodinteraction.wordpress.com/) </br> 
    Markéta Dolejšová, Ferran Altarriba Bertran, Danielle Wilde, Dr. Hilary Davis</br> 
 
-### W6: [Exploring, Defining, & Advancing Community-Driven Design for Social Impact](https://designlab.ucsd.edu/events/community-driven-design-workshop-dis-2019/) </br> Eric Hekler, Jennifer Taylor, Steven Dow, m.c. schraefel, Sayali Phatak, Don Norman, Faren Grant, Dana Lewis </br> 
+### W6: [Exploring, Defining, & Advancing Community-Driven Design for Social Impact](https://designlab.ucsd.edu/events/community-driven-design-workshop-dis-2019/) </br> 
+Eric Hekler, Jennifer Taylor, Steven Dow, m.c. schraefel, Sayali Phatak, Don Norman, Faren Grant, Dana Lewis </br> 
 
-### W7: [CoDesigning AI Futures: Integrating AI Ethics, Social Computing, and Design](https://codesigningaifutures.wordpress.com) </br> Daria Loi, Christine T. Wolf, Raphael Arar, Jeanette Blomberg, Margot Brereton </br> 
+### W7: [CoDesigning AI Futures: Integrating AI Ethics, Social Computing, and Design](https://codesigningaifutures.wordpress.com) </br> 
+Daria Loi, Christine T. Wolf, Raphael Arar, Jeanette Blomberg, Margot Brereton </br> 
 
 ### W8: [Academic Accomplices: Practical Strategies for Research Justice](http://accomplices.lmc.gatech.edu/)</br> 
 Mariam Asad, Lynn Dombrowski, Sasha Costanza-Chock, Sheena Erete, Christina Harrington </br> 
