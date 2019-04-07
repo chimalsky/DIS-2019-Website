@@ -11,12 +11,11 @@ Attendees can register for one or the other conference individually, or for a si
 
 ## Full conference registration fees (in USD)
 
-||Early Bird </br> (Ends May 7)||Regular Rate </br> (Ends June 22)||On-Site Rate||
-
-||||||||
-|:---|---:|---:|---:|---:|---:|---:|
+||Early Bird </br> (Ends May 7)|Regular Rate </br> (Ends June 22)|On-Site Rate|
+|---|---|---|---|
 | |DIS| DIS + C&C| DIS| DIS + C&C | DIS| DIS + C&C| 
-|ACM or SIGCHI Professional Member| 700| 950| 800| 1,100| 850| 1,150| 
+|:---|---:|---:|---:|---:|---:|---:|
+|ACM or SIGCHI </br> Professional </br> Member| 700| 950| 800| 1,100| 850| 1,150| 
 
 
 
