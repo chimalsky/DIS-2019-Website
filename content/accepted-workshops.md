@@ -3,7 +3,7 @@
 title: "Accepted Workshops"
 ---
 
-Invite-only workshop require an access code provided by the workshop organizers. See each workshop page for details. For workshops with Open Registration, attendees may register without an access code.
+Invite-only workshop require an access code provided by the workshop organizers. See each workshop page for details. For workshops with Open Registration, attendees may register without an access code. DIS attendees can apply for C&C workshops. 
 
 # Sunday, June 23 
 
