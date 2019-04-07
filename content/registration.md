@@ -8,9 +8,9 @@ Attendees can register for one or the other conference individually, or for a si
 <div class="nice_button_container"><a href="http://www.cvent.com/d/nbq2yk/4W" target="_blank" class="nice_button content-head">Register Now</a></div>
 
 </br> 
-        <p>Conference fees (All fees are in USD):</p>
-        <h3 id="">Full conference registration</h3>
+Conference fees (All fees are in USD)
 
+ ## Full conference registration
         <table id="full_conference_reg" class="registration_table pure-table pure-table-horizontal">
         <tbody>
           <tr>
@@ -66,9 +66,10 @@ Attendees can register for one or the other conference individually, or for a si
           </tr>
         </tbody>
         </table>
-        <p>&nbsp;</p>
+      </br> 
 
-        <h3>Workshops and 1-Day Passes</h3>
+
+## Workshops and 1-Day Passes
         <table class="registration_table pure-table pure-table-horizontal">
         <tbody>
           <tr>
@@ -94,7 +95,7 @@ Attendees can register for one or the other conference individually, or for a si
         </tbody>
         </table>
 
-
+</br> 
 ## Registration fees include:
 Conference registration includes attendance to all sessions, morning / afternoon refreshment breaks, and evening events. DIS full registration includes the C&C/DIS Art Exhibition at UCSD on Tuesday, the DIS dinner on Wednesday, and the DIS poster/demo reception on Thursday.  Joint registration includes all the evening events (C&C welcome on Sunday evening, the C&C poster/demo reception on Monday evening, and all the DIS evening events). 
 
