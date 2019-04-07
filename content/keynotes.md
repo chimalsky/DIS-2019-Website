@@ -5,10 +5,12 @@ title: "Keynote Speakers"
 
 # JOINT DIS and C&C KEYNOTE
 
-## Screen Smashing: Iconoclasty in an Age of Illusionary Intelligence <br> 
-Tiffany Shlain and Ken Goldberg <br> 
+## Tiffany Shlain and Ken Goldberg 
 
-“Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves are frighteningly inert." - Donna Haraway. Simians, Cyborgs, and Women: The Reinvention of Nature.
+### Keynote Title: Screen Smashing: Iconoclasty in an Age of Illusionary Intelligence 
+
+### Abstract: 
+"Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves are frighteningly inert." - Donna Haraway. Simians, Cyborgs, and Women: The Reinvention of Nature.
 
 The boundaries that Haraway lamented in 1990 were further eroded by the World Wide Web, wireless networks, smartphones, and today by social media, fake news, claims about Artificial Intelligence and an impending "Singularity".  Are all boundaries truly illusionary?  Or can we question illusions of illusion by actively asserting boundaries between ourselves and our machines?  Artistic collaborators Shlain and Goldberg will describe how their art projects and experiences with technology are leading them to rediscover old barricades.
 
