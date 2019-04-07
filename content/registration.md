@@ -96,7 +96,8 @@ Conference fees (All fees are in USD)
         </table>
 
 </br> 
-## Registration fees include:
+
+## Registration fees include: </br> 
 Conference registration includes attendance to all sessions, morning / afternoon refreshment breaks, and evening events. DIS full registration includes the C&C/DIS Art Exhibition at UCSD on Tuesday, the DIS dinner on Wednesday, and the DIS poster/demo reception on Thursday.  Joint registration includes all the evening events (C&C welcome on Sunday evening, the C&C poster/demo reception on Monday evening, and all the DIS evening events). 
 
 Companion passes may be purchased for any of the evening events for $100 per person. 
