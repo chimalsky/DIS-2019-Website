@@ -2,8 +2,12 @@
 ---
 title: "Accepted Workshops"
 ---
+
+Invite-only workshop require an access code provided by the workshop organizers. See each workshop page for details. For workshops with Open Registration, attendees may register without an access code.
+
 # Sunday, June 23 
 
+## C&C Workshops </br> 
 ### W1: Distributed Creativity in Play </br> 
   *Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay* </br> 
  
@@ -11,7 +15,9 @@ title: "Accepted Workshops"
  *Jonas Oppenlaender, Halil Erhan, Naghmi Shireen, Jorge Goncalves, Maximilian Mackeprang, Simo Hosio* </br> 
 
 ### W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition? </br> 
+*Tracy Hammond* 
 
+## DIS Workshops </br> 
 ### W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)</br> 
 *Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar* </br> 
 Abstract: We propose a one-day workshop that focuses on the intersection of gamefulness and creativity. The objective of this workshop is to bring together both researchers and practitioners interested in this field to discuss a research agenda that will explore the relationship between game-related aspects (e.g. game play, game genres) and creative thinking.
