@@ -112,8 +112,7 @@ Up to and including 7 May 2019 the registration fee will be refunded less 20 USD
 
 Notification of cancellations should be made by email to regchair@dis2019.acm.org. If you do not send an email confirming that you wish to cancel your place at the conference you will still be liable to pay the fees. Substitutions can be made at any time. All applicable refunds will be made after the conference. Bank service charges and all administration fees will be deducted from all conference registration refunds. In the unlikely case of cancellation of the event, the organizers shall not accept liability for any consequential loss and shall have no liability to reimburse any other costs that may have been incurred, including transport costs, accommodation etc. Delegates are encouraged to take out travel insurance when making travel and accommodation arrangements.
 
-</br> 
-ACM DIS 2019 will take place at:
+## ACM DIS 2019 will take place at:
 
 Hyatt Regency Mission Bay 1441 Quivira Road San Diego, California, USA, 92109
 
