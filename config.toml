@@ -386,8 +386,8 @@ enableGitInfo = false
 # Attending Menu
 
 [[menu.main]]  
-  name = "Conference Venue"
-  url = "/venue"
+  name = "Conference Registration"
+  url = "/registration"
   weight = 1
   parent = "attending"
 
