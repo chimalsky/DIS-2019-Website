@@ -11,8 +11,9 @@ Attendees can register for one or the other conference individually, or for a si
 
 ## Full conference registration fees (in USD)
 
-|---| Early Bird (Ends May 7) | Regular Rate (Ends June 22) | On-Site Rate |
-|---|---|---|
+|| Early Bird (Ends May 7) | Regular Rate (Ends June 22) | On-Site Rate |
+|---|---|---|---| 
+
 
 ## Workshops and 1-Day Passes
 
