@@ -11,8 +11,8 @@ Attendees can register for one or the other conference individually, or for a si
 
 ## Full conference registration fees (in USD)
 
-|    | Early Bird </br> (Ends May 7) | Regular Rate </br> (Ends June 22) | On-Site Rate |
-|---|---|---|---|---|---|---|---| 
+||Early Bird </br> (Ends May 7)||Regular Rate </br> (Ends June 22)||On-Site Rate||
+|---|---|---|---|---|---|---|
 | | DIS| DIS + C&C| DIS| DIS + C&C | DIS| DIS + C&C| 
 
 ## Workshops and 1-Day Passes
