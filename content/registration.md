@@ -13,6 +13,7 @@ Attendees can register for one or the other conference individually, or for a si
 
 ||Early Bird </br> (Ends May 7)|Regular Rate </br> (Ends June 22)|On-Site Rate|
 |---|---|---|---|
+
 | |DIS| DIS + C&C| DIS| DIS + C&C | DIS| DIS + C&C| 
 |:---|---:|---:|---:|---:|---:|---:|
 |ACM or SIGCHI </br> Professional </br> Member| 700| 950| 800| 1,100| 850| 1,150| 
