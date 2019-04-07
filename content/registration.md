@@ -5,15 +5,94 @@ title: "Conference Registration"
 
 Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.   
 
+<div class="nice_button_container"><a href="http://www.cvent.com/d/nbq2yk/4W" target="_blank" class="nice_button content-head">Register Now</a></div>
+
 </br> 
-[Register](http://www.cvent.com/d/nbq2yk/4W)
-</br> 
+        <p>Conference fees (All fees are in USD):</p>
+        <h3 id="">Full conference registration</h3>
 
-## Full conference registration fees (in USD)
+        <table id="full_conference_reg" class="registration_table pure-table pure-table-horizontal">
+        <tbody>
+          <tr>
+            <th class="left">&nbsp;</th>
+            <td colspan="2"><b>Early Bird<br />(ends May 7)</b></td>
+            <td colspan="2"><b>Regular Rate<br />(ends June 22)</b></td>
+            <td colspan="2"><b>Onsite Rate</b></td>
+          </tr>
+          <tr>
+            <th class="left">&nbsp;</th>
+            <td><b>C&amp;C</b></td>
+            <td><b>Joint with DIS</b></td>
+            <td><b>C&amp;C</b></td>
+            <td><b>Joint with DIS</b></td>
+            <td><b>C&amp;C</b></td>
+            <td><b>Joint with DIS</b></td>
+          </tr>
+          <tr>
+            <th class="left"><b>ACM or SIGCHI Professional Member</b></th>
+            <td>650</td>
+            <td class="joint">950</td>
+            <td>750</td>
+            <td class="joint">1,100</td>
+            <td>800</td>
+            <td class="joint">1,150</td>
+          </tr>
+          <tr>
+            <th class="left"><b>Non-Member</b></th>
+            <td>800</td>
+            <td class="joint">1,100</td>
+            <td>900</td>
+            <td class="joint">1,250</td>
+            <td>950</td>
+            <td class="joint">1,300</td>
+          </tr>
+          <tr>
+            <th class="left"><b>ACM or SIGCHI Student Member</b></th>
+            <td>375</td>
+            <td class="joint">650</td>
+            <td>450</td>
+            <td class="joint">800</td>
+            <td>500</td>
+            <td class="joint">850</td>
+          </tr>
+          <tr>
+            <th class="left"><b>Student Non-Member</b></th>
+            <td>500</td>
+            <td class="joint">775</td>
+            <td>575</td>
+            <td class="joint">925</td>
+            <td>625</td>
+            <td class="joint">975</td>
+          </tr>
+        </tbody>
+        </table>
+        <p>&nbsp;</p>
 
-
-## Workshops and 1-Day Passes
-
+        <h3>Workshops and 1-Day Passes</h3>
+        <table class="registration_table pure-table pure-table-horizontal">
+        <tbody>
+          <tr>
+            <td class="border_right"><b>Workshops</b></td>
+            <td colspan="6"><b>1-Day Passes</b></td>
+          </tr>
+          <tr>
+            <td class="border_right">Sun</td>
+            <td>Mon</td>
+            <td>Tue</td>
+            <td>Wed</td>
+            <td>Thu</td>
+            <td class="border_right">Fri</td>
+          </tr>
+          <tr>
+            <td class="border_right">175</td>
+            <td>350</td>
+            <td>350</td>
+            <td>450</td>
+            <td>400</td>
+            <td class="border_right">300</td>
+          </tr>
+        </tbody>
+        </table>
 
 
 ## Registration fees include:
