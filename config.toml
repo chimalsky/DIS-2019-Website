@@ -341,7 +341,7 @@ enableGitInfo = false
   parent = "keynotes"
 
 [[menu.main]]  
-  name = "Joint C&C and DIS Keynotes"
+  name = "Joint DIS & C&S Keynotes"
   url = "/joint_keynotes"
   weight = 1
   parent = "keynotes"
