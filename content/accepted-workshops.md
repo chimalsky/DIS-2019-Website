@@ -17,6 +17,8 @@ Invite-only workshop require an access code provided by the workshop organizers.
 ### W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition? </br> 
 *Tracy Hammond* 
 
+</br> 
+
 ## DIS Workshops </br> 
 ### W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)</br> 
 *Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar* </br> 
