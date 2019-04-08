@@ -3,7 +3,7 @@
 title: "Keynote Speakers"
 ---
 
-# JOINT DIS and C&C KEYNOTE
+# Joint DIS and C&C Keynote </br> 
 
 ## Tiffany Shlain and Ken Goldberg 
 
@@ -21,7 +21,7 @@ goldberg.berkeley.edu @Ken_Goldberg </br>
 
 <br> 
 
-# DIS KEYNOTES
+# DIS Keynotes
 
 ## [Lisa Nakamura](https://lsa.umich.edu/ac/people/faculty/lnakamur.html) </br> 
 ![alt text](/img/Nakamura-Lisa.jpg "Lisa Nakamura")
@@ -51,36 +51,3 @@ Professor Danielle Wood leads the new Space Enabled Research Group at the MIT Me
 
 ### Bio:
 Professor Danielle Wood serves as an Assistant Professor in the Program in Media Arts and Sciences within the Media Lab at the Massachusetts Institute of Technology. Within the Media Lab, Prof. Wood leads the Space Enabled Research Group which seeks to advance justice in earth's complex systems using designs enabled by space. Prof. Wood is a scholar of societal development with a background that includes satellite design, earth science applications, systems engineering, and technology policy. In her research, Prof. Wood applies these skills to design innovative systems that harness space technology to address development challenges around the world. Prior to serving as faculty at MIT, Prof. Wood held positions at NASA Headquarters, NASA Goddard Space Flight Center, Aerospace Corporation, Johns Hopkins University, and the United Nations Office of Outer Space Affairs. Prof. Wood studied at the Massachusetts Institute of Technology, where she earned a PhD in engineering systems, SM in aeronautics and astronautics, SM in technology policy, and SB in aerospace engineering.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
