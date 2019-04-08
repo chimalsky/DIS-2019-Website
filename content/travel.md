@@ -5,13 +5,13 @@ title: "Travel and Hotel Information"
 
 ACM DIS 2019 will take place at: 
 
-[Hyatt Regency Mission Bay](https://missionbay.regency.hyatt.com/en/hotel/home.html%E2%80%9D)
-1441 Quivira Road
-San Diego, California, USA, 92109
+[Hyatt Regency Mission Bay](https://missionbay.regency.hyatt.com/en/hotel/home.html%E2%80%9D) </br> 
+1441 Quivira Road </br> 
+San Diego, California, USA, 92109 </br> 
 
 The Hyatt Regency is located right on the waterfront in Mission Bay, a beautiful area with lots to do and explore. The hotel features views of the Pacific Ocean, Mission Beach, and the downtown San Diego skyline.
 
-ttendees will be guaranteed a rate of $249/night + tax for standard run of house ([click here to book with the conference rate](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)). Attendees with valid student ID may book a room in the Bay Building at the discounted rate of $209/night + tax (link coming soon) . Early booking is encouraged.
+ttendees will be guaranteed a rate of $249/night + tax for standard run of house ([click here to book with the conference rate](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)). Attendees with valid student ID may book a room in the Bay Building at the discounted rate of $209/night + tax. Early booking is encouraged.
 
 All rooms include free Wifi and access to the pools, games, and other activities. Attendees may add the [Resort Services Program](https://missionbay.regency.hyatt.com/en/hotel/our-hotel/resort-fee-policy.html) for $15 per day per room ($32 value). This includes amenities such as complimentary kayak and paddleboard rentals, beach equipment, and and outdoor recreation games.
 
@@ -21,15 +21,15 @@ All rooms include free Wifi and access to the pools, games, and other activities
 
 There are two other hotels within walking distance from the Hyatt:
 
-[The Dana on Mission Bay](https://www.thedana.com%E2%80%9D)
-1710 W Mission Bay Drive
-San Diego, California, USA, 92109
+[The Dana on Mission Bay](https://www.thedana.com%E2%80%9D) </br> 
+1710 W Mission Bay Drive </br> 
+San Diego, California, USA, 92109 </br> 
 
-[Bahia Resort Hotel](http://bahiahotel.com/%E2%80%9D)
-1441 Quivira Road
-San Diego, California, USA, 92109
-998 West Mission Bay Drive
-San Diego, California, USA, 92109
+[Bahia Resort Hotel](http://bahiahotel.com/%E2%80%9D)</br>
+1441 Quivira Road </br>
+San Diego, California, USA, 92109 </br> 
+998 West Mission Bay Drive </br>
+San Diego, California, USA, 92109 </br> 
 
 Attendees may also find accommodation through [AirBnB](https://www.airbnb.com/s/Mission-Bay--San-Diego--CA--United-States/homes%E2%80%9D) or other vacation rental services.
 
