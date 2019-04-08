@@ -287,22 +287,28 @@ enableGitInfo = false
   weight = 2
   identifier = "attending"
   
+[[menu.main]]
+  name = "Program"
+  url = "#"
+  weight = 3
+  identifier = "program" 
+  
  [[menu.main]]
   name = "Keynotes"
   url = "/keynotes"
-  weight = 3
+  weight = 4
   identifier = "keynotes" 
 
 [[menu.main]]
   name = "Organizers"
   url = "#"
-  weight = 4
+  weight = 5
   identifier = "organizers"
 
 [[menu.main]]
   name = "Sponsor"
   url = "/sponsor"
-  weight = 5
+  weight = 6
   identifier = "sponsor"
 
 # Organizers Menu 
@@ -376,11 +382,13 @@ enableGitInfo = false
   weight = 8
   parent = "submit"
   
+# Program Menu
+  
 [[menu.main]]  
   name = "Accepted Workshops"
   url = "/accepted-workshops"
-  weight = 9
-  parent = "submit"
+  weight = 1
+  parent = "program"
 
 
 # Attending Menu
