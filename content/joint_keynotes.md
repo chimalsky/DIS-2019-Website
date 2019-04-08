@@ -1,6 +1,6 @@
-
-
-# Joint DIS and C&C Keynote </br> </br> 
+---
+title: "Joint DIS and C&C Keynote"
+---
 
 ## Tiffany Shlain and Ken Goldberg 
 
