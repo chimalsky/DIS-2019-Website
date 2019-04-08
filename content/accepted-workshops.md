@@ -6,9 +6,7 @@ Invite-only workshop require an access code provided by the workshop organizers.
 </br> 
 
 # Sunday, June 23 </br></br> 
-
-## C&C Workshops </br> 
-
+## C&C Workshops </br></br>  
 ### W1: Distributed Creativity in Play </br> 
   *Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay* </br> 
  
@@ -18,8 +16,7 @@ Invite-only workshop require an access code provided by the workshop organizers.
 ### W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition? </br> 
 *Tracy Hammond* </br> 
 
-## DIS Workshops </br> 
-
+## DIS Workshops </br> </br>
 ### W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)</br> 
 *Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar* </br> 
 Abstract: We propose a one-day workshop that focuses on the intersection of gamefulness and creativity. The objective of this workshop is to bring together both researchers and practitioners interested in this field to discuss a research agenda that will explore the relationship between game-related aspects (e.g. game play, game genres) and creative thinking.
@@ -43,7 +40,6 @@ Abstract: This workshop brings together folks currently or interested in becomin
 </br>
 
 # Monday, June 24, 2019</br></br> 
-
 ### W9: [At the Intersection of Culture & Method: Designing Feminist Action](https://cultureandmethoddis2019.wordpress.com/) __[Invitation Only]__ </br> 
 *Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, Palashi Vaghela* </br> 
 Abstract: Boundaries and borders continue to draw political attention and create conflict on a global scale. They interrupt or facilitate people and money, and influence how designers and politicians alike work in opposition to oppression. This one-day workshop will explore the use of design research and computing practice in resisting and reifying inequalities. Recognizing that technology production is only a partial response to caring for ourselves and our environment, participants of this workshop will consider the design commitments, pedagogies, and labor that produce new strategies for more equitable futures. We will collectively ask and grapple with the following questions: 1) what are the current concerns and pressures of our community in producing feminist means and ends, 2) how do we work as academics, activists, allies and advocates through our design activities; and 3) whose opportunities, hopes, fears, innovations, and futures are we building? </br> 
