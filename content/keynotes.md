@@ -1,9 +1,7 @@
 
 ---
-title: "DIS Keynote Speakers"
+title: "DIS Keynotes"
 ---
-
-# DIS Keynotes</br> 
 
 ## [Lisa Nakamura](https://lsa.umich.edu/ac/people/faculty/lnakamur.html) </br> 
 ![alt text](/img/Nakamura-Lisa.jpg "Lisa Nakamura")
