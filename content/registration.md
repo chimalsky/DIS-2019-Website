@@ -52,9 +52,9 @@ __[Register Now](http://www.cvent.com/d/nbq2yk/4W)__
             <td>425</td>
             <td class="joint">650</td>
             <td>500</td>
-            <td class="joint">800</td>
+            <td class="joint">750</td>
             <td>550</td>
-            <td class="joint">850</td>
+            <td class="joint">800</td>
           </tr>
           <tr>
             <th class="left"><b>Student Non-Member</b></th>
