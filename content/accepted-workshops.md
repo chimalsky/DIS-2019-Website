@@ -40,6 +40,8 @@ Abstract: This workshop brings together folks currently or interested in becomin
 </br></br>
 
 # Monday, June 24, 2019</br>
+## DIS Workshops </br> 
+
 ### W9: [At the Intersection of Culture & Method: Designing Feminist Action](https://cultureandmethoddis2019.wordpress.com/) __[Invitation Only]__ </br> 
 *Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, Palashi Vaghela* </br> 
 Abstract: Boundaries and borders continue to draw political attention and create conflict on a global scale. They interrupt or facilitate people and money, and influence how designers and politicians alike work in opposition to oppression. This one-day workshop will explore the use of design research and computing practice in resisting and reifying inequalities. Recognizing that technology production is only a partial response to caring for ourselves and our environment, participants of this workshop will consider the design commitments, pedagogies, and labor that produce new strategies for more equitable futures. We will collectively ask and grapple with the following questions: 1) what are the current concerns and pressures of our community in producing feminist means and ends, 2) how do we work as academics, activists, allies and advocates through our design activities; and 3) whose opportunities, hopes, fears, innovations, and futures are we building? </br> 
