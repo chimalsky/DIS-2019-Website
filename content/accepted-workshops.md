@@ -5,7 +5,7 @@ title: "Accepted Workshops"
 Invite-only workshop require an access code provided by the workshop organizers. See each workshop page for details. For workshops with Open Registration, attendees may register without an access code. DIS attendees can apply for C&C workshops. 
 </br> 
 
-# Sunday, June 23 </br>
+# Sunday, June 23 </br></br> 
 
 ## C&C Workshops </br> 
 
@@ -42,7 +42,7 @@ Abstract: As recent scholars have noted, there is little discourse amongst the H
 Abstract: This workshop brings together folks currently or interested in becoming academic accomplices, or scholars committed to leveraging resources and power to support the justice work of their community collaborators. Academic accomplices are necessary for research justice—research that materially challenges inequity—and owe it to community partners to challenge underlying oppressive structure and practices as perpetuated through academic research. The goal of this workshop is to discuss concrete strategies for challenging oppression through research methodologies, physical or institutional resources, and/or pedagogy. This workshop will generate practical strategies for research justice for DIS and HCI scholars.
 </br>
 
-# Monday, June 24, 2019</br>
+# Monday, June 24, 2019</br></br> 
 
 ### W9: [At the Intersection of Culture & Method: Designing Feminist Action](https://cultureandmethoddis2019.wordpress.com/) __[Invitation Only]__ </br> 
 *Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, Palashi Vaghela* </br> 
