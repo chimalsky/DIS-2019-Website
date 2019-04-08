@@ -295,7 +295,7 @@ enableGitInfo = false
   
  [[menu.main]]
   name = "Keynotes"
-  url = "/keynotes"
+  url = "#"
   weight = 4
   identifier = "keynotes" 
 
@@ -331,6 +331,20 @@ enableGitInfo = false
   weight = 3
   parent = "organizers"
 
+
+# Keynotes 
+
+[[menu.main]]  
+  name = "DIS Keynotes"
+  url = "/dis_keynotes"
+  weight = 1
+  parent = "keynotes"
+
+[[menu.main]]  
+  name = "Joint C&C and DIS Keynotes"
+  url = "/joint_keynotes"
+  weight = 1
+  parent = "keynotes"
 
 # Submit Menu
 
