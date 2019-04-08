@@ -20,9 +20,7 @@ goldberg.berkeley.edu @Ken_Goldberg </br>
 
 </br> 
 
-# DIS Keynotes
-
-</br> </br> 
+# DIS Keynotes</br> </br> 
 
 ## [Lisa Nakamura](https://lsa.umich.edu/ac/people/faculty/lnakamur.html) </br> 
 ![alt text](/img/Nakamura-Lisa.jpg "Lisa Nakamura")
