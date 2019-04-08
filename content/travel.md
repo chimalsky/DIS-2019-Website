@@ -55,20 +55,20 @@ The [MTS Bus 8](https://www.sdmts.com/schedules-real-time?fragment=8#section-mai
 There are a number of restaurants and activities walking distance from the Hyatt Regency.
 
 ### Restaurants
-[Red Marlin](https://www.hyatt.com/gallery/redmarlin/index.html%E2%80%9D) (in the Hyatt Regency) </br>
-[Sportsmen’s Seafood](http://sportsmensseafood.com/restaurant-fish-market/%E2%80%9D) (0.2 miles from Hyatt Regency)</br>
-[Firefly Eatery & Bar](https://www.thedana.com/firefly-eatery-bar%E2%80%9D) (0.5 miles from Hyatt Regency)</br>
-[Cafe Bahia](http://bahiahotel.com/dining-entertainment/san-diego-restaurant/%E2%80%9D) (0.7 miles from Hyatt Regency)</br>
-[The Coaster Saloon](http://thecoastersaloon.com/%E2%80%9D) (1 mile from Hyatt Regency)</br>
-[Marcy’s Mexican Food](http://marcysmexicanfood.com/%E2%80%9D) (1 mile from Hyatt Regency)</br>
-[South Draft Mission](http://www.draftsandiego.com/%E2%80%9D) (1.1 miles from Hyatt Regency)</br>
+- [Red Marlin](https://www.hyatt.com/gallery/redmarlin/index.html%E2%80%9D) (in the Hyatt Regency) </br>
+- [Sportsmen’s Seafood](http://sportsmensseafood.com/restaurant-fish-market/%E2%80%9D) (0.2 miles from Hyatt Regency)</br>
+- [Firefly Eatery & Bar](https://www.thedana.com/firefly-eatery-bar%E2%80%9D) (0.5 miles from Hyatt Regency)</br>
+- [Cafe Bahia](http://bahiahotel.com/dining-entertainment/san-diego-restaurant/%E2%80%9D) (0.7 miles from Hyatt Regency)</br>
+- [The Coaster Saloon](http://thecoastersaloon.com/%E2%80%9D) (1 mile from Hyatt Regency)</br>
+- [Marcy’s Mexican Food](http://marcysmexicanfood.com/%E2%80%9D) (1 mile from Hyatt Regency)</br>
+- [South Draft Mission](http://www.draftsandiego.com/%E2%80%9D) (1.1 miles from Hyatt Regency)</br>
 
 ### Activities
-Visit the marine animals and other attractions at [Sea World](https://seaworld.com/san-diego/%E2%80%9D)</br>
-Walk the boardwalk at Mission Beach</br>
-Rent kayaks, stand-up paddleboards, sailboats, and more from one of many nearby aquatic centers ([Mission Bay Sportcenter](https://missionbaysportcenter.com/), [Seaforth Boat Rentals](https://seaforthboatrental.com/), [Adventure Water Sports](http://www.adventurewatersports.com/), or see above for complimentary rentals from the hotel)</br>
-Have a picnic in Mission Bay Park</br>
-Rent bicycles from [Adventure Water Sports](http://www.adventurewatersports.com/), [Mission Beach Surf Rentals](https://missionbeachsurfrentals.com/), or [Ray’s Rentals](http://www.rays-rentals.com/)</br>
+- Visit the marine animals and other attractions at [Sea World](https://seaworld.com/san-diego/%E2%80%9D)</br>
+- Walk the boardwalk at Mission Beach</br>
+- Rent kayaks, stand-up paddleboards, sailboats, and more from one of many nearby aquatic centers ([Mission Bay Sportcenter](https://missionbaysportcenter.com/), [Seaforth Boat Rentals](https://seaforthboatrental.com/), [Adventure Water Sports](http://www.adventurewatersports.com/), or see above for complimentary rentals from the hotel)</br>
+- Have a picnic in Mission Bay Park</br>
+- Rent bicycles from [Adventure Water Sports](http://www.adventurewatersports.com/), [Mission Beach Surf Rentals](https://missionbeachsurfrentals.com/), or [Ray’s Rentals](http://www.rays-rentals.com/)</br>
 
 ### Food
 Being a coastal city near the Mexican border, San Diego is known for its seafood and Mexican food. San Diego is also a craft beer haven. Some local favorites are fish tacos, California burritos, and IPA beers.
@@ -110,12 +110,12 @@ The currency in San Diego is US Dollars. Most international ATM cards and credit
 ### Visa Letter
 If you need a support letter to attend ACM DIS 2019, please send an email to the following email address: [supportletters@acm.org](mailto:supportletters@acm.org). Please be sure to include all of the following information below in your email:
 
-Your name as it appears on your passport
-Your current postal mailing address
-The name of the conference you wish to attend
-Your Registration Confirmation Number
-If you have any papers accepted for the conference, please provide the title and indicate whether you are the ‘sole author’ or a ‘co- author’
-Visa Support Letters will only be provided to participants who have registered and paid for the Conference. Should participants withdraw from the conference after the issue of Visa Support Letter the consulate will be notified of the withdrawal accordingly.
+- Your name as it appears on your passport
+- Your current postal mailing address
+- The name of the conference you wish to attend
+- Your Registration Confirmation Number
+- If you have any papers accepted for the conference, please provide the title and indicate whether you are the ‘sole author’ or a ‘co- author’
+- Visa Support Letters will only be provided to participants who have registered and paid for the Conference. Should participants withdraw from the conference after the issue of Visa Support Letter the consulate will be notified of the withdrawal accordingly.
 
 ### Accessibility
 DIS 2019 is committed to providing an inclusive environment and we will do our best to accommodate requests. Our modern venues should be fully accessible. If you have a concern or require a special request, have a personal care assistant, or just have a question, please contact the General Chairs and we'll answer questions and help where we can.
