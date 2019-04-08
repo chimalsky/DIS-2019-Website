@@ -7,10 +7,10 @@ Attendees can register for one or the other conference individually, or for a si
 
 __[Register Now](http://www.cvent.com/d/nbq2yk/4W)__
 
-</br> 
 Conference fees (All fees are in USD)
 
 ## Full Conference Registration
+
         <table id="full_conference_reg" class="registration_table pure-table pure-table-horizontal">
         <tbody>
           <tr>
@@ -69,6 +69,7 @@ Conference fees (All fees are in USD)
       </br> 
 
 ## Workshops and 1-Day Passes
+
         <table id="workshop_conference_reg" class="registration_table pure-table pure-table-horizontal">
         <tbody>
           <tr>
