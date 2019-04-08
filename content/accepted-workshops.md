@@ -6,7 +6,7 @@ Invite-only workshop require an access code provided by the workshop organizers.
 </br> 
 
 # Sunday, June 23 </br></br> 
-## C&C Workshops </br></br>  
+## C&C Workshops </br>
 ### W1: Distributed Creativity in Play </br> 
   *Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay* </br> 
  
@@ -14,9 +14,9 @@ Invite-only workshop require an access code provided by the workshop organizers.
  *Jonas Oppenlaender, Halil Erhan, Naghmi Shireen, Jorge Goncalves, Maximilian Mackeprang, Simo Hosio* </br> 
 
 ### W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition? </br> 
-*Tracy Hammond* </br> 
+*Tracy Hammond* </br> </br>
 
-## DIS Workshops </br> </br>
+## DIS Workshops </br> 
 ### W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)</br> 
 *Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar* </br> 
 Abstract: We propose a one-day workshop that focuses on the intersection of gamefulness and creativity. The objective of this workshop is to bring together both researchers and practitioners interested in this field to discuss a research agenda that will explore the relationship between game-related aspects (e.g. game play, game genres) and creative thinking.
@@ -37,9 +37,9 @@ Abstract: As recent scholars have noted, there is little discourse amongst the H
 ### W8: [Academic Accomplices: Practical Strategies for Research Justice](http://accomplices.lmc.gatech.edu/)</br> 
 *Mariam Asad, Lynn Dombrowski, Sasha Costanza-Chock, Sheena Erete, Christina Harrington* </br> 
 Abstract: This workshop brings together folks currently or interested in becoming academic accomplices, or scholars committed to leveraging resources and power to support the justice work of their community collaborators. Academic accomplices are necessary for research justice—research that materially challenges inequity—and owe it to community partners to challenge underlying oppressive structure and practices as perpetuated through academic research. The goal of this workshop is to discuss concrete strategies for challenging oppression through research methodologies, physical or institutional resources, and/or pedagogy. This workshop will generate practical strategies for research justice for DIS and HCI scholars.
-</br>
+</br></br>
 
-# Monday, June 24, 2019</br></br> 
+# Monday, June 24, 2019</br>
 ### W9: [At the Intersection of Culture & Method: Designing Feminist Action](https://cultureandmethoddis2019.wordpress.com/) __[Invitation Only]__ </br> 
 *Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, Palashi Vaghela* </br> 
 Abstract: Boundaries and borders continue to draw political attention and create conflict on a global scale. They interrupt or facilitate people and money, and influence how designers and politicians alike work in opposition to oppression. This one-day workshop will explore the use of design research and computing practice in resisting and reifying inequalities. Recognizing that technology production is only a partial response to caring for ourselves and our environment, participants of this workshop will consider the design commitments, pedagogies, and labor that produce new strategies for more equitable futures. We will collectively ask and grapple with the following questions: 1) what are the current concerns and pressures of our community in producing feminist means and ends, 2) how do we work as academics, activists, allies and advocates through our design activities; and 3) whose opportunities, hopes, fears, innovations, and futures are we building? </br> 
