@@ -11,12 +11,13 @@ San Diego, California, USA, 92109 </br>
 
 The Hyatt Regency is located right on the waterfront in Mission Bay, a beautiful area with lots to do and explore. The hotel features views of the Pacific Ocean, Mission Beach, and the downtown San Diego skyline.
 
-Attendees will be guaranteed a rate of $249/night + tax for standard run of house ([click here to book with the conference rate](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)). Attendees with valid student ID may book a room in the Bay Building at the discounted rate of $209/night + tax. Early booking is encouraged.
+Attendees will be guaranteed a rate of $249/night + tax for standard run of house ([click here to book with the conference rate](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)). Attendees with valid student ID may book a room in the Bay Building at the discounted rate of $209/night + tax [click here to book with the student rate](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME/BAYRMS). Early booking is encouraged.
 
-All rooms include free Wifi and access to the pools, games, and other activities. Attendees may add the [Resort Services Program](https://missionbay.regency.hyatt.com/en/hotel/our-hotel/resort-fee-policy.html) for $15 per day per room ($32 value). This includes amenities such as complimentary kayak and paddleboard rentals, beach equipment, and and outdoor recreation games.
+A discounted [resort fee](https://missionbay.regency.hyatt.com/en/hotel/our-hotel/resort-fee-policy.html) of $15 per room, per night will be applied to your stay. This rate covers 24-hour access to the Fitness Center and standard guest room internet.  
+
 
 </br> 
-Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME) </br> 
+__Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)__ </br> 
 </br> 
 
 There are two other hotels within walking distance from the Hyatt:
