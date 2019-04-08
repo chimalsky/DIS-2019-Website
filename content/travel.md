@@ -17,6 +17,7 @@ All rooms include free Wifi and access to the pools, games, and other activities
 
 **Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)**. </br> 
 
+</br> 
 
 There are two other hotels within walking distance from the Hyatt:
 
