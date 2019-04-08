@@ -2,8 +2,7 @@
 ---
 title: "Keynote Speakers"
 ---
-
-# Joint DIS and C&C Keynote </br> 
+# Joint DIS and C&C Keynote </br> </br> 
 
 ## Tiffany Shlain and Ken Goldberg 
 
@@ -19,9 +18,11 @@ Tiffany Shlain and Ken Goldberg collaborate on films, artworks, events, and biol
 www.tiffanyshlain.com  @TiffanyShlain </br> 
 goldberg.berkeley.edu @Ken_Goldberg </br> 
 
-<br> 
+</br> 
 
 # DIS Keynotes
+
+</br> </br> 
 
 ## [Lisa Nakamura](https://lsa.umich.edu/ac/people/faculty/lnakamur.html) </br> 
 ![alt text](/img/Nakamura-Lisa.jpg "Lisa Nakamura")
@@ -39,6 +40,7 @@ Lisa Nakamura is Gwendolyn Calvert Baker Collegiate Professor of American Cultur
  
 She is the author of four books on race, gender, and digital media and gaming and is currently working on a book on women of color and the Internet.  Her areas of interest include histories of indigenous electronic manufacture in post-war America, content moderation by women of color on social media, and virtual reality’s claims to produce racial and gender empathy.
 
+</br> 
 
 ## [Danielle Wood](http://www.daniellerwood.com/) </br> 
 ![alt text](/img/Wood-Danielle.jpg "Danielle Wood")
