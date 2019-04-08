@@ -16,7 +16,7 @@ ttendees will be guaranteed a rate of $249/night + tax for standard run of house
 All rooms include free Wifi and access to the pools, games, and other activities. Attendees may add the [Resort Services Program](https://missionbay.regency.hyatt.com/en/hotel/our-hotel/resort-fee-policy.html) for $15 per day per room ($32 value). This includes amenities such as complimentary kayak and paddleboard rentals, beach equipment, and and outdoor recreation games.
 
 </br> 
-**Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)**. </br> 
+Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME) </br> 
 </br> 
 
 There are two other hotels within walking distance from the Hyatt:
