@@ -9,7 +9,7 @@ __[Register Now](http://www.cvent.com/d/nbq2yk/4W)__
 
 
 ## Full Conference Registration 
-(Conference fees (All fees are in USD)
+(All fees are in USD)
 
 <div> 
         <table id="full_conference_reg" class="registration_table pure-table pure-table-horizontal">
