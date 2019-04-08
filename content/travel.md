@@ -15,6 +15,9 @@ Attendees will be guaranteed a rate of $249/night + tax for standard run of hous
 
 All rooms include free Wifi and access to the pools, games, and other activities. Attendees may add the Resort Services Program for $15 per day per room ($32 value). This includes amenities such as complimentary kayak and paddleboard rentals, beach equipment, and and outdoor recreation games.
 
+**Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)**. </br> 
+
+
 There are two other hotels within walking distance from the Hyatt:
 
 The Dana on Mission Bay
