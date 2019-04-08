@@ -5,7 +5,7 @@ title: "Conference Registration"
 
 Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.   
 
-__[Register Now](http://www.cvent.com/d/nbq2yk/4W)__ </br> 
+__[Register Now](http://www.cvent.com/d/nbq2yk/4W)__ </br> </br> 
 
 
 ## Full Conference Registration 
