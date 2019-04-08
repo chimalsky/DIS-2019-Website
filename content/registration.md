@@ -7,9 +7,8 @@ Attendees can register for one or the other conference individually, or for a si
 
 __[Register Now](http://www.cvent.com/d/nbq2yk/4W)__
 
-Conference fees (All fees are in USD)
 
-## Full Conference Registration
+## Full Conference Registration (Conference fees (All fees are in USD)
 
 <div> 
         <table id="full_conference_reg" class="registration_table pure-table pure-table-horizontal">
