@@ -5,12 +5,12 @@ title: "Conference Registration"
 
 Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.   
 
-<div class="nice_button_container"><a href="http://www.cvent.com/d/nbq2yk/4W" target="_blank" class="nice_button content-head">Register Now</a></div>
+__[Register Now](http://www.cvent.com/d/nbq2yk/4W)__
 
 </br> 
 Conference fees (All fees are in USD)
 
- ## Full conference registration
+## Full Conference Registration
         <table id="full_conference_reg" class="registration_table pure-table pure-table-horizontal">
         <tbody>
           <tr>
@@ -68,9 +68,8 @@ Conference fees (All fees are in USD)
         </table>
       </br> 
 
-
 ## Workshops and 1-Day Passes
-        <table class="registration_table pure-table pure-table-horizontal">
+        <table id="workshop_conference_reg" class="registration_table pure-table pure-table-horizontal">
         <tbody>
           <tr>
             <td class="border_right"><b>Workshops</b></td>
@@ -94,8 +93,7 @@ Conference fees (All fees are in USD)
           </tr>
         </tbody>
         </table>
-
-</br> 
+        </br> 
 
 ## Registration fees include: </br> 
 Conference registration includes attendance to all sessions, morning / afternoon refreshment breaks, and evening events. DIS full registration includes the C&C/DIS Art Exhibition at UCSD on Tuesday, the DIS dinner on Wednesday, and the DIS poster/demo reception on Thursday.  Joint registration includes all the evening events (C&C welcome on Sunday evening, the C&C poster/demo reception on Monday evening, and all the DIS evening events). 
