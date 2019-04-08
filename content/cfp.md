@@ -27,8 +27,7 @@ Camera Ready Deadline: April 19, 2019 </br>
 Demo Deadline: ~~February 8, 2019 (23:59 PST)~~ </br>
 __Extended Demo Deadline: March 27, 2019 (6 days after paper notifications)__</br>
 Demo Notifications: April 8, 2019 </br>
-Camera Ready Deadline: April 19, 2019 </br>
-
+Camera Ready Deadline: April 21, 2019 </br>
 
 [Doctoral Consortium](/consortium/) </br>
 Submission Due: Friday, February 8, 2019 (23:59 PST) </br>
