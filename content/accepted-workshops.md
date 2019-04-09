@@ -5,7 +5,7 @@ title: "Accepted Workshops"
 Invite-only workshop require an access code provided by the workshop organizers. See each workshop page for details. For workshops with Open Registration, attendees may register without an access code. DIS attendees can apply for C&C workshops. 
 </br> 
 
-# Sunday, June 23 </br></br> 
+# Sunday, June 23 </br>
 # C&C Workshops </br>
 
 __W1: Distributed Creativity in Play__ [Open Registration]</br> 
