@@ -28,11 +28,11 @@ As an SV, you are expected to:
 -	Wear the SV t-shirt when you are in duty, so people can easily spot you
 
 ## Tentative schedule for DIS2019:
-- June 23 (Sun): Workshops
-- June 24 (Mon): Workshops, Doctoral Consortium
-- June 26 (Wed): 1st day of DIS, DIS/C&C joint keynote
-- June 27 (Thu): 2nd day of DIS
-- June 28 (Fri): Last day of DIS
+- Sun and Mon, June 23-24: DIS workshops
+- Tue, June 25: DIS Doctoral Consortium 
+- Wed, June 26: First day of DIS (technical program + DIS banquet) + joint events with C&C (in the form of joint keynotes)
+- Thursday, June 27: 2nd day of DIS: opening keynote of DIS, technical program, DIS reception (snacks/drinks with demo programs) 
+- Friday, June 28: 3rd day/final day of DIS: closing keynote + technical program
 
 ## Questions:
 For further questions regarding student volunteering, please feel free to contact DIS 2019 SV co-chairs Szu-Yu (Cyn) Liu and Aakash Gautam through [svchairs [at] dis2019.acm.org](svchairs@dis2019.acm.org).
