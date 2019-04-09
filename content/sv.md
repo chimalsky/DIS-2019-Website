@@ -21,7 +21,6 @@ If you are interested in participating in the t-shirt design competition, please
 https://goo.gl/forms/zv2qpN96QmOEEusG2
  
 ### Details and Suggestions:
- 
 This year DIS is co-located with Creativity and Cognition (http://cc.acm.org/2019/). Your design needs to have logos of both the conferences. You may want to connect your design with the theme of either or both the conferences (Contesting Borders and Intersections / Transformational Creativity), or the location of the conference (San Diego, California). It doesn't matter as long as it's fun, interesting, and can stand out a bit in the crowd.
  
 Please send us front and back designs of the t-shirt. Please note that we cannot print on the sleeves or the extreme edges of the t-shirt.
@@ -41,7 +40,7 @@ You are welcome to use online design tools, such as CustomInk (www.customink.com
 </br> 
 </br> 
  
-## Call for student volunteers:
+## Call for student volunteers
 Student volunteers (SVs) are essential to the success of the DIS2019 conference. Being an SV provides a unique opportunity to contribute to organizing a conference as well to interact closely with DIS contributors, attendees, and your peers. As student volunteer, you will also receive a fabulous free t-shirt and get a full conference pass providing you access to all the paper sessions, workshops, demos, and social events. However, workshop registration fees, meals, and hotel expenses are not part of the SV benefits. As an SV, you are expected to work around 15-20 hours during the conference. 
 
 DIS SVs will be chosen through a random lottery system at [chisv.org](http://chisv.org/DIS2019/). In addition, we encourage you to consider participating in the t-shirt design competition. The selected design’s creator will be offered an SV spot during DIS. More info about the T-shirt design competition will be announced later. In total, we expect to accept 30 SVs for DIS2019.
