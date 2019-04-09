@@ -12,6 +12,7 @@ ACM DIS2019 Student Volunteers
 | Applicants will be informed of their acceptance or waitlist status| April 1st, 2019| 
 | T-shirt Design Contest Deadline |April 26th, 2019|
 
+</br>
 
 ## T-Shirt Design Contest
 This year we call on students to design a cool t-shirt for both DIS and C&C SVs to wear while on duty. If your design is selected by the organizing committee, you get a free SV spot for DIS 2019! As a winner, you can either take or give it to a friend (as long as they are eligible to work as an SV; see eligibility and responsibilities on DIS 2019 website). 
@@ -37,7 +38,6 @@ The deadline for submission is April 26, 2019. We will select a winner in the we
  
 You are welcome to use online design tools, such as CustomInk (www.customink.com/lab) or SpreadShirt (http://www.spreadshirt.com/design-your-own-t-shirt-C59) in creating your design.
  
-</br> 
 </br> 
  
 ## Call for student volunteers
