@@ -15,9 +15,8 @@ Attendees will be guaranteed a rate of $249/night + tax for standard run of hous
 
 A discounted [resort fee](https://missionbay.regency.hyatt.com/en/hotel/our-hotel/resort-fee-policy.html) of $15 per room, per night will be applied to your stay. This rate covers 24-hour access to the Fitness Center and standard guest room internet.  
 
-
 </br> 
-__Registration is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)__ </br> 
+__Reservation with Hyatt Regency is available [here](https://www.hyatt.com/en-US/group-booking/SANIS/G-ACME)__ </br> 
 </br> 
 
 There are two other hotels within walking distance from the Hyatt:
