@@ -27,7 +27,7 @@ The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&am
       
       <guid>/accepted-workshops/</guid>
       <description>Invite-only workshop require an access code provided by the workshop organizers. See each workshop page for details. For workshops with Open Registration, attendees may register without an access code. DIS attendees can apply for C&amp;amp;C workshops. 
-Sunday, June 23  C&amp;amp;C Workshops  W1: Distributed Creativity in Play  Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay</description>
+Sunday, June 23  C&amp;amp;C Workshops  W1: Distributed Creativity in Play [Open Registration] Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay</description>
     </item>
     
     <item>
@@ -59,10 +59,20 @@ Workshops  Proposals Due: January 18, 2019 (23:59 PST)  Notifications: March 8, 
       
       <guid>/registration/</guid>
       <description>Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.
-Register Now
+Register Now  
 Full Conference Registration (All fees are in USD)
    &amp;nbsp; Early Bird
 (ends May 7) Regular Rate</description>
+    </item>
+    
+    <item>
+      <title>DIS Keynotes</title>
+      <link>/dis_keynotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dis_keynotes/</guid>
+      <description>Lisa Nakamura  Keynote Title: Virtual Reality and the Feeling of Virtue: Women of Color Narrators, Enforced Hospitality, and the Leveraging of Empathy
+Abstract: Many researchers and evangelists argue that V.R. is fundamentally more “moving” than other media because of users’ visual immersion in navigable worlds and their empathic identification with another visual perspective. (see Rubin, Bailenson). This essay will analyze women of color’s labor as virtual reality’s documentary subjects whose digital presence and hospitality within war-torn, emiserated, and inhospitable scenes such as a Lebanese refugee camp, a favela, and a cucumber farm enables a fantasy of virtuous empathy on the part of the viewer.</description>
     </item>
     
     <item>
@@ -106,12 +116,12 @@ You must be enrolled in a design-related discipline as a doctoral candidate at t
     </item>
     
     <item>
-      <title>Keynote Speakers</title>
-      <link>/keynotes/</link>
+      <title>Joint DIS and C&amp;C Keynote</title>
+      <link>/joint_keynotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/keynotes/</guid>
-      <description>Joint DIS and C&amp;amp;C Keynote   Tiffany Shlain and Ken Goldberg Keynote Title: Screen Smashing: Iconoclasty in an Age of Illusionary Intelligence Abstract: &amp;ldquo;Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves are frighteningly inert.&amp;rdquo; - Donna Haraway.</description>
+      <guid>/joint_keynotes/</guid>
+      <description>Tiffany Shlain and Ken Goldberg Keynote Title: Screen Smashing: Iconoclasty in an Age of Illusionary Intelligence Abstract: &amp;ldquo;Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves are frighteningly inert.&amp;rdquo; - Donna Haraway. Simians, Cyborgs, and Women: The Reinvention of Nature.</description>
     </item>
     
     <item>
