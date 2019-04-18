@@ -8,7 +8,7 @@ Invite-only workshops require an access code provided by the workshop organizers
 # Sunday, June 23 </br>
 # C&C Workshops </br>
 
-__W1: Distributed Creativity in Play__ [Open Registration]</br> 
+__W1: [Distributed Creativity in Play](https://wdcip.gitlab.io)__ [Open Registration]</br> 
   *Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay* </br> 
  
 __W2: [Crowd-powered Interfaces for Creative Design Thinking](https://creativity-workshops.github.io/cc19/)__ [Open Registration] </br> 
