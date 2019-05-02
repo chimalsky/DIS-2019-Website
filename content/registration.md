@@ -81,7 +81,7 @@ __[Register Now](http://www.cvent.com/d/nbq2yk/4W)__ </br> </br>
             <td colspan="6"><b>1-Day Passes</b></td>
           </tr>
           <tr>
-            <td class="border_right">Sun</td>
+            <td class="border_right">Sun or Mon</td>
             <td>Mon</td>
             <td>Tue</td>
             <td>Wed</td>
