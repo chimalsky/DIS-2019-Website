@@ -401,7 +401,7 @@ enableGitInfo = false
 [[menu.main]]  
   name = "Accepted Workshops"
   url = "/accepted-workshops"
-  weight = 1
+  weight = 2
   parent = "program"
 
 [[menu.main]]  
