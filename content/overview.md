@@ -1,5 +1,5 @@
 ---
-title: "Program Overview"
+title: "DIS Program Overview"
 ---
 
 # Session 1: Stories and Narratives
