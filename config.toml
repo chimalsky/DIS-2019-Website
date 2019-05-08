@@ -404,6 +404,12 @@ enableGitInfo = false
   weight = 1
   parent = "program"
 
+[[menu.main]]  
+  name = "DIS Program Overview"
+  url = "/overview"
+  weight = 1
+  parent = "program"
+
 
 # Attending Menu
 
