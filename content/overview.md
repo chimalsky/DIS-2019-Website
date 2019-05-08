@@ -47,7 +47,6 @@ Pictorial: The Tilting Bowl: Electronic Design for a Counterfactual artifact as 
 Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fraser University)</br>
 </br>
 
-
 # Session 4: Experience
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
 </br>
