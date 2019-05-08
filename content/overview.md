@@ -185,7 +185,6 @@ Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus University
 </br>
 </br>
 
-
 # Session 13: Gendered Considerations
 ## Thursday, June 27, 2:00 PM – 3:30 PM
 #### Paper: Privacy, Patriarchy, and Participation on Social Media.</br>
@@ -417,7 +416,7 @@ Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster Univer
 </br>
 </br>
 
-# Session 28: Civic and Urban Spaces.
+# Session 28: Civic and Urban Spaces
 ## Friday, June 28, 2:00 PM – 3:30 PM
 #### Paper: Towards a Design Framework for Trust in Digital Civics.</br>
 Eric Corbett (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)</br>
@@ -447,7 +446,7 @@ Jessica L Oliver (Queensland University of Technology), Margot Brereton (Queensl
 Katja Budinger (University of Applied Science), Frank Heidmann (University of Applied Sciences Potsdam)</br>
 </br>
 
-# Session 30: Data.
+# Session 30: Data
 ## Friday, June 28, 2:00 PM – 3:30 PM
 #### Paper: Keeping and Discarding Personal Data: Exploring a Design Space.</br>
 Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)</br>
@@ -462,7 +461,7 @@ Dieter Wallach (Ergosign GmbH), Sven Fackert,Vladimir Albach (Ergosign GmbH)</br
 Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI), Norman Su (Indiana University)</br>
 </br>
 
-# Session 31: HCl4D.
+# Session 31: HCl4D
 ## Friday, June 28, 2:00 PM – 3:30 PM
 #### Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field.</br>
 Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)</br>
