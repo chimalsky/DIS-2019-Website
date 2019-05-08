@@ -16,12 +16,11 @@ Cynthia Bennett, Burren Peil, Daniela Rosner (University of Washington)</br>
 
 Paper: Evaluating the Pleasures of Agency in Shiva's Rangoli, a Tangible Storytelling Installation.</br>
 Saumya Gupta (University of California), Joshua Tanenbaum (University of California: Irvine)</br>
-
+</br>
 
 # Session 2: Design Methods
 ## Wednesday, June 26, 11 AM – 12:30 PM
 </br>
-
 Paper: From Immediate Towards Intermediate Knowledge.</br>
 Søren Rasmussen (Aarhus University), Jeanette Falk Olesen (Aarhus University), Kim Halskov (Aarhus University)</br>
 
@@ -33,11 +32,11 @@ Craig MacDonald (Pratt Institute)</br>
 
 Paper: I Beg to Differ: Soft Conflicts in Collaborative Design Using Design Fictions.</br>
 EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University), Selma Sabanovic (Indiana University), Norman Su (Indiana University)</br>
+</br>
 
 # Session 3: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
 </br>
-
 Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways.</br>
 Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)</br>
 
@@ -46,11 +45,12 @@ Thomas Ludwig (University of Siegen), Michael Döll (Institute for Information S
 
 Pictorial: The Tilting Bowl: Electronic Design for a Counterfactual artifact as a Research Product.</br>
 Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fraser University)</br>
+</br>
+
 
 # Session 4: Experience
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
 </br>
-
 Paper: Co-riding With My eBike to Get Green Lights.</br>
 Josh Andres (IBM Research Australia), Tuomas Kari (University of Jyväskylä), Juerg von Kaenel (IBM Research), Florian Mueller (RMIT University)</br>
 
@@ -62,10 +62,11 @@ Thomas Gayler (Lancaster University), Corina Sas (Lancaster University), Vaiva K
 
 Pictorial: Play Poles: Towards IoT Resources for Outdoor Play.</br>
 Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University), Gavin Wood (Northumbria University), Sena Çerçi (Northumbria University), Denise Downey (The Cedarwood Trust), Jonny Scott (The Cedarwood Trust), John Vines (Northumbria University), Shaun Lawson (Northumbria University)</br>
+</br>
 
 ## Session 5: Virtual Reality
 # Wednesday, June 26, 2:00 PM – 3:30 PM
-
+</br>
 Paper: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability.</br>
 Jack Shen-Kuen Chang (Pennsylvania State University), Alison Doucette (Ryerson University), Georgina Yeboah (Ryerson University), Timothy Welsh (University of Toronto), Michael Nitsche (Georgia Institute of Technology), Ali Mazalek (Ryerson University)</br>
 
@@ -77,6 +78,7 @@ Anya Kolesnichenko (University of California, Santa Cruz), Joshua McVeigh-Schult
 
 Paper: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance. </br>
 Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser University), Thecla Schiphorst (Simon Fraser University), Carman Neustaedter (Simon Fraser University)</br>
+</br>
 
 # Session 6: Abilities
 ## Wednesday, June 26, 2:00 – 3:30 PM
@@ -92,11 +94,11 @@ Kevin Storer (University of California, Irvine), Stacy Branham (University of Ca
 
 Pictorial: The Cross-Sensory Globe: Participatory Design of a 3D Audio-Tactile Globe Prototype for Blind and Low-Vision Users to Learn Geography.</br>
 Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD University), Peter Coppin (OCAD University).</br>
+</br>
 
 # Session 7: Sonification
 ## Wednesday, June 26, 4:00 – 5:30 PM
 </br>
-
 Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice.</br>
 Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)</br>
 
@@ -108,11 +110,11 @@ Charlotte Nordmoen (Queen Mary University of London), Jack Armitage (Queen Mary 
 
 Pictorial: ListeningCups: A Case of Data Tactility and Data Stories.</br>
 Audrey Desjardins (University of Washington), Timea Tihanyi (University of Washington)</br>
+</br>
 
 # Session 8: Identity and Expression
 ## Wednesday, June 26, 4:00 – 5:30 PM
 </br>
-
 Paper: Designing for Ballet Studios: Identifying and Mitigating Communication Challenges Between Dancers and Teachers.</br>
 Milka Trajkova, Francesco Cafaro, Lynn Dombrowski</br>
 
@@ -128,7 +130,6 @@ Steven Baker (The University of Melbourne), Jenny Waycott (The University of Mel
 # Session 9: Urgency and Emergency
 ## Wednesday, June 26, 4:00 – 5:30 PM.
 </br>
-
 Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies.</br>
 Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University</br>
 
@@ -140,11 +141,11 @@ Valentin Becquet (ENAC), Catherine Letondal (University of Toulouse - ENAC), Jea
 
 Pictorial: Beepless - Using Peripheral Interaction in an Intensive Care Setting.</br>
 Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Maxima Medical Center), Saskia Bakker (Eindhoven University of Techonology), Pengcheng An (Eindhoven University of Techonology), Carola Pul (Maxima Medical Center), Peter Andriessen (Maxima Medical Center)</br>
+</br>
 
 # Session 10: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
 </br>
-
 Paper: Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field.</br>
 Ingrid Pettersson (Digital User Experience), MariAnne Karlsson (Design & Human Factors), Florin Timotei Ghiurau (User Experience Center)</br>
 
@@ -156,11 +157,11 @@ Julius von Willich (TU Darmstadt), Markus Funk (TU Darmstadt), Florian Müller (
 
 Paper: Should I Interrupt or Not? Understanding Interruptions in Head-Mounted Display Settings.</br>
 Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munich), Florian Alt (Bundeswehr University Munich</br>
+</br>
 
 # Session 11: Design For and With Children
 ## Thursday, June 27, 11:00 – 12:30 PM
 </br>
-
 Paper: Designing Interactive Manual Wheelchair Skills Training for Children.</br>
 Kathrin Gerling (KU Leuven), Kieran Hicks (University of Lincoln), Olivier Szymanezyk (University of Lincoln), Conor Linehan (University College Cork)</br>
 
@@ -172,11 +173,11 @@ Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Fin
 
 Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems.</br>
 Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)</br>
+</br>
 
 # Session 12: Deformable and Novel Materials
 ## Thursday, June 27, 11:00 – 12:30 PM
 </br>
-
 Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input.</br>
 Giovanni Troiano (Northeastern University), Alberto Boem (University of Tsukuba)</br>
 
@@ -188,6 +189,7 @@ Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute o
 
 Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI.</br>
 Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus University), Mark Moore (Aarhus University), Marcelo Azevedo Dias (Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University)</br>
+</br>
 
 # Panel
 ## Thursday, June 27, 11:00 AM – 12:30 PM.
@@ -199,7 +201,6 @@ Panel Topic TBD
 # Session 13: Gendered Considerations
 ## Thursday, June 27, 2:00 PM – 3:30 PM
 </br>
-
 Paper: Privacy, Patriarchy, and Participation on Social Media.</br>
 Naveena Karusala (University of Washington), Apoorva Bhalla (International Institute of Information Technology, Bangalore), Neha Kumar (Georgia Tech)</br>
 
@@ -211,11 +212,11 @@ Sarah Fox (University of California, San Diego), Noura Howell (University of Cal
 
 Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience. </br>
 Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)</br>
+</br>
 
 # Session 14: Human-Robot Interaction
 ## Thursday, June 27, 2:00 PM – 3:30 PM
 </br>
-
 Paper: A Survey of Users' Expectations Towards On-Body Companion Robots.</br>
 Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Hao Jiang (Zhejiang University), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)</br>
 
@@ -227,12 +228,11 @@ Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatr
 
 Paper: Interaction Needs and Opportunities for Failing Robots.</br>
 Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University)</br>
-
+</br>
 
 # Session 15: Media in the Home
 ## Thursday, June 27, 2:00 PM – 3:30 PM
 </br>
-
 Paper: Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration</br>
 Javier Tibau (Virginia Tech), Michael Stewart (James Madison University), Steve Harrison (Virginia Tech), Deborah Tatar (Virginia Tech)</br>
 
@@ -244,10 +244,11 @@ Stine Lundgaard (Aalborg University), Peter Axel Nielsen (Aalborg University)</b
 
 Pictorial: Peekaboo: Designing Observational Camera for Home Ecologies Concerning Privacy.</br>
 Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technology), Wenn-Chieh Tsai (National Taiwan University), Lin-Lin Chen (Eindhoven University of Technology)</br>
+</br>
 
 # Session 16: Shape Changing Interfaces
 ## Thursday, June 27, 2:00 PM – 3:30 PM 
-
+</br>
 Paper: ExpanDial: Designing a Shape-Changing Dial.</br>
 Hyunyoung Kim (Université Grenoble Alpes), Patricial Deug Guimaraes (University of Bristol), Céline Coutrix (CNRS), Anne Roudaut (University of Bristol)</br>
 
@@ -259,11 +260,12 @@ Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder),
 
 Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation.</br>
 Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikoletta Karastathi (Napper Architects), David Kirk (Northumbria Univeristy), Peter Wright (Newcastle University)</br>
+</br>
+
 
 # Session 17: Resisting and Reflecting
 ## Thursday, June 27, 4:00 PM – 5:30 PM
 </br>
- 
 Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings.</br>
 Nick Merrill (University of California, Berkeley), John Chuang (University of California, Berkeley), Coye Cheshire (University of California, Berkeley)</br>
 
@@ -275,6 +277,7 @@ Daphne Muller (University of Technology Eindhoven), Pierre Levy (Eindhoven Unive
 
 Pictorial: Judgment Call The Game: Using Design Fiction To Surface Ethical Concerns Related to Technology.</br>
 Stephanie Ballard (University of Washington), Karen Chappell (Microsoft Corporation), Kristen Kennedy (Microsoft Corporation </br>
+</br>
 
 # Session 18: Internet of Things
 ## Thursday, June 27, 4:00 PM – 5:30 PM
@@ -290,10 +293,11 @@ Audrey Desjardins (University of Washington), Heidi R. Biggs (University of Wash
 
 Paper: Astral: Prototyping Mobile and Smart Object Interactive Behaviours Using Familiar Applications.</br>
 David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh Carpendale (University of Calgary), Saul Greenberg (University of Calgary), Lora Oehlberg (University of Calgary), Sebastian Boring (University of Copenhagen)</br>
+</br>
 
 # Session 19: Education
 # Thursday, June 27, 4:00 PM – 5:30 PM
-
+</br>
 Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit.</br>
 Joyce Ma (The Exploratorium), 	Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)</br>
 
@@ -305,12 +309,11 @@ Bernice dAnjou (University of Technology Eindhoven)</br>
 
 Paper: Design in the HCI Classroom: Setting a Research Agenda.</br>
 Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology), Qiaosi Wang (Georgia Institute of Technology)</br>
-
+</br>
 
 # Session 20: Wearables
 ## Thursday, June 27, 4:00 PM – 5:30 PM
 </br>
-
 Paper: Design Framework For Social Wearables.</br>
 Ella Dagan (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Ferran Altarriba Bertran (UC Santa Cruz), Miguel Flores (UC Santa Cruz), Robb Mitchell (University of Southern Denmark), Katherine Isbister (University of California Santa Cruz)</br>
 
@@ -322,11 +325,11 @@ Christine Dierk (UC Berkeley), Scott Carter (FX Palo Alto Laboratory, Inc.), Pat
 
 Paper: Satisfying a Conversation with Materials for Hybrid Fabrics.</br>
 Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)</br>
+</br>
 
 # Session 21: Automaticity
 ## Friday, June 28, 8:30 AM – 10:30 AM
 </br>
-
 Paper: V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality.</br>
 Yuanzhi Cao (Purdue University), Ke Huo (Purdue University), Zhuangying Xu (Purdue University), Fan Li (Tsinghua University), Wentao Zhong (Purdue University), Karthik Ramani (Purdue University)</br>
 
@@ -338,7 +341,7 @@ Nirav Malsattar (Delft University of Technology), Tomo Kihara (Industrial Design
 
 Paper: Effect of Interaction Design on the Human Experience with Interactive Reinforcement Learning.</br>
 Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)</br>
-
+</br>
 
 # Session 22: Somaesthetics
 ## Friday, June 28, 8:30 AM – 10:30 AM 
@@ -354,11 +357,11 @@ Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Instit
 
 Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children.</br>
 Elena Marquez Segura (Uppsala University), Laia Turmo Vidal (Uppsala University), Luis Parrilla Bel (Uppsala University), Annika Waern (Dept of Informatics and Media)</br>
+</br>
 
 # Session 23: Diversity 
 ## Friday, June 28, 8:30 – 10:30 AM
 </br>
-
 Paper: Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy.</br>
 Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)</br>
 
@@ -370,12 +373,11 @@ Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)</br>
 
 Pictorial: Design and Diversity? Speculations on What Could Go Wrong.</br>
 Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of Washington), Pari Jonathan Gabriel (University of Washington), Daniela Rosner (University of Washington)</br>
-
+</br>
 
 # Session 24: Conversational Agents
 ## Friday, June 28, 8:30 AM – 10:30 AM
 </br>
-
 Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis.</br>
 Jan-Frederik Kassel (Volkswagen Group), Michael Rohs (University of Hannover)</br>
 
@@ -387,12 +389,11 @@ David Robb (Heriot-Watt University), José David Lopes (Heriot Watt University),
 
 Paper: Once a Kind Friend is Now a Thing: Understanding How Conversational Agents at Home are Forgotten.</br>
 Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic University)</br>
-
+</br>
 
 # Session 25: Mobile Devices
 ## Friday, June 28, 11:00 AM – 12:30 PM
 </br>
-
 Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device.</br>
 Cagan Arslan (Université de Lille), Yosra Rekik (Université Polytechnique Hauts-de-France), Laurent Grisoni (University of Lille 1- Science and Technology, CNRS, INRIA Lille). </br>
 
@@ -404,7 +405,7 @@ Sangsu Jang (UNIST), Subin Kim (UNIST), Boram Noh (UNIST), Young-Woo Park (UNIST
 
 Paper: Mobile Realities: Designing for the Medium of Smartphone-VR.</br>
 Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elsharawy (Ryerson University), Alexander Verni (Ryerson University), Tudor Tibu (Ryerson University), Marko Bilic (Ryerson University), Alexander Bakogeorge (Ryerson University), Ali Mazalek (Ryerson University)</br>
-
+</br>
 
 # Session 26: Well-Being
 ## Friday, June 28, 11:00 AM – 12:30 PM
@@ -424,7 +425,6 @@ Stephen Snow (University of Southampton), Michael Oakley (University of Southamp
 # Session 27: Seeing 
 ## Friday, June 28, 11:00 AM – 12:30 PM
 </br>
-
 Paper: How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays.</br>
 Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuven)</br>
 
@@ -436,16 +436,17 @@ Nolwenn Maudet (Tokyo University)</br>
 
 Paper: BlocKit: A Physical Kit for Materializing and Designing for Blockchain Infrastructure.</br>
 Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster University), Chris Speed (University of Edinburgh)</br>
+</br>
 
 # Panel
 ## Friday, June 28, 11:00 AM – 12:30 PM
 </br>
 Panel: Topic TBD
+</br>
 
 # Session 28: Civic and Urban Spaces.
 ## Friday, June 28, 2:00 PM – 3:30 PM.
 </br>
-
 Paper: Towards a Design Framework for Trust in Digital Civics.</br>
 Eric Corbett (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)</br>
 
@@ -461,7 +462,6 @@ Andre Afonso (UCL), Ecem Ergin (1989), Ava Fatah gen. Schieck (UCL)</br>
 # Session 29: Connections with Nature
 ## Friday, June 28, 2:00 PM – 3:30 PM
 </br>
-
 Paper: Designing with Waste: A Situated Inquiry into the Material Excess of Making. </br>
 Kristin Dew (University of Washington), Daniela Rosner (University of Washington)</br>
 
@@ -473,10 +473,11 @@ Jessica L Oliver (Queensland University of Technology), Margot Brereton (Queensl
 
 Pictorial: Our Symbiotic Life - An Exploration of Interspecies Relations.</br>
 Katja Budinger (University of Applied Science), Frank Heidmann (University of Applied Sciences Potsdam)</br>
+</br>
 
 # Session 30: Data.
 ## Friday, June 28, 2:00 PM – 3:30 PM. 
-
+</br>
 Paper: Keeping and Discarding Personal Data: Exploring a Design Space.</br>
 Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)</br>
 
@@ -488,11 +489,11 @@ Dieter Wallach (Ergosign GmbH), Sven Fackert,Vladimir Albach (Ergosign GmbH)</br
 
 Paper: Feeding the World with Data: Visions of Data-Driven Farming. </br>
 Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI), Norman Su (Indiana University)</br>
+</br>
 
 # Session 31: HCl4D.
 ## Friday, June 28, 2:00 PM – 3:30 PM. 
 </br>
-
 Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field.</br>
 Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)</br>
 
@@ -501,3 +502,4 @@ Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), St
 
 Paper: Exploring Rural Community Practices in HIV Management for the Design of Technology.</br>
 Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM Research Africa), Sekou Remy, Aisha Walcott (IBM Research Africa)</br>
+</br>
