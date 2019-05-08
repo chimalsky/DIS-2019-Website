@@ -34,7 +34,6 @@ EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University)
 
 # Session 3: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
-</br>
 #### Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways.</br>
 Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)</br>
 
@@ -118,6 +117,7 @@ Bran Knowles (Lancaster University), Christopher Bull (Lancaster University), Ni
 
 #### Paper: Exploring "What Made Us Who We Are": Designing Social VR for Reminiscence with Older Adults.</br>
 Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)</br>
+</br>
 
 # Session 9: Urgency and Emergency
 ## Wednesday, June 26, 4:00 – 5:30 PM
@@ -394,6 +394,7 @@ Lisa Wiese (eBay, brands4friends), Anna Pohlmeyer (Delft Intsitute of Positive D
 
 #### Paper: Performance by Design: Supporting Decisions Around Indoor Air Quality in Offices.</br>
 Stephen Snow (University of Southampton), Michael Oakley (University of Southampton), m.c. schraefel (University of Southampton)</br>
+</br>
 
 # Session 27: Seeing 
 ## Friday, June 28, 11:00 AM – 12:30 PM
@@ -429,6 +430,7 @@ Narges Mahyar (University of Massachusetts Amherst), Diana Nguyen (UC San Diego)
 
 #### Paper: Flowing Bodies: Exploring the Micro and Macro Scales of Bodily Interactions With Urban Media Installations.</br>
 Andre Afonso (UCL), Ecem Ergin (1989), Ava Fatah gen. Schieck (UCL)</br>
+</br>
 
 # Session 29: Connections with Nature
 ## Friday, June 28, 2:00 PM – 3:30 PM
