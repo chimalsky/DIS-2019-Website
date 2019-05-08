@@ -6,7 +6,7 @@ title: "Program Overview"
 ## Wednesday, June 26, 11 AM – 12:30 PM 
 </br>
 Paper: The Stories People Tell About the Home Through IoT Toolkits.</br>
-Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)</br>
+Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT) </br>
 
 Paper: Turker Tales: Integrating Tangential Play into Crowd Work.</br>
 Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)</br>
