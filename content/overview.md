@@ -64,8 +64,8 @@ Pictorial: Play Poles: Towards IoT Resources for Outdoor Play.</br>
 Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University), Gavin Wood (Northumbria University), Sena Çerçi (Northumbria University), Denise Downey (The Cedarwood Trust), Jonny Scott (The Cedarwood Trust), John Vines (Northumbria University), Shaun Lawson (Northumbria University)</br>
 </br>
 
-## Session 5: Virtual Reality
-# Wednesday, June 26, 2:00 PM – 3:30 PM
+# Session 5: Virtual Reality
+## Wednesday, June 26, 2:00 PM – 3:30 PM
 </br>
 Paper: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability.</br>
 Jack Shen-Kuen Chang (Pennsylvania State University), Alison Doucette (Ryerson University), Georgina Yeboah (Ryerson University), Timothy Welsh (University of Toronto), Michael Nitsche (Georgia Institute of Technology), Ali Mazalek (Ryerson University)</br>
@@ -296,7 +296,7 @@ David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh C
 </br>
 
 # Session 19: Education
-# Thursday, June 27, 4:00 PM – 5:30 PM
+## Thursday, June 27, 4:00 PM – 5:30 PM
 </br>
 Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit.</br>
 Joyce Ma (The Exploratorium), 	Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)</br>
