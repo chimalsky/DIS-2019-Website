@@ -4,89 +4,89 @@ title: "DIS Program Overview"
 
 # Session 1: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM 
-### Paper: The Stories People Tell About the Home Through IoT Toolkits.</br>
-Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT) </br>
+__Paper: The Stories People Tell About the Home Through IoT Toolkits__</br>
+_Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)_ </br>
 
-### Paper: Turker Tales: Integrating Tangential Play into Crowd Work.</br>
-Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)</br>
+__Paper: Turker Tales: Integrating Tangential Play into Crowd Work__</br>
+_Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)_</br>
 
-### Paper: Biographical Prototypes: Reimagining Recognition and Disability in Design.</br>
-Cynthia Bennett, Burren Peil, Daniela Rosner (University of Washington)</br>
+__Paper: Biographical Prototypes: Reimagining Recognition and Disability in Design__</br>
+_Cynthia Bennett, Burren Peil, Daniela Rosner (University of Washington)_</br>
 
-### Paper: Evaluating the Pleasures of Agency in Shiva's Rangoli, a Tangible Storytelling Installation.</br>
-Saumya Gupta (University of California), Joshua Tanenbaum (University of California: Irvine)</br>
+__Paper: Evaluating the Pleasures of Agency in Shiva's Rangoli, a Tangible Storytelling Installation__</br>
+_Saumya Gupta (University of California), Joshua Tanenbaum (University of California: Irvine)_</br>
 </br>
 
 # Session 2: Design Methods
 ## Wednesday, June 26, 11 AM – 12:30 PM
-### Paper: From Immediate Towards Intermediate Knowledge.</br>
-Søren Rasmussen (Aarhus University), Jeanette Falk Olesen (Aarhus University), Kim Halskov (Aarhus University)</br>
+__Paper: From Immediate Towards Intermediate Knowledge__</br>
+_Søren Rasmussen (Aarhus University), Jeanette Falk Olesen (Aarhus University), Kim Halskov (Aarhus University)_</br>
 
-### Paper: Sketching and Ideation Activities for Situated Visualization Design.</br>
-Nathalie Bressa (Aarhus University), Kendra Wannamaker (University of Calgary), Henrik Korsgaard (Aarhus University), Wesley Willett (University of Calgary), Jo Vermeulen (Aarhus University)</br>
+__Paper: Sketching and Ideation Activities for Situated Visualization Design__</br>
+_Nathalie Bressa (Aarhus University), Kendra Wannamaker (University of Calgary), Henrik Korsgaard (Aarhus University), Wesley Willett (University of Calgary), Jo Vermeulen (Aarhus University)_</br>
 
-### Paper: User Experience (UX) Capacity-Building: A Conceptual Model and Research Agenda.</br>
-Craig MacDonald (Pratt Institute)</br>
+__Paper: User Experience (UX) Capacity-Building: A Conceptual Model and Research Agenda__</br>
+_Craig MacDonald (Pratt Institute)_</br>
 
-### Paper: I Beg to Differ: Soft Conflicts in Collaborative Design Using Design Fictions.</br>
-EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University), Selma Sabanovic (Indiana University), Norman Su (Indiana University)</br>
+__Paper: I Beg to Differ: Soft Conflicts in Collaborative Design Using Design Fictions__</br>
+_EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University), Selma Sabanovic (Indiana University), Norman Su (Indiana University)_</br>
 </br>
 
 # Session 3: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
-### Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways.</br>
-Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)</br>
+__Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
+_Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)_</br>
 
-### Paper: The Printer is Telling Me About Itself: Supporting the Appropriation of Hardware by Using Projection Mapping.</br>
-Thomas Ludwig (University of Siegen), Michael Döll (Institute for Information Systems), Christoph Kotthaus (University of Siegen)</br>
+__Paper: The Printer is Telling Me About Itself: Supporting the Appropriation of Hardware by Using Projection Mapping__</br>
+_Thomas Ludwig (University of Siegen), Michael Döll (Institute for Information Systems), Christoph Kotthaus (University of Siegen)_</br>
 
-### Pictorial: The Tilting Bowl: Electronic Design for a Counterfactual artifact as a Research Product.</br>
-Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fraser University)</br>
+__Pictorial: The Tilting Bowl: Electronic Design for a Counterfactual artifact as a Research Product__</br>
+_Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fraser University)_</br>
 </br>
 
 # Session 4: Experience
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
-### Paper: Co-riding With My eBike to Get Green Lights.</br>
-Josh Andres (IBM Research Australia), Tuomas Kari (University of Jyväskylä), Juerg von Kaenel (IBM Research), Florian Mueller (RMIT University)</br>
+__Paper: Co-riding With My eBike to Get Green Lights__</br>
+_Josh Andres (IBM Research Australia), Tuomas Kari (University of Jyväskylä), Juerg von Kaenel (IBM Research), Florian Mueller (RMIT University)_</br>
 
-### Paper: Chasing Play Potentials: Towards an Increasingly Situated and Emergent Approach to Everyday Play Design.</br>
-Ferran Altarriba Bertran (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Jared Duval (University of California Santa Cruz), Jared Duval (University of California Santa Cruz)</br>
+__Paper: Chasing Play Potentials: Towards an Increasingly Situated and Emergent Approach to Everyday Play Design__</br>
+_Ferran Altarriba Bertran (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Jared Duval (University of California Santa Cruz), Jared Duval (University of California Santa Cruz)_</br>
 
-### Paper: Taste Your Emotions: An Exploration of the Relationship between Taste and Emotional Experience for HCI.</br>
-Thomas Gayler (Lancaster University), Corina Sas (Lancaster University), Vaiva Kalnikaitė (Dovetailed Ltd.)</br>
+__Paper: Taste Your Emotions: An Exploration of the Relationship between Taste and Emotional Experience for HCI_</br>
+_Thomas Gayler (Lancaster University), Corina Sas (Lancaster University), Vaiva Kalnikaitė (Dovetailed Ltd.)__</br>
 
-### Pictorial: Play Poles: Towards IoT Resources for Outdoor Play.</br>
-Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University), Gavin Wood (Northumbria University), Sena Çerçi (Northumbria University), Denise Downey (The Cedarwood Trust), Jonny Scott (The Cedarwood Trust), John Vines (Northumbria University), Shaun Lawson (Northumbria University)</br>
+__Pictorial: Play Poles: Towards IoT Resources for Outdoor Play__</br>
+_Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University), Gavin Wood (Northumbria University), Sena Çerçi (Northumbria University), Denise Downey (The Cedarwood Trust), Jonny Scott (The Cedarwood Trust), John Vines (Northumbria University), Shaun Lawson (Northumbria University)_</br>
 </br>
 
 # Session 5: Virtual Reality
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
-### Paper: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability.</br>
-Jack Shen-Kuen Chang (Pennsylvania State University), Alison Doucette (Ryerson University), Georgina Yeboah (Ryerson University), Timothy Welsh (University of Toronto), Michael Nitsche (Georgia Institute of Technology), Ali Mazalek (Ryerson University)</br>
+__Paper: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability__</br>
+_Jack Shen-Kuen Chang (Pennsylvania State University), Alison Doucette (Ryerson University), Georgina Yeboah (Ryerson University), Timothy Welsh (University of Toronto), Michael Nitsche (Georgia Institute of Technology), Ali Mazalek (Ryerson University)_</br>
 
-### Paper: PneumAct: Pneumatic Kinesthetic Actuation of Body Joints in Virtual Reality Environments.</br>
-Sebastian Günther (TU Darmstadt), Mohit Makhija (TU Darmstadt), Florian Müller (TU Darmstadt), Dominik Schön (TU Darmstadt), Max Mühlhäuser (TU Darmstadt), Markus Funk (TU Darmstadt)</br>
+__Paper: PneumAct: Pneumatic Kinesthetic Actuation of Body Joints in Virtual Reality Environments__</br>
+_Sebastian Günther (TU Darmstadt), Mohit Makhija (TU Darmstadt), Florian Müller (TU Darmstadt), Dominik Schön (TU Darmstadt), Max Mühlhäuser (TU Darmstadt), Markus Funk (TU Darmstadt)_</br>
 
-### Paper: Understanding Emerging Design Practices for Avatar Systems in the Commercial Social VR Ecology.</br>
-Anya Kolesnichenko (University of California, Santa Cruz), Joshua McVeigh-Schultz (University of California Santa Cuz), Katherine Isbister (University of California Santa Cruz)</br>
+__Paper: Understanding Emerging Design Practices for Avatar Systems in the Commercial Social VR Ecology__</br>
+_Anya Kolesnichenko (University of California, Santa Cruz), Joshua McVeigh-Schultz (University of California Santa Cuz), Katherine Isbister (University of California Santa Cruz)_</br>
 
-### Paper: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance. </br>
-Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser University), Thecla Schiphorst (Simon Fraser University), Carman Neustaedter (Simon Fraser University)</br>
+__Paper: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance__ </br>
+_Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser University), Thecla Schiphorst (Simon Fraser University), Carman Neustaedter (Simon Fraser University)_</br>
 </br>
 
 # Session 6: Abilities
 ## Wednesday, June 26, 2:00 – 3:30 PM
-### Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar</br>
-Jorun Børsting (University of Oslo), Alma Leora Culén (University of Oslo), Will Odom (Simon Fraser University)</br>
+__Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar__</br>
+_Jorun Børsting (University of Oslo), Alma Leora Culén (University of Oslo), Will Odom (Simon Fraser University)_</br>
 
-### Paper: Examining Online Practices of an Autism Parent Community in Turkey: Goals, Needs, and Opportunities.</br>
-Zeynep Yildiz (Koç University), Doga Gatos (Koç University), Ozge Subasi (Koc University), Asim Evren Yantac (Koç Univeristy), Kemal Kuscu (Koç University)</br>
+__Paper: Examining Online Practices of an Autism Parent Community in Turkey: Goals, Needs, and Opportunities__</br>
+_Zeynep Yildiz (Koç University), Doga Gatos (Koç University), Ozge Subasi (Koc University), Asim Evren Yantac (Koç Univeristy), Kemal Kuscu (Koç University)_</br>
 
-### Paper: Search for ‘Read Aloud’ or ‘Story Time’: What Blind Parents Can Teach Technology Designers About Co-Reading with Children.</br>
-Kevin Storer (University of California, Irvine), Stacy Branham (University of California, Irvine)</br>
+__Paper: Search for ‘Read Aloud’ or ‘Story Time’: What Blind Parents Can Teach Technology Designers About Co-Reading with Children__</br>
+_Kevin Storer (University of California, Irvine), Stacy Branham (University of California, Irvine)_</br>
 
-### Pictorial: The Cross-Sensory Globe: Participatory Design of a 3D Audio-Tactile Globe Prototype for Blind and Low-Vision Users to Learn Geography.</br>
-Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD University), Peter Coppin (OCAD University).</br>
+__Pictorial: The Cross-Sensory Globe: Participatory Design of a 3D Audio-Tactile Globe Prototype for Blind and Low-Vision Users to Learn Geography__</br>
+_Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD University), Peter Coppin (OCAD University)_</br>
 </br>
 
 # Session 7: Sonification
