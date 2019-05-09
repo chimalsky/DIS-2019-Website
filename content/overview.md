@@ -70,7 +70,7 @@ _Sebastian Günther (TU Darmstadt), Mohit Makhija (TU Darmstadt), Florian Mülle
 __Paper: Understanding Emerging Design Practices for Avatar Systems in the Commercial Social VR Ecology__</br>
 _Anya Kolesnichenko (University of California, Santa Cruz), Joshua McVeigh-Schultz (University of California Santa Cuz), Katherine Isbister (University of California Santa Cruz)_</br>
 
-__Paper: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance__ </br>
+__Paper: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance__</br>
 _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser University), Thecla Schiphorst (Simon Fraser University), Carman Neustaedter (Simon Fraser University)_</br>
 </br>
 
@@ -151,203 +151,203 @@ _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munic
 
 # Session 11: Design For and With Children
 ## Thursday, June 27, 11:00 – 12:30 PM
-### Paper: Designing Interactive Manual Wheelchair Skills Training for Children.</br>
-Kathrin Gerling (KU Leuven), Kieran Hicks (University of Lincoln), Olivier Szymanezyk (University of Lincoln), Conor Linehan (University College Cork)</br>
+__Paper: Designing Interactive Manual Wheelchair Skills Training for Children__</br>
+_Kathrin Gerling (KU Leuven), Kieran Hicks (University of Lincoln), Olivier Szymanezyk (University of Lincoln), Conor Linehan (University College Cork)_</br>
 
-### Paper: Magical Realism and Augmented Reality: Designing Apps with Children in a Cultural Institution.</br>
-Tom Schofield (Newcastle University), Diego Trujillo Pîsanty (Newcastle University), Gabriella Arrigoni (Newcastle University), Kim Reynolds (Newcastle University), Rachel Pattinson (Newcastle University)</br>
+__Paper: Magical Realism and Augmented Reality: Designing Apps with Children in a Cultural Institution__</br>
+_Tom Schofield (Newcastle University), Diego Trujillo Pîsanty (Newcastle University), Gabriella Arrigoni (Newcastle University), Kim Reynolds (Newcastle University), Rachel Pattinson (Newcastle University)_</br>
 
-### Paper: A Methodology for Designing Out IoT Risks to Children.</br>
-Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley (Lancaster University)</br>
+__Paper: A Methodology for Designing Out IoT Risks to Children__</br>
+_Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley (Lancaster University)_</br>
 
-### Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems.</br>
-Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)</br>
+__Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems__</br>
+_Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
 
 # Session 12: Deformable and Novel Materials
 ## Thursday, June 27, 11:00 – 12:30 PM
-### Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input.</br>
-Giovanni Troiano (Northeastern University), Alberto Boem (University of Tsukuba)</br>
+__Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input__</br>
+_Giovanni Troiano (Northeastern University), Alberto Boem (University of Tsukuba)_</br>
 
-### Paper: Crafting Heat: Exposing Heat as a Material within Thermoreactive Composites.</br>
-Cesar Torres (UC Berkeley), Jessica Chang (UC Berkeley), Advaita Patel (UC Berkeley), Eric Paulos (UC Berkeley)</br>
+__Paper: Crafting Heat: Exposing Heat as a Material within Thermoreactive Composites__</br>
+_Cesar Torres (UC Berkeley), Jessica Chang (UC Berkeley), Advaita Patel (UC Berkeley), Eric Paulos (UC Berkeley)_</br>
 
-### Pictorial: Sensing Kirigami.</br>
-Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado Boulder), Ellen Yi-Luen Do (University of Colorado Boulder)</br>
+__Pictorial: Sensing Kirigami__</br>
+_Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado Boulder), Ellen Yi-Luen Do (University of Colorado Boulder)_</br>
 
-### Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI.</br>
-Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus University), Mark Moore (Aarhus University), Marcelo Azevedo Dias (Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University)</br>
+__Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI__</br>
+_Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus University), Mark Moore (Aarhus University), Marcelo Azevedo Dias (Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University)_</br>
 </br>
 
 # Panel
 ## Thursday, June 27, 11:00 AM – 12:30 PM
-### Panel Topic TBD
+__Panel Topic TBD__
 </br>
 </br>
 
 # Session 13: Gendered Considerations
 ## Thursday, June 27, 2:00 PM – 3:30 PM
-### Paper: Privacy, Patriarchy, and Participation on Social Media.</br>
-Naveena Karusala (University of Washington), Apoorva Bhalla (International Institute of Information Technology, Bangalore), Neha Kumar (Georgia Tech)</br>
+__Paper: Privacy, Patriarchy, and Participation on Social Media__</br>
+_Naveena Karusala (University of Washington), Apoorva Bhalla (International Institute of Information Technology, Bangalore), Neha Kumar (Georgia Tech)_</br>
 
-### Paper: A Speculative Approach to anticipating Internet-of-Things Security and Privacy Threats with Survivors of Intimate Partner Abuse. </br>
-Roxanne Leitão (University of the Arts London)</br>
+__Paper: A Speculative Approach to anticipating Internet-of-Things Security and Privacy Threats with Survivors of Intimate Partner Abuse__</br>
+_Roxanne Leitão (University of the Arts London)_</br>
 
-### Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Current Data Practices.</br>
-Sarah Fox (University of California, San Diego), Noura Howell (University of California), Richmond Wong (University of California Berkeley), Franchesca Spektor (University of California, Berkeley)
+__Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Current Data Practices__</br>
+_Sarah Fox (University of California, San Diego), Noura Howell (University of California), Richmond Wong (University of California Berkeley), Franchesca Spektor (University of California, Berkeley)_</br>
 
-### Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience. </br>
-Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)</br>
+__Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
+_Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)_</br>
 </br>
 
 # Session 14: Human-Robot Interaction
 ## Thursday, June 27, 2:00 PM – 3:30 PM
-### Paper: A Survey of Users' Expectations Towards On-Body Companion Robots.</br>
-Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Hao Jiang (Zhejiang University), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)</br>
+__Paper: A Survey of Users' Expectations Towards On-Body Companion Robots__</br>
+_Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Hao Jiang (Zhejiang University), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)_</br>
 
-### Paper: Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Robots and Conversational Agents.</br>
-Michal Luria (Carnegie Mellon University), Samantha Reig (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University), Aaron Steinfeld (Carnegie Mellon University), Jodi Forlizzi (Carnegie Mellon University), John Zimmerman (Carnegie Mellon University)</br>
+__Paper: Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Robots and Conversational Agents__</br>
+_Michal Luria (Carnegie Mellon University), Samantha Reig (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University), Aaron Steinfeld (Carnegie Mellon University), Jodi Forlizzi (Carnegie Mellon University), John Zimmerman (Carnegie Mellon University)_</br>
 
-### Paper: Negotiating the Creative Space in Human-Robot Collaborative Design.</br>
-Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), Guy Hoffman (Cornell University)</br>
+__Paper: Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
+_Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), Guy Hoffman (Cornell University)_</br>
 
-### Paper: Interaction Needs and Opportunities for Failing Robots.</br>
-Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University)</br>
+__Paper: Interaction Needs and Opportunities for Failing Robots__</br>
+_Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University)_</br>
 </br>
 
 # Session 15: Media in the Home
 ## Thursday, June 27, 2:00 PM – 3:30 PM
-### Paper: Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration</br>
-Javier Tibau (Virginia Tech), Michael Stewart (James Madison University), Steve Harrison (Virginia Tech), Deborah Tatar (Virginia Tech)</br>
+__Paper: Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration__</br>
+_Javier Tibau (Virginia Tech), Michael Stewart (James Madison University), Steve Harrison (Virginia Tech), Deborah Tatar (Virginia Tech)_</br>
 
-### Paper: ChronoScope: A Design Inquiry into Supporting Longer-Term Interactions with Personal Digital Photo Collections.</br>
-Amy Yo Sue Chen (Simon Fraser University), William Odom (Simon Fraser University), Ce Zhong (Simon Fraser University), Henry Lin (Simon Fraser University), Tal Amram (Simon Fraser University)</br>
+__Paper: ChronoScope: A Design Inquiry into Supporting Longer-Term Interactions with Personal Digital Photo Collections__</br>
+_Amy Yo Sue Chen (Simon Fraser University), William Odom (Simon Fraser University), Ce Zhong (Simon Fraser University), Henry Lin (Simon Fraser University), Tal Amram (Simon Fraser University)_</br>
 
-### Paper: Personalised Soundscapes in Homes.</br>
-Stine Lundgaard (Aalborg University), Peter Axel Nielsen (Aalborg University)</br>
+__Paper: Personalised Soundscapes in Homes__</br>
+_Stine Lundgaard (Aalborg University), Peter Axel Nielsen (Aalborg University)_</br>
 
-### Pictorial: Peekaboo: Designing Observational Camera for Home Ecologies Concerning Privacy.</br>
-Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technology), Wenn-Chieh Tsai (National Taiwan University), Lin-Lin Chen (Eindhoven University of Technology)</br>
+__Pictorial: Peekaboo: Designing Observational Camera for Home Ecologies Concerning Privacy__</br>
+_Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technology), Wenn-Chieh Tsai (National Taiwan University), Lin-Lin Chen (Eindhoven University of Technology)_</br>
 </br>
 
 # Session 16: Shape Changing Interfaces
 ## Thursday, June 27, 2:00 PM – 3:30 PM 
-### Paper: ExpanDial: Designing a Shape-Changing Dial.</br>
-Hyunyoung Kim (Université Grenoble Alpes), Patricial Deug Guimaraes (University of Bristol), Céline Coutrix (CNRS), Anne Roudaut (University of Bristol)</br>
+__Paper: ExpanDial: Designing a Shape-Changing Dial__</br>
+_Hyunyoung Kim (Université Grenoble Alpes), Patricial Deug Guimaraes (University of Bristol), Céline Coutrix (CNRS), Anne Roudaut (University of Bristol)_</br>
 
-### Paper: DynaKnob: Combining Haptic Force Feedback and Shape Change.</br>
-Anke van Oosterhout (Aarhus University), Eve Hoggan (Computer Science, Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University), Miguel Bruns (TU Eindhoven)</br>
+__Paper: DynaKnob: Combining Haptic Force Feedback and Shape Change__</br>
+_Anke van Oosterhout (Aarhus University), Eve Hoggan (Computer Science, Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University), Miguel Bruns (TU Eindhoven)_</br>
 
-### Paper: MorphIO: Soft Sensing and Actuation Modules for Programming by Demonstration of Shape-Changing Interfaces.</br>
-Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder), Satoshi Nakamaru (Keio University), Ryuma Niiyama (The University of Tokyo), Yoshihiro Kawahara (The University of Tokyo), Yasuaki Kakehi (The University of Tokyo)</br>
+__Paper: MorphIO: Soft Sensing and Actuation Modules for Programming by Demonstration of Shape-Changing Interfaces__</br>
+_Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder), Satoshi Nakamaru (Keio University), Ryuma Niiyama (The University of Tokyo), Yoshihiro Kawahara (The University of Tokyo), Yasuaki Kakehi (The University of Tokyo)_</br>
 
-### Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation.</br>
-Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikoletta Karastathi (Napper Architects), David Kirk (Northumbria Univeristy), Peter Wright (Newcastle University)</br>
+__Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation__</br>
+_Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikoletta Karastathi (Napper Architects), David Kirk (Northumbria Univeristy), Peter Wright (Newcastle University)_</br>
 </br>
 
 # Session 17: Resisting and Reflecting
 ## Thursday, June 27, 4:00 PM – 5:30 PM
-### Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings.</br>
-Nick Merrill (University of California, Berkeley), John Chuang (University of California, Berkeley), Coye Cheshire (University of California, Berkeley)</br>
+__Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings__</br>
+_Nick Merrill (University of California, Berkeley), John Chuang (University of California, Berkeley), Coye Cheshire (University of California, Berkeley)_</br>
 
-### Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis and Automated Decision-Making.</br>
-Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)</br>
+__Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis and Automated Decision-Making__</br>
+_Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
 
-### Paper: A Design Approach Towards Affording the Trend of Privacy.</br>
-Daphne Muller (University of Technology Eindhoven), Pierre Levy (Eindhoven University of Technology)</br>
+__Paper: A Design Approach Towards Affording the Trend of Privacy__</br>
+_Daphne Muller (University of Technology Eindhoven), Pierre Levy (Eindhoven University of Technology)_</br>
 
-### Pictorial: Judgment Call The Game: Using Design Fiction To Surface Ethical Concerns Related to Technology.</br>
-Stephanie Ballard (University of Washington), Karen Chappell (Microsoft Corporation), Kristen Kennedy (Microsoft Corporation </br>
+__Pictorial: Judgment Call The Game: Using Design Fiction To Surface Ethical Concerns Related to Technology__</br>
+_Stephanie Ballard (University of Washington), Karen Chappell (Microsoft Corporation), Kristen Kennedy (Microsoft Corporation)_ </br>
 </br>
 
 # Session 18: Internet of Things
 ## Thursday, June 27, 4:00 PM – 5:30 PM
-### Paper: Understanding Embodied State Using Speculative Artifacts.</br>
-J. Trevor D'Arcey (University of California, Santa Cruz), Julia Haines (Google), Elizabeth Churchill (Google)</br>
+__Paper: Understanding Embodied State Using Speculative Artifacts__</br>
+_J. Trevor D'Arcey (University of California, Santa Cruz), Julia Haines (Google), Elizabeth Churchill (Google)_</br>
 
-### Paper: Sensorstation: Exploring Simple Sensor Data in the Context of a Shared Apartment. </br>
-Teresa Denefleh (Chemnitz University of Technology), Arne Berger (Chemnitz University of Technology), Albrecht Kurze (Chemnitz University of Technology), Andreas Bischof (Chemnitz University of Technology), Christopher Frauenberger (TU Wien)</br>
+__Paper: Sensorstation: Exploring Simple Sensor Data in the Context of a Shared Apartment__</br>
+_Teresa Denefleh (Chemnitz University of Technology), Arne Berger (Chemnitz University of Technology), Albrecht Kurze (Chemnitz University of Technology), Andreas Bischof (Chemnitz University of Technology), Christopher Frauenberger (TU Wien)_</br>
 
-### Paper: Bespoke Booklets: A Method for Situated Co-Speculation.</br>
-Audrey Desjardins (University of Washington), Heidi R. Biggs (University of Washington), Cayla Key (University of Washington), Kelsey Aschenbeck (University of Washington)</br>
+__Paper: Bespoke Booklets: A Method for Situated Co-Speculation__</br>
+_Audrey Desjardins (University of Washington), Heidi R. Biggs (University of Washington), Cayla Key (University of Washington), Kelsey Aschenbeck (University of Washington)_</br>
 
-### Paper: Astral: Prototyping Mobile and Smart Object Interactive Behaviours Using Familiar Applications.</br>
-David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh Carpendale (University of Calgary), Saul Greenberg (University of Calgary), Lora Oehlberg (University of Calgary), Sebastian Boring (University of Copenhagen)</br>
+__Paper: Astral: Prototyping Mobile and Smart Object Interactive Behaviours Using Familiar Applications__</br>
+_David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh Carpendale (University of Calgary), Saul Greenberg (University of Calgary), Lora Oehlberg (University of Calgary), Sebastian Boring (University of Copenhagen)_</br>
 </br>
 
 # Session 19: Education
 ## Thursday, June 27, 4:00 PM – 5:30 PM
-### Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit.</br>
-Joyce Ma (The Exploratorium), 	Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)</br>
+__Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit__</br>
+_Joyce Ma (The Exploratorium), 	Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)_</br>
 
-### Paper: Exploring the Intersection of Emotional Literacy and Computational Modeling Using Scratch.</br>
-Ralph Vacca (Fordham University)</br>
+__Paper: Exploring the Intersection of Emotional Literacy and Computational Modeling Using Scratch__</br>
+_Ralph Vacca (Fordham University)_</br>
 
-### Paper: How Peripheral Data Visualisation System Support High School Teachers During VLE-Supported Lessons. </br>
-Bernice dAnjou (University of Technology Eindhoven)</br>
+__Paper: How Peripheral Data Visualisation System Support High School Teachers During VLE-Supported Lessons__</br>
+_Bernice dAnjou (University of Technology Eindhoven)_</br>
 
-### Paper: Design in the HCI Classroom: Setting a Research Agenda.</br>
-Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology), Qiaosi Wang (Georgia Institute of Technology)</br>
+__Paper: Design in the HCI Classroom: Setting a Research Agenda__</br>
+_Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology), Qiaosi Wang (Georgia Institute of Technology)_</br>
 </br>
 
 # Session 20: Wearables
 ## Thursday, June 27, 4:00 PM – 5:30 PM
-### Paper: Design Framework For Social Wearables.</br>
-Ella Dagan (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Ferran Altarriba Bertran (UC Santa Cruz), Miguel Flores (UC Santa Cruz), Robb Mitchell (University of Southern Denmark), Katherine Isbister (University of California Santa Cruz)</br>
+__Paper: Design Framework For Social Wearables__</br>
+_Ella Dagan (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Ferran Altarriba Bertran (UC Santa Cruz), Miguel Flores (UC Santa Cruz), Robb Mitchell (University of Southern Denmark), Katherine Isbister (University of California Santa Cruz)_</br>
 
-### Paper: Enlightened Yoga: Designing an Augmented Class with Wearable Lights to Support Instruction.</br>
-Laia Turmo Vidal (Uppsala University), Elena Marquez Segura (Uppsala University), Christopher Boyer (Winwin Yoga Studio), Annika Waern (Dept of Informatics and Media)</br>
+__Paper: Enlightened Yoga: Designing an Augmented Class with Wearable Lights to Support Instruction__</br>
+_Laia Turmo Vidal (Uppsala University), Elena Marquez Segura (Uppsala University), Christopher Boyer (Winwin Yoga Studio), Annika Waern (Dept of Informatics and Media)_</br>
 
-### Paper: Use Your Head! Exploring Interaction Modalities for Hat Technologies.</br>
-Christine Dierk (UC Berkeley), Scott Carter (FX Palo Alto Laboratory, Inc.), Patrick Chiu (FX Palo Alto Laboratory), Tony Dunnigan (FX Palo Alto Laboratory), Don Kimber (FX Palo Alto Laboratory)</br>
+__Paper: Use Your Head! Exploring Interaction Modalities for Hat Technologies__</br>
+_Christine Dierk (UC Berkeley), Scott Carter (FX Palo Alto Laboratory, Inc.), Patrick Chiu (FX Palo Alto Laboratory), Tony Dunnigan (FX Palo Alto Laboratory), Don Kimber (FX Palo Alto Laboratory)_</br>
 
-### Paper: Satisfying a Conversation with Materials for Hybrid Fabrics.</br>
-Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)</br>
+__Paper: Satisfying a Conversation with Materials for Hybrid Fabrics__</br>
+_Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)_</br>
 </br>
 
 # Session 21: Automaticity
 ## Friday, June 28, 8:30 AM – 10:30 AM
-### Paper: V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality.</br>
-Yuanzhi Cao (Purdue University), Ke Huo (Purdue University), Zhuangying Xu (Purdue University), Fan Li (Tsinghua University), Wentao Zhong (Purdue University), Karthik Ramani (Purdue University)</br>
+__Paper: V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality__</br>
+_Yuanzhi Cao (Purdue University), Ke Huo (Purdue University), Zhuangying Xu (Purdue University), Fan Li (Tsinghua University), Wentao Zhong (Purdue University), Karthik Ramani (Purdue University)_</br>
 
-### Paper: The Apple Does Fall Far from the Tree: User Separation of a System from its Developers in Human-Automation Trust Repair. </br>
-Theodore Jensen (University of Connecticut), Yusuf Albayram (University of Connecticut), Mohammad Maifi Hasan Khan (University of Connecticut), Md Abdullah Al Fahim (University of Connecticut), Ross Buck (University of Connecticut), Emil Coman (University of Connecticut Health Center)</br>
+__Paper: The Apple Does Fall Far from the Tree: User Separation of a System from its Developers in Human-Automation Trust Repair__ </br>
+_Theodore Jensen (University of Connecticut), Yusuf Albayram (University of Connecticut), Mohammad Maifi Hasan Khan (University of Connecticut), Md Abdullah Al Fahim (University of Connecticut), Ross Buck (University of Connecticut), Emil Coman (University of Connecticut Health Center)_</br>
 
-### Paper: Designing and Prototyping from the Perspective of AI in the Wild.</br>
-Nirav Malsattar (Delft University of Technology), Tomo Kihara (Industrial Design Engineering), Elisa Giaccardi (Delft University of Technology)</br>
+__Paper: Designing and Prototyping from the Perspective of AI in the Wild__</br>
+_Nirav Malsattar (Delft University of Technology), Tomo Kihara (Industrial Design Engineering), Elisa Giaccardi (Delft University of Technology)_</br>
 
-### Paper: Effect of Interaction Design on the Human Experience with Interactive Reinforcement Learning.</br>
-Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)</br>
+__Paper: Effect of Interaction Design on the Human Experience with Interactive Reinforcement Learning__</br>
+_Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_</br>
 </br>
 
 # Session 22: Somaesthetics
 ## Friday, June 28, 8:30 AM – 10:30 AM
-### Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology in Art.</br>
-Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)</br>
+__Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology in Art__</br>
+_Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
-### Paper: Do You Have to Pee? A Design Space for Intimate and Somatic Data.</br>
-Karey Helms (KTH Royal Institute of Technology)</br>
+__Paper: Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
+_Karey Helms (KTH Royal Institute of Technology)_</br>
 
-### Paper: Teaching Soma Design.</br>
-Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Institute of Technology (KTH)), Anna Ståhl (RISE, Research Institutes of Sweden), Pedro Sanches (KTH), Charles Windlin (KTH Royal Institute of Technology), Pavel Karpashevich (KTH), Kristina Höök (KTH)</br>
+__Paper: Teaching Soma Design__</br>
+_Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Institute of Technology (KTH)), Anna Ståhl (RISE, Research Institutes of Sweden), Pedro Sanches (KTH), Charles Windlin (KTH Royal Institute of Technology), Pavel Karpashevich (KTH), Kristina Höök (KTH)_</br>
 
-### Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children.</br>
-Elena Marquez Segura (Uppsala University), Laia Turmo Vidal (Uppsala University), Luis Parrilla Bel (Uppsala University), Annika Waern (Dept of Informatics and Media)</br>
+__Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children__</br>
+_Elena Marquez Segura (Uppsala University), Laia Turmo Vidal (Uppsala University), Luis Parrilla Bel (Uppsala University), Annika Waern (Dept of Informatics and Media)_</br>
 </br>
 
 # Session 23: Diversity 
 ## Friday, June 28, 8:30 – 10:30 AM
-### Paper: Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy.</br>
-Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)</br>
+__Paper: Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy__</br>
+_Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)_</br>
 
-### Pictorial: Diversifying the Domestic: A Design Inquiry into Collective and Mobile Living.</br>
-William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)</br>
+__Pictorial: Diversifying the Domestic: A Design Inquiry into Collective and Mobile Living__</br>
+_William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)_</br>
 
-### Pictorial: Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History.</br>
-Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)</br>
+__Pictorial: Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
+_Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)_</br>
 
-### Pictorial: Design and Diversity? Speculations on What Could Go Wrong.</br>
-Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of Washington), Pari Jonathan Gabriel (University of Washington), Daniela Rosner (University of Washington)</br>
+__Pictorial: Design and Diversity? Speculations on What Could Go Wrong__</br>
+_Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of Washington), Pari Jonathan Gabriel (University of Washington), Daniela Rosner (University of Washington)_</br>
 </br>
 
 # Session 24: Conversational Agents
