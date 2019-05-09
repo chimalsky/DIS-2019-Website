@@ -121,32 +121,32 @@ _Steven Baker (The University of Melbourne), Jenny Waycott (The University of Me
 
 # Session 9: Urgency and Emergency
 ## Wednesday, June 26, 4:00 – 5:30 PM
-### Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies.</br>
-Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University</br>
+__Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies__</br>
+_Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University_</br>
 
-### Paper: Clearing the Smoke: The Changing Identities of Firefighters.</br>
-Alyssa Rumsey (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)</br>
+__Paper: Clearing the Smoke: The Changing Identities of Firefighters__</br>
+_Alyssa Rumsey (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
-### Paper: How Do Gestures Matter for Mutual Awareness in Cockpits? Disclosing Interactions through Graphical Representations</br>
-Valentin Becquet (ENAC), Catherine Letondal (University of Toulouse - ENAC), Jean-Luc Vinot (University of Toulouse, ENAC), Sylvain Pauchet (University of Toulouse - ENAC)</br>
+__Paper: How Do Gestures Matter for Mutual Awareness in Cockpits? Disclosing Interactions through Graphical Representations__</br>
+_Valentin Becquet (ENAC), Catherine Letondal (University of Toulouse - ENAC), Jean-Luc Vinot (University of Toulouse, ENAC), Sylvain Pauchet (University of Toulouse - ENAC)_</br>
 
-### Pictorial: Beepless - Using Peripheral Interaction in an Intensive Care Setting.</br>
-Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Maxima Medical Center), Saskia Bakker (Eindhoven University of Techonology), Pengcheng An (Eindhoven University of Techonology), Carola Pul (Maxima Medical Center), Peter Andriessen (Maxima Medical Center)</br>
+__Pictorial: Beepless - Using Peripheral Interaction in an Intensive Care Setting__</br>
+_Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Maxima Medical Center), Saskia Bakker (Eindhoven University of Techonology), Pengcheng An (Eindhoven University of Techonology), Carola Pul (Maxima Medical Center), Peter Andriessen (Maxima Medical Center)_</br>
 </br>
 
 # Session 10: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
-### Paper: Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field.</br>
-Ingrid Pettersson (Digital User Experience), MariAnne Karlsson (Design & Human Factors), Florin Timotei Ghiurau (User Experience Center)</br>
+__Paper: Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field__</br>
+_Ingrid Pettersson (Digital User Experience), MariAnne Karlsson (Design & Human Factors), Florin Timotei Ghiurau (User Experience Center)_</br>
 
-### Paper: AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator.</br>
-Karthik Mahadevan (University of Calgary), Elaheh Sanoubari (University of Manitoba), Sowmya Somanath (OCAD University), James E. Young (University of Manitoba), Ehud Sharlin (University of Calgary)</br>
+__Paper: AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator__</br>
+_Karthik Mahadevan (University of Calgary), Elaheh Sanoubari (University of Manitoba), Sowmya Somanath (OCAD University), James E. Young (University of Manitoba), Ehud Sharlin (University of Calgary)_</br>
 
-### Paper: You Invaded my Tracking Space! Using Augmented Virtuality for Spotting Passersby inRoom-Scale Virtual Reality.</br>
-Julius von Willich (TU Darmstadt), Markus Funk (TU Darmstadt), Florian Müller (TU Darmstadt), Karola Marky (Technische Universität Darmstadt), Jan Riemann (TU Darmstadt), Max Mühlhäuser (TU Darmstadt)</br>
+__Paper: You Invaded my Tracking Space! Using Augmented Virtuality for Spotting Passersby inRoom-Scale Virtual Reality__</br>
+_Julius von Willich (TU Darmstadt), Markus Funk (TU Darmstadt), Florian Müller (TU Darmstadt), Karola Marky (Technische Universität Darmstadt), Jan Riemann (TU Darmstadt), Max Mühlhäuser (TU Darmstadt)_</br>
 
-### Paper: Should I Interrupt or Not? Understanding Interruptions in Head-Mounted Display Settings.</br>
-Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munich), Florian Alt (Bundeswehr University Munich</br>
+__Paper: Should I Interrupt or Not? Understanding Interruptions in Head-Mounted Display Settings__</br>
+_Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munich), Florian Alt (Bundeswehr University Munich_</br>
 </br>
 
 # Session 11: Design For and With Children
