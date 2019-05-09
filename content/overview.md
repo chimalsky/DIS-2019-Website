@@ -91,32 +91,32 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 
 # Session 7: Sonification
 ## Wednesday, June 26, 4:00 – 5:30 PM
-### Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice.</br>
-Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)</br>
+__Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice__</br>
+_Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)_</br>
 
-### Paper: muRedder: Shredding Speaker for Ephemeral Musical Experience.</br>
-Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (Loughborough University), Young-Woo Park (UNIST)</br>
+__Paper: muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
+_Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (Loughborough University), Young-Woo Park (UNIST)_</br>
 
-### Paper: Making Sense of Sensors: Discovery Through Craft Practice with an Open-Ended Sensor Material.</br>
-Charlotte Nordmoen (Queen Mary University of London), Jack Armitage (Queen Mary University of London), Fabio Morreale (Queen Mary University of London), Rebecca Stewart (Queen Mary University of London), Andrew P. McPherson (Queen Mary University of London)</br>
+__Paper: Making Sense of Sensors: Discovery Through Craft Practice with an Open-Ended Sensor Material__</br>
+_Charlotte Nordmoen (Queen Mary University of London), Jack Armitage (Queen Mary University of London), Fabio Morreale (Queen Mary University of London), Rebecca Stewart (Queen Mary University of London), Andrew P. McPherson (Queen Mary University of London)_</br>
 
-### Pictorial: ListeningCups: A Case of Data Tactility and Data Stories.</br>
-Audrey Desjardins (University of Washington), Timea Tihanyi (University of Washington)</br>
+__Pictorial: ListeningCups: A Case of Data Tactility and Data Stories__</br>
+_Audrey Desjardins (University of Washington), Timea Tihanyi (University of Washington)_</br>
 </br>
 
 # Session 8: Identity and Expression
 ## Wednesday, June 26, 4:00 – 5:30 PM
-### Paper: Designing for Ballet Studios: Identifying and Mitigating Communication Challenges Between Dancers and Teachers.</br>
-Milka Trajkova, Francesco Cafaro, Lynn Dombrowski</br>
+__Paper: Designing for Ballet Studios: Identifying and Mitigating Communication Challenges Between Dancers and Teachers__</br>
+_Milka Trajkova, Francesco Cafaro, Lynn Dombrowski_</br>
 
-### Paper: Devising Interactive Theatre: Trajectories of Performance, Choreography and Interaction Design.</br>
-Andrew Johnston (University of Technology Sydney)</br>
+__Paper: Devising Interactive Theatre: Trajectories of Performance, Choreography and Interaction Design__</br>
+_Andrew Johnston (University of Technology Sydney)_</br>
 
-### Paper: Examining Interdependencies and Constraints in Co-Creation.</br>
-Bran Knowles (Lancaster University), Christopher Bull (Lancaster University), Nigel Davies (Lancaster University), Will Simm (Lancaster University), Oliver Bates (Lancaster University), Niall Hayes (Lancaster University)</br>
+__Paper: Examining Interdependencies and Constraints in Co-Creation__</br>
+_Bran Knowles (Lancaster University), Christopher Bull (Lancaster University), Nigel Davies (Lancaster University), Will Simm (Lancaster University), Oliver Bates (Lancaster University), Niall Hayes (Lancaster University)_</br>
 
-### Paper: Exploring "What Made Us Who We Are": Designing Social VR for Reminiscence with Older Adults.</br>
-Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)</br>
+__Paper: Exploring "What Made Us Who We Are": Designing Social VR for Reminiscence with Older Adults__</br>
+_Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)_</br>
 </br>
 
 # Session 9: Urgency and Emergency
