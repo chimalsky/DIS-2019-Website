@@ -382,93 +382,93 @@ _Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elshar
 
 # Session 26: Well-Being
 ## Friday, June 28, 11:00 AM – 12:30 PM
-### Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data.</br>
-Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)</br>
+__Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data__</br>
+_Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)_</br>
 
-### Paper: Exploring the Experience of Everyday Sounds with People Living with Dementia.</br>
-Maarten Houben (Eindhoven University of Technology), Rens Brankaert (University of Technology Eindhoven), Saskia Bakker (Eindhoven University of Technology), Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), Berry Eggen (Eindhoven University of Technology)</br>
+__Paper: Exploring the Experience of Everyday Sounds with People Living with Dementia__</br>
+_Maarten Houben (Eindhoven University of Technology), Rens Brankaert (University of Technology Eindhoven), Saskia Bakker (Eindhoven University of Technology), Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), Berry Eggen (Eindhoven University of Technology)_</br>
 
-### Paper: Activities as a Gateway to Sustained Subjective Well-Being Mediated by Products.</br>
-Lisa Wiese (eBay, brands4friends), Anna Pohlmeyer (Delft Intsitute of Positive Design), Paul Hekkert (Delft University of Technology)</br>
+__Paper: Activities as a Gateway to Sustained Subjective Well-Being Mediated by Products__</br>
+_Lisa Wiese (eBay, brands4friends), Anna Pohlmeyer (Delft Intsitute of Positive Design), Paul Hekkert (Delft University of Technology)_</br>
 
-### Paper: Performance by Design: Supporting Decisions Around Indoor Air Quality in Offices.</br>
-Stephen Snow (University of Southampton), Michael Oakley (University of Southampton), m.c. schraefel (University of Southampton)</br>
+__Paper: Performance by Design: Supporting Decisions Around Indoor Air Quality in Offices__</br>
+_Stephen Snow (University of Southampton), Michael Oakley (University of Southampton), m.c. schraefel (University of Southampton)_</br>
 </br>
 
 # Session 27: Seeing 
 ## Friday, June 28, 11:00 AM – 12:30 PM
-### Paper: How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays.</br>
-Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuven)</br>
+__Paper: How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays__</br>
+_Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuven)_</br>
 
-### Paper: OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication.</br>
-Zhengqing Li (Tokyo Institute of Technology), Shio Miyafuji (Tokyo Institute of Technology), Erwin Wu (Tokyo Institute of Technology), Hideaki Kuzuoka (University of Tsukuba), Naomi Yamashita (NTT), Hideki Koike (Tokyo Institute of Technology)
+__Paper: OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication__</br>
+_Zhengqing Li (Tokyo Institute of Technology), Shio Miyafuji (Tokyo Institute of Technology), Erwin Wu (Tokyo Institute of Technology), Hideaki Kuzuoka (University of Tsukuba), Naomi Yamashita (NTT), Hideki Koike (Tokyo Institute of Technology)_</br>
 
 ### Paper: Dead Angles of Personalization: Integrating Curation Algorithms in the Fabric of Design.</br>
 Nolwenn Maudet (Tokyo University)</br>
 
-### Paper: BlocKit: A Physical Kit for Materializing and Designing for Blockchain Infrastructure.</br>
-Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster University), Chris Speed (University of Edinburgh)</br>
+__Paper: BlocKit: A Physical Kit for Materializing and Designing for Blockchain Infrastructure__</br>
+_Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster University), Chris Speed (University of Edinburgh)_</br>
 </br>
 
 # Panel
 ## Friday, June 28, 11:00 AM – 12:30 PM
-### Panel: Topic TBD
+__Panel: Topic TBD__
 </br>
 </br>
 
 # Session 28: Civic and Urban Spaces
 ## Friday, June 28, 2:00 PM – 3:30 PM
-### Paper: Towards a Design Framework for Trust in Digital Civics.</br>
-Eric Corbett (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)</br>
+__Paper: Towards a Design Framework for Trust in Digital Civics__</br>
+_Eric Corbett (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
-### Paper: Roam-IO: Engaging With People Tracking Data through an Interactive Physical Data Installation.</br>
-Steven Houben (Lancaster University), Ben Bengler (IXDS), Daniel Gavrilov (University College London), Sarah Gallacher (Arup), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon), Licia Capra (University College London (UCL), Yvonne Rogers (UCL Interaction Centre)</br>
+__Paper: Roam-IO: Engaging With People Tracking Data through an Interactive Physical Data Installation__</br>
+_Steven Houben (Lancaster University), Ben Bengler (IXDS), Daniel Gavrilov (University College London), Sarah Gallacher (Arup), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon), Licia Capra (University College London (UCL), Yvonne Rogers (UCL Interaction Centre)_</br>
 
-### Paper: The Civic Data Deluge: Understanding the Challenges of Analyzing Large-Scale Community Input.</br>
-Narges Mahyar (University of Massachusetts Amherst), Diana Nguyen (UC San Diego), Maggie Chan (UC San Diego), Jiayi Zheng (UC San Diego), Steven Dow (University of California, San Diego)</br>
+__Paper: The Civic Data Deluge: Understanding the Challenges of Analyzing Large-Scale Community Input__</br>
+_Narges Mahyar (University of Massachusetts Amherst), Diana Nguyen (UC San Diego), Maggie Chan (UC San Diego), Jiayi Zheng (UC San Diego), Steven Dow (University of California, San Diego)_</br>
 
-### Paper: Flowing Bodies: Exploring the Micro and Macro Scales of Bodily Interactions With Urban Media Installations.</br>
-Andre Afonso (UCL), Ecem Ergin (1989), Ava Fatah gen. Schieck (UCL)</br>
+__Paper: Flowing Bodies: Exploring the Micro and Macro Scales of Bodily Interactions With Urban Media Installations__</br>
+_Andre Afonso (UCL), Ecem Ergin (1989), Ava Fatah gen. Schieck (UCL)_</br>
 </br>
 
 # Session 29: Connections with Nature
 ## Friday, June 28, 2:00 PM – 3:30 PM
-### Paper: Designing with Waste: A Situated Inquiry into the Material Excess of Making. </br>
-Kristin Dew (University of Washington), Daniela Rosner (University of Washington)</br>
+__Paper: Designing with Waste: A Situated Inquiry into the Material Excess of Making__ </br>
+_Kristin Dew (University of Washington), Daniela Rosner (University of Washington)_</br>
 
-### Paper: LiveNature: An Ambient Display with a Social Robot Facilitated Multi-Sensory Engagement for People with Dementia.</br>
-Yuan Feng (Eindhoven University of Technology), Suihuai Yu (Northwestern Polytechnical University), Dirk van de Mortel (Eindhoven University of Technology), Emilia Barakova (Eindhoven University of Technology), Jun Hu (Eindhoven University of Technology), Matthias Rauterberg (Eindhoven University of Technology)</br>
+__Paper: LiveNature: An Ambient Display with a Social Robot Facilitated Multi-Sensory Engagement for People with Dementia__</br>
+_Yuan Feng (Eindhoven University of Technology), Suihuai Yu (Northwestern Polytechnical University), Dirk van de Mortel (Eindhoven University of Technology), Emilia Barakova (Eindhoven University of Technology), Jun Hu (Eindhoven University of Technology), Matthias Rauterberg (Eindhoven University of Technology)_</br>
 
-### Paper: Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team.</br> 
-Jessica L Oliver (Queensland University of Technology), Margot Brereton (Queensland University of Technology), David M Watson (Charles Sturt University), Paul Roe (Queensland University of Technology)</br>
+__Paper: Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team__</br> 
+_Jessica L Oliver (Queensland University of Technology), Margot Brereton (Queensland University of Technology), David M Watson (Charles Sturt University), Paul Roe (Queensland University of Technology)_</br>
 
-### Pictorial: Our Symbiotic Life - An Exploration of Interspecies Relations.</br>
-Katja Budinger (University of Applied Science), Frank Heidmann (University of Applied Sciences Potsdam)</br>
+__Pictorial: Our Symbiotic Life - An Exploration of Interspecies Relations__</br>
+_Katja Budinger (University of Applied Science), Frank Heidmann (University of Applied Sciences Potsdam)_</br>
 </br>
 
 # Session 30: Data
 ## Friday, June 28, 2:00 PM – 3:30 PM
-### Paper: Keeping and Discarding Personal Data: Exploring a Design Space.</br>
-Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)</br>
+__Paper: Keeping and Discarding Personal Data: Exploring a Design Space__</br>
+_Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)_</br>
 
-### Paper: Towards Affective Chronometry: Exploring Smart Materials and Actuators for Real-Time Representation of Changes in Arousal.</br>
-Muhammad Umair (Lancaster University), Corina Sas (Lancaster University), Muhammad Hamza Latif (Lancaster University)</br>
+__Paper: Towards Affective Chronometry: Exploring Smart Materials and Actuators for Real-Time Representation of Changes in Arousal__</br>
+_Muhammad Umair (Lancaster University), Corina Sas (Lancaster University), Muhammad Hamza Latif (Lancaster University)_</br>
 
-### Paper: Predictive Prototyping for Real-World Applications.</br>
-Dieter Wallach (Ergosign GmbH), Sven Fackert,Vladimir Albach (Ergosign GmbH)</br>
+__Paper: Predictive Prototyping for Real-World Applications__</br>
+_Dieter Wallach (Ergosign GmbH), Sven Fackert,Vladimir Albach (Ergosign GmbH)_</br>
 
-### Paper: Feeding the World with Data: Visions of Data-Driven Farming. </br>
-Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI), Norman Su (Indiana University)</br>
+__Paper: Feeding the World with Data: Visions of Data-Driven Farming__ </br>
+_Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI), Norman Su (Indiana University)_</br>
 </br>
 
 # Session 31: HCl4D
 ## Friday, June 28, 2:00 PM – 3:30 PM
-### Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field.</br>
-Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)</br>
+__Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
+_Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)_</br>
 
-### Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative Futures.</br>
-Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz</br>
+__Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative Futures__</br>
+_Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz_</br>
 
-### Paper: Exploring Rural Community Practices in HIV Management for the Design of Technology.</br>
-Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM Research Africa), Sekou Remy, Aisha Walcott (IBM Research Africa)</br>
+__Paper: Exploring Rural Community Practices in HIV Management for the Design of Technology__</br>
+_Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM Research Africa), Sekou Remy, Aisha Walcott (IBM Research Africa)_</br>
 </br>
