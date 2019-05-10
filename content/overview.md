@@ -352,32 +352,32 @@ _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of
 
 # Session 24: Conversational Agents
 ## Friday, June 28, 8:30 AM – 10:30 AM
-### Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis.</br>
-Jan-Frederik Kassel (Volkswagen Group), Michael Rohs (University of Hannover)</br>
+__Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis__</br>
+_Jan-Frederik Kassel (Volkswagen Group), Michael Rohs (University of Hannover)_</br>
 
-### Paper: Designing a Voice Assistant for the Scientific Lab Workplace.</br>
-Chinmay Kulkarni (Carnegie Mellon University), Julia Cambre (Carnegie Mellon University), Ying Liu (Carnegie Mellon University), Rebecca Taylor (Carnegie Mellon University)</br>
+__Paper: Designing a Voice Assistant for the Scientific Lab Workplace__</br>
+_Chinmay Kulkarni (Carnegie Mellon University), Julia Cambre (Carnegie Mellon University), Ying Liu (Carnegie Mellon University), Rebecca Taylor (Carnegie Mellon University)_</br>
 
-### Paper: Exploring Interaction with Remote Autonomous Systems Using Conversational Agents.</br>
-David Robb (Heriot-Watt University), José David Lopes (Heriot Watt University), Stefano Padilla (Heriot-Watt University), Atanas Laskov (SeeByte Ltd), Francisco Chiyah Garcia (Heriot-Watt University), Xingkun Liu (Heriot-Watt University), Jonatan Scharff Willners (Institute of Sensors, Signals and Systems), Nicolas Valeyrie (Hydrason Solutions), Katrin Lohan (Heriot-Watt University), David Lane (Heriot-Watt University)</br>
+__Paper: Exploring Interaction with Remote Autonomous Systems Using Conversational Agents__</br>
+_David Robb (Heriot-Watt University), José David Lopes (Heriot Watt University), Stefano Padilla (Heriot-Watt University), Atanas Laskov (SeeByte Ltd), Francisco Chiyah Garcia (Heriot-Watt University), Xingkun Liu (Heriot-Watt University), Jonatan Scharff Willners (Institute of Sensors, Signals and Systems), Nicolas Valeyrie (Hydrason Solutions), Katrin Lohan (Heriot-Watt University), David Lane (Heriot-Watt University)_</br>
 
-### Paper: Once a Kind Friend is Now a Thing: Understanding How Conversational Agents at Home are Forgotten.</br>
-Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic University)</br>
+__Paper: Once a Kind Friend is Now a Thing: Understanding How Conversational Agents at Home are Forgotten__</br>
+_Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic University)_</br>
 </br>
 
 # Session 25: Mobile Devices
 ## Friday, June 28, 11:00 AM – 12:30 PM
-### Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device.</br>
-Cagan Arslan (Université de Lille), Yosra Rekik (Université Polytechnique Hauts-de-France), Laurent Grisoni (University of Lille 1- Science and Technology, CNRS, INRIA Lille). </br>
+__Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device__</br>
+_Cagan Arslan (Université de Lille), Yosra Rekik (Université Polytechnique Hauts-de-France), Laurent Grisoni (University of Lille 1- Science and Technology, CNRS, INRIA Lille)_</br>
 
-### Paper: Mobile Devices in Programming Contexts: A Review of the Design Space and Processes.</br>
-SRM_Poorna Talkad Sukumar (University of Notre Dame), Ronald Metoyer (University of Notre Dame)</br>
+__Paper: Mobile Devices in Programming Contexts: A Review of the Design Space and Processes__</br>
+_SRM_Poorna Talkad Sukumar (University of Notre Dame), Ronald Metoyer (University of Notre Dame)_</br>
 
-### Paper: Monomizo: A Tangible Desktop Artifact Providing Schedules from E-ink Screen to Paper.</br>
-Sangsu Jang (UNIST), Subin Kim (UNIST), Boram Noh (UNIST), Young-Woo Park (UNIST)</br>
+__Paper: Monomizo: A Tangible Desktop Artifact Providing Schedules from E-ink Screen to Paper__</br>
+_Sangsu Jang (UNIST), Subin Kim (UNIST), Boram Noh (UNIST), Young-Woo Park (UNIST)_</br>
 
-### Paper: Mobile Realities: Designing for the Medium of Smartphone-VR.</br>
-Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elsharawy (Ryerson University), Alexander Verni (Ryerson University), Tudor Tibu (Ryerson University), Marko Bilic (Ryerson University), Alexander Bakogeorge (Ryerson University), Ali Mazalek (Ryerson University)</br>
+__Paper: Mobile Realities: Designing for the Medium of Smartphone-VR__</br>
+_Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elsharawy (Ryerson University), Alexander Verni (Ryerson University), Tudor Tibu (Ryerson University), Marko Bilic (Ryerson University), Alexander Bakogeorge (Ryerson University), Ali Mazalek (Ryerson University)_</br>
 </br>
 
 # Session 26: Well-Being
