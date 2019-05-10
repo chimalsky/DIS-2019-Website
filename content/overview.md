@@ -403,8 +403,8 @@ _Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuv
 __Paper: OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication__</br>
 _Zhengqing Li (Tokyo Institute of Technology), Shio Miyafuji (Tokyo Institute of Technology), Erwin Wu (Tokyo Institute of Technology), Hideaki Kuzuoka (University of Tsukuba), Naomi Yamashita (NTT), Hideki Koike (Tokyo Institute of Technology)_</br>
 
-### Paper: Dead Angles of Personalization: Integrating Curation Algorithms in the Fabric of Design.</br>
-Nolwenn Maudet (Tokyo University)</br>
+__Paper: Dead Angles of Personalization: Integrating Curation Algorithms in the Fabric of Design__</br>
+_Nolwenn Maudet (Tokyo University)_</br>
 
 __Paper: BlocKit: A Physical Kit for Materializing and Designing for Blockchain Infrastructure__</br>
 _Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster University), Chris Speed (University of Edinburgh)_</br>
