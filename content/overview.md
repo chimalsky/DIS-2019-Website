@@ -52,8 +52,8 @@ _Josh Andres (IBM Research Australia), Tuomas Kari (University of Jyväskylä), 
 __Paper: Chasing Play Potentials: Towards an Increasingly Situated and Emergent Approach to Everyday Play Design__</br>
 _Ferran Altarriba Bertran (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Jared Duval (University of California Santa Cruz), Jared Duval (University of California Santa Cruz)_</br>
 
-__Paper: Taste Your Emotions: An Exploration of the Relationship between Taste and Emotional Experience for HCI_</br>
-_Thomas Gayler (Lancaster University), Corina Sas (Lancaster University), Vaiva Kalnikaitė (Dovetailed Ltd.)__</br>
+__Paper: Taste Your Emotions: An Exploration of the Relationship between Taste and Emotional Experience for HCI__</br>
+_Thomas Gayler (Lancaster University), Corina Sas (Lancaster University), Vaiva Kalnikaitė (Dovetailed Ltd.)_</br>
 
 __Pictorial: Play Poles: Towards IoT Resources for Outdoor Play__</br>
 _Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University), Gavin Wood (Northumbria University), Sena Çerçi (Northumbria University), Denise Downey (The Cedarwood Trust), Jonny Scott (The Cedarwood Trust), John Vines (Northumbria University), Shaun Lawson (Northumbria University)_</br>
