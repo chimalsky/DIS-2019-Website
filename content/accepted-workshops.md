@@ -14,7 +14,7 @@ __W1: [Distributed Creativity in Play](https://wdcip.gitlab.io)__ [Open Registra
 __W2: [Crowd-powered Interfaces for Creative Design Thinking](https://creativity-workshops.github.io/cc19/)__ [Open Registration] </br> 
  *Jonas Oppenlaender, Halil Erhan, Naghmi Shireen, Jorge Goncalves, Maximilian Mackeprang, Simo Hosio* </br> 
 
-__W3: Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition?__ [Open Registration]</br> 
+__W3: [Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition?](http://srl.tamu.edu/sccw2019)__ [Open Registration]</br> 
 *Tracy Hammond* </br> </br>
 
 # DIS Workshops </br> 
