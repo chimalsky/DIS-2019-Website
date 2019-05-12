@@ -2,11 +2,11 @@
 title: "Presenters: How to Deliver an Inclusive Presentation"
 ---
 
-The DIS/C&C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a presenter, there are steps you can take to ensure that your message can be heard and understood by the widest possible audience. The following guidelines draw from and extend Kyle Rector’s Accessible Presentation Guide. Please refer there for more details.</br> 
+The DIS/C&C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a presenter, there are steps you can take to ensure that your message can be heard and understood by the widest possible audience. The following guidelines draw from and extend Kyle Rector’s [Accessible Presentation Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-presentation-guide/). Please refer there for more details.</br> 
 
 __When designing your slides, please:__
 - use large font (size 30+) and high color contrast.
-- check that slides are suitable for color blind audience members. Consider using a simulator like Colblinder.
+- check that slides are suitable for color blind audience members. Consider using a simulator like [Colblinder](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 - include captions in videos for deaf and hard of hearing members.
 </br> 
 
@@ -22,10 +22,7 @@ __When presenting your slides to the audience, please:__
 
 If you have any questions or concerns about accessibility, please feel free to reach out to this year’s Accessibility and Diversity Chairs:</br> 
 
-Stacy Branham & Foad Hamidi</br> 
-accessibilitychair@dis2019.acm.org</br> 
-accessibility2019@cc.acm.org</br> 
-
-
-
+Stacy Branham & Foad Hamidi </br> 
+[accessibilitychair@dis2019.acm.org](mailto:accessibilitychair@dis2019.acm.org) </br> 
+[accessibility2019@cc.acm.org](mailto:accessibility2019@cc.acm.org)</br> 
 
