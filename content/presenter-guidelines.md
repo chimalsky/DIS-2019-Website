@@ -7,8 +7,8 @@ The DIS/C&C conferences are becoming increasingly diverse, with attendees from a
 __When designing your slides, please:__
 - use large font (size 30+) and high color contrast.
 - check that slides are suitable for color blind audience members. Consider using a simulator like [Colblinder](https://www.color-blindness.com/coblis-color-blindness-simulator/).
-- include captions in videos for deaf and hard of hearing members.
-</br> 
+- include captions in videos for deaf and hard of hearing members.</br> 
+
 __When presenting your slides to the audience, please:__
 - warn the audience if you will be presenting violent or sensitive content in your talk.
 - speak clearly into the microphone. Please test and adjust before you begin. Be careful not to turn your head away as you speak when, for example, referring to the projection.
