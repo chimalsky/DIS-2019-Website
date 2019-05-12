@@ -425,16 +425,28 @@ enableGitInfo = false
   weight = 2
   parent = "attending"
   
+ [[menu.main]]  
+  name = "Presenter Inclusivity Guidelines"
+  url = "/presenter-guidelines"
+  weight = 3
+  parent = "attending"
+  
+ [[menu.main]]  
+  name = "Session Chair Inclusivity Guidelines"
+  url = "/sc-guidelines"
+  weight = 4
+  parent = "attending"
+  
 [[menu.main]]  
   name = "Diversity and Inclusion Statement"
   url = "/diversity"
-  weight = 3
+  weight = 5
   parent = "attending"
   
   [[menu.main]]  
   name = "SV Application"
   url = "/sv"
-  weight = 4
+  weight = 6
   parent = "attending"
 
 [sitemap]
