@@ -1,6 +1,6 @@
-------
-Session Chairs: How to Run an Inclusive Session
------
+---
+title: "Session Chairs: How to Run an Inclusive Session"
+---
 
 The DIS/C&C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a session chair, there are steps you can take to ensure that the session for which you are responsible is as inclusive as possible for attendees. The following guidelines complement Emory Berger’s Guide for Session Chairs towards promoting increased knowledge sharing and engagement of all our community members. These guidelines are derived in part from the Accessible Conference Guide.
 
