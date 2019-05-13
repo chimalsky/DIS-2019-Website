@@ -58,11 +58,7 @@ Workshops  Proposals Due: January 18, 2019 (23:59 PST)  Notifications: March 8, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/registration/</guid>
-      <description>Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.
-Register Now  
-Full Conference Registration (All fees are in USD)
-   &amp;nbsp; Early Bird
-(ends May 13) Regular Rate</description>
+      <description>We have been having some problems with the registration website that sticks people who are ACM members in a loop, unable to complete their registration. Technical staff are working on the problem. Until then this seems to address the problem for most people: Reset your acm password and then switch to a private window. Login again to your ACM account. Then return to the registration process. If that does not work, please contact our registration chairs who will complete your registration for you.</description>
     </item>
     
     <item>
@@ -183,7 +179,7 @@ Pictorials are not full papers. A good Pictorial requires precision and contextu
       
       <guid>/presenter-guidelines/</guid>
       <description>The DIS/C&amp;amp;C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a presenter, there are steps you can take to ensure that your message can be heard and understood by the widest possible audience. The following guidelines draw from and extend Kyle Rector’s Accessible Presentation Guide. Please refer there for more details.
-When designing your slides, please: - use large font (size 30+) and high color contrast.</description>
+When designing your slides, please: * use large font (size 30+) and high color contrast.</description>
     </item>
     
     <item>
