@@ -3,15 +3,12 @@
 title: "Conference Registration"
 ---
 
-### We have been having some problems with the registration website that sticks people who are ACM members in a loop, unable to complete their registration.  Technical staff are working on the problem. Until then this seems to address the problem for most people:
-
-### Reset your acm password and then switch to a private window. Login again to your ACM account.  Then return to the registration process.
-
-### If that does not work, please contact our registration chairs who will complete your registration for you.
- 
-</br> 
-
 Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.   
+
+### PLEASE NOTE: </br> 
+### We have been having some problems with the registration website that sticks people who are ACM members in a loop, unable to complete their registration.  Technical staff are working on the problem. Until then this seems to address the problem for most people: </br> 
+### Reset your acm password and then switch to a private window. Login again to your ACM account.  Then return to the registration process.</br> 
+### If that does not work, please contact our registration chairs who will complete your registration for you. </br> 
 
 __[Register Now](http://www.cvent.com/d/nbq2yk/4W)__ </br> </br> 
 
