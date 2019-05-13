@@ -8,8 +8,7 @@ title: "Conference Registration"
 ### Reset your acm password and then switch to a private window. Login again to your ACM account.  Then return to the registration process.
 
 ### If that does not work, please contact our registration chairs who will complete your registration for you.
-
-</br> 
+ 
 </br> 
 
 Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.   
