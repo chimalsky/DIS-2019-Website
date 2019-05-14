@@ -272,7 +272,7 @@ __Paper: Sensorstation: Exploring Simple Sensor Data in the Context of a Shared 
 _Teresa Denefleh (Chemnitz University of Technology), Arne Berger (Chemnitz University of Technology), Albrecht Kurze (Chemnitz University of Technology), Andreas Bischof (Chemnitz University of Technology), Christopher Frauenberger (TU Wien)_</br>
 
 __Paper: Bespoke Booklets: A Method for Situated Co-Speculation__</br>
-_Audrey Desjardins (University of Washington), Heidi R. Biggs (University of Washington), Cayla Key (University of Washington), Kelsey Aschenbeck (University of Washington)_</br>
+_Audrey Desjardins (University of Washington), Cayla Key (University of Washington), Heidi R. Biggs (University of Washington), Kelsey Aschenbeck (University of Washington)_</br>
 
 __Paper: Astral: Prototyping Mobile and Smart Object Interactive Behaviours Using Familiar Applications__</br>
 _David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh Carpendale (University of Calgary), Saul Greenberg (University of Calgary), Lora Oehlberg (University of Calgary), Sebastian Boring (University of Copenhagen)_</br>
