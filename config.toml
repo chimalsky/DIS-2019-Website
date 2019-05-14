@@ -437,16 +437,22 @@ enableGitInfo = false
   weight = 4
   parent = "attending"
   
+  [[menu.main]]  
+  name = "DIS and C&C Accessibility FAQ"
+  url = "/accessibility-faq"
+  weight = 5
+  parent = "attending"
+  
 [[menu.main]]  
   name = "Diversity and Inclusion Statement"
   url = "/diversity"
-  weight = 5
+  weight = 6
   parent = "attending"
   
   [[menu.main]]  
   name = "SV Application"
   url = "/sv"
-  weight = 6
+  weight = 7
   parent = "attending"
 
 [sitemap]
