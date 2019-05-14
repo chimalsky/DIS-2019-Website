@@ -63,6 +63,12 @@
   </url>
   
   <url>
+    <loc>/accessibility-faq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/diversity/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
