@@ -4,6 +4,8 @@ title: "Session Chairs: How to Run an Inclusive Session"
 
 The DIS/C&C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a session chair, there are steps you can take to ensure that the session for which you are responsible is as inclusive as possible for attendees. The following guidelines complement Emory Berger’s [Guide for Session Chairs](https://emeryblogger.com/2016/06/08/a-guide-for-session-chairs/) towards promoting increased knowledge sharing and engagement of all our community members. These guidelines are derived in part from the [Accessible Conference Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide-version-1-0/#conference).</br> 
 
+Please see the [DIS and C&C Accessibility FAQ](https://dis2019.com/accessibility-faq/) for more details. </br> 
+
 * In advance of the session, please ask presenters to review the [Accessible Presentation Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-presentation-guide/).
 In preparation for introducing the presenter, ask the author what pronouns they use, to avoid misgendering. Also ask how to properly pronounce their name.</br> 
 * Ensure that aisleways are kept clear and that there is room to seat wheelchair users.
