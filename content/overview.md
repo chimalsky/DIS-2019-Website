@@ -127,14 +127,13 @@ _Nick Merrill (University of California, Berkeley), John Chuang (University of C
 
 __Pictorial: Judgment Call The Game: Using Design Fiction To Surface Ethical Concerns Related to Technology__</br>
 _Stephanie Ballard (University of Washington), Karen Chappell (Microsoft Corporation), Kristen Kennedy (Microsoft Corporation)_ </br>
-</br>
 
 __Paper: A Design Approach Towards Affording the Trend of Privacy__</br>
 _Daphne Muller (University of Technology Eindhoven), Pierre Levy (Eindhoven University of Technology)_</br>
 
 __Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis and Automated Decision-Making__</br>
 _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
-
+</br>
 
 # Track 1: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
@@ -335,11 +334,11 @@ _Karey Helms (KTH Royal Institute of Technology)_</br>
 
 __Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children__</br>
 _Elena Marquez Segura (Uppsala University), Laia Turmo Vidal (Uppsala University), Luis Parrilla Bel (Uppsala University), Annika Waern (Dept of Informatics and Media)_</br>
-</br>
+
 
 __Paper: Teaching Soma Design__</br>
 _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Institute of Technology (KTH)), Anna Ståhl (RISE, Research Institutes of Sweden), Pedro Sanches (KTH), Charles Windlin (KTH Royal Institute of Technology), Pavel Karpashevich (KTH), Kristina Höök (KTH)_</br>
-
+</br>
 
 # Track 3: Diversity 
 ## Friday, June 28, 8:30 – 10:30 AM
