@@ -45,7 +45,7 @@ _Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fr
 </br>
 
 # Track 2: Well-Being
-## Friday, June 28, 2:00 PM – 3:30 PM
+## Wednesday, June 26, 2:00 PM – 3:30 PM
 __Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data__</br>
 _Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)_</br>
 
