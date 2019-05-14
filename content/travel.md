@@ -36,8 +36,9 @@ Attendees may also find accommodation through [AirBnB](https://www.airbnb.com/s/
 </br>
 
 # Getting Around
+The Hyatt Regency is most easily accessed by car, but can also be accessed by bus. </br> 
 
-The Hyatt Regency is most easily accessed by car, but can also be accessed by bus.
+Attendees who need a wheelchair lift can use the [SuperShuttle](https://www.supershuttle.com/) service (Price: ~$56. Phone: (800) 974-8885) to get from the airport to the hotel or from the hotel to the airport. San Diego Uber also has the WAV wheelchair (WAV ~$16) options.</br> 
 
 ### Car Rentals
 The Hyatt Regency offers on-property car rentals; call the hotel concierge for details. The airport also hosts a number of car rental companies; [see here](http://www.san.org/Parking-Transportation/Rental-Cars%E2%80%9D) for more information.
@@ -51,8 +52,16 @@ The [MTS Bus 8](https://www.sdmts.com/schedules-real-time?fragment=8#section-mai
 </br>
 
 # Near the Hotel
-
 There are a number of restaurants and activities walking distance from the Hyatt Regency.
+
+### Accessible activities around San Diego
+- [Jas Arnold Trail for All People](https://www.sandiego.gov/park-and-recreation/parks/trail-for-all-people): Connect with the outdoors and enjoy some fresh air by visiting the 1,100 feet of ADA accessible trail.  </br>
+- [San Diego Air and Space Museum](http://sandiegoairandspace.org): Spend a day learning about aviation history. The museum contains many retired aircraft and technologies. The museum is totally accessible.  </br>
+- [Wheelchair friendly beaches](https://www.sandiego.org/articles/accessible/beach-wheelchairs-san-diego-beaches.aspx): These beach offer and access mats, sand beach chairs, and floating beach chairs. </br>
+- [Accessible Tours and Sightseeing](https://www.sandiego.org/articles/accessible/tours-sightseeing.aspx): Include Luxury yacht tours, old town trolley tours, and seals.  </br>
+Please see the following site for more fun [accessible activities in San Diego](https://www.sandiego.org/plan/visitors-information-services/accessible-traveling.aspx). </br>  </br>
+
+[For additional accessible points of interests refer to this site](https://www.sandiego.org/plan/visitors-information-services/accessible-traveling.aspx). </br> 
 
 ### Restaurants
 - [Red Marlin](https://www.hyatt.com/gallery/redmarlin/index.html%E2%80%9D) (in the Hyatt Regency) </br>
