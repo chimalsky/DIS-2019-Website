@@ -38,6 +38,7 @@ Attendees may also find accommodation through [AirBnB](https://www.airbnb.com/s/
 # Getting Around
 The Hyatt Regency is most easily accessed by car, but can also be accessed by bus. </br> 
 
+### Accessible Transportation
 Attendees who need a wheelchair lift can use the [SuperShuttle](https://www.supershuttle.com/) service (Price: ~$56. Phone: (800) 974-8885) to get from the airport to the hotel or from the hotel to the airport. San Diego Uber also has the WAV wheelchair (WAV ~$16) options.</br> 
 
 ### Car Rentals
