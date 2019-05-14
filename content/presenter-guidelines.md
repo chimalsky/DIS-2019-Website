@@ -4,6 +4,8 @@ title: "Presenters: How to Deliver an Inclusive Presentation"
 
 The DIS/C&C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a presenter, there are steps you can take to ensure that your message can be heard and understood by the widest possible audience. The following guidelines draw from and extend Kyle Rector’s [Accessible Presentation Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-presentation-guide/). Please refer there for more details.</br> 
 
+Please see the [DIS and C&C Accessibility FAQ](https://dis2019.com/accessibility-faq/) for more details. </br> 
+
 ## When designing your slides, please:
 * use large font (size 30+) and high color contrast.</br> 
 * check that slides are suitable for color blind audience members. Consider using a simulator like [Colblinder](https://www.color-blindness.com/coblis-color-blindness-simulator/).</br> 
