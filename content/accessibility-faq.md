@@ -1,5 +1,5 @@
 ---
-title: "DIS and C&C accessibility  FAQ"
+title: "DIS and C&C Accessibility  FAQ"
 ---
 
 
