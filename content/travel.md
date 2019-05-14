@@ -59,7 +59,7 @@ There are a number of restaurants and activities walking distance from the Hyatt
 - [San Diego Air and Space Museum](http://sandiegoairandspace.org): Spend a day learning about aviation history. The museum contains many retired aircraft and technologies. The museum is totally accessible.  </br>
 - [Wheelchair friendly beaches](https://www.sandiego.org/articles/accessible/beach-wheelchairs-san-diego-beaches.aspx): These beach offer and access mats, sand beach chairs, and floating beach chairs. </br>
 - [Accessible Tours and Sightseeing](https://www.sandiego.org/articles/accessible/tours-sightseeing.aspx): Include Luxury yacht tours, old town trolley tours, and seals.  </br>
-Please see the following site for more fun [accessible activities in San Diego](https://www.sandiego.org/plan/visitors-information-services/accessible-traveling.aspx). </br>  </br>
+Please see the following site for more fun [accessible activities in San Diego](https://www.sandiego.org/plan/visitors-information-services/accessible-traveling.aspx). </br> 
 
 [For additional accessible points of interests refer to this site](https://www.sandiego.org/plan/visitors-information-services/accessible-traveling.aspx). </br> 
 
