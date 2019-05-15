@@ -58,7 +58,11 @@ Workshops  Proposals Due: January 18, 2019 (23:59 PST)  Notifications: March 8, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/registration/</guid>
-      <description>We have been having some problems with the registration website that sticks people who are ACM members in a loop, unable to complete their registration. Technical staff are working on the problem. Until then this seems to address the problem for most people: Reset your acm password and then switch to a private window. Login again to your ACM account. Then return to the registration process. If that does not work, please contact our registration chairs who will complete your registration for you.</description>
+      <description>Attendees can register for one or the other conference individually, or for a significant discount, attendees can go to both conferences by selecting a joint registration. One-day passes provide another option. Workshop fees are additional to conference registration; Workshop attendees must register for at least one day of the conference.
+Register Now  
+Full Conference Registration (All fees are in USD)
+   &amp;nbsp; Early Bird
+(ends May 17) Regular Rate</description>
     </item>
     
     <item>
@@ -77,7 +81,7 @@ Abstract: Many researchers and evangelists argue that V.R. is fundamentally more
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/overview/</guid>
-      <description>Session 1: Stories and Narratives Wednesday, June 26, 11 AM – 12:30 PM Paper: The Stories People Tell About the Home Through IoT Toolkits Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT) 
+      <description>Track 2: Stories and Narratives Wednesday, June 26, 11 AM – 12:30 PM Paper: The Stories People Tell About the Home Through IoT Toolkits Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT) 
 Paper: Turker Tales: Integrating Tangential Play into Crowd Work Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)</description>
     </item>
     
@@ -88,6 +92,16 @@ Paper: Turker Tales: Integrating Tangential Play into Crowd Work Anna Kasunic (C
       
       <guid>/steering/</guid>
       <description>Steve Harrison, Virginia Tech (Chair)  Shaowen Bardzell, Indiana University  Jack Carroll, Penn State University  Marcus Foth, Queensland University of Technology Brisbane  Kim Halskov, Aarhus University  Wendy Ju, Cornell Tech  Youn-kyung Lim, Korea Advanced Institute of Science and Technology  Ron Wakkary, Simon Fraser University  Peter Wright, Newcastle University</description>
+    </item>
+    
+    <item>
+      <title>DIS and C&amp;C Accessibility  FAQ</title>
+      <link>/accessibility-faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/accessibility-faq/</guid>
+      <description>How do I communicate accessibility needs to DIS and C&amp;amp;C organizers? Please identify any accommodations you may need at the time of registration through the registration form under the question “Do you have a disability?” If you have additional needs not specified in your registration, please contact the Accessibility Chairs, Stacy Branham and Foad Hamidi, as soon as possible at accessibilitychair@dis2019.acm.org or accessibilitychair@dis2019.acm.org.
+ Who do I ask if my question is not answered here?</description>
     </item>
     
     <item>
@@ -179,7 +193,7 @@ Pictorials are not full papers. A good Pictorial requires precision and contextu
       
       <guid>/presenter-guidelines/</guid>
       <description>The DIS/C&amp;amp;C conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a presenter, there are steps you can take to ensure that your message can be heard and understood by the widest possible audience. The following guidelines draw from and extend Kyle Rector’s Accessible Presentation Guide. Please refer there for more details.
-When designing your slides, please:  use large font (size 30+) and high color contrast.</description>
+Please see the DIS and C&amp;amp;C Accessibility FAQ for more details.</description>
     </item>
     
     <item>
