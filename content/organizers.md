@@ -95,6 +95,8 @@ Chih-Sheng Su, Anicia Peters, Nicolai Hansen & Sabrina Hauser <br/>
 ![alt text](/img/organizers/Irani-Lilly.jpg "Lilly Irani")
 ![alt text](/img/organizers/Kellogg-Wendy.jpg "Wendy Kellogg")
 ![alt text](/img/organizers/Thomas-John.jpg "John Thomas")
+![alt_text](/img/organizers/Inie-Nanna.jpg "Nanna Inie")
+![alt_text](/img/organizers/Fox-Amy.jpg "Amy Fox")
 
 Lilly Irani, Wendy Kellogg & John Thomas <br/>
 [localchairs [at] dis2019.acm.org](mailto:localchairs@dis2019.acm.org)  
