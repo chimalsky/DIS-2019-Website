@@ -364,7 +364,7 @@ __Paper: Designing a Voice Assistant for the Scientific Lab Workplace__</br>
 _Chinmay Kulkarni (Carnegie Mellon University), Julia Cambre (Carnegie Mellon University), Ying Liu (Carnegie Mellon University), Rebecca Taylor (Carnegie Mellon University)_</br>
 
 __Paper: Exploring Interaction with Remote Autonomous Systems Using Conversational Agents__</br>
-_David Robb (Heriot-Watt University), José David Lopes (Heriot Watt University), Stefano Padilla (Heriot-Watt University), Atanas Laskov (SeeByte Ltd), Francisco Chiyah Garcia (Heriot-Watt University), Xingkun Liu (Heriot-Watt University), Jonatan Scharff Willners (Institute of Sensors, Signals and Systems), Nicolas Valeyrie (Hydrason Solutions), Katrin Lohan (Heriot-Watt University), David Lane (Heriot-Watt University)_</br>
+_David Robb (Heriot-Watt University), José David Lopes (Heriot Watt University), Stefano Padilla (Heriot-Watt University), Atanas Laskov (SeeByte Ltd), Francisco Chiyah Garcia (Heriot-Watt University), Xingkun Liu (Heriot-Watt University), Jonatan Scharff Willners (Heriot-Watt University), Nicolas Valeyrie (Hydrason Solutions), Katrin Lohan (Heriot-Watt University), David Lane (Heriot-Watt University), Pedro Patron (SeeByte Ltd), Yvan Petillot (Heriot-Watt University), Mike Chantler (Heriot-Watt University), Helen Hastie (Heriot-Watt University)_</br>
 
 __Paper: Once a Kind Friend is Now a Thing: Understanding How Conversational Agents at Home are Forgotten__</br>
 _Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic University)_</br>
