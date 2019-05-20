@@ -281,13 +281,13 @@ _David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh 
 # Track 3: Education
 ## Thursday, June 27, 4:00 PM – 5:30 PM
 __Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit__</br>
-_Joyce Ma (The Exploratorium), 	Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)_</br>
+_Joyce Ma (The Exploratorium), Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)_</br>
 
 __Paper: Exploring the Intersection of Emotional Literacy and Computational Modeling Using Scratch__</br>
 _Ralph Vacca (Fordham University)_</br>
 
 __Paper: How Peripheral Data Visualisation System Support High School Teachers During VLE-Supported Lessons__</br>
-_Bernice dAnjou (University of Technology Eindhoven)_</br>
+_Bernice d’Anjou (University of Technology Eindhoven), Saskia Bakker (University of Technology Eindhoven), Pengcheng An (University of Technology Eindhoven) and Tilde Bekker (University of Technology Eindhoven)_</br>
 
 __Paper: Design in the HCI Classroom: Setting a Research Agenda__</br>
 _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology), Qiaosi Wang (Georgia Institute of Technology)_</br>
