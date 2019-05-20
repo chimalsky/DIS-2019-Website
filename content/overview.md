@@ -107,8 +107,8 @@ _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Wash
 
 # Track 3: Identity and Expression
 ## Wednesday, June 26, 4:00 – 5:30 PM
-__Paper: Designing for Ballet Classes: Identifying and Mitigating Communication Challenges Between Dancers and Teachers__</br>
-_Milka Trajkova, Francesco Cafaro, Lynn Dombrowski_</br>
+__Paper: Exploring the Design of Social VR Experiences with Older Adults__</br>
+_Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)_</br>
 
 __Paper: Devising Interactive Theatre: Trajectories of Performance, Choreography and Interaction Design__</br>
 _Andrew Johnston (University of Technology Sydney)_</br>
@@ -116,8 +116,8 @@ _Andrew Johnston (University of Technology Sydney)_</br>
 __Paper: Examining Interdependencies and Constraints in Co-Creation__</br>
 _Bran Knowles (Lancaster University), Christopher Bull (Lancaster University), Nigel Davies (Lancaster University), Will Simm (Lancaster University), Oliver Bates (Lancaster University), Niall Hayes (Lancaster University)_</br>
 
-__Paper: Exploring the Design of Social VR Experiences with Older Adults__</br>
-_Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)_</br>
+__Paper: Designing for Ballet Classes: Identifying and Mitigating Communication Challenges Between Dancers and Teachers__</br>
+_Milka Trajkova, Francesco Cafaro, Lynn Dombrowski_</br>
 </br>
 
 # Track 4: Resisting and Reflecting
