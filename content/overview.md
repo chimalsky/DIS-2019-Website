@@ -42,6 +42,10 @@ _Thomas Ludwig (University of Siegen), Michael Döll (Institute for Information 
 
 __Pictorial: The Tilting Bowl: Electronic Design for a Counterfactual artifact as a Research Product__</br>
 _Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fraser University)_</br>
+
+__Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative Futures__</br>
+_Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz_</br>
+
 </br>
 
 # Track 2: Well-Being
@@ -472,9 +476,6 @@ _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI
 
 # Track 4: HCl4D
 ## Friday, June 28, 2:00 PM – 3:30 PM
-__Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative Futures__</br>
-_Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz_</br>
-
 __Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
 _Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)_</br>
 
