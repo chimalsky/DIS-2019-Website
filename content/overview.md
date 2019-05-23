@@ -81,7 +81,7 @@ _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser Univer
 # Track 4: Abilities
 ## Wednesday, June 26, 2:00 – 3:30 PM
 __Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar__</br>
-_Jorun Børsting (University of Oslo), Alma Leora Culén (University of Oslo), Will Odom (Simon Fraser University)_</br>
+_Alma Leora Culén (University of Oslo), Jorun Børsting (University of Oslo), Will Odom (Simon Fraser University)_</br>
 
 __Paper: Examining Online Practices of an Autism Parent Community in Turkey: Goals, Needs, and Opportunities__</br>
 _Zeynep Yildiz (Koç University), Doga Gatos (Koç University), Ozge Subasi (Koc University), Asim Evren Yantac (Koç Univeristy), Kemal Kuscu (Koç University)_</br>
@@ -121,7 +121,7 @@ __Paper: Examining Interdependencies and Constraints in Co-Creation__</br>
 _Bran Knowles (Lancaster University), Christopher Bull (Lancaster University), Nigel Davies (Lancaster University), Will Simm (Lancaster University), Oliver Bates (Lancaster University), Niall Hayes (Lancaster University)_</br>
 
 __Paper: Designing for Ballet Classes: Identifying and Mitigating Communication Challenges Between Dancers and Teachers__</br>
-_Milka Trajkova, Francesco Cafaro, Lynn Dombrowski_</br>
+_Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana University, IUPUI), Lynn Dombrowski (Indiana University, IUPUI)_</br>
 </br>
 
 # Track 4: Resisting and Reflecting
