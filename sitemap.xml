@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/overview/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/home/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -46,12 +52,6 @@
   
   <url>
     <loc>/dis_keynotes/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/overview/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
