@@ -11,16 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/overview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/overview/</guid>
-      <description>title: &amp;ldquo;DIS Program Overview&amp;rdquo; Track 2: Stories and Narratives Wednesday, June 26, 11 AM – 12:30 PM Paper: The Stories People Tell About the Home Through IoT Toolkits Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT) 
-Paper: Turker Tales: Integrating Tangential Play into Crowd Work Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)</description>
-    </item>
-    
-    <item>
       <title>ACM Designing Interactive Systems 2019</title>
       <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,6 +73,16 @@ Full Conference Registration (All fees are in USD)
       <guid>/dis_keynotes/</guid>
       <description>Lisa Nakamura  Keynote Title: Virtual Reality and the Feeling of Virtue: Women of Color Narrators, Enforced Hospitality, and the Leveraging of Empathy
 Abstract: Many researchers and evangelists argue that V.R. is fundamentally more “moving” than other media because of users’ visual immersion in navigable worlds and their empathic identification with another visual perspective. (see Rubin, Bailenson). This essay will analyze women of color’s labor as virtual reality’s documentary subjects whose digital presence and hospitality within war-torn, emiserated, and inhospitable scenes such as a Lebanese refugee camp, a favela, and a cucumber farm enables a fantasy of virtuous empathy on the part of the viewer.</description>
+    </item>
+    
+    <item>
+      <title>DIS Program Overview</title>
+      <link>/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/overview/</guid>
+      <description>Track 2: Stories and Narratives Wednesday, June 26, 11 AM – 12:30 PM Paper: The Stories People Tell About the Home Through IoT Toolkits Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT) 
+Paper: Turker Tales: Integrating Tangential Play into Crowd Work Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)</description>
     </item>
     
     <item>
