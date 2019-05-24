@@ -34,7 +34,7 @@ _EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University
 # Track 4: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
 __Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
-*__Honourable Mention Award__ </br> 
+### Honourable Mention Award</br> 
 _Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)_</br>
 
 __Paper: The Printer is Telling Me About Itself: Supporting the Appropriation of Hardware by Using Projection Mapping__</br>
@@ -54,7 +54,7 @@ __Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study usin
 _Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)_</br>
 
 __Paper: Foregrounding Everyday Sounds in Dementia__</br> 
-*__Best Paper Award__ </br> 
+### Best Paper Award</br> 
 _Maarten Houben (Eindhoven University of Technology), Rens Brankaert (University of Technology Eindhoven), Saskia Bakker (Eindhoven University of Technology), Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), Berry Eggen (Eindhoven University of Technology)_</br>
 
 __Paper: Activities as a Gateway to Sustained Subjective Well-Being Mediated by Products__</br>
@@ -88,7 +88,7 @@ __Paper: Examining Online Practices of an Autism Parent Community in Turkey: Goa
 _Zeynep Yildiz (Koç University), Doga Gatos (Koç University), Ozge Subasi (Koc University), Asim Evren Yantac (Koç Univeristy), Kemal Kuscu (Koç University)_</br>
 
 __Paper: "That's the Way Sighted People Do It": What Blind Parents Can Teach Technology Designers About Co-Reading with Children__</br>
-*__Honourable Mention Award__ </br> 
+### Honourable Mention Award</br> 
 _Kevin Storer (University of California, Irvine), Stacy Branham (University of California, Irvine)_</br>
 
 __Pictorial: The Cross-Sensory Globe: Participatory Design of a 3D Audio-Tactile Globe Prototype for Blind and Low-Vision Users to Learn Geography__</br>
@@ -102,7 +102,7 @@ __Paper: Making Up Instruments: Design Fiction for Value Discovery in Communitie
 _Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)_</br>
 
 __Paper: muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
-*__Honourable Mention Award__ </br>  
+### Honourable Mention Award</br>  
 _Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (Loughborough University), Young-Woo Park (UNIST)_</br>
 
 __Paper: Making Sense of Sensors: Discovery Through Craft Practice with an Open-Ended Sensor Material__</br>
@@ -163,7 +163,7 @@ __Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighte
 _Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University_</br>
 
 __Paper: Clearing the Smoke: The Changing Identities and Work of Firefighters__</br>
-*__Best Paper Award__</br>
+### Best Paper Award</br>
 _Alyssa Rumsey (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
 __Paper: How Do Gestures Matter for Mutual Awareness in Cockpits? Disclosing Interactions through Graphical Representations__</br>
@@ -183,11 +183,11 @@ __Paper: Magical Realism and Augmented Reality: Designing Apps with Children in 
 _Tom Schofield (Newcastle University), Diego Trujillo Pîsanty (Newcastle University), Gabriella Arrigoni (Newcastle University), Kim Reynolds (Newcastle University), Rachel Pattinson (Newcastle University)_</br>
 
 __Paper: A Scenario-Based Methodology for Exploring Risks: Children and Programmable IoT__</br>
-*__Honourable Mention Award__ </br>
+### Honourable Mention Award </br>
 _Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley (Lancaster University)_</br>
 
 __Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems__</br>
-*__Honourable Mention Pictorial Award__ </br>
+### Honourable Mention Pictorial Award</br>
 _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
 
@@ -200,7 +200,7 @@ __Paper: Phosphenes: Crafting Resistive Heaters within Thermoreactive Composites
 _Cesar Torres (UC Berkeley), Jessica Chang (UC Berkeley), Advaita Patel (UC Berkeley), Eric Paulos (UC Berkeley)_</br>
 
 __Pictorial: Sensing Kirigami__</br>
-*__Best Pictorial Award__ </br>
+### Best Pictorial Award</br>
 _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado Boulder), Ellen Yi-Luen Do (University of Colorado Boulder)_</br>
 
 __Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI__</br>
@@ -220,7 +220,7 @@ __Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Curren
 _Sarah Fox (University of California, San Diego), Noura Howell (University of California), Richmond Wong (University of California Berkeley), Franchesca Spektor (University of California, Berkeley)_</br>
 
 __Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
-*__Honourable Mention Pictorial Award__ </br>
+### Honourable Mention Pictorial Award</br>
 _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)_</br>
 </br>
 
@@ -233,7 +233,7 @@ __Paper: Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Rob
 _Michal Luria (Carnegie Mellon University), Samantha Reig (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University), Aaron Steinfeld (Carnegie Mellon University), Jodi Forlizzi (Carnegie Mellon University), John Zimmerman (Carnegie Mellon University)_</br>
 
 __Paper: Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
-*__Honourable Mention Award__ </br>
+### Honourable Mention Award</br>
 _Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), Guy Hoffman (Cornell University)_</br>
 
 __Paper: Interaction Needs and Opportunities for Failing Robots__</br>
@@ -264,7 +264,7 @@ __Paper: DynaKnob: Combining Haptic Force Feedback and Shape Change__</br>
 _Anke van Oosterhout (Aarhus University), Eve Hoggan (Computer Science, Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University), Miguel Bruns (TU Eindhoven)_</br>
 
 __Paper: MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction__</br>
-*__Best Paper Award__</br>
+### Best Paper Award</br>
 _Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder), Satoshi Nakamaru (Keio University), Ryuma Niiyama (The University of Tokyo), Yoshihiro Kawahara (The University of Tokyo), Yasuaki Kakehi (The University of Tokyo)_</br>
 
 __Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation__</br>
@@ -304,7 +304,7 @@ __Paper: How Peripheral Data Visualisation System Support High School Teachers D
 _Bernice d’Anjou (University of Technology Eindhoven), Saskia Bakker (University of Technology Eindhoven), Pengcheng An (University of Technology Eindhoven) and Tilde Bekker (University of Technology Eindhoven)_</br>
 
 __Paper: Design in the HCI Classroom: Setting a Research Agenda__</br>
-*__Best Paper Award__</br>
+### Best Paper Award </br>
 _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology), Qiaosi Wang (Georgia Institute of Technology)_</br>
 </br>
 
@@ -345,7 +345,7 @@ __Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology i
 _Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
 __Paper: Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
-*__Honourable Mention Award__ </br>
+### Honourable Mention Award </br>
 _Karey Helms (KTH Royal Institute of Technology)_</br>
 
 __Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children__</br>
@@ -353,7 +353,7 @@ _Elena Marquez Segura (Uppsala University), Laia Turmo Vidal (Uppsala University
 
 
 __Paper: Teaching Soma Design__</br>
-*__Honourable Mention Award__ </br>
+### Honourable Mention Award </br>
 _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Institute of Technology (KTH)), Anna Ståhl (RISE, Research Institutes of Sweden), Pedro Sanches (KTH), Charles Windlin (KTH Royal Institute of Technology), Pavel Karpashevich (KTH), Kristina Höök (KTH)_</br>
 </br>
 
@@ -366,7 +366,7 @@ __Pictorial: Diversifying the Domestic: A Design Inquiry into Collective and Mob
 _William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)_</br>
 
 __Pictorial: Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
-*__Honourable Mention Pictorial Award__ </br>
+### Honourable Mention Pictorial Award</br>
 _Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)_</br>
 
 __Pictorial: Design and Diversity? Speculations on What Could Go Wrong__</br>
@@ -476,7 +476,7 @@ _Katja Budinger (University of Applied Science), Frank Heidmann (University of A
 # Track 3: Data
 ## Friday, June 28, 2:00 PM – 3:30 PM
 __Paper: Keeping and Discarding Personal Data: Exploring a Design Space__</br>
-*__Honourable Mention Award__ </br>
+### Honourable Mention Award</br>
 _Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)_</br>
 
 __Paper: Towards Affective Chronometry: Exploring Smart Materials and Actuators for Real-Time Representation of Changes in Arousal__</br>
