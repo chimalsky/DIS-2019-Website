@@ -54,6 +54,7 @@ __Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study usin
 _Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)_</br>
 
 __Paper: Foregrounding Everyday Sounds in Dementia__</br>
+Best Paper Award </br> 
 _Maarten Houben (Eindhoven University of Technology), Rens Brankaert (University of Technology Eindhoven), Saskia Bakker (Eindhoven University of Technology), Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), Berry Eggen (Eindhoven University of Technology)_</br>
 
 __Paper: Activities as a Gateway to Sustained Subjective Well-Being Mediated by Products__</br>
