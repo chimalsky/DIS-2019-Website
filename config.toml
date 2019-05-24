@@ -399,16 +399,23 @@ enableGitInfo = false
 # Program Menu
   
 [[menu.main]]  
-  name = "Accepted Workshops"
-  url = "/accepted-workshops"
-  weight = 2
+  name = "DIS and C&C Program Overview"
+  url = "/program"
+  weight = 1
   parent = "program"
-
+  
 [[menu.main]]  
   name = "DIS Program Overview"
   url = "/overview"
-  weight = 1
+  weight = 2
+  parent = "program" 
+  
+[[menu.main]]  
+  name = "Accepted Workshops"
+  url = "/accepted-workshops"
+  weight = 3
   parent = "program"
+ 
 
 
 # Attending Menu
