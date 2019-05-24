@@ -254,7 +254,7 @@ _Hyunyoung Kim (Université Grenoble Alpes), Patricial Deug Guimaraes (Universit
 __Paper: DynaKnob: Combining Haptic Force Feedback and Shape Change__</br>
 _Anke van Oosterhout (Aarhus University), Eve Hoggan (Computer Science, Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University), Miguel Bruns (TU Eindhoven)_</br>
 
-__Paper: MorphIO: Soft Sensing and Actuation Modules for Programming by Demonstration of Shape-Changing Interfaces__</br>
+__Paper: MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction__</br>
 _Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder), Satoshi Nakamaru (Keio University), Ryuma Niiyama (The University of Tokyo), Yoshihiro Kawahara (The University of Tokyo), Yasuaki Kakehi (The University of Tokyo)_</br>
 
 __Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation__</br>
