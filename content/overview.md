@@ -396,7 +396,7 @@ __Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around 
 _Cagan Arslan (Université de Lille), Yosra Rekik (Université Polytechnique Hauts-de-France), Laurent Grisoni (University of Lille 1- Science and Technology, CNRS, INRIA Lille)_</br>
 
 __Paper: Mobile Devices in Programming Contexts: A Review of the Design Space and Processes__</br>
-_SRM_Poorna Talkad Sukumar (University of Notre Dame), Ronald Metoyer (University of Notre Dame)_</br>
+_Poorna Talkad Sukumar (University of Notre Dame), Ronald Metoyer (University of Notre Dame)_</br>
 
 __Paper: Monomizo: A Tangible Desktop Artifact Providing Schedules from E-ink Screen to Paper__</br>
 _Sangsu Jang (UNIST), Subin Kim (UNIST), Boram Noh (UNIST), Young-Woo Park (UNIST)_</br>
