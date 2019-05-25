@@ -4,6 +4,7 @@ title: "DIS Program Overview"
 
 # Track 2: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM 
+### Session Chair: Sarah Fox </br> 
 __Paper: The Stories People Tell About the Home Through IoT Toolkits__</br>
 _Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)_ </br>
 
@@ -19,6 +20,7 @@ _Saumya Gupta (University of California), Joshua Tanenbaum (University of Califo
 
 # Track 3: Design Methods
 ## Wednesday, June 26, 11 AM – 12:30 PM
+### Session Chair: Narges Mahyar
 __Paper: From Immediate Towards Intermediate Knowledge__</br>
 _Søren Rasmussen (Aarhus University), Jeanette Falk Olesen (Aarhus University), Kim Halskov (Aarhus University)_</br>
 
@@ -34,6 +36,7 @@ _EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University
 
 # Track 4: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
+### Session Chair: Cesar Torres
 __Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
 ### Honourable Mention Award</br> 
 _Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)_</br>
@@ -51,6 +54,7 @@ _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), S
 
 # Track 2: Well-Being
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
+### Session Chair: Aykut Coşkun
 __Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data__</br>
 _Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)_</br>
 
@@ -67,6 +71,7 @@ _Stephen Snow (University of Southampton), Michael Oakley (University of Southam
 
 # Track 3: Virtual Reality
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
+### Session Chair: Ellen Do
 __Paper: Keep the Ball Rolling: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability__</br>
 _Jack Shen-Kuen Chang (Pennsylvania State University), Alison Doucette (Ryerson University), Georgina Yeboah (Ryerson University), Timothy Welsh (University of Toronto), Michael Nitsche (Georgia Institute of Technology), Ali Mazalek (Ryerson University)_</br>
 
@@ -82,6 +87,7 @@ _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser Univer
 
 # Track 4: Abilities
 ## Wednesday, June 26, 2:00 – 3:30 PM
+### Session Chair: saiph savage
 __Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar__</br>
 _Alma Leora Culén (University of Oslo), Jorun Børsting (University of Oslo), Will Odom (Simon Fraser University)_</br>
 
@@ -99,6 +105,7 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 
 # Track 2: Sonification
 ## Wednesday, June 26, 4:00 – 5:30 PM
+### Session Chair: Dan Lockton
 __Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice__</br>
 _Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)_</br>
 
@@ -115,6 +122,7 @@ _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Wash
 
 # Track 3: Identity and Expression
 ## Wednesday, June 26, 4:00 – 5:30 PM
+### Session Chair: Josh Tanenbaum
 __Paper: Exploring the Design of Social VR Experiences with Older Adults__</br>
 _Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)_</br>
 
@@ -130,6 +138,7 @@ _Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana Universit
 
 # Track 4: Resisting and Reflecting
 ## Wednesday, June 26, 4:00 – 5:30 PM
+### Session Chair: Arne Berger
 __Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings__</br>
 _Nick Merrill (University of California, Berkeley), John Chuang (University of California, Berkeley), Coye Cheshire (University of California, Berkeley)_</br>
 
@@ -145,6 +154,7 @@ _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourn
 
 # Track 1: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
+### Session Chair: Josh Andres
 __Paper: Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field__</br>
 _Ingrid Pettersson (Digital User Experience), MariAnne Karlsson (Design & Human Factors), Florin Timotei Ghiurau (User Experience Center)_</br>
 
@@ -160,6 +170,7 @@ _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munic
 
 # Track 2: Urgency and Emergency
 ## Thursday, June 27, 11:00 – 12:30 PM
+### Session Chair: Nick Merrill
 __Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies__</br>
 _Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University_</br>
 
@@ -177,6 +188,7 @@ _Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Max
 
 # Track 3: Design For and With Children
 ## Thursday, June 27, 11:00 – 12:30 PM
+### Session Chair: Teddy Seyed
 __Paper: Designing Interactive Manual Wheelchair Skills Training for Children__</br>
 _Kathrin Gerling (KU Leuven), Kieran Hicks (University of Lincoln), Olivier Szymanezyk (University of Lincoln), Conor Linehan (University College Cork)_</br>
 
@@ -194,6 +206,7 @@ _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-IT
 
 # Track 4: Deformable and Novel Materials
 ## Thursday, June 27, 11:00 – 12:30 PM
+### Session Chair: Young-Woo Park
 __Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input__</br>
 _Giovanni Troiano (Northeastern University), Alberto Boem (University of Tsukuba)_</br>
 
@@ -211,6 +224,7 @@ _Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus Universit
 
 # Track 1: Gendered Considerations
 ## Thursday, June 27, 2:00 PM – 3:30 PM
+### Session Chair: Stacy Branham
 __Paper: Privacy, Patriarchy, and Participation on Social Media__</br>
 _Naveena Karusala (University of Washington), Apoorva Bhalla (International Institute of Information Technology, Bangalore), Neha Kumar (Georgia Tech)_</br>
 
@@ -227,6 +241,7 @@ _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Cope
 
 # Track 2: Human-Robot Interaction
 ## Thursday, June 27, 2:00 PM – 3:30 PM
+### Session Chair: Giovanni Maria Troiano
 __Paper: A Survey of Users' Expectations Towards On-Body Companion Robots__</br>
 _Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Hao Jiang (Zhejiang University), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)_</br>
 
@@ -243,6 +258,7 @@ _Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon
 
 # Track 3: Media in the Home
 ## Thursday, June 27, 2:00 PM – 3:30 PM
+### Session Chair: Eun Jeong Cheon
 __Paper: Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration__</br>
 _Javier Tibau (Virginia Tech), Michael Stewart (James Madison University), Steve Harrison (Virginia Tech), Deborah Tatar (Virginia Tech)_</br>
 
@@ -258,6 +274,7 @@ _Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technolo
 
 # Track 4: Shape Changing Interfaces
 ## Thursday, June 27, 2:00 PM – 3:30 PM 
+### Session Chair: Giovanni Maria Troiano
 __Paper: ExpanDial: Designing a Shape-Changing Dial__</br>
 _Hyunyoung Kim (Université Grenoble Alpes), Patricial Deug Guimaraes (University of Bristol), Céline Coutrix (CNRS), Anne Roudaut (University of Bristol)_</br>
 
@@ -280,6 +297,7 @@ __Panel Topic TBD__
 
 # Track 2: Internet of Things
 ## Thursday, June 27, 4:00 PM – 5:30 PM
+### Session Chair: Will Odom
 __Paper: Understanding Embodied State Using Speculative Artifacts__</br>
 _J. Trevor D'Arcey (University of California, Santa Cruz), Julia Haines (Google), Elizabeth Churchill (Google)_</br>
 
@@ -295,6 +313,7 @@ _David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh 
 
 # Track 3: Education
 ## Thursday, June 27, 4:00 PM – 5:30 PM
+### Session Chair: Ellen Do
 __Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit__</br>
 _Joyce Ma (The Exploratorium), Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)_</br>
 
@@ -311,6 +330,7 @@ _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institu
 
 # Track 4: Wearables
 ## Thursday, June 27, 4:00 PM – 5:30 PM
+### Session Chair: Alyssa Rumsey
 __Paper: Design Framework For Social Wearables__</br>
 _Ella Dagan (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Ferran Altarriba Bertran (UC Santa Cruz), Miguel Flores (UC Santa Cruz), Robb Mitchell (University of Southern Denmark), Katherine Isbister (University of California Santa Cruz)_</br>
 
@@ -327,6 +347,7 @@ _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser 
 
 # Track 1: Automaticity
 ## Friday, June 28, 8:30 AM – 10:30 AM
+### Session Chair: Milka Trajkova
 __Paper: V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality__</br>
 _Yuanzhi Cao (Purdue University), Ke Huo (Purdue University), Zhuangying Xu (Purdue University), Fan Li (Tsinghua University), Wentao Zhong (Purdue University), Karthik Ramani (Purdue University)_</br>
 
@@ -342,6 +363,7 @@ _Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_
 
 # Track 2: Somaesthetics
 ## Friday, June 28, 8:30 AM – 10:30 AM
+### Session Chair: Tom Schofield
 __Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology in Art__</br>
 _Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
@@ -360,6 +382,7 @@ _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Insti
 
 # Track 3: Diversity 
 ## Friday, June 28, 8:30 – 10:30 AM
+### Session Chair: Firaz Peer
 __Paper: Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy__</br>
 _Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)_</br>
 
@@ -376,6 +399,7 @@ _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of
 
 # Track 4: Conversational Agents
 ## Friday, June 28, 8:30 AM – 10:30 AM
+### Session Chair: Stacy Branham
 __Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis__</br>
 _Jan-Frederik Kassel (Volkswagen Group), Michael Rohs (University of Hannover)_</br>
 
@@ -393,6 +417,7 @@ _Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic U
 
 # Track 1: Mobile Devices
 ## Friday, June 28, 11:00 AM – 12:30 PM
+### Session Chair: Vasiliki Tsaknaki
 __Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device__</br>
 _Cagan Arslan (Université de Lille), Yosra Rekik (Université Polytechnique Hauts-de-France), Laurent Grisoni (University of Lille 1- Science and Technology, CNRS, INRIA Lille)_</br>
 
@@ -408,6 +433,7 @@ _Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elshar
 
 # Track 2: Experience
 ## Friday, June 28, 11:00 AM – 12:30 PM
+### Session Chair: Stine Lundgaard
 __Paper: Co-riding With My eBike to Get Green Lights__</br>
 _Josh Andres (IBM Research Australia), Tuomas Kari (University of Jyväskylä), Juerg von Kaenel (IBM Research), Florian Mueller (RMIT University)_</br>
 
@@ -423,6 +449,7 @@ _Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University)
 
 # Track 3: Seeing 
 ## Friday, June 28, 11:00 AM – 12:30 PM
+### Session Chair: Nuno J, Nunes
 __Paper: How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays__</br>
 _Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuven)_</br>
 
@@ -446,6 +473,7 @@ __Panel: Topic TBD__
 
 # Track 1: Civic and Urban Spaces
 ## Friday, June 28, 2:00 PM – 3:30 PM
+### Session Chair: Firaz Peer
 __Paper: Towards a Design Framework for Trust in Digital Civics__</br>
 _Eric Corbett (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
@@ -461,6 +489,7 @@ _Andre Afonso (UCL), Ecem Ergin (1989), Ava Fatah gen. Schieck (UCL)_</br>
 
 # Track 2: Connections with Nature
 ## Friday, June 28, 2:00 PM – 3:30 PM
+### Session Chair: Jonas Fritsch
 __Paper: Designing with Waste: A Situated Inquiry into the Material Excess of Making__ </br>
 _Kristin Dew (University of Washington), Daniela Rosner (University of Washington)_</br>
 
@@ -476,8 +505,9 @@ _Katja Budinger (University of Applied Science), Frank Heidmann (University of A
 
 # Track 3: Data
 ## Friday, June 28, 2:00 PM – 3:30 PM
+### Session Chair: Poorna Talkad Sukumar
 __Paper: Keeping and Discarding Personal Data: Exploring a Design Space__</br>
-### Honourable Mention Award</br>
+#### Honourable Mention Award</br>
 _Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)_</br>
 
 __Paper: Towards Affective Chronometry: Exploring Smart Materials and Actuators for Real-Time Representation of Changes in Arousal__</br>
@@ -492,6 +522,7 @@ _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI
 
 # Track 4: HCl4D
 ## Friday, June 28, 2:00 PM – 3:30 PM
+### Session Chair: Paul Dourish
 __Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
 _Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)_</br>
 
