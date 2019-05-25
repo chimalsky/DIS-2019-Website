@@ -5,8 +5,7 @@ title: "DIS Program Overview"
 # Track 2: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM 
 ### Session Chair: Sarah Fox </br> 
-
-
+</br> 
 __Paper: The Stories People Tell About the Home Through IoT Toolkits__</br>
 _Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)_ </br>
 
