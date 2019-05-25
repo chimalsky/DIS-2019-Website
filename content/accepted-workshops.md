@@ -8,8 +8,9 @@ Invite-only workshops require an access code provided by the workshop organizers
 # Sunday, June 23 </br>
 # C&C Workshops </br>
 
-__W1: [Distributed Creativity in Play](https://wdcip.gitlab.io)__ [Open Registration] (This workshop has been merged with W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/).)</br> 
+__W1: [Distributed Creativity in Play](https://wdcip.gitlab.io)__ [Open Registration]  </br> 
   *Andrew M. Webb, Katta Spiel, Zach O. Toups, Bill Hamilton, Nic Lupfer, Ross A. Graeber, Wendy E. Mackay* </br> 
+  This workshop has been merged with W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/). </br>
  
 __W2: [Crowd-powered Interfaces for Creative Design Thinking](https://creativity-workshops.github.io/cc19/)__ [Open Registration] </br> 
  *Jonas Oppenlaender, Halil Erhan, Naghmi Shireen, Jorge Goncalves, Maximilian Mackeprang, Simo Hosio* </br> 
@@ -18,11 +19,13 @@ __W3: [Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance
 *Tracy Hammond* </br> </br>
 
 # DIS Workshops </br> 
-__W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)__ [Open Registration] (This workshop has been merged with W1: [Distributed Creativity in Play](https://wdcip.gitlab.io).) </br> 
+__W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativity18.wordpress.com/)__ [Open Registration]  </br> 
 
 *Sarah-Kristin Thiel, Christian Remy, Licinio Roque, Rita Orji, Peter Dalsgaard, Celine Latulipe, Sayan Sarcar* </br> 
 Abstract: We propose a one-day workshop that focuses on the intersection of gamefulness and creativity. The objective of this workshop is to bring together both researchers and practitioners interested in this field to discuss a research agenda that will explore the relationship between game-related aspects (e.g. game play, game genres) and creative thinking.
-Embracing the interdisciplinarity of creativity, we invite researchers from a variety of fields including but not limited to games, gamification, playfulness and creativity research. In a highly interactive format, we aim to consolidate previous work, identify relevant areas for future research, and discuss methods to assess the effectiveness of gamefulness on individuals’ creative potential. As outcomes of the workshop we hope to set a research agenda and establish a vibrant community around the domain of gamefulness and creativity.
+Embracing the interdisciplinarity of creativity, we invite researchers from a variety of fields including but not limited to games, gamification, playfulness and creativity research. In a highly interactive format, we aim to consolidate previous work, identify relevant areas for future research, and discuss methods to assess the effectiveness of gamefulness on individuals’ creative potential. As outcomes of the workshop we hope to set a research agenda and establish a vibrant community around the domain of gamefulness and creativity. </br>
+ 
+This workshop has been merged with W1: [Distributed Creativity in Play](https://wdcip.gitlab.io). 
  
 __W5: [Crafting and Tasting Issues in Everyday Human-Food Interactions](https://humanfoodinteraction.wordpress.com/)__ [Open Registration] </br> 
    *Markéta Dolejšová, Ferran Altarriba Bertran, Danielle Wilde, Dr. Hilary Davis* </br> 
