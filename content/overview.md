@@ -2,8 +2,8 @@
 title: "DIS Program Overview"
 ---
 
-# Wednesday 
-</br>
+# Wednesday</br> 
+
 # Track 2: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM 
 ### Session Chair: Sarah Fox
@@ -161,8 +161,8 @@ __Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis an
 _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
 </br>
 
-# Thursday
-</br>
+# Thursday</br>
+
 # Track 1: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
 ### Session Chair: Josh Andres 
@@ -364,8 +364,8 @@ __Paper: Satisfying a Conversation with Materials for Dynamic Fabrics__</br>
 _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)_</br>
 </br>
 
-# Friday
-</br>
+# Friday</br>
+
 # Track 1: Automaticity
 ## Friday, June 28, 8:30 AM – 10:30 AM
 ### Session Chair: Milka Trajkova
