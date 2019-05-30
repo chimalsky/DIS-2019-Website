@@ -4,7 +4,6 @@ title: "DIS Program Overview"
 
 # Wednesday 
 </br>
-
 # Track 2: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM 
 ### Session Chair: Sarah Fox
@@ -164,7 +163,6 @@ _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourn
 
 # Thursday
 </br>
-
 # Track 1: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
 ### Session Chair: Josh Andres 
@@ -236,7 +234,6 @@ _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute 
 __Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI__</br>
 _Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus University), Mark Moore (Aarhus University), Marcelo Azevedo Dias (Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University)_</br>
 </br>
-
 
 # Track 1: Gendered Considerations
 ## Thursday, June 27, 2:00 PM – 3:30 PM
@@ -369,7 +366,6 @@ _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser 
 
 # Friday
 </br>
-
 # Track 1: Automaticity
 ## Friday, June 28, 8:30 AM – 10:30 AM
 ### Session Chair: Milka Trajkova
