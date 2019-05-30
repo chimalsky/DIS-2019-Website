@@ -47,7 +47,7 @@ _Jordan Wirfs-Brock (University of Colorado, United States)_
 __Technical Care in the Everyday Work of Machine Learning Developers__</br>  
 _Christine Wolf (IBM Research, United States)_
 </br> 
-
+</br> 
 
 # Works in Progress
 
