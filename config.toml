@@ -410,16 +410,22 @@ enableGitInfo = false
   weight = 2
   parent = "program"
   
-[[menu.main]]  
-  name = "Accepted Workshops"
-  url = "/accepted-workshops"
+ [[menu.main]]  
+  name = "Joint DIS and C&C Art Exhibition"
+  url = "/exhibition"
   weight = 3
+  parent = "program"
+  
+[[menu.main]]  
+  name = "Accepted DIS Workshops"
+  url = "/accepted-workshops"
+  weight = 4
   parent = "program"
  
  [[menu.main]]  
-  name = "Accepted PWiPs"
+  name = "Accepted DIS PWiPs"
   url = "/accepted-PWiPs"
-  weight = 4
+  weight = 5
   parent = "program"
  
 
