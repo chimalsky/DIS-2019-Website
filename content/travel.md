@@ -3,11 +3,11 @@
 title: "Travel and Hotel Information"
 ---
 
-# Conference hotel discount rate ends June 3!
+# _Conference hotel discount rate ends June 3!_
 _If you are planning on staying at the conference hotel and have not yet done so, please register by the deadline._
 
 </br> 
-</br> 
+
 
 ACM DIS 2019 will take place at: 
 
