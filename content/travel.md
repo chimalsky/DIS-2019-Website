@@ -3,6 +3,12 @@
 title: "Travel and Hotel Information"
 ---
 
+# Conference hotel discount rate ends June 3!
+_If you are planning on staying at the conference hotel and have not yet done so, please register by the deadline._
+
+</br> 
+</br> 
+
 ACM DIS 2019 will take place at: 
 
 [Hyatt Regency Mission Bay](https://missionbay.regency.hyatt.com/en/hotel/home.html%E2%80%9D) </br> 
