@@ -1,5 +1,5 @@
 ---
-title "Joint DIS and C&C Art Exhibition"
+title: "Joint DIS and C&C Art Exhibition"
 ---
 
 
