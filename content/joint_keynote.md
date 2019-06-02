@@ -2,7 +2,7 @@
 title: "Joint DIS and C&C Keynote"
 ---
 
-## [Tiffany Shlain](www.tiffanyshlain.com) & [Ken Goldberg](goldberg.berkeley.edu)</br> 
+## [Tiffany Shlain](https://www.letitripple.org/about/tiffany-shlain/) & [Ken Goldberg](https://goldberg.berkeley.edu/)</br> 
 ![alt text](/img/organizers/Shlain-Tiffany.jpg "Tiffany Shlain")
 ![alt text](/img/organizers/Goldberg-Ken.jpg "Ken Goldberg")
 
