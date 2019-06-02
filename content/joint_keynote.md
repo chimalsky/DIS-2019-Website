@@ -3,10 +3,11 @@ title: "Joint DIS and C&C Keynote"
 ---
 
 ## [Tiffany Shlain](www.tiffanyshlain.com) </br> 
-![alt text](/img/Shlain-Tiffany.jpg "Tiffany Shlain")
+![alt text](/img/organizers/Shlain-Tiffany.jpg "Tiffany Shlain")
 
 ## [Ken Goldberg](goldberg.berkeley.edu) </br> 
-![alt text](/img/Goldberg-Ken.jpg "Ken Goldberg")
+![alt text](/img/organizers/Goldberg-Ken.jpg "Ken Goldberg")
+
 
 ### Keynote Title: Screen Smashing: Iconoclasty in an Age of Illusionary Intelligence 
 
