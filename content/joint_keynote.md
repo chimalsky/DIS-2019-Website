@@ -2,10 +2,8 @@
 title: "Joint DIS and C&C Keynote"
 ---
 
-## [Tiffany Shlain](www.tiffanyshlain.com) </br> 
+## [Tiffany Shlain](www.tiffanyshlain.com) & [Ken Goldberg](goldberg.berkeley.edu)</br> 
 ![alt text](/img/organizers/Shlain-Tiffany.jpg "Tiffany Shlain")
-
-## [Ken Goldberg](goldberg.berkeley.edu) </br> 
 ![alt text](/img/organizers/Goldberg-Ken.jpg "Ken Goldberg")
 
 
