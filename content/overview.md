@@ -42,7 +42,7 @@ _EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University
 
 # Track 4: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Cesar Torres 
 
 __Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
@@ -98,7 +98,7 @@ _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser Univer
 
 # Track 4: Abilities
 ## Wednesday, June 26, 2:00 – 3:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: saiph savage 
 
 __Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar__</br>
@@ -154,7 +154,7 @@ _Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana Universit
 
 # Track 4: Resisting and Reflecting
 ## Wednesday, June 26, 4:00 – 5:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Arne Berger 
 
 __Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings__</br>
@@ -231,7 +231,7 @@ _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-IT
 
 # Track 4: Deformable and Novel Materials
 ## Thursday, June 27, 11:00 – 12:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Young-Woo Park 
 
 __Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input__</br>
@@ -306,7 +306,7 @@ _Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technolo
 
 # Track 4: Shape Changing Interfaces
 ## Thursday, June 27, 2:00 PM – 3:30 PM 
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Giovanni Maria Troiano 
 
 __Paper: ExpanDial: Designing a Shape-Changing Dial__</br>
@@ -369,7 +369,7 @@ _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institu
 
 # Track 4: Wearables
 ## Thursday, June 27, 4:00 PM – 5:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Alyssa Rumsey 
 
 __Paper: Design Framework For Social Wearables__</br>
@@ -446,7 +446,7 @@ _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of
 
 # Track 4: Conversational Agents
 ## Friday, June 28, 8:30 AM – 10:30 AM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Stacy Branham 
 
 __Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis__</br>
@@ -519,7 +519,7 @@ _Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster Unive
 
 # Panel
 ## Friday, June 28, 11:00 AM – 12:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 __Panel: Topic TBD__
 </br>
 </br>
@@ -581,7 +581,7 @@ _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI
 
 # Track 4: HCl4D
 ## Friday, June 28, 2:00 PM – 3:30 PM
-## Room: Mission 2/3
+## Room: Mission 2/ 3
 ### Session Chair: Paul Dourish 
 
 __Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
