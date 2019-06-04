@@ -36,9 +36,6 @@ __Envisioning Reflective, Relaxing, and Restorative Design with ASMR__</br>
 _Josephine Klefeker (University of Colorado Boulder, United States), Laura Devendorf (University of Colorado Boulder, United States)_
 </br> 
 
-__What Can We Expect from Navigating? A Critical Exploration of Navigation, Wearables, Data Collection and Interaction__</br>
-_Matthew L Lee-Smith (Loughborough University, United Kingdom), Tracy Ross (Loughborough University, United Kingdom), Martin Maguire (Loughborough University, United Kingdom), Posco Tso (Loughborough University, United Kingdom), Jeremy Morley (Ordnance Survey, United Kingdom), Stefano Cavazzi (Ordnance Survey, United Kingdom)_
-</br> 
 
 __Recipes for Breaking Data Free: Alternative Interactions for Experiencing Personal Data__</br>
 _Jordan Wirfs-Brock (University of Colorado, United States)_
@@ -93,6 +90,10 @@ _Heesun Kim, Kyle Hoefer, Stacey Kuznetsov_
 
 __Designing Internal Structure of Chocolate with a Silicone Mold and Its Effect on Food Texture__</br>
 _Yujin Lee (Korea Advanced Institute of Science and Technology, Korea, Republic of), Jee Bin Yim (KAIST, Korea, Republic of), DaYe Kang (KAIST, Korea, Republic of), HyeonBeom Yi (KAIST, Korea, Republic of), daniel saakes (KAIST, Korea, Republic of)_
+</br> 
+
+__What Can We Expect from Navigating? A Critical Exploration of Navigation, Wearables, Data Collection and Interaction__</br>
+_Matthew L Lee-Smith (Loughborough University, United Kingdom), Tracy Ross (Loughborough University, United Kingdom), Martin Maguire (Loughborough University, United Kingdom), Fung Po Tso (Loughborough University, United Kingdom), Jeremy Morley (Ordnance Survey, United Kingdom), Stefano Cavazzi (Ordnance Survey, United Kingdom)_
 </br> 
 
 __Story-Me: Design of a System to Support Intergenerational Storytelling and Preservation for Older Adults__</br>
