@@ -388,7 +388,7 @@ _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser 
 # Friday</br>
 
 # Track 1: Automaticity
-## Friday, June 28, 8:30 AM – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
 ## Room: Bayview 1
 ### Session Chair: Milka Trajkova
 
@@ -406,7 +406,7 @@ _Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_
 </br>
 
 # Track 2: Somaesthetics
-## Friday, June 28, 8:30 AM – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
 ## Room: Bayview 2
 ### Session Chair: Tom Schofield 
 
@@ -426,7 +426,7 @@ _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Insti
 </br>
 
 # Track 3: Diversity 
-## Friday, June 28, 8:30 – 10:30 AM
+## Friday, June 28, 9:00 – 10:30 AM
 ## Room: Bayview 3
 ### Session Chair: Firaz Peer 
 
@@ -445,7 +445,7 @@ _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of
 </br>
 
 # Track 4: Conversational Agents
-## Friday, June 28, 8:30 AM – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
 ## Room: Mission 2/ 3
 ### Session Chair: Stacy Branham 
 
