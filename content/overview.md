@@ -323,11 +323,13 @@ __Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interact
 _Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikoletta Karastathi (Napper Architects), David Kirk (Northumbria Univeristy), Peter Wright (Newcastle University)_</br>
 </br>
 
-# Panel
+# Panel: Theory and Its Obligations
 ## Thursday, June 27, 4:00 PM – 5:30 PM
 ## Room: Bayview 1
-__Panel Topic TBD__
-</br>
+### Session Chairs: Jeffrey Bardzell and Paul Dourish
+
+Abstract: The DIS community has a long tradition of using the works of philosophers and critical theorists in research, including such thinkers as Heidegger, Foucault, Butler, Shusterman, Verbeek, and Tsing. When we think about theory in design, a number of questions arise. First, is theory only ever imported, or can we think about DIS research as a site at which theory is produced? Second, what are our obligations to get theory right in its own terms while also making it accessible and useful to the DIS community? Third, what are our responsibilities for contributing back to the theoretical traditions from which we are drawing? This panel will explore the range of obligations and responsibilities that characterize the DIS community’s engagement with theory.
+
 </br>
 
 # Track 2: Internet of Things
