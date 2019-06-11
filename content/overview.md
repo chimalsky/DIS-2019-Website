@@ -590,5 +590,6 @@ __Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the F
 _Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)_</br>
 
 __Paper: Exploring Rural Community Practices in HIV Management for the Design of Technology__</br>
+___Honourable Mention Award___</br>
 _Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM Research Africa), Sekou Remy, Aisha Walcott (IBM Research Africa)_</br>
 </br>
