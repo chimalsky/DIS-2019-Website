@@ -13,7 +13,8 @@ __Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__
 _Jens Emil Grønbæk (Aarhus University), Christine Linding (Aarhus University), 
 Anders Kromann (Aarhus University), Thomas Fly Hylddal Jensen (Aarhus University),
 and Marianne Graves Petersen (Aarhus University)_</br>
-</br>
+
+
 # Honourable Mentions for Best Pictorial
 
 __Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
