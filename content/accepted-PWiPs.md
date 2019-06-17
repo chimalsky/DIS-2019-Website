@@ -25,6 +25,7 @@ _Peter Gyory (University of Colorado Boulder, United States), Clement Zheng (Uni
 </br> 
 
 __How the Design of Social Technology Fails Rural America__</br>
+___Best Provocation Award___</br> 
 _Jean Hardy (University of Michigan, United States)_
 </br> 
 
@@ -69,6 +70,7 @@ _Aakash Gautam (Virginia Tech, United States), Deborah Tatar (Virginia Tech, Uni
 </br> 
 
 __Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__</br>
+___Best Works-In-Progress Award___ </br>
 _Jens Emil Grønbæk (Aarhus University, Denmark), Christine Linding (Aarhus University, Denmark), Anders Kromann (Aarhus University, Denmark), Thomas Fly Hylddal Jensen (Aarhus University, Denmark), Marianne Graves Petersen (Aarhus University, Denmark)_
 </br> 
 
@@ -117,7 +119,7 @@ _Dominic Price (University of Nottingham, United Kingdom), Rachel Jacobs (The Un
 </br> 
 
 __Supporting Natural Navigation for Running in Unknown Places__</br> 
-_SHREEPRIYA SHREEPRIYA (Naver Labs Europe, France), Jutta Willamowski (Naver Labs Europe, France), Danilo Gallo (Naver Labs Europe, France)_
+_Shreepriya (Naver Labs Europe, France), Jutta Willamowski (Naver Labs Europe, France), Danilo Gallo (Naver Labs Europe, France)_
 </br> 
 
 __PC Builder Hero: An Immersive Computer Building Workshop Experience in Virtual Reality__</br> 
@@ -149,7 +151,7 @@ _Matthew Watson (University of Arizona, United States), Lila Bozgeyikli (Univers
 </br> 
 
 __Stop Wasting, Start Tasting! Design Speculations for Reducing Food Waste in Hospitality Sector__ </br> 
-_Hakan YILMAZER (Koç University, Turkey), Mert Yıldız (Koç University, Turkey), Hüseyin Uğur Genç (Koç University, Turkey), Aykut Coşkun (Koc University, Turkey)_
+_Hakan Yilmazer (Koç University, Turkey), Mert Yıldız (Koç University, Turkey), Hüseyin Uğur Genç (Koç University, Turkey), Aykut Coşkun (Koc University, Turkey)_
 </br> 
 
 __Towards Low-burden In-situ Self-reporting: A Design Space Exploration__</br> 
