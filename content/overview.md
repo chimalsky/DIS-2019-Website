@@ -2,7 +2,7 @@
 title: "DIS Program Overview"
 ---
 
-# Wednesday</br> 
+# Tuesday</br> 
 
 # Art Exhibition
 ## Tuesday, June 25, 6:00 PM - 9:00 PM
