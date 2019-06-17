@@ -5,7 +5,7 @@ title: "DIS 2019 Awards and Honors"
 
 __How the Design of Social Technology Fails Rural America__ </br>
 _Jean Hardy (University of Michigan)_ </br>
-
+</br>
 
 # Best Works-In-Progress
 
@@ -13,7 +13,7 @@ __Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__
 _Jens Emil Grønbæk (Aarhus University), Christine Linding (Aarhus University), 
 Anders Kromann (Aarhus University), Thomas Fly Hylddal Jensen (Aarhus University),
 and Marianne Graves Petersen (Aarhus University)_</br>
-
+</br>
 
 # Honourable Mentions for Best Pictorial
 
@@ -28,13 +28,12 @@ _Catia Prandi (Madeira Interactive Technologies Institute), Marta Ferreira (Inst
 Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
 
-
 # Best Pictorial
 
 __Sensing Kirigami__</br>
 _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado, Boulder), 
 Ellen Yi-Luen Do (University of Colorado, Boulder)_</br>
-
+</br>
 
 # Honourable Mentions for Best Paper
 
@@ -66,7 +65,7 @@ Sekou Remy (IBM Research Africa), and Aisha Walcott (IBM Research Africa)_</br>
 
 __Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
 _Matthew Law, JiHyun Jeong, Amrit Kwatra, Malte Jung, and Guy Hoffman (Cornell University)_</br>
-
+</br>
 
 # Best Paper
 
