@@ -5,9 +5,9 @@ title: "Diversity and Inclusion Lunch at the 2019 ACM C&C and DIS Conferences"
 It is our pleasure to invite you to the inaugural Diversity and Inclusion Lunch at the Creativity and Cognition (C&C) and Designing Interactive Systems (DIS) conferences. We have the following aims for this SIGCHI-sponsored event: 
 </br>
 
-•	celebrate and underline the importance of diversity and inclusion as values within the conference communities</br>
-•	reflect on and evaluate the state of diversity and inclusion within the communities by creating space for conversation among participants,</br>
-•	develop insights that will be shared within the C&C/DIS communities as well as with the broader SIGCHI community.</br>
+- celebrate and underline the importance of diversity and inclusion as values within the conference communities</br>
+- reflect on and evaluate the state of diversity and inclusion within the communities by creating space for conversation among participants,</br>
+- develop insights that will be shared within the C&C/DIS communities as well as with the broader SIGCHI community.</br>
 
 Over lunch, attendees will participate in small-group discussions reflecting on inclusion and diversity at C&C/DIS conferences and ways to move forward. The discussions will provide an opportunity to network and also provide reflective feedback on what these values mean in our communities. 
 </br>
@@ -31,14 +31,13 @@ Kathrin Gerling, Kieran Hicks, Olivier Szymanezyk, and Conor Linehan</br>
 </br>
 ## Event Details: </br> 
 Lunch boxes with several options (including vegetarian and vegan)</br> 
-Date: Wednesday, June 26th </br> 
-Time: 12:30 PM – 2:00 PM </br> 
-Location: Hyatt Regency Mission Bay </br> 
-Cost: Free with prior registration. Please register using the following form: https://forms.gle/AYyKyuXoPSaDHt9D6 </br> 
+- Date: Wednesday, June 26th </br> 
+- Time: 12:30 PM – 2:00 PM </br> 
+- Location: Hyatt Regency Mission Bay </br> 
+- Cost: Free with prior registration. Please register using the following form: https://forms.gle/AYyKyuXoPSaDHt9D6 </br> 
 
 Please note that spaces are limited so please register early. We will confirm your registration prior to the beginning of the conference.</br> 
 
-</br> 
 Accessibility and Diversity Chairs:</br> 
 Foad Hamidi, University of Maryland Baltimore County (UMBC)</br> 
 Stacy Branham, University of California, Irvine (UCI) </br> 
