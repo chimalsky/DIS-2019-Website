@@ -433,6 +433,13 @@ enableGitInfo = false
   url = "/accepted-PWiPs"
   weight = 6
   parent = "program"
+  
+ [[menu.main]]  
+  name = "Awards and Honors"
+  url = "/awards-honors"
+  weight = 7
+  parent = "program"
+  
  
 
 
