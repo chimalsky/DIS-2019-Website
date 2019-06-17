@@ -31,8 +31,7 @@ Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (
 # Best Pictorial
 
 __Sensing Kirigami__</br>
-_Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado, Boulder), 
-Ellen Yi-Luen Do (University of Colorado, Boulder)_</br>
+_Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado, Boulder), Ellen Yi-Luen Do (University of Colorado, Boulder)_</br>
 </br>
 
 # Honourable Mentions for Best Paper
@@ -40,7 +39,7 @@ Ellen Yi-Luen Do (University of Colorado, Boulder)_</br>
 __Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
 _Teddy Seyed (University of Calgary) and Anthony Tang (University of Calgary)_</br>
 
-__“That’s the Way Sighted People Do It”: What Blind Parents Can Teach Technology Designers About Co-Reading with Children__</br>
+__“That’s the Way Sighted People Do It”: What Blind Parents Can Teach Technology Designers About Co-Reading with Children__</br>
 _Kevin Storer (University of California, Irvine) and Stacy Branham (University of California, Irvine)_</br>
 
 __muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
@@ -64,7 +63,7 @@ _Erick Oduor (IBM Research Africa), Carolyn Pang (IBM Research Africa), Charles 
 Sekou Remy (IBM Research Africa), and Aisha Walcott (IBM Research Africa)_</br>
 
 __Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
-_Matthew Law, JiHyun Jeong, Amrit Kwatra, Malte Jung, and Guy Hoffman (Cornell University)_</br>
+_Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), and Guy Hoffman (Cornell University)_</br>
 </br>
 
 # Best Paper
