@@ -4,6 +4,14 @@ title: "DIS Program Overview"
 
 # Wednesday</br> 
 
+# Art Exhibition
+## Tuesday, June 25, 6:00 PM - 9:00 PM
+## UCSD Art Gallery
+
+This joint C&C and DIS event on the evening before our program begins is a special event. Busses leave the Hotel starting at 5:45. It is included in DIS-only registration as well as joint and C&C-only, so if you get into San Diego before then, come to the registration desk in order to get on the bus and see the exhibition. Food and drinks will be served.  </br>
+
+# Wednesday</br> 
+
 # Track 2: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM
 ## Room: Bayview 2
@@ -328,9 +336,7 @@ _Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikolett
 ## Room: Bayview 1
 ### Session Chairs: Jeffrey Bardzell and Paul Dourish
 
-Abstract: The DIS community has a long tradition of using the works of philosophers and critical theorists in research, including such thinkers as Heidegger, Foucault, Butler, Shusterman, Verbeek, and Tsing. When we think about theory in design, a number of questions arise. First, is theory only ever imported, or can we think about DIS research as a site at which theory is produced? Second, what are our obligations to get theory right in its own terms while also making it accessible and useful to the DIS community? Third, what are our responsibilities for contributing back to the theoretical traditions from which we are drawing? This panel will explore the range of obligations and responsibilities that characterize the DIS community’s engagement with theory.
-
-</br>
+Abstract: The DIS community has a long tradition of using the works of philosophers and critical theorists in research, including such thinkers as Heidegger, Foucault, Butler, Shusterman, Verbeek, and Tsing. When we think about theory in design, a number of questions arise. First, is theory only ever imported, or can we think about DIS research as a site at which theory is produced? Second, what are our obligations to get theory right in its own terms while also making it accessible and useful to the DIS community? Third, what are our responsibilities for contributing back to the theoretical traditions from which we are drawing? This panel will explore the range of obligations and responsibilities that characterize the DIS community’s engagement with theory.</br>
 
 # Track 2: Internet of Things
 ## Thursday, June 27, 4:00 PM – 5:30 PM
