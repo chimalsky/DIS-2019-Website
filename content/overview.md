@@ -9,6 +9,7 @@ title: "DIS Program Overview"
 ## UCSD Art Gallery
 
 This joint C&C and DIS event on the evening before our program begins is a special event. Busses leave the Hotel starting at 5:45. It is included in DIS-only registration as well as joint and C&C-only, so if you get into San Diego before then, come to the registration desk in order to get on the bus and see the exhibition. Food and drinks will be served.  </br>
+</br>
 
 # Wednesday</br> 
 
