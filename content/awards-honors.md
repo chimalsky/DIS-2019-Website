@@ -1,31 +1,25 @@
 ---
 title: "DIS 2019 Awards and Honors"
 --- 
-# Best Provocation
 
-__How the Design of Social Technology Fails Rural America__ </br>
-_Jean Hardy (University of Michigan)_ </br>
-</br>
+# Best Paper
 
-# Best Works-In-Progress
+__Foregrounding Everyday Sounds in Dementia__</br>
+_Maarten Houben (TU/e), Rens Brankaert (TU/e), Saskia Bakker (TU/e), 
+Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), and
+Berry Eggen (TU/e)_</br>
 
-__Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__ </br>
-_Jens Emil Grønbæk (Aarhus University), Christine Linding (Aarhus University), 
-Anders Kromann (Aarhus University), Thomas Fly Hylddal Jensen (Aarhus University),
-and Marianne Graves Petersen (Aarhus University)_</br>
-</br>
+__Clearing the Smoke: The Changing Identities and Work of Firefighters__</br>
+_Alyssa Rumsey (Georgia Institute of Technology) and Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
-# Honourable Mentions for Best Pictorial
+__MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction__</br>
+_Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder),
+Satoshi Nakamaru (Keio University), Ryuma Niiyama (University of Tokyo), 
+Yoshihiro Kawahara (University of Tokyo), Yasuaki Kakehi (University of Tokyo)_</br>
 
-__Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
-_Sarah Homewood (IT University Copenhagen), Harvey Bewley (IT University Copenhagen), and Laurens Boer (IT University Copenhagen)_</br>
-
-__Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
-_Vera Khovanskaya (Cornell University) and Phoebe Sengers (Cornell University)_</br>
-
-__See the World Through the Eyes of a Child__ </br>
-_Catia Prandi (Madeira Interactive Technologies Institute), Marta Ferreira (Instituto Superior Técnico), 
-Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
+__Design in the HCI Classroom: Setting a Research Agenda__</br>
+_Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology),
+and Qiaosi Wang (Georgia Institute of Technology)_ </br>
 </br>
 
 # Best Pictorial
@@ -66,24 +60,33 @@ __Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
 _Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), and Guy Hoffman (Cornell University)_</br>
 </br>
 
-# Best Paper
+# Honourable Mentions for Best Pictorial
 
-__Foregrounding Everyday Sounds in Dementia__</br>
-_Maarten Houben (TU/e), Rens Brankaert (TU/e), Saskia Bakker (TU/e), 
-Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), and
-Berry Eggen (TU/e)_</br>
+__Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
+_Sarah Homewood (IT University Copenhagen), Harvey Bewley (IT University Copenhagen), and Laurens Boer (IT University Copenhagen)_</br>
 
-__Clearing the Smoke: The Changing Identities and Work of Firefighters__</br>
-_Alyssa Rumsey (Georgia Institute of Technology) and Christopher Le Dantec (Georgia Institute of Technology)_</br>
+__Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
+_Vera Khovanskaya (Cornell University) and Phoebe Sengers (Cornell University)_</br>
 
-__MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction__</br>
-_Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder),
-Satoshi Nakamaru (Keio University), Ryuma Niiyama (University of Tokyo), 
-Yoshihiro Kawahara (University of Tokyo), Yasuaki Kakehi (University of Tokyo)_</br>
+__See the World Through the Eyes of a Child__ </br>
+_Catia Prandi (Madeira Interactive Technologies Institute), Marta Ferreira (Instituto Superior Técnico), 
+Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
+</br>
 
-__Design in the HCI Classroom: Setting a Research Agenda__</br>
-_Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology),
-and Qiaosi Wang (Georgia Institute of Technology)_ </br>
+# Best Provocation
+
+__How the Design of Social Technology Fails Rural America__ </br>
+_Jean Hardy (University of Michigan)_ </br>
+</br>
+
+# Best Works-In-Progress
+
+__Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__ </br>
+_Jens Emil Grønbæk (Aarhus University), Christine Linding (Aarhus University), 
+Anders Kromann (Aarhus University), Thomas Fly Hylddal Jensen (Aarhus University),
+and Marianne Graves Petersen (Aarhus University)_</br>
+</br>
+
 
 
 
