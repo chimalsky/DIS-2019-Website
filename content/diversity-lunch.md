@@ -28,7 +28,6 @@ __Designing Interactive Manual Wheelchair Skills Training for Children__ </br>
 Kathrin Gerling, Kieran Hicks, Olivier Szymanezyk, and Conor Linehan</br>
 </br>
 
-</br>
 ## Event Details: </br> 
 Lunch boxes with several options (including vegetarian and vegan)</br> 
 - Date: Wednesday, June 26th </br> 
@@ -37,6 +36,8 @@ Lunch boxes with several options (including vegetarian and vegan)</br>
 - Cost: Free with prior registration. Please register using the following form: https://forms.gle/AYyKyuXoPSaDHt9D6 </br> 
 
 Please note that spaces are limited so please register early. We will confirm your registration prior to the beginning of the conference.</br> 
+
+</br>
 
 Accessibility and Diversity Chairs:</br> 
 Foad Hamidi, University of Maryland Baltimore County (UMBC)</br> 
