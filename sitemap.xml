@@ -87,6 +87,12 @@
   </url>
   
   <url>
+    <loc>/diversity-lunch/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/consortium/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
