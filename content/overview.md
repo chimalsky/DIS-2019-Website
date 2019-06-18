@@ -72,6 +72,8 @@ _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), S
 ## Wednesday, June 26, 12:30 — 2:00 PM
 ## Room: Hyatt Regency Mission Bay 
 ### Diversity Lunch Organizers: Foad Hamidi and Stacy Branham
+
+Please visit the [Diversity and Inclusion Lunch](https://dis2019.com/diversity-lunch/) page to sign up for the event. </br>
 </br>
 
 # Track 2: Well-Being
