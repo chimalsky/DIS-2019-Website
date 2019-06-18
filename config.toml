@@ -407,43 +407,43 @@ enableGitInfo = false
 [[menu.main]]  
   name = "DIS 2019 Panels"
   url = "/panels"
-  weight = 1.5
+  weight = 2
   parent = "program"    
   
 [[menu.main]]  
   name = "Joint DIS and C&C Program Overview"
   url = "/program"
-  weight = 2
+  weight = 3
   parent = "program"
   
   [[menu.main]]  
   name = "Joint DIS and C&C Diversity and Inclusion Lunch"
   url = "/diversity-lunch"
-  weight = 3
+  weight = 4
   parent = "program" 
   
  [[menu.main]]  
   name = "Joint DIS and C&C Art Exhibition"
   url = "/exhibition"
-  weight = 4
+  weight = 5
   parent = "program"
   
 [[menu.main]]  
   name = "Accepted DIS Workshops"
   url = "/accepted-workshops"
-  weight = 5
+  weight = 6
   parent = "program"
  
  [[menu.main]]  
   name = "Accepted DIS PWiPs"
   url = "/accepted-PWiPs"
-  weight = 6
+  weight = 7
   parent = "program"
   
  [[menu.main]]  
   name = "DIS 2019 Awards and Recognition"
   url = "/awards"
-  weight = 7
+  weight = 8
   parent = "program"
   
  
