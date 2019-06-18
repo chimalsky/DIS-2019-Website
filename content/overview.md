@@ -234,7 +234,7 @@ ___Honourable Mention Award___ </br>
 _Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley (Lancaster University)_</br>
 
 __Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems__</br>
-___Honourable Mention Pictorial Award___</br>
+___Honourable Mention Pictorial Recognition___</br>
 _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
 
@@ -250,7 +250,7 @@ __Paper: Phosphenes: Crafting Resistive Heaters within Thermoreactive Composites
 _Cesar Torres (UC Berkeley), Jessica Chang (UC Berkeley), Advaita Patel (UC Berkeley), Eric Paulos (UC Berkeley)_</br>
 
 __Pictorial: Sensing Kirigami__</br>
-___Best Pictorial Award___</br>
+___Best Pictorial Recognition___</br>
 _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado Boulder), Ellen Yi-Luen Do (University of Colorado Boulder)_</br>
 
 __Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI__</br>
@@ -272,7 +272,7 @@ __Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Curren
 _Sarah Fox (University of California, San Diego), Noura Howell (University of California), Richmond Wong (University of California Berkeley), Franchesca Spektor (University of California, Berkeley)_</br>
 
 __Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
-___Honourable Mention Pictorial Award___</br>
+___Honourable Mention Pictorial Recognition___</br>
 _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)_</br>
 </br>
 
@@ -446,7 +446,7 @@ __Pictorial: Diversifying the Domestic: A Design Inquiry into Collective and Mob
 _William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)_</br>
 
 __Pictorial: Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
-___Honourable Mention Pictorial Award___</br>
+___Honourable Mention Pictorial Recognition___</br>
 _Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)_</br>
 
 __Pictorial: Design and Diversity? Speculations on What Could Go Wrong__</br>
