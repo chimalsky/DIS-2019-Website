@@ -18,7 +18,6 @@ Virtual reality’s painstakingly created virtuous identity as the “empathy ma
 Lisa Nakamura is Gwendolyn Calvert Baker Collegiate Professor of American Culture at the University of Michigan, Ann Arbor.  She is the inaugural Director of the Digital Studies Institute at the University of Michigan and a founding member of the Precarity Lab collective (precaritylab.org)
  
 She is the author of four books on race, gender, and digital media and gaming and is currently working on a book on women of color and the Internet.  Her areas of interest include histories of indigenous electronic manufacture in post-war America, content moderation by women of color on social media, and virtual reality’s claims to produce racial and gender empathy.</br> 
-</br>
 
 ## Discussants
 
