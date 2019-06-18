@@ -68,6 +68,12 @@ __Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alte
 _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz_</br>
 </br>
 
+# Joint DIS and C&C Diversity and Inclusion Lunch
+## Wednesday, June 26, 12:30 — 2:00 PM
+## Room: Hyatt Regency Mission Bay 
+### Diversity Lunch Organizers: Foad Hamidi and Stacy Branham
+</br>
+
 # Track 2: Well-Being
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
 ## Room: Bayview 2
@@ -177,6 +183,17 @@ _Daphne Muller (University of Technology Eindhoven), Pierre Levy (Eindhoven Univ
 
 __Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis and Automated Decision-Making__</br>
 _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
+</br>
+
+# DIS Town Hall
+## Wednesday, June 26, 5:30 – 6:30 PM
+## Room: Mission 2/ 3
+</br>
+
+
+# DIS Conference Banquet
+## Wednesday, June 26, 6:00 – 9:00 PM
+## Room: Banyan Court and Lawn
 </br>
 
 # Thursday</br>
