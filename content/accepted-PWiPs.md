@@ -25,7 +25,7 @@ _Peter Gyory (University of Colorado Boulder, United States), Clement Zheng (Uni
 </br> 
 
 __How the Design of Social Technology Fails Rural America__</br>
-___Best Provocation Recognition___</br> 
+___Best Provocation___</br> 
 _Jean Hardy (University of Michigan, United States)_
 </br> 
 
@@ -70,7 +70,7 @@ _Aakash Gautam (Virginia Tech, United States), Deborah Tatar (Virginia Tech, Uni
 </br> 
 
 __Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__</br>
-___Best Works-In-Progress Recognition___ </br>
+___Best Works-In-Progress___ </br>
 _Jens Emil Grønbæk (Aarhus University, Denmark), Christine Linding (Aarhus University, Denmark), Anders Kromann (Aarhus University, Denmark), Thomas Fly Hylddal Jensen (Aarhus University, Denmark), Marianne Graves Petersen (Aarhus University, Denmark)_
 </br> 
 
