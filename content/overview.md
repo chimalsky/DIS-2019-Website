@@ -414,6 +414,12 @@ __Paper: Satisfying a Conversation with Materials for Dynamic Fabrics__</br>
 _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)_</br>
 </br>
 
+# DIS Poster and Demo Reception
+## Thursday, June 27, 6:30 PM – 8:30 PM
+## Room: Regatta Pavillion
+### Session Chair: Lone Hansen and Norman Su 
+</br>
+
 # Friday</br>
 
 # Track 1: Automaticity
@@ -443,7 +449,7 @@ __Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology i
 _Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
 __Paper: Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
-___Honourable Mention Award___ </br>
+___Honourable Mention Award___</br>
 _Karey Helms (KTH Royal Institute of Technology)_</br>
 
 __Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children__</br>
