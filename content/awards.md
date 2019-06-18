@@ -54,13 +54,13 @@ __Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
 _Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), and Guy Hoffman (Cornell University)_</br>
 </br>
 
-# Best Pictorial
+# Best Pictorial Recognition
 
 __Sensing Kirigami__</br>
 _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado, Boulder), Ellen Yi-Luen Do (University of Colorado, Boulder)_</br>
 </br>
 
-# Honourable Mentions for Best Pictorial
+# Honourable Mention Recognition for Best Pictorial
 
 __Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
 _Sarah Homewood (IT University Copenhagen), Harvey Bewley (IT University Copenhagen), and Laurens Boer (IT University Copenhagen)_</br>
@@ -73,13 +73,13 @@ _Catia Prandi (Madeira Interactive Technologies Institute), Marta Ferreira (Inst
 Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
 
-# Best Provocation
+# Best Provocation Recognition
 
 __How the Design of Social Technology Fails Rural America__ </br>
 _Jean Hardy (University of Michigan)_ </br>
 </br>
 
-# Best Works-In-Progress
+# Best Works-In-Progress Recognition
 
 __Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__ </br>
 _Jens Emil Grønbæk (Aarhus University), Christine Linding (Aarhus University), 
