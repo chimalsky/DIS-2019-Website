@@ -1,5 +1,5 @@
 ---
-title:"DIS 2019 Panels"
+title: "DIS 2019 Panels"
 ---
 
 # Theory and Its Obligations</br>
