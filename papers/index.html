@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <title>Papers - DIS 2019</title>
+  
+  <meta name="description" content="Full papers published at DIS2019 are ACM archival publications and will be made available through the ACM in the Digital Library. DIS 2019 will be held jointly with the Creativity and Cognition (C&amp;C) 2019 conference. There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&amp;C and DIS.">
+  <meta name="author" content="">
+  
+  <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700|Open+Sans" rel="stylesheet">
+  
+  <link href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/atom-one-dark.min.css" rel="stylesheet">
+  <link href="/css/vendor/foundation.min.css" rel="stylesheet">
+  <link href="/css/style.css" rel="stylesheet">
+  <link href="/css/custom.css" rel="stylesheet">
+
+  
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="icon" href="/img/favicon.ico">
+  
+  <meta name="generator" content="Hugo 0.48">
+  
+  <link rel="alternate" type="application/atom+xml" href="/index.xml" title="DIS 2019">
+  
+</head>
+<body class="single">
+  <a href="#main" class="skip-link">Skip to main content</a>
+
+  <header class="header site-header grid-x grid-padding-y align-middle">
+    <a class="cell shrink" href="/">
+      <div class="site-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.73 40.01"><defs></defs><title>yAsset 5</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M75.51.48h3.36V19.34H75.51Z"/><path class="cls-1" d="M99.17,4.53A3.1,3.1,0,0,0,97.75,3.4,5,5,0,0,0,95.87,3a4.76,4.76,0,0,0-1.13.13,3.08,3.08,0,0,0-1,.43,2.23,2.23,0,0,0-.71.76,2.19,2.19,0,0,0-.27,1.11,1.73,1.73,0,0,0,.67,1.47,6.53,6.53,0,0,0,1.65.88q1,.37,2.16.72a8.79,8.79,0,0,1,2.16,1,5.35,5.35,0,0,1,1.65,1.63,4.83,4.83,0,0,1,.67,2.69,5.92,5.92,0,0,1-.56,2.65,5.4,5.4,0,0,1-1.51,1.88,6.51,6.51,0,0,1-2.2,1.12,9.2,9.2,0,0,1-2.64.37,9.9,9.9,0,0,1-3.38-.59,6.51,6.51,0,0,1-2.8-2l2.53-2.45a4.23,4.23,0,0,0,1.61,1.45,4.53,4.53,0,0,0,2.12.52,4.44,4.44,0,0,0,1.17-.16,3.63,3.63,0,0,0,1.07-.48,2.5,2.5,0,0,0,.77-.81,2.17,2.17,0,0,0,.29-1.13,2,2,0,0,0-.67-1.6,5.9,5.9,0,0,0-1.65-.95q-1-.39-2.16-.73A9.06,9.06,0,0,1,91.58,10a5.24,5.24,0,0,1-1.65-1.6,4.76,4.76,0,0,1-.67-2.68,5.08,5.08,0,0,1,.6-2.53A5.48,5.48,0,0,1,91.43,1.4,6.87,6.87,0,0,1,93.66.35,9.56,9.56,0,0,1,96.22,0a9.33,9.33,0,0,1,2.89.45,6.7,6.7,0,0,1,2.52,1.49Z"/><path class="cls-1" d="M64.67,5.74A8.53,8.53,0,0,0,62.54,2.8a8.75,8.75,0,0,0-3.06-1.75,11.39,11.39,0,0,0-3.6-.57H51V3.53h.81v0h3.06a10.56,10.56,0,0,1,2.84.36A6.17,6.17,0,0,1,59.94,5a5.11,5.11,0,0,1,1.48,2A7.33,7.33,0,0,1,62,9.91a6.59,6.59,0,0,1-.6,2.94,5.31,5.31,0,0,1-1.64,2,7.07,7.07,0,0,1-2.44,1.12,11.9,11.9,0,0,1-3,.36H51.8v0H51v3.06h4.49A11.26,11.26,0,0,0,59,18.77,10.11,10.11,0,0,0,62.18,17a8.76,8.76,0,0,0,3.29-7.13A10.07,10.07,0,0,0,64.67,5.74Z"/><path class="cls-1" d="M51.1,37.08l4.49-4a8.4,8.4,0,0,0,.69-.7,1.34,1.34,0,0,0,.34-.91,1.11,1.11,0,0,0-.42-.92,1.56,1.56,0,0,0-1-.33,1.37,1.37,0,0,0-1.07.42,1.71,1.71,0,0,0-.43,1l-2.45-.18a4,4,0,0,1,.38-1.56,3.28,3.28,0,0,1,.87-1.1,3.64,3.64,0,0,1,1.27-.66,5.4,5.4,0,0,1,1.58-.22,4.77,4.77,0,0,1,1.47.22,3.42,3.42,0,0,1,1.19.65,3,3,0,0,1,.79,1.09,3.77,3.77,0,0,1,.29,1.52,4.08,4.08,0,0,1-.11,1,3.41,3.41,0,0,1-.32.82,3.74,3.74,0,0,1-.48.68,7.94,7.94,0,0,1-.6.6l-3.51,3h5.13v2.16H51.1Z"/><path class="cls-1" d="M64.75,33.9a12,12,0,0,1,.19-2.09,6.12,6.12,0,0,1,.67-1.93,4,4,0,0,1,1.31-1.41,4.39,4.39,0,0,1,4.25,0,4,4,0,0,1,1.31,1.41,6.13,6.13,0,0,1,.67,1.93,11.73,11.73,0,0,1,0,4.18,6.13,6.13,0,0,1-.67,1.93,4,4,0,0,1-1.31,1.41,4.39,4.39,0,0,1-4.25,0,4,4,0,0,1-1.31-1.41A6.11,6.11,0,0,1,64.94,36,12,12,0,0,1,64.75,33.9Zm2.45,0q0,.46,0,1.09a5.33,5.33,0,0,0,.22,1.22,2.6,2.6,0,0,0,.55,1,1.51,1.51,0,0,0,2.07,0,2.55,2.55,0,0,0,.56-1A5.36,5.36,0,0,0,70.85,35q0-.64,0-1.09t0-1.09a5.36,5.36,0,0,0-.22-1.22,2.55,2.55,0,0,0-.56-1,1.51,1.51,0,0,0-2.07,0,2.6,2.6,0,0,0-.55,1,5.33,5.33,0,0,0-.22,1.22Q67.2,33.44,67.2,33.9Z"/><path class="cls-1" d="M82.83,30.86l-2.32,2-1.39-1.6,3.77-3.18h2.29V39.68H82.83Z"/><path class="cls-1" d="M97,35.55l-.39.08a2.47,2.47,0,0,1-.41,0,3.66,3.66,0,0,1-1.49-.29,3.43,3.43,0,0,1-1.14-.8,3.58,3.58,0,0,1-.73-1.2,4.16,4.16,0,0,1-.26-1.48A3.77,3.77,0,0,1,93.84,29a4.12,4.12,0,0,1,1.36-.81,5.16,5.16,0,0,1,3.39,0A4.11,4.11,0,0,1,100,29a3.77,3.77,0,0,1,1.25,2.87A5.25,5.25,0,0,1,101.1,33a6,6,0,0,1-.3,1,6.25,6.25,0,0,1-.44.87l-.53.86-2.53,4h-3ZM95,32a1.76,1.76,0,0,0,.51,1.3,2,2,0,0,0,2.69,0,1.9,1.9,0,0,0,0-2.6,2,2,0,0,0-2.69,0A1.76,1.76,0,0,0,95,32Z"/><polygon class="cls-1" points="3.89 40.01 23.99 20.02 3.96 0.02 0 0.02 0 3.91 15.99 20.02 0 36.05 0 40.01 3.89 40.01"/><polygon class="cls-1" points="0 27.98 8 20.02 0 12.05 0 27.98"/><polygon class="cls-1" points="36.1 0.02 15.99 20.02 36.02 40.01 39.99 40.01 39.99 36.12 23.99 20.02 39.99 3.98 39.99 0.02 36.1 0.02"/><polygon class="cls-1" points="39.99 12.05 31.99 20.02 39.99 27.98 39.99 12.05"/><polygon class="cls-1" points="12.03 0.02 19.99 8.02 27.95 0.02 12.03 0.02"/><polygon class="cls-1" points="27.95 40.01 19.99 32.01 12.03 40.01 27.95 40.01"/></g></g></svg>
+      </div>
+    </a>
+    
+    <div data-responsive-toggle="site-nav" data-hide-for="medium">
+    <button class="menu-toggle" data-toggle="site-nav" type="button">MENU</button>
+</div>
+
+<nav id="site-nav" class="menu cell medium-shrink hide">
+    <ul class="dropdown menu" data-dropdown-menu 
+    data-disable-hover="true" 
+    data-click-open="true"
+    data-close-on-click="true">
+        
+        
+        <li 
+         class="is-dropdown-submenu-parent"
+        >
+            <a href="#">Submit</a>
+
+                        
+            <ul class="menu">
+                
+                <li>
+                    <a href="/cfp">
+                    Call for Proposals
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/papers">
+                    Papers
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/pictorials">
+                    Pictorials
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/consortium">
+                    Doctoral Consortium
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/demos">
+                    Demos
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/provocations_wips">
+                    Provocations and WIPs
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/workshops">
+                    Workshops
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/artexhibition">
+                    Art Exhibition
+                    </a>
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+        <li 
+         class="is-dropdown-submenu-parent"
+        >
+            <a href="#">Attending</a>
+
+                        
+            <ul class="menu">
+                
+                <li>
+                    <a href="/registration">
+                    Conference Registration
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/travel">
+                    Travel and Hotel Information
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/presenter-guidelines">
+                    Presenter Inclusivity Guidelines
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/sc-guidelines">
+                    Session Chair Inclusivity Guidelines
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/accessibility-faq">
+                    DIS and C&amp;C Accessibility FAQ
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/diversity">
+                    Diversity and Inclusion Statement
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/sv">
+                    SV Application
+                    </a>
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+        <li 
+         class="is-dropdown-submenu-parent"
+        >
+            <a href="#">Program</a>
+
+                        
+            <ul class="menu">
+                
+                <li>
+                    <a href="/panels">
+                    DIS 2019 Panels
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/overview">
+                    DIS Program Overview
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/program">
+                    Joint DIS and C&amp;C Program Overview
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/diversity-lunch">
+                    Joint DIS and C&amp;C Diversity and Inclusion Lunch
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/exhibition">
+                    Joint DIS and C&amp;C Art Exhibition
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/accepted-workshops">
+                    Accepted DIS Workshops
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/accepted-pwips">
+                    Accepted DIS PWiPs
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/awards">
+                    DIS 2019 Awards and Recognition
+                    </a>
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+        <li 
+         class="is-dropdown-submenu-parent"
+        >
+            <a href="#">Keynotes</a>
+
+                        
+            <ul class="menu">
+                
+                <li>
+                    <a href="/dis_keynotes">
+                    DIS Keynotes
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/joint_keynote">
+                    Joint DIS and C&amp;C Keynote
+                    </a>
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+        <li 
+         class="is-dropdown-submenu-parent"
+        >
+            <a href="#">Organizers</a>
+
+                        
+            <ul class="menu">
+                
+                <li>
+                    <a href="/organizers">
+                    Organizers
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/acs">
+                    Paper Associate Chairs
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="/steering">
+                    DIS Steering Committee
+                    </a>
+                </li>
+                
+            </ul>
+            
+        </li>
+        
+        <li >
+            <a href="/sponsor">Sponsor</a>
+
+            
+        </li>
+        
+    </ul>
+</nav>
+
+  </header>
+
+  <div class="main-container">
+  <main id="main" class="main grid-container">
+
+<section id="Papers" class="grid-container grid-x grid-margin-x align-center markdown light">
+  <article class="cell medium-10 large-9">
+    <header class="post-header">
+      <h1 class="post-title">Papers</h1>
+      <p class="post-meta">
+      </p>
+    </header>
+    <div class="post-content">
+
+<p>Full papers published at DIS2019 are ACM archival publications and will be made available through the <a href="http://dl.acm.org" target="_blank">ACM in the Digital Library</a>. DIS 2019 will be held jointly with the <a href="http://cc.acm.org/2019/" target="_blank">Creativity and Cognition (C&amp;C) 2019 conference</a>. There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&amp;C and DIS.</p>
+
+<p></br></p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Timeline</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Abstract and title due:</strong></td>
+<td>Tuesday, January 15, 2019 (17:00 PST)</td>
+</tr>
+
+<tr>
+<td><strong>Paper submission deadline:</strong></td>
+<td>Friday, January 18, 2019 (17:00 PST)</td>
+</tr>
+
+<tr>
+<td><strong>External reviews due:</strong></td>
+<td>Friday, March 1, 2019</td>
+</tr>
+
+<tr>
+<td><strong>Virtual Program Committee Meeting</strong> </br> with all Associate Chairs (AC’s), </br> Subcommittee Chairs (SC’s), </br> and Technical Chairs (TC’s)</br> (General Chairs (GC’s) will observe):</td>
+<td>Mon/Tues, March 18 and 19, 2019</td>
+</tr>
+
+<tr>
+<td><strong>Paper notifications to authors:</strong></td>
+<td>Thursday, March 21, 2019</td>
+</tr>
+
+<tr>
+<td><strong>Papers camera ready deadline:</strong></td>
+<td>Wednesday, April 17, 2019</td>
+</tr>
+
+<tr>
+<td><strong>Conference:</strong></td>
+<td>June 23-28, 2019</td>
+</tr>
+</tbody>
+</table>
+
+<p></br></p>
+
+<h2 id="subcommittees">Subcommittees</h2>
+
+<p>DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences):</p>
+
+<h3 id="critical-computing-and-design-theory">Critical Computing and Design Theory</h3>
+
+<p>Critical computing and design theory have contributed to one another for decades. This subcommittee seeks papers that carry this work into a new generation&ndash;exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. <a href="mailto:theory_criticalcomputing_sc@dis2019.acm.org" target="_blank">Contact the Critical Computing and Design Theory subcommittee</a>.</p>
+
+<h3 id="design-methods-and-processes">Design Methods and Processes</h3>
+
+<p>Share your inventions and insights that open up new spaces for design, allow for engagement with new, difficult to access communities, and enable designers to play with exciting new materials. This subcommittee seeks papers that document, innovate and/or advance the methods and processes used by UX and service design practitioners; user researchers from industry, academia, and NGOs; and academic design researchers working in HCI and interaction design. <a href="mailto:methods_processes_sc@dis2019.acm.org" target="_blank">Contact the Design Methods and Processes subcommittee</a>.</p>
+
+<h3 id="experiences-artifacts-and-technology">Experiences, Artifacts, and Technology</h3>
+
+<p>Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered. <a href="mailto:artifacts_experiences_sc@dis2019.acm.org" target="_blank">Contact the Experiences, Artifacts, and Technology subcommittee</a>.</p>
+
+<h3 id="change-through-design">Change Through Design</h3>
+
+<p>Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. <a href="mailto:change_sc@dis2019.acm.org" target="_blank">Contact the Change Through Design subcommittee</a>.</p>
+
+<h2 id="special-note-on-broader-impact">Special Note on Broader Impact</h2>
+
+<p>At DIS2019, all submissions will be assessed based on their <a href="https://acm-fca.org/2018/03/29/negativeimpacts/" target="_blank">broader impact to society</a>. We encourage authors to address the positive and negative, actual and potential, and/or pragmatic significance of their work; that is, they should engage with substantive and reflective discussions of the impact of their research beyond a narrow intellectual contribution to the field.</p>
+
+<p></br></p>
+
+<h2 id="preparing">Preparing and Submitting Your Submissions</h2>
+
+<h2 id="abstract-and-title-submissions">Abstract and Title Submissions</h2>
+
+<p>DIS 2019 has two submission deadlines for papers. The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences. We will use this information to help plan the specifics of the review process and subcommittee work. The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.</p>
+
+<h2 id="paper-formatting-and-length">Paper Formatting and Length</h2>
+
+<p>All submissions should be formatted using the following templates: </br>
+*<a href="https://www.dropbox.com/s/703ih7giiyd4335/DIS19-Sample-Paper.docx?dl=0" target="_blank">Word Papers template</a> </br>
+*<a href="https://www.dropbox.com/s/4piuua92z4eci16/DIS19-Latex-Papers.zip?dl=0" target="_blank">Latex Papers template</a> </br></p>
+
+<h3 id="dec-18-2018-we-have-chosen-to-not-use-the-new-paper-layouts-produced-by-acm-instead-we-will-be-using-the-sigchi-paper-format-that-was-updated-for-the-acm-tei-2019-conference">Dec 18, 2018: We have chosen to not use the new paper layouts produced by ACM. Instead, we will be using the SIGCHI paper format that was updated for the ACM TEI 2019 conference.</h3>
+
+<p>Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.</p>
+
+<p>We no longer have the category of “Notes”; however, you may submit a paper that is shorter than 10 pages that will be reviewed based on its contribution.</p>
+
+<p>All Papers must present original, unpublished research. Papers are not allowed to be under concurrent review with other conferences, journals, or venues.</p>
+
+<h2 id="anonymity">Anonymity</h2>
+
+<p>Papers should be anonymised for blind peer review. Authors are expected to remove author and institutional identity from the title and header of the paper, as well as any information embedded within the meta-data of the submission file. Suppression of identity in the body of the paper is left up to the discretion of authors. However, reviewers must be able to compare your current submission to other related work in the area. In many situations, this is the author’s own work found in other papers. We ask that if you are citing your own work, you refer to it in the third person as opposed to removing it completely because of blind review. <em>For example, rather than stating, “This study builds on our prior work [removed for anonymity],” please refer to it in the third person, such as, “This study builds on prior work by &lt;authors, where you list your names&gt; [2].”</em>  Thus, you should be including the full citation to the prior work in the references list, rather than removing it.</p>
+
+<h2 id="submission">Submission</h2>
+
+<p>You must submit your Notice of Intent (NOI) to submit a Paper to the PCS <a href="https://new.precisionconference.com/submissions" target="_blank">submission system</a> by January 15, 2019. The NOI is an entry in PCS with tentative author names, title and abstract. You can make changes as many times as you like before the final submission deadline on January 18, 2019. Note that this represents a compromise between the tight review schedule this year and the submission deadline being close to public holidays. There will be no further extensions!</p>
+
+<p>As part of the submission process, authors must submit an abstract, keywords, and meta-data related to the submission’s contents. Authors will also be asked to select a ranked list of between one and three subcommittees that fit their paper. This selection will be used to assign your Paper to one of the review subcommittees/themes.  It is not necessarily the case that your submission will be handled by the subcommittee that you choose as a first preference.</p>
+
+<h2 id="review-process">Review Process</h2>
+
+<p>Papers follow a rigorous blind peer review process. This process is managed by the Technical Program Chairs (TCs), the Subcommittee Chairs (SCs) for each theme, and Associate Chairs (ACs). Confidentiality of submissions is maintained throughout the review process.</p>
+
+<p>After the submission deadline, each paper will be assigned to a subcommittee based on the themes selected during the PCS submission process, and at the discretion of the technical program chairs.</p>
+
+<p>SCs will then assign each paper to a primary AC (1AC) as well as a secondary AC (2AC). Each AC will find one external reviewer for each of their assigned papers. Thus, each paper will be assigned two ACs (one 1AC and one 2AC) along with two external reviewers. As part of this process, we will strive to find ACs and reviewers who are experts in the topic area of each submission.
+During the review period, external reviewers will write a detailed review of their assigned papers and assess the contribution of the research to the field. The 2AC will also write a detailed review of their assigned papers. Thus, each submitted paper will receive three detailed reviews in total.</p>
+
+<p>After the reviews have been written, the 1AC for a paper will ensure scholarly content and broader impact of reviews and write a meta review of the paper that summarises the reviews from the two external reviewers and the 2AC.  If 1ACs disagree with the other reviews, they will be encouraged to write a review as well as a meta-review; we will strive to distinguish between the 1AC&rsquo;s assessment of the paper and the summarization of the other reviews.</p>
+
+<p>The 1AC will present a recommendation for the paper’s acceptance or rejection to the SC responsible for the paper, who will review meta reviews and spot check reviews.</p>
+
+<p>SCs and ACs will meet at a virtual program committee meeting with the TCs to discuss the final acceptance of papers for inclusion in the DIS 2019 program.</p>
+
+<h2 id="upon-acceptance-of-your-paper-or-note">Upon Acceptance of Your Paper or Note</h2>
+
+<p>Authors will be notified of conditional acceptance or rejection of their Paper or Note on or before the notification date of March 21, 2019. Meta reviews will describe any further changes that the authors are expected to make to the paper prior to its publication. These should be made as part of a “camera ready submission” into PCS by the deadline of April 17, 2019. Final changes will be checked by members of the program committee prior to making a final acceptance of the paper. If authors are unable to meet the requirements for changes, the program chairs will be notified and may reject the paper.</p>
+
+<p>All accepted submissions require a signed form assigning copyright or licence to the ACM, or an upfront fee to ACM to enable Open Access. Responsibility for obtaining permissions to use video, audio, or pictures of identifiable people or proprietary content rests with the author, not the ACM or the DIS conference.</p>
+
+<p>Additionally, each accepted submission requires a full conference registration fee to be paid, unless the person presenting the Paper is a first-author student, in which case, a student registration fee has to be paid.</p>
+
+<p>All published papers will appear online in the ACM Digital Library and be distributed digitally to conference delegates as part of the conference proceedings.</p>
+
+<p>At the conference, authors of accepted papers must be in attendance to present their papers and answer questions from the audience. Presenters of Papers will have a presentation slot of approximately 20 minutes, though this may be altered prior to the conference based on scheduling needs.  Papers whose authors are not at the conference to present may be removed from the ACM Digital Library and the conference proceedings.</p>
+
+<p></br></p>
+
+<h2 id="dis2019-technical-program-chairs-br">DIS2019 Technical Program Chairs </br></h2>
+
+<p>Carman Neustaedter (Simon Fraser University) &amp; Deborah Tatar (Virginia Tech) </br></p>
+
+<p><a href="mailto:technicalchairs@dis2019.acm.org" target="_blank">technicalchairs [AT] dis2019.acm.org</a></p>
+</div>
+    <footer class="post-footer">
+      
+    </footer>
+    
+    
+    
+    
+  </article>
+</section>
+
+</main>
+</div> 
+
+<footer class="site-footer footer grid-margin-y">
+  <section class="cell grid-container grid-x grid-margin-y">
+    <div class="cell medium-shrink grid-margin-y">
+      <a class="cell" href="/">
+        <div class="site-logo">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.73 40.01"><defs></defs><title>yAsset 5</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M75.51.48h3.36V19.34H75.51Z"/><path class="cls-1" d="M99.17,4.53A3.1,3.1,0,0,0,97.75,3.4,5,5,0,0,0,95.87,3a4.76,4.76,0,0,0-1.13.13,3.08,3.08,0,0,0-1,.43,2.23,2.23,0,0,0-.71.76,2.19,2.19,0,0,0-.27,1.11,1.73,1.73,0,0,0,.67,1.47,6.53,6.53,0,0,0,1.65.88q1,.37,2.16.72a8.79,8.79,0,0,1,2.16,1,5.35,5.35,0,0,1,1.65,1.63,4.83,4.83,0,0,1,.67,2.69,5.92,5.92,0,0,1-.56,2.65,5.4,5.4,0,0,1-1.51,1.88,6.51,6.51,0,0,1-2.2,1.12,9.2,9.2,0,0,1-2.64.37,9.9,9.9,0,0,1-3.38-.59,6.51,6.51,0,0,1-2.8-2l2.53-2.45a4.23,4.23,0,0,0,1.61,1.45,4.53,4.53,0,0,0,2.12.52,4.44,4.44,0,0,0,1.17-.16,3.63,3.63,0,0,0,1.07-.48,2.5,2.5,0,0,0,.77-.81,2.17,2.17,0,0,0,.29-1.13,2,2,0,0,0-.67-1.6,5.9,5.9,0,0,0-1.65-.95q-1-.39-2.16-.73A9.06,9.06,0,0,1,91.58,10a5.24,5.24,0,0,1-1.65-1.6,4.76,4.76,0,0,1-.67-2.68,5.08,5.08,0,0,1,.6-2.53A5.48,5.48,0,0,1,91.43,1.4,6.87,6.87,0,0,1,93.66.35,9.56,9.56,0,0,1,96.22,0a9.33,9.33,0,0,1,2.89.45,6.7,6.7,0,0,1,2.52,1.49Z"/><path class="cls-1" d="M64.67,5.74A8.53,8.53,0,0,0,62.54,2.8a8.75,8.75,0,0,0-3.06-1.75,11.39,11.39,0,0,0-3.6-.57H51V3.53h.81v0h3.06a10.56,10.56,0,0,1,2.84.36A6.17,6.17,0,0,1,59.94,5a5.11,5.11,0,0,1,1.48,2A7.33,7.33,0,0,1,62,9.91a6.59,6.59,0,0,1-.6,2.94,5.31,5.31,0,0,1-1.64,2,7.07,7.07,0,0,1-2.44,1.12,11.9,11.9,0,0,1-3,.36H51.8v0H51v3.06h4.49A11.26,11.26,0,0,0,59,18.77,10.11,10.11,0,0,0,62.18,17a8.76,8.76,0,0,0,3.29-7.13A10.07,10.07,0,0,0,64.67,5.74Z"/><path class="cls-1" d="M51.1,37.08l4.49-4a8.4,8.4,0,0,0,.69-.7,1.34,1.34,0,0,0,.34-.91,1.11,1.11,0,0,0-.42-.92,1.56,1.56,0,0,0-1-.33,1.37,1.37,0,0,0-1.07.42,1.71,1.71,0,0,0-.43,1l-2.45-.18a4,4,0,0,1,.38-1.56,3.28,3.28,0,0,1,.87-1.1,3.64,3.64,0,0,1,1.27-.66,5.4,5.4,0,0,1,1.58-.22,4.77,4.77,0,0,1,1.47.22,3.42,3.42,0,0,1,1.19.65,3,3,0,0,1,.79,1.09,3.77,3.77,0,0,1,.29,1.52,4.08,4.08,0,0,1-.11,1,3.41,3.41,0,0,1-.32.82,3.74,3.74,0,0,1-.48.68,7.94,7.94,0,0,1-.6.6l-3.51,3h5.13v2.16H51.1Z"/><path class="cls-1" d="M64.75,33.9a12,12,0,0,1,.19-2.09,6.12,6.12,0,0,1,.67-1.93,4,4,0,0,1,1.31-1.41,4.39,4.39,0,0,1,4.25,0,4,4,0,0,1,1.31,1.41,6.13,6.13,0,0,1,.67,1.93,11.73,11.73,0,0,1,0,4.18,6.13,6.13,0,0,1-.67,1.93,4,4,0,0,1-1.31,1.41,4.39,4.39,0,0,1-4.25,0,4,4,0,0,1-1.31-1.41A6.11,6.11,0,0,1,64.94,36,12,12,0,0,1,64.75,33.9Zm2.45,0q0,.46,0,1.09a5.33,5.33,0,0,0,.22,1.22,2.6,2.6,0,0,0,.55,1,1.51,1.51,0,0,0,2.07,0,2.55,2.55,0,0,0,.56-1A5.36,5.36,0,0,0,70.85,35q0-.64,0-1.09t0-1.09a5.36,5.36,0,0,0-.22-1.22,2.55,2.55,0,0,0-.56-1,1.51,1.51,0,0,0-2.07,0,2.6,2.6,0,0,0-.55,1,5.33,5.33,0,0,0-.22,1.22Q67.2,33.44,67.2,33.9Z"/><path class="cls-1" d="M82.83,30.86l-2.32,2-1.39-1.6,3.77-3.18h2.29V39.68H82.83Z"/><path class="cls-1" d="M97,35.55l-.39.08a2.47,2.47,0,0,1-.41,0,3.66,3.66,0,0,1-1.49-.29,3.43,3.43,0,0,1-1.14-.8,3.58,3.58,0,0,1-.73-1.2,4.16,4.16,0,0,1-.26-1.48A3.77,3.77,0,0,1,93.84,29a4.12,4.12,0,0,1,1.36-.81,5.16,5.16,0,0,1,3.39,0A4.11,4.11,0,0,1,100,29a3.77,3.77,0,0,1,1.25,2.87A5.25,5.25,0,0,1,101.1,33a6,6,0,0,1-.3,1,6.25,6.25,0,0,1-.44.87l-.53.86-2.53,4h-3ZM95,32a1.76,1.76,0,0,0,.51,1.3,2,2,0,0,0,2.69,0,1.9,1.9,0,0,0,0-2.6,2,2,0,0,0-2.69,0A1.76,1.76,0,0,0,95,32Z"/><polygon class="cls-1" points="3.89 40.01 23.99 20.02 3.96 0.02 0 0.02 0 3.91 15.99 20.02 0 36.05 0 40.01 3.89 40.01"/><polygon class="cls-1" points="0 27.98 8 20.02 0 12.05 0 27.98"/><polygon class="cls-1" points="36.1 0.02 15.99 20.02 36.02 40.01 39.99 40.01 39.99 36.12 23.99 20.02 39.99 3.98 39.99 0.02 36.1 0.02"/><polygon class="cls-1" points="39.99 12.05 31.99 20.02 39.99 27.98 39.99 12.05"/><polygon class="cls-1" points="12.03 0.02 19.99 8.02 27.95 0.02 12.03 0.02"/><polygon class="cls-1" points="27.95 40.01 19.99 32.01 12.03 40.01 27.95 40.01"/></g></g></svg>
+        </div>
+      </a>
+
+      <p class="cell text-left">
+        June 23 to 28, 2019
+        <br/>
+        San Diego, California
+      </p>
+    </div>
+    
+    <div class="cell medium-auto align-right grid-x">
+      
+      
+        <div class="cell auto">
+          <a itemprop="sameAs" href="#" target="_blank" rel="noopener">
+            <i class="fab fa-twitter big-icon"></i> twitter
+          </a>
+        </div>
+      
+      
+        <div class="cell auto">
+          <a itemprop="sameAs" href="https://www.facebook.com/ACM-DIS-2019-1753516714758349/" target="_blank" rel="noopener">
+            <i class="fab fa-facebook big-icon"></i> facebook
+          </a>
+        </div>
+      
+      
+        <div class="cell auto">
+          <a itemprop="sameAs" href="#" target="_blank" rel="noopener">
+            <i class="fab fa-instagram big-icon"></i> instagram
+          </a>
+        </div>
+      
+    </div>
+  </section>
+
+  <section class="cell grid-x grid-margin-y">
+  </section>
+
+  <section class="cell grid-container grid-x align-center">
+    <p class="cell">
+      <p style = "font-size: .65rem;">
+        All content copyright © DIS 2019 </br>
+      Web Design by Meaghan A. Dee.
+      Web Development by Abraham Kim. 
+    </p>
+    </p>
+  </section>
+    
+</footer>
+
+<script src="/js/jquery.js"></script>
+<script src="/js/foundation.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+<script>
+  $(document).ready(() => {
+    $(document).foundation()
+
+    $('#site-nav').removeClass('hide')
+    
+    $heroPattern = $('#hero-pattern')
+    $heroPatternSvg = $('#hero-pattern svg')
+    $heroAnchor = $('#hero-anchor')
+
+    if ($heroPattern) {
+      repositionHero()
+      $(window).resize(repositionHero)
+    }
+  })  
+
+  
+
+  function repositionHero() {
+    $heroPatternSvg.css('transform', `translate(${$heroAnchor.offset().left * 1.5}px, ${-($heroAnchor.offset().top * .6)}px)`)
+  }
+</script>
+
+</body>
+</html>
+
