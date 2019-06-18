@@ -187,12 +187,6 @@ __Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis an
 _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
 </br>
 
-# DIS Town Hall
-## Wednesday, June 26, 5:30 – 6:30 PM
-## Room: Mission 2/ 3
-</br>
-
-
 # DIS Conference Banquet
 ## Wednesday, June 26, 6:00 – 9:00 PM
 ## Room: Banyan Court and Lawn
@@ -412,6 +406,11 @@ _Christine Dierk (UC Berkeley), Scott Carter (FX Palo Alto Laboratory, Inc.), Pa
 
 __Paper: Satisfying a Conversation with Materials for Dynamic Fabrics__</br>
 _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)_</br>
+</br>
+
+# DIS Town Hall
+## Thursday, June 27, 5:30 – 6:30 PM
+## Room: Mission 2/ 3
 </br>
 
 # DIS Poster and Demo Reception
