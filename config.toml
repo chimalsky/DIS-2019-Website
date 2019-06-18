@@ -435,8 +435,8 @@ enableGitInfo = false
   parent = "program"
   
  [[menu.main]]  
-  name = "Awards and Honors"
-  url = "/awards-honors"
+  name = "DIS 2019 Awards and Recognition"
+  url = "/awards"
   weight = 7
   parent = "program"
   
