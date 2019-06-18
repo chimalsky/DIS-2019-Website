@@ -1,5 +1,5 @@
 ---
-title: "DIS 2019 Awards and Honors"
+title: "DIS 2019 Awards and Recognition"
 --- 
 
 # Best Paper
