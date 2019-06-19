@@ -15,7 +15,9 @@ This workshop has been merged with W4: [Towards a Research Agenda for Gameful Cr
  
 __W2: [Crowd-powered Interfaces for Creative Design Thinking](https://creativity-workshops.github.io/cc19/)__ [Open Registration] </br> 
  *Jonas Oppenlaender, Halil Erhan, Naghmi Shireen, Jorge Goncalves, Maximilian Mackeprang, Simo Hosio* </br> 
-
+ 
+ This workshop has been merged with W6: [Exploring, Defining, & Advancing Community-Driven Design for Social Impact](https://designlab.ucsd.edu/events/community-driven-design-workshop-dis-2019/). </br>
+ 
 __W3: [Sketching and Cognition: How Can We Leverage Sketch Interfaces to Enhance Cognition?](http://srl.tamu.edu/sccw2019)__ [Open Registration]</br> 
 *Tracy Hammond* </br> </br>
 
@@ -25,7 +27,7 @@ __W4: [Towards a Research Agenda for Gameful Creativity](https://gamefulcreativi
 Abstract: We propose a one-day workshop that focuses on the intersection of gamefulness and creativity. The objective of this workshop is to bring together both researchers and practitioners interested in this field to discuss a research agenda that will explore the relationship between game-related aspects (e.g. game play, game genres) and creative thinking.
 Embracing the interdisciplinarity of creativity, we invite researchers from a variety of fields including but not limited to games, gamification, playfulness and creativity research. In a highly interactive format, we aim to consolidate previous work, identify relevant areas for future research, and discuss methods to assess the effectiveness of gamefulness on individuals’ creative potential. As outcomes of the workshop we hope to set a research agenda and establish a vibrant community around the domain of gamefulness and creativity. </br>
  
-This workshop has been merged with W1: [Distributed Creativity in Play](https://wdcip.gitlab.io). 
+This workshop has been merged with W1: [Distributed Creativity in Play](https://wdcip.gitlab.io). </br>
  
 __W5: [Crafting and Tasting Issues in Everyday Human-Food Interactions](https://humanfoodinteraction.wordpress.com/)__ [Open Registration] </br> 
    *Markéta Dolejšová, Ferran Altarriba Bertran, Danielle Wilde, Dr. Hilary Davis* </br> 
@@ -34,6 +36,8 @@ __W5: [Crafting and Tasting Issues in Everyday Human-Food Interactions](https://
 __W6: [Exploring, Defining, & Advancing Community-Driven Design for Social Impact](https://designlab.ucsd.edu/events/community-driven-design-workshop-dis-2019/)__ [Open Registration]</br> 
 *Eric Hekler, Jennifer Taylor, Steven Dow, m.c. schraefel, Sayali Phatak, Don Norman, Faren Grant, Dana Lewis* </br> 
 Abstract: As the DIS community increasingly seeks to address social impact issues, it becomes important to examine the assumptions behind our methods to increase the likelihood of positive effects and reduce negative unintended consequences. The purpose of this workshop is to engage the design community in exploring, defining, and, if deemed valuable, advancing community-driven design. We invite DIS members to submit 1-page responses to this concept of community-driven design. Our hope is that a research agenda can emerge from this workshop for the DIS community.
+
+This workshop has been merged with W2: [Crowd-powered Interfaces for Creative Design Thinking](https://creativity-workshops.github.io/cc19/).</br>
 
 __W7: [CoDesigning AI Futures: Integrating AI Ethics, Social Computing, and Design](https://codesigningaifutures.wordpress.com)__ [Open Registration] </br> 
 *Daria Loi, Christine T. Wolf, Raphael Arar, Jeanette Blomberg, Margot Brereton* </br> 
@@ -62,10 +66,6 @@ Abstract: Participatory approaches are used to design interactive systems, servi
 __W12: [A sample of One: First-person Research Methods in HCI](https://1stpersonresearch.wordpress.com)__ [Open Registration]</br> 
 *Andrés Lucero, Audrey Desjardins, Carman Neustaedter, Kristina Höök, Marc Hassenzahl, Marta Cecchinato* </br> 
 Abstract: First-person research (i.e., research that involves data collection and experiences from the researcher themselves) continues to become a viable addition and, possibly even, alternative to more traditional HCI methods. While we have seen the benefits of using methods such as autoethnography, autobiographical design, and autoethnographical research through design, we also see the need to further explore, define, and investigate the practices, techniques, tactics, and implications of first-person research in HCI. To address this, this one-day workshop aims to bring together a community of researchers, designers, and practitioners who are interested in exploring and reimagining research in HCI and interaction design, with an emphasis on first-person methods.
-
-__W13: [Designing at the End of the World](https://endoftheworld2019.wordpress.com)__ [Open Registration]</br> 
-*Jonas Fritsch, Ann Light, Daria Loi* </br> 
-Abstract: We are living in a time of ecological and humanitarian crisis that requires imminent action from the joint fields of HCI and interaction design. In a very palpable way, we seem to be moving towards the “end of the world” (certainly, as we have known it). This workshop addresses three concrete end-of-world challenges – the end of nature, end of culture and end of the human – to contribute to a much-needed design research agenda and to build community in the process. The workshop will explore how the design of technology can support a fairer and more secure set of futures by considering these three end-states and what we, as participants (both contributing to futures and living with the outcomes), can offer to improve the options. Contributions to theory and practice will be welcome.
 
 __W14: [Larping (Live Action Role Playing) as an Embodied Design Research Method](https://interaction.mere.st/)__ [Invitation Only] </br> 
 *Elena Márquez Segura, Katta Spiel, Karin Johansson, Jon Back, Zach O. Toups, Jessica Hammer, Annika Waern, Josh Tanenbaum, Katherine Isbister* </br> 
