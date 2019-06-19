@@ -20,7 +20,7 @@ This joint C&C and DIS event on the evening before our program begins is a speci
 __Keynote: Screen Smashing: Iconoclasty in an Age of Illusionary Intelligence__</br>
 _Tiffany Shlain & Ken Goldberg_</br>
 
-Abstract:“Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves are frighteningly inert.” - Donna Haraway. Simians, Cyborgs, and Women: The Reinvention of Nature.
+Abstract: “Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed, and many other distinctions that used to apply to organisms and machines. Our machines are disturbingly lively, and we ourselves are frighteningly inert.” - Donna Haraway. Simians, Cyborgs, and Women: The Reinvention of Nature.
 
 The boundaries that Haraway lamented in 1990 were further eroded by the World Wide Web, wireless networks, smartphones, and today by social media, fake news, claims about Artificial Intelligence and an impending “Singularity”. Are all boundaries truly illusionary? Or can we question illusions of illusion by actively asserting boundaries between ourselves and our machines? Artistic collaborators Shlain and Goldberg will describe how their art projects and experiences with technology are leading them to rediscover old barricades.</br>
 </br>
@@ -81,7 +81,7 @@ _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), S
 </br>
 
 # Joint DIS and C&C Diversity and Inclusion Lunch
-## Wednesday, June 26, 12:30 — 2:00 PM
+## Wednesday, June 26, 12:30 – 2:00 PM
 ## Room: Hyatt Regency Mission Bay 
 ### Diversity Lunch Organizers: Foad Hamidi and Stacy Branham
 
@@ -656,7 +656,7 @@ _Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM 
 ## Room: Bayview 1/ 2/ 3 
 
 __Keynote: The Role of Space Technology to Support Sustainable Development__</br>
-_Lisa Nakamura_</br>
+_Danielle Wood_</br>
 
 Abstract: MProfessor Danielle Wood leads the new Space Enabled Research Group at the MIT Media Lab. The Space Enabled Research Group advances justice in Earth’s complex systems using designs enabled by space. Space Enabled sees opportunities to advance justice by increasing access to space technology to development leaders around the world and by applying space technology in support of the Sustainable Development Goals, as curated by the United Nations. There are six space technologies that have been contributing to the Sustainable Development Goals for decades, but barriers remain that limit their impact. These technologies include satellite earth observation, satellite communication, satellite positioning, microgravity research, technology transfer and increasing research infrastructure. The Space Enabled Research Group implements projects with development leaders at the multi-lateral, national and local scale to apply space technology in support of their initiatives. During these projects, Space Enabled implements an integrated design process that includes techniques from engineering design, art, social science, complex systems modeling, satellite engineering and data science. During this talk, Prof Wood will discuss the role of space to spur innovation and development and give examples of projects pursued by the Space Enabled Research Group. </br>
 </br>
