@@ -155,6 +155,6 @@ Rogerio de Paula, Shaun Lawson, Luciano Gamberini & Christopher Le Dantec <br/>
 ![alt text](/img/organizers/Tanenbaum-Josh.jpg "Josh Tanenbaum")
 ![alt text](/img/organizers/Muller-Michael.jpg "Michael Muller")
 
-Tone Bratteteig, Josh Tennenbaum & Michael Muller<br/>
+Tone Bratteteig, Josh Tanenbaum & Michael Muller<br/>
 [change_sc [at] dis2019.acm.org](mailto:change_sc@dis2019.acm.org)  
 
