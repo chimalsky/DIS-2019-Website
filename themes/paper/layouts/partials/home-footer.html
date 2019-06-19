@@ -1,0 +1,79 @@
+<footer class="site-footer footer grid-margin-y">
+    <section class="cell grid-container grid-x grid-margin-y">
+      <div class="cell medium-shrink grid-margin-y">
+        <a class="cell" href="{{.Site.BaseURL}}">
+          <div class="site-logo">
+              {{ partial "svg/DIS-logo.svg" }}
+          </div>
+        </a>
+  
+        <p class="cell text-left">
+          June 23 to 28, 2019
+          <br/>
+          San Diego, California
+        </p>
+  
+        <a class="cell" href="https://sigchi.org/">
+          <div class="site-logo">
+            <img alt="logo for sigchi" src="/img/320px-SIGCHI_Logo_footer.png" />
+          </div>
+        </a>
+      </div>
+      
+      <div class="cell medium-auto align-right grid-x">
+        {{ range $.Site.Params.social }}
+        {{ $pack := or .icon_pack "fa" }}
+          <div class="cell auto">
+            <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+              <i class="{{ $pack }}b {{ $pack }}-{{ .icon }} big-icon"></i> {{ .icon }}
+            </a>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  
+    <section class="cell grid-x grid-margin-y">
+    </section>
+  
+    <section class="cell grid-container grid-x align-center">
+      <p class="cell">
+        <p style = "font-size: .65rem;">
+          All content copyright © DIS 2019 </br>
+        Web Design by Meaghan A. Dee.
+        Web Development by Abraham Kim. 
+      </p>
+      </p>
+    </section>
+      
+  </footer>
+  
+  <script src="{{.Site.BaseURL}}js/jquery.js"></script>
+  <script src="{{.Site.BaseURL}}js/foundation.min.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+  
+  <script>
+    $(document).ready(() => {
+      $(document).foundation()
+  
+      $('#site-nav').removeClass('hide')
+      
+      $heroPattern = $('#hero-pattern')
+      $heroPatternSvg = $('#hero-pattern svg')
+      $heroAnchor = $('#hero-anchor')
+  
+      if ($heroPattern) {
+        repositionHero()
+        $(window).resize(repositionHero)
+      }
+    })  
+  
+    
+  
+    function repositionHero() {
+      $heroPatternSvg.css('transform', `translate(${$heroAnchor.offset().left * 1.5}px, ${-($heroAnchor.offset().top * .6)}px)`)
+    }
+  </script>
+  
+  </body>
+  </html>
+  
