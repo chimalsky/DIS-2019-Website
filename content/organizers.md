@@ -152,7 +152,7 @@ Rogerio de Paula, Shaun Lawson, Luciano Gamberini & Christopher Le Dantec <br/>
 
 ### Change Through Design
 ![alt text](/img/organizers/Bratteteig-Tone.jpg "Tone Bratteteig")
-![alt text](/img/organizers/Tennenbaum-Josh.jpg "Josh Tennenbaum")
+![alt text](/img/organizers/Tanenbaum-Josh.jpg "Josh Tanenbaum")
 ![alt text](/img/organizers/Muller-Michael.jpg "Michael Muller")
 
 Tone Bratteteig, Josh Tennenbaum & Michael Muller<br/>
