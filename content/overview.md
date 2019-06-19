@@ -554,7 +554,7 @@ _Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster Unive
 # Panel: Designing Change and Changing Design </br> 
 ## Friday, June 28, 11:00 AM – 12:30 PM </br> 
 ## Room: Mission 2/ 3</br> 
-### Organizer: Josh Tonenbaum</br> 
+### Organizer: Josh Tanenbaum</br> 
 ### Panelists: Jon Back, Stacy Branham, Sarah Fox, Cindy Lin, and Norman Su</br> 
 Abstract: Herbert Simon defined design as “courses of action aimed at changing existing situations into preferred ones.” We ask: “better for whom?” Design implicitly privileges certain points-of-view, bodies, and communities. The Change through Design paper subcommittee invited the DIS community to consider design’s potential to enact positive change, and tackle complex societal, environmental, and political challenges. We asked what are the ethical and moral dimensions of design? Who is allowed to participate in design? Our community has long discussed questions of ethical design. Currently, stakes for design are especially high as we reckon with the detrimental impact of technology on interpersonal relationships, governance, and environmental health. In this panel we reflect upon how we can balance the tension between our stated values, and the pathologies of capitalism.</br>
 </br>
