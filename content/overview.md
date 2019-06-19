@@ -2,10 +2,20 @@
 title: "DIS Program Overview"
 ---
 
+# Tuesday</br> 
+
+# Art Exhibition
+## Tuesday, June 25, 6:00 PM - 9:00 PM
+## UCSD Art Gallery
+
+This joint C&C and DIS event on the evening before our program begins is a special event. Busses leave the Hotel starting at 5:45. It is included in DIS-only registration as well as joint and C&C-only, so if you get into San Diego before then, come to the registration desk in order to get on the bus and see the exhibition. Food and drinks will be served.  </br>
+</br>
+
 # Wednesday</br> 
 
 # Track 2: Stories and Narratives
-## Wednesday, June 26, 11 AM – 12:30 PM 
+## Wednesday, June 26, 11 AM – 12:30 PM
+## Room: Bayview 2
 ### Session Chair: Sarah Fox
 
 __Paper: The Stories People Tell About the Home Through IoT Toolkits__</br>
@@ -23,6 +33,7 @@ _Saumya Gupta (University of California), Joshua Tanenbaum (University of Califo
 
 # Track 3: Design Methods
 ## Wednesday, June 26, 11 AM – 12:30 PM
+## Room: Bayview 3
 ### Session Chair: Narges Mahyar 
 
 __Paper: From Immediate Towards Intermediate Knowledge__</br>
@@ -40,6 +51,7 @@ _EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University
 
 # Track 4: Making
 ## Wednesday, June 26, 11 AM – 12:30 PM
+## Room: Mission 2/ 3
 ### Session Chair: Cesar Torres 
 
 __Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
@@ -56,8 +68,17 @@ __Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alte
 _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz_</br>
 </br>
 
+# Joint DIS and C&C Diversity and Inclusion Lunch
+## Wednesday, June 26, 12:30 — 2:00 PM
+## Room: Hyatt Regency Mission Bay 
+### Diversity Lunch Organizers: Foad Hamidi and Stacy Branham
+
+Please visit the [Diversity and Inclusion Lunch](https://dis2019.com/diversity-lunch/) page to sign up for the event. </br>
+</br>
+
 # Track 2: Well-Being
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
+## Room: Bayview 2
 ### Session Chair: Aykut Coşkun 
 
 __Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data__</br>
@@ -76,6 +97,7 @@ _Stephen Snow (University of Southampton), Michael Oakley (University of Southam
 
 # Track 3: Virtual Reality
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
+## Room: Bayview 3
 ### Session Chair: Ellen Do 
 
 __Paper: Keep the Ball Rolling: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability__</br>
@@ -93,6 +115,7 @@ _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser Univer
 
 # Track 4: Abilities
 ## Wednesday, June 26, 2:00 – 3:30 PM
+## Room: Mission 2/ 3
 ### Session Chair: saiph savage 
 
 __Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar__</br>
@@ -111,6 +134,7 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 
 # Track 2: Sonification
 ## Wednesday, June 26, 4:00 – 5:30 PM
+## Room: Bayview 2
 ### Session Chair: Dan Lockton 
 
 __Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice__</br>
@@ -129,6 +153,7 @@ _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Wash
 
 # Track 3: Identity and Expression
 ## Wednesday, June 26, 4:00 – 5:30 PM
+## Room: Bayview 3
 ### Session Chair: Josh Tanenbaum 
 
 __Paper: Exploring the Design of Social VR Experiences with Older Adults__</br>
@@ -146,6 +171,7 @@ _Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana Universit
 
 # Track 4: Resisting and Reflecting
 ## Wednesday, June 26, 4:00 – 5:30 PM
+## Room: Mission 2/ 3
 ### Session Chair: Arne Berger 
 
 __Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings__</br>
@@ -161,10 +187,16 @@ __Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis an
 _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
 </br>
 
+# DIS Conference Banquet
+## Wednesday, June 26, 6:00 – 9:00 PM
+## Room: Banyan Court and Lawn
+</br>
+
 # Thursday</br>
 
 # Track 1: Conflicting with Digital Worlds
 ## Thursday, June 27, 11:00 – 12:30 PM
+## Room: Bayview 1
 ### Session Chair: Josh Andres 
 
 __Paper: Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field__</br>
@@ -182,6 +214,7 @@ _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munic
 
 # Track 2: Urgency and Emergency
 ## Thursday, June 27, 11:00 – 12:30 PM
+## Room: Bayview 2
 ### Session Chair: Nick Merrill 
 
 __Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies__</br>
@@ -200,6 +233,7 @@ _Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Max
 
 # Track 3: Design For and With Children
 ## Thursday, June 27, 11:00 – 12:30 PM
+## Room: Bayview 3
 ### Session Chair: Teddy Seyed 
 
 __Paper: Designing Interactive Manual Wheelchair Skills Training for Children__</br>
@@ -213,12 +247,13 @@ ___Honourable Mention Award___ </br>
 _Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley (Lancaster University)_</br>
 
 __Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems__</br>
-___Honourable Mention Pictorial Award___</br>
+___Honourable Mention Pictorial___</br>
 _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
 
 # Track 4: Deformable and Novel Materials
 ## Thursday, June 27, 11:00 – 12:30 PM
+## Room: Mission 2/ 3
 ### Session Chair: Young-Woo Park 
 
 __Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input__</br>
@@ -228,7 +263,7 @@ __Paper: Phosphenes: Crafting Resistive Heaters within Thermoreactive Composites
 _Cesar Torres (UC Berkeley), Jessica Chang (UC Berkeley), Advaita Patel (UC Berkeley), Eric Paulos (UC Berkeley)_</br>
 
 __Pictorial: Sensing Kirigami__</br>
-___Best Pictorial Award___</br>
+___Best Pictorial___</br>
 _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado Boulder), Ellen Yi-Luen Do (University of Colorado Boulder)_</br>
 
 __Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI__</br>
@@ -237,6 +272,7 @@ _Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus Universit
 
 # Track 1: Gendered Considerations
 ## Thursday, June 27, 2:00 PM – 3:30 PM
+## Room: Bayview 1
 ### Session Chair: Stacy Branham 
 
 __Paper: Privacy, Patriarchy, and Participation on Social Media__</br>
@@ -249,13 +285,14 @@ __Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Curren
 _Sarah Fox (University of California, San Diego), Noura Howell (University of California), Richmond Wong (University of California Berkeley), Franchesca Spektor (University of California, Berkeley)_</br>
 
 __Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
-___Honourable Mention Pictorial Award___</br>
+___Honourable Mention Pictorial___</br>
 _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)_</br>
 </br>
 
 # Track 2: Human-Robot Interaction
 ## Thursday, June 27, 2:00 PM – 3:30 PM
-### Session Chair: Giovanni Maria Troiano 
+## Room: Bayview 2
+### Session Chair: Carman Neustaedter 
 
 __Paper: A Survey of Users' Expectations Towards On-Body Companion Robots__</br>
 _Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Hao Jiang (Zhejiang University), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)_</br>
@@ -273,6 +310,7 @@ _Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon
 
 # Track 3: Media in the Home
 ## Thursday, June 27, 2:00 PM – 3:30 PM
+## Room: Bayview 3
 ### Session Chair: Eun Jeong Cheon 
 
 __Paper: Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration__</br>
@@ -290,6 +328,7 @@ _Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technolo
 
 # Track 4: Shape Changing Interfaces
 ## Thursday, June 27, 2:00 PM – 3:30 PM 
+## Room: Mission 2/ 3
 ### Session Chair: Giovanni Maria Troiano 
 
 __Paper: ExpanDial: Designing a Shape-Changing Dial__</br>
@@ -306,14 +345,17 @@ __Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interact
 _Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikoletta Karastathi (Napper Architects), David Kirk (Northumbria Univeristy), Peter Wright (Newcastle University)_</br>
 </br>
 
-# Panel
+# Panel: Theory and Its Obligations
 ## Thursday, June 27, 4:00 PM – 5:30 PM
-__Panel Topic TBD__
-</br>
+## Room: Bayview 1
+### Organizers: Jeffrey Bardzell and Paul Dourish
+### Panelists: Margot Brereton, Jodi Forlizzi, and Vera Khovanskaya
+Abstract: The DIS community has a long tradition of using the works of philosophers and critical theorists in research, including such thinkers as Heidegger, Foucault, Butler, Shusterman, Verbeek, and Tsing. When we think about theory in design, a number of questions arise. First, is theory only ever imported, or can we think about DIS research as a site at which theory is produced? Second, what are our obligations to get theory right in its own terms while also making it accessible and useful to the DIS community? Third, what are our responsibilities for contributing back to the theoretical traditions from which we are drawing? This panel will explore the range of obligations and responsibilities that characterize the DIS community’s engagement with theory.</br>
 </br>
 
 # Track 2: Internet of Things
 ## Thursday, June 27, 4:00 PM – 5:30 PM
+## Room: Bayview 2
 ### Session Chair: Will Odom 
 
 __Paper: Understanding Embodied State Using Speculative Artifacts__</br>
@@ -331,6 +373,7 @@ _David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh 
 
 # Track 3: Education
 ## Thursday, June 27, 4:00 PM – 5:30 PM
+## Room: Bayview 3
 ### Session Chair: Ellen Do 
 
 __Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit__</br>
@@ -349,6 +392,7 @@ _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institu
 
 # Track 4: Wearables
 ## Thursday, June 27, 4:00 PM – 5:30 PM
+## Room: Mission 2/ 3
 ### Session Chair: Alyssa Rumsey 
 
 __Paper: Design Framework For Social Wearables__</br>
@@ -364,10 +408,22 @@ __Paper: Satisfying a Conversation with Materials for Dynamic Fabrics__</br>
 _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)_</br>
 </br>
 
+# DIS Town Hall
+## Thursday, June 27, 5:30 – 6:30 PM
+## Room: Mission 2/ 3
+</br>
+
+# DIS Poster and Demo Reception
+## Thursday, June 27, 6:30 PM – 8:30 PM
+## Room: Regatta Pavillion
+### Session Chair: Lone Hansen and Norman Su 
+</br>
+
 # Friday</br>
 
 # Track 1: Automaticity
-## Friday, June 28, 8:30 AM – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
+## Room: Bayview 1
 ### Session Chair: Milka Trajkova
 
 __Paper: V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality__</br>
@@ -384,14 +440,15 @@ _Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_
 </br>
 
 # Track 2: Somaesthetics
-## Friday, June 28, 8:30 AM – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
+## Room: Bayview 2
 ### Session Chair: Tom Schofield 
 
 __Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology in Art__</br>
 _Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
 __Paper: Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
-___Honourable Mention Award___ </br>
+___Honourable Mention Award___</br>
 _Karey Helms (KTH Royal Institute of Technology)_</br>
 
 __Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children__</br>
@@ -403,7 +460,8 @@ _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Insti
 </br>
 
 # Track 3: Diversity 
-## Friday, June 28, 8:30 – 10:30 AM
+## Friday, June 28, 9:00 – 10:30 AM
+## Room: Bayview 3
 ### Session Chair: Firaz Peer 
 
 __Paper: Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy__</br>
@@ -413,7 +471,7 @@ __Pictorial: Diversifying the Domestic: A Design Inquiry into Collective and Mob
 _William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)_</br>
 
 __Pictorial: Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
-___Honourable Mention Pictorial Award___</br>
+___Honourable Mention Pictorial___</br>
 _Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)_</br>
 
 __Pictorial: Design and Diversity? Speculations on What Could Go Wrong__</br>
@@ -421,7 +479,8 @@ _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of
 </br>
 
 # Track 4: Conversational Agents
-## Friday, June 28, 8:30 AM – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
+## Room: Mission 2/ 3
 ### Session Chair: Stacy Branham 
 
 __Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis__</br>
@@ -440,6 +499,7 @@ _Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic U
 
 # Track 1: Mobile Devices
 ## Friday, June 28, 11:00 AM – 12:30 PM
+## Room: Bayview 1
 ### Session Chair: Vasiliki Tsaknaki 
 
 __Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device__</br>
@@ -457,6 +517,7 @@ _Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elshar
 
 # Track 2: Experience
 ## Friday, June 28, 11:00 AM – 12:30 PM
+## Room: Bayview 2
 ### Session Chair: Stine Lundgaard 
 
 __Paper: Co-riding With My eBike to Get Green Lights__</br>
@@ -474,7 +535,8 @@ _Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University)
 
 # Track 3: Seeing 
 ## Friday, June 28, 11:00 AM – 12:30 PM
-### Session Chair: Nuno J, Nunes 
+## Room: Bayview 3
+### Session Chair: Nuno Nunes 
 
 __Paper: How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays__</br>
 _Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuven)_</br>
@@ -489,14 +551,17 @@ __Paper: BlocKit: A Physical Kit for Materializing and Designing for Blockchain 
 _Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster University), Chris Speed (University of Edinburgh)_</br>
 </br>
 
-# Panel
-## Friday, June 28, 11:00 AM – 12:30 PM
-__Panel: Topic TBD__
-</br>
+# Panel: Designing Change and Changing Design </br> 
+## Friday, June 28, 11:00 AM – 12:30 PM </br> 
+## Room: Mission 2/ 3</br> 
+### Organizer: Josh Tanenbaum</br> 
+### Panelists: Jon Back, Stacy Branham, Sarah Fox, Cindy Lin, and Norman Su</br> 
+Abstract: Herbert Simon defined design as “courses of action aimed at changing existing situations into preferred ones.” We ask: “better for whom?” Design implicitly privileges certain points-of-view, bodies, and communities. The Change through Design paper subcommittee invited the DIS community to consider design’s potential to enact positive change, and tackle complex societal, environmental, and political challenges. We asked what are the ethical and moral dimensions of design? Who is allowed to participate in design? Our community has long discussed questions of ethical design. Currently, stakes for design are especially high as we reckon with the detrimental impact of technology on interpersonal relationships, governance, and environmental health. In this panel we reflect upon how we can balance the tension between our stated values, and the pathologies of capitalism.</br>
 </br>
 
 # Track 1: Civic and Urban Spaces
 ## Friday, June 28, 2:00 PM – 3:30 PM
+## Room: Bayview 1
 ### Session Chair: Firaz Peer 
  
 __Paper: Towards a Design Framework for Trust in Digital Civics__</br>
@@ -509,11 +574,12 @@ __Paper: The Civic Data Deluge: Understanding the Challenges of Analyzing Large-
 _Narges Mahyar (University of Massachusetts Amherst), Diana Nguyen (UC San Diego), Maggie Chan (UC San Diego), Jiayi Zheng (UC San Diego), Steven Dow (University of California, San Diego)_</br>
 
 __Paper: Flowing Bodies: Exploring the Micro and Macro Scales of Bodily Interactions With Urban Media Installations__</br>
-_Andre Afonso (UCL), Ecem Ergin (1989), Ava Fatah gen. Schieck (UCL)_</br>
+_Andre Afonso (UCL), Ecem Ergin (UCL), Ava Fatah gen. Schieck (UCL)_</br>
 </br>
 
 # Track 2: Connections with Nature
 ## Friday, June 28, 2:00 PM – 3:30 PM
+## Room: Bayview 2
 ### Session Chair: Jonas Fritsch 
 
 __Paper: Designing with Waste: A Situated Inquiry into the Material Excess of Making__ </br>
@@ -531,6 +597,7 @@ _Katja Budinger (University of Applied Science), Frank Heidmann (University of A
 
 # Track 3: Data
 ## Friday, June 28, 2:00 PM – 3:30 PM
+## Room: Bayview 3
 ### Session Chair: Poorna Talkad Sukumar 
 
 __Paper: Keeping and Discarding Personal Data: Exploring a Design Space__</br>
@@ -549,11 +616,13 @@ _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI
 
 # Track 4: HCl4D
 ## Friday, June 28, 2:00 PM – 3:30 PM
+## Room: Mission 2/ 3
 ### Session Chair: Paul Dourish 
 
 __Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
 _Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)_</br>
 
 __Paper: Exploring Rural Community Practices in HIV Management for the Design of Technology__</br>
+___Honourable Mention Award___</br>
 _Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM Research Africa), Sekou Remy, Aisha Walcott (IBM Research Africa)_</br>
 </br>

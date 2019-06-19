@@ -17,9 +17,17 @@ Virtual reality’s painstakingly created virtuous identity as the “empathy ma
 ### Bio:
 Lisa Nakamura is Gwendolyn Calvert Baker Collegiate Professor of American Culture at the University of Michigan, Ann Arbor.  She is the inaugural Director of the Digital Studies Institute at the University of Michigan and a founding member of the Precarity Lab collective (precaritylab.org)
  
-She is the author of four books on race, gender, and digital media and gaming and is currently working on a book on women of color and the Internet.  Her areas of interest include histories of indigenous electronic manufacture in post-war America, content moderation by women of color on social media, and virtual reality’s claims to produce racial and gender empathy.
+She is the author of four books on race, gender, and digital media and gaming and is currently working on a book on women of color and the Internet.  Her areas of interest include histories of indigenous electronic manufacture in post-war America, content moderation by women of color on social media, and virtual reality’s claims to produce racial and gender empathy.</br> 
 
-</br> 
+## Discussants
+
+### Jeffrey Bardzell
+Jeffrey Bardzell is a Professor of Informatics and Director of the HCI/Design program in the School of Informatics, Computing, and Engineering at Indiana University--Bloomington. His research contributes to design theory and investigations of social innovation, with emphases on critical design, design criticism, creativity and innovation, and intimate experiences. A common thread throughout this work is the use of aesthetics—including the history of criticism, critical theory, and analytic aesthetics—to understand how concepts, materials, forms, ideologies, experiential qualities, and creative processes achieve coherence in design objects. He is co-editor of Critical Theory and Interaction Design (MIT Press, 2018) and co-author of Humanistic HCI (Morgan & Claypool, 2015). Bardzell's work is funded by the National Science Foundation and the Intel Science and Technology Center for Social Computing.
+
+### Wendy Ju 
+Wendy Ju is an Assistant Professor at the Jacobs Technion-Cornell Institute at Cornell Tech and in the Information Science field at Cornell University. Dr. Ju comes to Cornell Tech from the Center for Design Research at Stanford University, where she was Executive Director of Interaction Design Research, and from the California College of the Arts, where she was an Associate Professor of Interaction Design in the Design MFA program. Her work in the areas of human-robot interaction and automated vehicle interfaces highlights the ways that interactive devices can communicate and engage people without interrupting or intruding. Dr. Ju has innovated numerous methods for early-stage prototyping of automated systems to understand how people will respond to systems before the systems are built. She has a PhD in Mechanical Engineering from Stanford, and a Master’s in Media Arts and Sciences from MIT. Her monograph on The Design of Implicit Interactions was published in 2015. </br>
+</br>
+
 
 ## [Danielle Wood](http://www.daniellerwood.com/) </br> 
 ![alt text](/img/Wood-Danielle.jpg "Danielle Wood")

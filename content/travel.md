@@ -3,7 +3,7 @@
 title: "Travel and Hotel Information"
 ---
 
-# _Conference hotel discount rate ends June 3!_
+# _Conference hotel discount rate ends June 10!_
 _If you are planning on staying at the conference hotel and have not yet done so, please register by the deadline._
 
 </br> 

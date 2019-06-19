@@ -25,6 +25,7 @@ _Peter Gyory (University of Colorado Boulder, United States), Clement Zheng (Uni
 </br> 
 
 __How the Design of Social Technology Fails Rural America__</br>
+___Best Provocation___</br> 
 _Jean Hardy (University of Michigan, United States)_
 </br> 
 
@@ -36,9 +37,6 @@ __Envisioning Reflective, Relaxing, and Restorative Design with ASMR__</br>
 _Josephine Klefeker (University of Colorado Boulder, United States), Laura Devendorf (University of Colorado Boulder, United States)_
 </br> 
 
-__What Can We Expect from Navigating? A Critical Exploration of Navigation, Wearables, Data Collection and Interaction__</br>
-_Matthew L Lee-Smith (Loughborough University, United Kingdom), Tracy Ross (Loughborough University, United Kingdom), Martin Maguire (Loughborough University, United Kingdom), Posco Tso (Loughborough University, United Kingdom), Jeremy Morley (Ordnance Survey, United Kingdom), Stefano Cavazzi (Ordnance Survey, United Kingdom)_
-</br> 
 
 __Recipes for Breaking Data Free: Alternative Interactions for Experiencing Personal Data__</br>
 _Jordan Wirfs-Brock (University of Colorado, United States)_
@@ -72,6 +70,7 @@ _Aakash Gautam (Virginia Tech, United States), Deborah Tatar (Virginia Tech, Uni
 </br> 
 
 __Proxemics Play: Exploring the Interplay between Mobile Devices and Interiors__</br>
+___Best Works-In-Progress___ </br>
 _Jens Emil Grønbæk (Aarhus University, Denmark), Christine Linding (Aarhus University, Denmark), Anders Kromann (Aarhus University, Denmark), Thomas Fly Hylddal Jensen (Aarhus University, Denmark), Marianne Graves Petersen (Aarhus University, Denmark)_
 </br> 
 
@@ -95,6 +94,10 @@ __Designing Internal Structure of Chocolate with a Silicone Mold and Its Effect 
 _Yujin Lee (Korea Advanced Institute of Science and Technology, Korea, Republic of), Jee Bin Yim (KAIST, Korea, Republic of), DaYe Kang (KAIST, Korea, Republic of), HyeonBeom Yi (KAIST, Korea, Republic of), daniel saakes (KAIST, Korea, Republic of)_
 </br> 
 
+__What Can We Expect from Navigating? A Critical Exploration of Navigation, Wearables, Data Collection and Interaction__</br>
+_Matthew L Lee-Smith (Loughborough University, United Kingdom), Tracy Ross (Loughborough University, United Kingdom), Martin Maguire (Loughborough University, United Kingdom), Fung Po Tso (Loughborough University, United Kingdom), Jeremy Morley (Ordnance Survey, United Kingdom), Stefano Cavazzi (Ordnance Survey, United Kingdom)_
+</br> 
+
 __Story-Me: Design of a System to Support Intergenerational Storytelling and Preservation for Older Adults__</br>
 _Cun Li (Eindhoven University of Technology, Netherlands), Jun Hu (Eindhoven University of Technology, Netherlands), Bart Hengeveld (Eindhoven University of Technology, Netherlands), Caroline Hummels (Eindhoven University of Technology, Netherlands)_
 </br> 
@@ -116,7 +119,7 @@ _Dominic Price (University of Nottingham, United Kingdom), Rachel Jacobs (The Un
 </br> 
 
 __Supporting Natural Navigation for Running in Unknown Places__</br> 
-_SHREEPRIYA SHREEPRIYA (Naver Labs Europe, France), Jutta Willamowski (Naver Labs Europe, France), Danilo Gallo (Naver Labs Europe, France)_
+_Shreepriya (Naver Labs Europe, France), Jutta Willamowski (Naver Labs Europe, France), Danilo Gallo (Naver Labs Europe, France)_
 </br> 
 
 __PC Builder Hero: An Immersive Computer Building Workshop Experience in Virtual Reality__</br> 
@@ -148,7 +151,7 @@ _Matthew Watson (University of Arizona, United States), Lila Bozgeyikli (Univers
 </br> 
 
 __Stop Wasting, Start Tasting! Design Speculations for Reducing Food Waste in Hospitality Sector__ </br> 
-_Hakan YILMAZER (Koç University, Turkey), Mert Yıldız (Koç University, Turkey), Hüseyin Uğur Genç (Koç University, Turkey), Aykut Coşkun (Koc University, Turkey)_
+_Hakan Yilmazer (Koç University, Turkey), Mert Yıldız (Koç University, Turkey), Hüseyin Uğur Genç (Koç University, Turkey), Aykut Coşkun (Koc University, Turkey)_
 </br> 
 
 __Towards Low-burden In-situ Self-reporting: A Design Space Exploration__</br> 
