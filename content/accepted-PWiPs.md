@@ -91,7 +91,7 @@ _Heesun Kim, Kyle Hoefer, Stacey Kuznetsov_
 </br> 
 
 __Designing Internal Structure of Chocolate with a Silicone Mold and Its Effect on Food Texture__</br>
-_Yujin Lee (Korea Advanced Institute of Science and Technology, Korea, Republic of), Jee Bin Yim (KAIST, Korea, Republic of), DaYe Kang (KAIST, Korea, Republic of), HyeonBeom Yi (KAIST, Korea, Republic of), daniel saakes (KAIST, Korea, Republic of)_
+_Yujin Lee (Korea Advanced Institute of Science and Technology, Korea, Republic of), Jee Bin Yim (KAIST, Korea, Republic of), DaYe Kang (KAIST, Korea, Republic of), HyeonBeom Yi (KAIST, Korea, Republic of), Daniel Saakes(KAIST, Korea, Republic of)_
 </br> 
 
 __What Can We Expect from Navigating? A Critical Exploration of Navigation, Wearables, Data Collection and Interaction__</br>
