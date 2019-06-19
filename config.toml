@@ -240,7 +240,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "#"
+    link = "https://twitter.com/acmdis2019"
 
   [[params.social]]
     icon = "facebook"
