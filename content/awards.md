@@ -31,7 +31,7 @@ __“That’s the Way Sighted People Do It”: What Blind Parents Can Teach Tech
 _Kevin Storer (University of California, Irvine) and Stacy Branham (University of California, Irvine)_</br>
 
 __muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
-_Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (UNIST), Young-Woo Park (UNIST)_</br>
+_Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (Loughborough University), Young-Woo Park (UNIST)_</br>
 
 __A Scenario-Based Methodology for Exploring Risks: Children and Programmable IoT__</br>
 _Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley
