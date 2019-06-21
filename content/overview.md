@@ -319,7 +319,7 @@ _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Cope
 ### Session Chair: Carman Neustaedter 
 
 __Paper: A Survey of Users' Expectations Towards On-Body Companion Robots__</br>
-_Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Hao Jiang (Zhejiang University), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)_</br>
+_Hao Jiang (Zhejiang University), Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)_</br>
 
 __Paper: Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Robots and Conversational Agents__</br>
 _Michal Luria (Carnegie Mellon University), Samantha Reig (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University), Aaron Steinfeld (Carnegie Mellon University), Jodi Forlizzi (Carnegie Mellon University), John Zimmerman (Carnegie Mellon University)_</br>
