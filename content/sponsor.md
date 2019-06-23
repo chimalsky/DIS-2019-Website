@@ -18,6 +18,7 @@ Interested in sponsoring [DIS 2019](https://dis2019.com) and [C&C 2019](http://c
 
 </br>
 ## Silver </br>
+![alt text](/img/sponsors/qi.png "Qualcomm Institute") </br> </br> 
 ![alt text](/img/sponsors/adobe.jpg "Adobe") </br> </br> 
 ![alt text](/img/sponsors/google.jpg "Google") </br> </br> 
 ![alt text](/img/sponsors/designlab.jpg "UC San Diego Design Lab") </br> </br> 
@@ -25,7 +26,8 @@ Interested in sponsoring [DIS 2019](https://dis2019.com) and [C&C 2019](http://c
 
 </br>
 ## Friends of </br>
- ![alt text](/img/sponsors/sketch.jpg "Sktech") </br>`   
+ ![alt text](/img/sponsors/sketch.jpg "Sketch") </br>` </br>   
+ ![alt text](/img/sponsors/calit.jpg "gallery @ calit2") </br> 
 
 
 </br>
