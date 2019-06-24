@@ -22,7 +22,7 @@ __Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative
 Cindy Lin, Silvia Lindtner, Stefanie Wuschitz</br>
 </br>
 __Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
-Reem Talhouk, Madeline Balaam, Austin Toombs, Andrew Garbett, Ghattas, Vera Araujo-Soares, Balsam Ahmad, and Kyle Montague</br>
+Reem Talhouk, Madeline Balaam, Austin Toombs, Andrew Garbett, Chaza Akik, Hala Ghattas, Vera Araujo-Soares, Balsam Ahmad, and Kyle Montague</br>
 </br>
 __Designing Interactive Manual Wheelchair Skills Training for Children__ </br>
 Kathrin Gerling, Kieran Hicks, Olivier Szymanezyk, and Conor Linehan</br>
