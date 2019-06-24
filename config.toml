@@ -250,7 +250,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
-    link = "#"
+    link = "https://www.instagram.com/dis2019conference/"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
