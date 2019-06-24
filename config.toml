@@ -463,15 +463,11 @@ enableGitInfo = false
   weight = 2
   parent = "attending"
   
- [[menu.main]]  
-  name = "Presenter Inclusivity Guidelines"
-  url = "/presenter-guidelines"
-  weight = 3
-  parent = "attending"
+ 
   
  [[menu.main]]  
-  name = "Session Chair Inclusivity Guidelines"
-  url = "/sc-guidelines"
+  name = "Inclusivity Guidelines"
+  url = "/inclusivity"
   weight = 4
   parent = "attending"
   
