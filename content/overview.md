@@ -2,6 +2,8 @@
 title: "DIS Program Overview"
 ---
 
+The DIS program is also available on [Confer](https://confer.csail.mit.edu/ccdis2019/schedule).
+
 # Tuesday </br> 
 
 # Art Exhibition
