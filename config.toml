@@ -489,6 +489,13 @@ enableGitInfo = false
   weight = 7
   parent = "attending"
 
+  [[menu.main]]  
+  name = "Child Care"
+  url = "https://g3kids.com/camp/?fbclid=IwAR3NunqCcn3XOXfXK-YpKyDVXAcjhBLugK2fHXb2z6r_cRjA50ez6Kh-EDA"
+  weight = 8
+  parent = "attending"
+
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
