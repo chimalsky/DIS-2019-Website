@@ -360,17 +360,17 @@ _Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technolo
 ## Room: Mission 2/ 3
 ### Session Chair: Giovanni Maria Troiano 
 
-__Paper: ExpanDial: Designing a Shape-Changing Dial__</br>
+__Paper: [ExpanDial: Designing a Shape-Changing Dial](https://dl.acm.org/citation.cfm?id=3322283)__</br>
 _Hyunyoung Kim (Université Grenoble Alpes), Patricial Deug Guimaraes (University of Bristol), Céline Coutrix (CNRS), Anne Roudaut (University of Bristol)_</br>
 
-__Paper: DynaKnob: Combining Haptic Force Feedback and Shape Change__</br>
+__Paper: [DynaKnob: Combining Haptic Force Feedback and Shape Change](https://dl.acm.org/citation.cfm?id=3322321)__</br>
 _Anke van Oosterhout (Aarhus University), Eve Hoggan (Computer Science, Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University), Miguel Bruns (TU Eindhoven)_</br>
 
-__Paper: MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction__</br>
+__Paper: [MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction](https://dl.acm.org/citation.cfm?id=3322337)__</br>
 ___Best Paper Award___</br>
 _Ryosuke Nakayama (Keio University), Ryo Suzuki (University of Colorado Boulder), Satoshi Nakamaru (Keio University), Ryuma Niiyama (The University of Tokyo), Yoshihiro Kawahara (The University of Tokyo), Yasuaki Kakehi (The University of Tokyo)_</br>
 
-__Paper: Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation__</br>
+__Paper: [Seamless Seams: Crafting Techniques for Embedding Fabrics with Interactive Actuation](https://dl.acm.org/citation.cfm?id=3322369)__</br>
 _Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikoletta Karastathi (Napper Architects), David Kirk (Northumbria Univeristy), Peter Wright (Newcastle University)_</br>
 </br>
 
@@ -405,16 +405,16 @@ _David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh 
 ## Room: Bayview 3
 ### Session Chair: Ellen Do 
 
-__Paper: Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit__</br>
+__Paper: [Shedding Light: Integrating Bioimaging Technologies into the Design of an Interactive Museum Exhibit](https://dl.acm.org/citation.cfm?id=3322299)__</br>
 _Joyce Ma (The Exploratorium), Eyal Shahar (The Exploratorium), Guneet Mehta (University of Wisconsin, Madison), Kevin Eliceiri (University of Wisconsin, Madison), Kristina Yu (The Exploratorium)_</br>
 
-__Paper: Exploring the Intersection of Emotional Literacy and Computational Modeling Using Scratch__</br>
+__Paper: [Exploring the Intersection of Emotional Literacy and Computational Modeling Using Scratch](https://dl.acm.org/citation.cfm?id=3322358)__</br>
 _Ralph Vacca (Fordham University)_</br>
 
-__Paper: How Peripheral Data Visualisation System Support High School Teachers During VLE-Supported Lessons__</br>
+__Paper: [How Peripheral Data Visualisation System Support High School Teachers During VLE-Supported Lessons](https://dl.acm.org/citation.cfm?id=3322365)__</br>
 _Bernice d’Anjou (University of Technology Eindhoven), Saskia Bakker (University of Technology Eindhoven), Pengcheng An (University of Technology Eindhoven) and Tilde Bekker (University of Technology Eindhoven)_</br>
 
-__Paper: Design in the HCI Classroom: Setting a Research Agenda__</br>
+__Paper: [Design in the HCI Classroom: Setting a Research Agenda](https://dl.acm.org/citation.cfm?id=3322381)__</br>
 ___Best Paper Award___</br>
 _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institute of Technology), Richard Henneman (Georgia Institute of Technology), Qiaosi Wang (Georgia Institute of Technology)_</br>
 </br>
@@ -424,16 +424,16 @@ _Lauren Wilcox (Georgia Institute of Technology), Betsy DiSalvo (Georgia Institu
 ## Room: Mission 2/ 3
 ### Session Chair: Alyssa Rumsey 
 
-__Paper: Design Framework For Social Wearables__</br>
+__Paper: [Design Framework For Social Wearables](https://dl.acm.org/citation.cfm?id=3322291)__</br>
 _Ella Dagan (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Ferran Altarriba Bertran (UC Santa Cruz), Miguel Flores (UC Santa Cruz), Robb Mitchell (University of Southern Denmark), Katherine Isbister (University of California Santa Cruz)_</br>
 
-__Paper: Enlightened Yoga: Designing an Augmented Class with Wearable Lights to Support Instruction__</br>
+__Paper: [Enlightened Yoga: Designing an Augmented Class with Wearable Lights to Support Instruction](https://dl.acm.org/citation.cfm?id=3322338)__</br>
 _Laia Turmo Vidal (Uppsala University), Elena Marquez Segura (Uppsala University), Christopher Boyer (Winwin Yoga Studio), Annika Waern (Dept of Informatics and Media)_</br>
 
-__Paper: Use Your Head! Exploring Interaction Modalities for Hat Technologies__</br>
+__Paper: [Use Your Head! Exploring Interaction Modalities for Hat Technologies](https://dl.acm.org/citation.cfm?id=3322356)__</br>
 _Christine Dierk (UC Berkeley), Scott Carter (FX Palo Alto Laboratory, Inc.), Patrick Chiu (FX Palo Alto Laboratory), Tony Dunnigan (FX Palo Alto Laboratory), Don Kimber (FX Palo Alto Laboratory)_</br>
 
-__Paper: Satisfying a Conversation with Materials for Dynamic Fabrics__</br>
+__Paper: [Satisfying a Conversation with Materials for Dynamic Fabrics](https://dl.acm.org/citation.cfm?id=3322371)__</br>
 _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser University), Stephan Wensveen (Eindhoven University of Technology), Annika Hupfeld (Eindhoven University of Technology), Oscar Tomico (Elisava)_</br>
 </br>
 
@@ -455,16 +455,16 @@ _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser 
 ## Room: Bayview 1
 ### Session Chair: Milka Trajkova
 
-__Paper: V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality__</br>
+__Paper: [V.Ra: An In-Situ Visual Authoring System for Robot-IoT Task Planning with Augmented Reality](https://dl.acm.org/citation.cfm?id=3322278)__</br>
 _Yuanzhi Cao (Purdue University), Ke Huo (Purdue University), Zhuangying Xu (Purdue University), Fan Li (Tsinghua University), Wentao Zhong (Purdue University), Karthik Ramani (Purdue University)_</br>
 
-__Paper: The Apple Does Fall Far from the Tree: User Separation of a System from its Developers in Human-Automation Trust Repair__ </br>
+__Paper: [The Apple Does Fall Far from the Tree: User Separation of a System from its Developers in Human-Automation Trust Repair](https://dl.acm.org/citation.cfm?id=3322349)__ </br>
 _Theodore Jensen (University of Connecticut), Yusuf Albayram (University of Connecticut), Mohammad Maifi Hasan Khan (University of Connecticut), Md Abdullah Al Fahim (University of Connecticut), Ross Buck (University of Connecticut), Emil Coman (University of Connecticut Health Center)_</br>
 
-__Paper: Designing and Prototyping from the Perspective of AI in the Wild__</br>
+__Paper: [Designing and Prototyping from the Perspective of AI in the Wild](https://dl.acm.org/citation.cfm?id=3322351)__</br>
 _Nirav Malsattar (Delft University of Technology), Tomo Kihara (Industrial Design Engineering), Elisa Giaccardi (Delft University of Technology)_</br>
 
-__Paper: Effect of Interaction Design on the Human Experience with Interactive Reinforcement Learning__</br>
+__Paper: [Effect of Interaction Design on the Human Experience with Interactive Reinforcement Learning](https://dl.acm.org/citation.cfm?id=3322379)__</br>
 _Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_</br>
 </br>
 
@@ -473,17 +473,17 @@ _Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_
 ## Room: Bayview 2
 ### Session Chair: Tom Schofield 
 
-__Paper: Making an Interactive Dance Piece: Tensions in Integrating Technology in Art__</br>
+__Paper: [Making an Interactive Dance Piece: Tensions in Integrating Technology in Art](https://dl.acm.org/citation.cfm?id=3322289)__</br>
 _Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
-__Paper: Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
-___Honourable Mention Award___</br>
+__Paper: [Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
+___Honourable Mention Award](https://dl.acm.org/citation.cfm?id=3322290)___</br>
 _Karey Helms (KTH Royal Institute of Technology)_</br>
 
-__Paper: Circus, Play and Technology Probes: Training Body Awareness and Control with Children__</br>
+__Paper: [Circus, Play and Technology Probes: Training Body Awareness and Control with Children](https://dl.acm.org/citation.cfm?id=3322377)__</br>
 _Elena Marquez Segura (Uppsala University), Laia Turmo Vidal (Uppsala University), Luis Parrilla Bel (Uppsala University), Annika Waern (Dept of Informatics and Media)_</br>
 
-__Paper: Teaching Soma Design__</br>
+__Paper: [Teaching Soma Design](https://dl.acm.org/citation.cfm?id=3322327)__</br>
 ___Honourable Mention Award___</br>
 _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Institute of Technology (KTH)), Anna Ståhl (RISE, Research Institutes of Sweden), Pedro Sanches (KTH), Charles Windlin (KTH Royal Institute of Technology), Pavel Karpashevich (KTH), Kristina Höök (KTH)_</br>
 </br>
@@ -493,17 +493,17 @@ _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Insti
 ## Room: Bayview 3
 ### Session Chair: Firaz Peer 
 
-__Paper: Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy__</br>
+__Paper: [Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy](https://dl.acm.org/citation.cfm?id=3322330)__</br>
 _Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)_</br>
 
-__Pictorial: Diversifying the Domestic: A Design Inquiry into Collective and Mobile Living__</br>
+__Pictorial: [Diversifying the Domestic: A Design Inquiry into Collective and Mobile Living](https://dl.acm.org/citation.cfm?id=3323687)__</br>
 _William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)_</br>
 
-__Pictorial: Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History__</br>
+__Pictorial: [Data Rhetoric and Mutual Gains Participation: Data Advocacy in US Labor History](https://dl.acm.org/citation.cfm?id=3323691)__</br>
 ___Honourable Mention Pictorial___</br>
 _Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)_</br>
 
-__Pictorial: Design and Diversity? Speculations on What Could Go Wrong__</br>
+__Pictorial: [Design and Diversity? Speculations on What Could Go Wrong](https://dl.acm.org/citation.cfm?id=3323690)__</br>
 _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of Washington), Pari Jonathan Gabriel (University of Washington), Daniela Rosner (University of Washington)_</br>
 </br>
 
@@ -512,16 +512,16 @@ _Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of
 ## Room: Mission 2/ 3
 ### Session Chair: Stacy Branham 
 
-__Paper: Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis__</br>
+__Paper: [Talk to Me Intelligibly: Investigating An Answer Space to Match the User's Language in Visual Analysis](https://dl.acm.org/citation.cfm?id=3322282)__</br>
 _Jan-Frederik Kassel (Volkswagen Group), Michael Rohs (University of Hannover)_</br>
 
-__Paper: Designing a Voice Assistant for the Scientific Lab Workplace__</br>
+__Paper: [Designing a Voice Assistant for the Scientific Lab Workplace](https://dl.acm.org/citation.cfm?id=3322298)__</br>
 _Chinmay Kulkarni (Carnegie Mellon University), Julia Cambre (Carnegie Mellon University), Ying Liu (Carnegie Mellon University), Rebecca Taylor (Carnegie Mellon University)_</br>
 
-__Paper: Exploring Interaction with Remote Autonomous Systems Using Conversational Agents__</br>
+__Paper: [Exploring Interaction with Remote Autonomous Systems Using Conversational Agents](https://dl.acm.org/citation.cfm?id=3322318)__</br>
 _David Robb (Heriot-Watt University), José David Lopes (Heriot Watt University), Stefano Padilla (Heriot-Watt University), Atanas Laskov (SeeByte Ltd), Francisco Chiyah Garcia (Heriot-Watt University), Xingkun Liu (Heriot-Watt University), Jonatan Scharff Willners (Heriot-Watt University), Nicolas Valeyrie (Hydrason Solutions), Katrin Lohan (Heriot-Watt University), David Lane (Heriot-Watt University), Pedro Patron (SeeByte Ltd), Yvan Petillot (Heriot-Watt University), Mike Chantler (Heriot-Watt University), Helen Hastie (Heriot-Watt University)_</br>
 
-__Paper: Once a Kind Friend is Now a Thing: Understanding How Conversational Agents at Home are Forgotten__</br>
+__Paper: [Once a Kind Friend is Now a Thing: Understanding How Conversational Agents at Home are Forgotten](https://dl.acm.org/citation.cfm?id=3322332)__</br>
 _Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic University)_</br>
 </br>
 
@@ -531,16 +531,16 @@ _Minji Cho (KAIST), Sangsu Lee (KAIST), Kun-Pyo Lee (The Hong Kong Polytechnic U
 ## Room: Bayview 1
 ### Session Chair: Vasiliki Tsaknaki 
 
-__Paper: E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device__</br>
+__Paper: [E-Pad: Large Display Pointing in a Continuous Interaction Space around a Mobile Device](https://dl.acm.org/citation.cfm?id=3322284)__</br>
 _Cagan Arslan (Université de Lille), Yosra Rekik (Université Polytechnique Hauts-de-France), Laurent Grisoni (University of Lille 1- Science and Technology, CNRS, INRIA Lille)_</br>
 
-__Paper: Mobile Devices in Programming Contexts: A Review of the Design Space and Processes__</br>
+__Paper: [Mobile Devices in Programming Contexts: A Review of the Design Space and Processes](https://dl.acm.org/citation.cfm?id=3322323)__</br>
 _Poorna Talkad Sukumar (University of Notre Dame), Ronald Metoyer (University of Notre Dame)_</br>
 
-__Paper: Monomizo: A Tangible Desktop Artifact Providing Schedules from E-ink Screen to Paper__</br>
+__Paper: [Monomizo: A Tangible Desktop Artifact Providing Schedules from E-ink Screen to Paper](https://dl.acm.org/citation.cfm?id=3322333)__</br>
 _Sangsu Jang (UNIST), Subin Kim (UNIST), Boram Noh (UNIST), Young-Woo Park (UNIST)_</br>
 
-__Paper: Mobile Realities: Designing for the Medium of Smartphone-VR__</br>
+__Paper: [Mobile Realities: Designing for the Medium of Smartphone-VR](https://dl.acm.org/citation.cfm?id=3322341)__</br>
 _Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elsharawy (Ryerson University), Alexander Verni (Ryerson University), Tudor Tibu (Ryerson University), Marko Bilic (Ryerson University), Alexander Bakogeorge (Ryerson University), Ali Mazalek (Ryerson University)_</br>
 </br>
 
@@ -549,16 +549,16 @@ _Daniel Harley (York University), Aneesh Tarun (Ryerson University), Sara Elshar
 ## Room: Bayview 2
 ### Session Chair: Stine Lundgaard 
 
-__Paper: Co-riding With My eBike to Get Green Lights__</br>
+__Paper: [Co-riding With My eBike to Get Green Lights](https://dl.acm.org/citation.cfm?id=3322307)__</br>
 _Josh Andres (IBM Research Australia), Tuomas Kari (University of Jyväskylä), Juerg von Kaenel (IBM Research), Florian Mueller (RMIT University)_</br>
 
-__Paper: Chasing Play Potentials: Towards an Increasingly Situated and Emergent Approach to Everyday Play Design__</br>
+__Paper: [Chasing Play Potentials: Towards an Increasingly Situated and Emergent Approach to Everyday Play Design](https://dl.acm.org/citation.cfm?id=3322325)__</br>
 _Ferran Altarriba Bertran (UC Santa Cruz), Elena Marquez Segura (Uppsala University), Jared Duval (University of California Santa Cruz), Jared Duval (University of California Santa Cruz)_</br>
 
-__Paper: Taste Your Emotions: An Exploration of the Relationship between Taste and Emotional Experience for HCI__</br>
+__Paper: [Taste Your Emotions: An Exploration of the Relationship between Taste and Emotional Experience for HCI](https://dl.acm.org/citation.cfm?id=3322336)__</br>
 _Thomas Gayler (Lancaster University), Corina Sas (Lancaster University), Vaiva Kalnikaitė (Dovetailed Ltd.)_</br>
 
-__Pictorial: Play Poles: Towards IoT Resources for Outdoor Play__</br>
+__Pictorial: [Play Poles: Towards IoT Resources for Outdoor Play](https://dl.acm.org/citation.cfm?id=3323693)__</br>
 _Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University), Gavin Wood (Northumbria University), Sena Çerçi (Northumbria University), Denise Downey (The Cedarwood Trust), Jonny Scott (The Cedarwood Trust), John Vines (Northumbria University), Shaun Lawson (Northumbria University)_</br>
 </br>
 
@@ -567,16 +567,16 @@ _Thomas Dylan (Northumbria University), Abigail Durrant (Northumbria University)
 ## Room: Bayview 3
 ### Session Chair: Nuno Nunes 
 
-__Paper: How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays__</br>
+__Paper: [How the Arrangement of Content and Location Impact the Use of Multiple Distributed Public Displays](https://dl.acm.org/citation.cfm?id=3322294)__</br>
 _Jorgos Coenen (KU Leuven), Eslam Nofal (KU Leuven), Andrew Vande Moere (KU Leuven)_</br>
 
-__Paper: OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication__</br>
+__Paper: [OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication](https://dl.acm.org/citation.cfm?id=3322314)__</br>
 _Zhengqing Li (Tokyo Institute of Technology), Shio Miyafuji (Tokyo Institute of Technology), Erwin Wu (Tokyo Institute of Technology), Hideaki Kuzuoka (University of Tsukuba), Naomi Yamashita (NTT), Hideki Koike (Tokyo Institute of Technology)_</br>
 
-__Paper: Dead Angles of Personalization: Integrating Curation Algorithms in the Fabric of Design__</br>
+__Paper: [Dead Angles of Personalization: Integrating Curation Algorithms in the Fabric of Design](https://dl.acm.org/citation.cfm?id=3322322)__</br>
 _Nolwenn Maudet (Tokyo University)_</br>
 
-__Paper: BlocKit: A Physical Kit for Materializing and Designing for Blockchain Infrastructure__</br>
+__Paper: [BlocKit: A Physical Kit for Materializing and Designing for Blockchain Infrastructure](https://dl.acm.org/citation.cfm?id=3322370)__</br>
 _Irni Eliana Khairuddin (Universiti Teknologi MARA), Corina Sas (Lancaster University), Chris Speed (University of Edinburgh)_</br>
 </br>
 
@@ -593,16 +593,16 @@ Abstract: Herbert Simon defined design as “courses of action aimed at changing
 ## Room: Bayview 1
 ### Session Chair: Firaz Peer 
  
-__Paper: Towards a Design Framework for Trust in Digital Civics__</br>
+__Paper: [Towards a Design Framework for Trust in Digital Civics](https://dl.acm.org/citation.cfm?id=3322296)__</br>
 _Eric Corbett (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
-__Paper: Roam-IO: Engaging With People Tracking Data through an Interactive Physical Data Installation__</br>
+__Paper: [Roam-IO: Engaging With People Tracking Data through an Interactive Physical Data Installation](https://dl.acm.org/citation.cfm?id=3322303)__</br>
 _Steven Houben (Lancaster University), Ben Bengler (IXDS), Daniel Gavrilov (University College London), Sarah Gallacher (Arup), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon), Licia Capra (University College London (UCL), Yvonne Rogers (UCL Interaction Centre)_</br>
 
-__Paper: The Civic Data Deluge: Understanding the Challenges of Analyzing Large-Scale Community Input__</br>
+__Paper: [The Civic Data Deluge: Understanding the Challenges of Analyzing Large-Scale Community Input](https://dl.acm.org/citation.cfm?id=3322354)__</br>
 _Narges Mahyar (University of Massachusetts Amherst), Diana Nguyen (UC San Diego), Maggie Chan (UC San Diego), Jiayi Zheng (UC San Diego), Steven Dow (University of California, San Diego)_</br>
 
-__Paper: Flowing Bodies: Exploring the Micro and Macro Scales of Bodily Interactions With Urban Media Installations__</br>
+__Paper: [Flowing Bodies: Exploring the Micro and Macro Scales of Bodily Interactions With Urban Media Installations](https://dl.acm.org/citation.cfm?id=3322378)__</br>
 _Andre Afonso (UCL), Ecem Ergin (UCL), Ava Fatah gen. Schieck (UCL)_</br>
 </br>
 
@@ -611,16 +611,16 @@ _Andre Afonso (UCL), Ecem Ergin (UCL), Ava Fatah gen. Schieck (UCL)_</br>
 ## Room: Bayview 2
 ### Session Chair: Jonas Fritsch 
 
-__Paper: Designing with Waste: A Situated Inquiry into the Material Excess of Making__ </br>
+__Paper: [Designing with Waste: A Situated Inquiry into the Material Excess of Making](https://dl.acm.org/citation.cfm?id=3322320)__ </br>
 _Kristin Dew (University of Washington), Daniela Rosner (University of Washington)_</br>
 
-__Paper: LiveNature: Ambient Display and Social Robot-Facilitated Multi-Sensory Engagement for People with Dementia__</br>
+__Paper: [LiveNature: Ambient Display and Social Robot-Facilitated Multi-Sensory Engagement for People with Dementia](https://dl.acm.org/citation.cfm?id=3322331)__</br>
 _Yuan Feng (Eindhoven University of Technology), Suihuai Yu (Northwestern Polytechnical University), Dirk van de Mortel (Eindhoven University of Technology), Emilia Barakova (Eindhoven University of Technology), Jun Hu (Eindhoven University of Technology), Matthias Rauterberg (Eindhoven University of Technology)_</br>
 
-__Paper: Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team__</br> 
+__Paper: [Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team](https://dl.acm.org/citation.cfm?id=3322360)__</br> 
 _Jessica L Oliver (Queensland University of Technology), Margot Brereton (Queensland University of Technology), David M Watson (Charles Sturt University), Paul Roe (Queensland University of Technology)_</br>
 
-__Pictorial: Our Symbiotic Life - An Exploration of Interspecies Relations__</br>
+__Pictorial: [Our Symbiotic Life - An Exploration of Interspecies Relations](https://dl.acm.org/citation.cfm?id=3323698)__</br>
 _Katja Budinger (University of Applied Science), Frank Heidmann (University of Applied Sciences Potsdam)_</br>
 </br>
 
@@ -629,17 +629,17 @@ _Katja Budinger (University of Applied Science), Frank Heidmann (University of A
 ## Room: Bayview 3
 ### Session Chair: Poorna Talkad Sukumar 
 
-__Paper: Keeping and Discarding Personal Data: Exploring a Design Space__</br>
+__Paper: [Keeping and Discarding Personal Data: Exploring a Design Space](https://dl.acm.org/citation.cfm?id=3322300)__</br>
 ___Honourable Mention Award___</br>
 _Francesco Vitale (University of British Columbia), William Odom (Simon Fraser University), Joanna McGrenere (University of British Columbia)_</br>
 
-__Paper: Towards Affective Chronometry: Exploring Smart Materials and Actuators for Real-Time Representation of Changes in Arousal__</br>
+__Paper: [Towards Affective Chronometry: Exploring Smart Materials and Actuators for Real-Time Representation of Changes in Arousal](https://dl.acm.org/citation.cfm?id=3322367)__</br>
 _Muhammad Umair (Lancaster University), Corina Sas (Lancaster University), Muhammad Hamza Latif (Lancaster University)_</br>
 
-__Paper: Predictive Prototyping for Real-World Applications__</br>
+__Paper: [Predictive Prototyping for Real-World Applications](https://dl.acm.org/citation.cfm?id=3322373)__</br>
 _Dieter Wallach (Ergosign GmbH), Sven Fackert,Vladimir Albach (Ergosign GmbH)_</br>
 
-__Paper: Feeding the World with Data: Visions of Data-Driven Farming__ </br>
+__Paper: [Feeding the World with Data: Visions of Data-Driven Farming](https://dl.acm.org/citation.cfm?id=3322382)__ </br>
 _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI), Norman Su (Indiana University)_</br>
 </br>
 
@@ -648,10 +648,10 @@ _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI
 ## Room: Mission 2/ 3
 ### Session Chair: Paul Dourish 
 
-__Paper: Involving Syrian Refugees in Design Research: Lessons Learnt from the Field__</br>
+__Paper: [Involving Syrian Refugees in Design Research: Lessons Learnt from the Field](https://dl.acm.org/citation.cfm?id=3322335)__</br>
 _Reem Talhouk (Newcastle University), Madeline Balaam (Royal Institute of Technology (KTH)), Austin Toombs (Purdue University), Andrew Garbett (Newcastle University), Chaza Akik (American University of Beirut), Hala Ghattas (American University of Beirut), Vera Araujo-Soares (Newcastle University), Balsam Ahmad (Newcastle University), Kyle Montague (Newcastle University)_</br>
 
-__Paper: Exploring Rural Community Practices in HIV Management for the Design of Technology__</br>
+__Paper: [Exploring Rural Community Practices in HIV Management for the Design of Technology](https://dl.acm.org/citation.cfm?id=3322348)__</br>
 ___Honourable Mention Award___</br>
 _Erick Oduor, Carolyn Pang, Charles Wachira, Rachel Bellamy, Timothy Nyota (IBM Research Africa), Sekou Remy, Aisha Walcott (IBM Research Africa)_</br>
 </br>
