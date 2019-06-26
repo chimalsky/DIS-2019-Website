@@ -31,7 +31,7 @@ The boundaries that Haraway lamented in 1990 were further eroded by the World Wi
 
 # Track 2: Stories and Narratives
 ## Wednesday, June 26, 11 AM – 12:30 PM
-## Room: Bayview 2
+## Room: Bayview 1
 ### Session Chair: Sarah Fox
 
 __Paper: The Stories People Tell About the Home Through IoT Toolkits__</br>
@@ -49,7 +49,7 @@ _Saumya Gupta (University of California), Joshua Tanenbaum (University of Califo
 
 # Track 3: Design Methods
 ## Wednesday, June 26, 11 AM – 12:30 PM
-## Room: Bayview 3
+## Room: Bayview 2
 ### Session Chair: Narges Mahyar 
 
 __Paper: From Immediate Towards Intermediate Knowledge__</br>
@@ -94,7 +94,7 @@ Please visit the [Diversity and Inclusion Lunch](https://dis2019.com/diversity-l
 
 # Track 2: Well-Being
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
-## Room: Bayview 2
+## Room: Bayview 1
 ### Session Chair: Aykut Coşkun 
 
 __Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data__</br>
@@ -113,7 +113,7 @@ _Stephen Snow (University of Southampton), Michael Oakley (University of Southam
 
 # Track 3: Virtual Reality
 ## Wednesday, June 26, 2:00 PM – 3:30 PM
-## Room: Bayview 3
+## Room: Bayview 2
 ### Session Chair: Ellen Do 
 
 __Paper: Keep the Ball Rolling: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability__</br>
@@ -150,7 +150,7 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 
 # Track 2: Sonification
 ## Wednesday, June 26, 4:00 – 5:30 PM
-## Room: Bayview 2
+## Room: Bayview 1
 ### Session Chair: Dan Lockton 
 
 __Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice__</br>
@@ -169,7 +169,7 @@ _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Wash
 
 # Track 3: Identity and Expression
 ## Wednesday, June 26, 4:00 – 5:30 PM
-## Room: Bayview 3
+## Room: Bayview 2
 ### Session Chair: Josh Tanenbaum 
 
 __Paper: Exploring the Design of Social VR Experiences with Older Adults__</br>
