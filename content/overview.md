@@ -305,7 +305,7 @@ _Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus Universit
 __Paper: Privacy, Patriarchy, and Participation on Social Media__</br>
 _Naveena Karusala (University of Washington), Apoorva Bhalla (International Institute of Information Technology, Bangalore), Neha Kumar (Georgia Tech)_</br>
 
-__Paper: A Speculative Approach to anticipating Internet-of-Things Security and Privacy Threats with Survivors of Intimate Partner Abuse__</br>
+__Paper: Anticipating Smart Home Security and Privacy Threats with Survivors of Intimate Partner Abuse__</br>
 _Roxanne Leitão (University of the Arts London)_</br>
 
 __Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Current Data Practices__</br>
