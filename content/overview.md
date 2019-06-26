@@ -157,8 +157,8 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 __Paper: [Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice](https://dl.acm.org/citation.cfm?id=3322353)__</br>
 _Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)_</br>
 
-__Paper: [muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
-___Honourable Mention Award](https://dl.acm.org/citation.cfm?id=3322362)___</br>
+__Paper: [muRedder: Shredding Speaker for Ephemeral Musical Experience](https://dl.acm.org/citation.cfm?id=3322362)__</br>
+___Honourable Mention Award___</br>
 _Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (Loughborough University), Young-Woo Park (UNIST)_</br>
 
 __Paper: [Making Sense of Sensors: Discovery Through Craft Practice with an Open-Ended Sensor Material](https://dl.acm.org/citation.cfm?id=3322368)__</br>
