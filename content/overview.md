@@ -38,13 +38,13 @@ __Paper: [The Stories People Tell About the Home Through IoT Toolkits](https://d
 _Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)_ </br>
 
 
-__Paper: Turker Tales: Integrating Tangential Play into Crowd Work__</br>
+__Paper: [Turker Tales: Integrating Tangential Play into Crowd Work](https://dl.acm.org/citation.cfm?id=3322359)__</br>
 _Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)_</br>
 
-__Paper: Biographical Prototypes: Reimagining Recognition and Disability in Design__</br>
+__Paper: [Biographical Prototypes: Reimagining Recognition and Disability in Design](https://dl.acm.org/citation.cfm?id=3322376)__</br>
 _Cynthia Bennett, Burren Peil, Daniela Rosner (University of Washington)_</br>
 
-__Paper: Evaluating the Pleasures of Agency in Shiva's Rangoli, a Tangible Storytelling Installation__</br>
+__Paper: [Evaluating the Pleasures of Agency in Shiva's Rangoli, a Tangible Storytelling Installation](https://dl.acm.org/citation.cfm?id=3322380)__</br>
 _Saumya Gupta (University of California), Joshua Tanenbaum (University of California: Irvine)_</br>
 </br>
 
@@ -53,16 +53,16 @@ _Saumya Gupta (University of California), Joshua Tanenbaum (University of Califo
 ## Room: Bayview 2
 ### Session Chair: Narges Mahyar 
 
-__Paper: From Immediate Towards Intermediate Knowledge__</br>
+__Paper: [Co-notate: Exploring Real-time Annotations to Capture Situational Design Knowledge](https://dl.acm.org/citation.cfm?id=3322310)__</br>
 _Søren Rasmussen (Aarhus University), Jeanette Falk Olesen (Aarhus University), Kim Halskov (Aarhus University)_</br>
 
-__Paper: Sketching and Ideation Activities for Situated Visualization Design__</br>
+__Paper: [Sketching and Ideation Activities for Situated Visualization Design](https://dl.acm.org/citation.cfm?id=3322326)__</br>
 _Nathalie Bressa (Aarhus University), Kendra Wannamaker (University of Calgary), Henrik Korsgaard (Aarhus University), Wesley Willett (University of Calgary), Jo Vermeulen (Aarhus University)_</br>
 
-__Paper: User Experience (UX) Capacity-Building: A Conceptual Model and Research Agenda__</br>
+__Paper: [User Experience (UX) Capacity-Building: A Conceptual Model and Research Agenda](https://dl.acm.org/citation.cfm?id=3322346)__</br>
 _Craig MacDonald (Pratt Institute)_</br>
 
-__Paper: I Beg to Differ: Soft Conflicts in Collaborative Design Using Design Fictions__</br>
+__Paper: [I Beg to Differ: Soft Conflicts in Collaborative Design Using Design Fictions](https://dl.acm.org/citation.cfm?id=3322350)__</br>
 _EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University), Selma Sabanovic (Indiana University), Norman Su (Indiana University)_</br>
 </br>
 
@@ -71,17 +71,17 @@ _EunJeong Cheon (Indiana University), Stephen Tsung-Han Sher (Indiana University
 ## Room: Mission 2/ 3
 ### Session Chair: Cesar Torres 
 
-__Paper: Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways__</br>
+__Paper: [Mannequette: Understanding and Enabling Collaboration and Creativity on Avant-Garde Fashion-Tech Runways](https://dl.acm.org/citation.cfm?id=3322305)__</br>
 ___Honourable Mention Award___</br> 
 _Teddy Seyed (University of Calgary), Anthony Tang (University of Calgary)_</br>
 
-__Paper: The Printer is Telling Me About Itself: Supporting the Appropriation of Hardware by Using Projection Mapping__</br>
+__Paper: [The Printer is Telling Me About Itself: Supporting the Appropriation of Hardware by Using Projection Mapping](https://dl.acm.org/citation.cfm?id=3322342)__</br>
 _Thomas Ludwig (University of Siegen), Michael Döll (Institute for Information Systems), Christoph Kotthaus (University of Siegen)_</br>
 
-__Pictorial: The Tilting Bowl: Electronic Design for a Counterfactual artifact as a Research Product__</br>
+__Pictorial: [The Tilting Bowl: Electronic Design for a Counterfactual artifact as a Research Product](https://dl.acm.org/citation.cfm?id=3323701)__</br>
 _Henry Lin (SFU), Ron Wakkary (Simon Fraser University), Doenja Oogjes (Simon Fraser University)_</br>
 
-__Paper: Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative Futures__</br>
+__Paper: [Hacking Difference in Indonesia: The Ambivalences of Designing for Alternative Futures](https://dl.acm.org/citation.cfm?id=3322339)__</br>
 _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), Stefanie Wuschitz_</br>
 </br>
 
