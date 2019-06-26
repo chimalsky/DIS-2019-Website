@@ -131,7 +131,7 @@ _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser Univer
 </br>
 
 # Track 4: Abilities
-## Wednesday, June 26, 2:00 – 3:30 PM
+## Wednesday, June 26, 2:00 PM – 3:30 PM
 ## Room: Mission 2/ 3
 ### Session Chair: saiph savage 
 
@@ -150,7 +150,7 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 </br>
 
 # Track 2: Sonification
-## Wednesday, June 26, 4:00 – 5:30 PM
+## Wednesday, June 26, 4:00 PM – 5:30 PM
 ## Room: Bayview 1
 ### Session Chair: Dan Lockton 
 
@@ -169,7 +169,7 @@ _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Wash
 </br>
 
 # Track 3: Identity and Expression
-## Wednesday, June 26, 4:00 – 5:30 PM
+## Wednesday, June 26, 4:00 PM – 5:30 PM
 ## Room: Bayview 2
 ### Session Chair: Josh Tanenbaum 
 
@@ -187,7 +187,7 @@ _Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana Universit
 </br>
 
 # Track 4: Resisting and Reflecting
-## Wednesday, June 26, 4:00 – 5:30 PM
+## Wednesday, June 26, 4:00 PM – 5:30 PM
 ## Room: Mission 2/ 3
 ### Session Chair: Arne Berger 
 
@@ -205,7 +205,7 @@ _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourn
 </br>
 
 # DIS Conference Banquet
-## Wednesday, June 26, 6:00 – 9:00 PM
+## Wednesday, June 26, 6:00 PM – 9:00 PM
 ## Room: Banyan Court and Lawn
 </br>
 
@@ -224,7 +224,7 @@ Virtual reality’s painstakingly created virtuous identity as the “empathy ma
 </br>
 
 # Track 1: Conflicting with Digital Worlds
-## Thursday, June 27, 11:00 – 12:30 PM
+## Thursday, June 27, 11:00 AM – 12:30 PM
 ## Room: Bayview 1
 ### Session Chair: Josh Andres 
 
@@ -242,7 +242,7 @@ _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munic
 </br>
 
 # Track 2: Urgency and Emergency
-## Thursday, June 27, 11:00 – 12:30 PM
+## Thursday, June 27, 11:00 AM – 12:30 PM
 ## Room: Bayview 2
 ### Session Chair: Nick Merrill 
 
@@ -261,7 +261,7 @@ _Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Max
 </br>
 
 # Track 3: Design For and With Children
-## Thursday, June 27, 11:00 – 12:30 PM
+## Thursday, June 27, 11:00 AM – 12:30 PM
 ## Room: Bayview 3
 ### Session Chair: Teddy Seyed 
 
@@ -281,7 +281,7 @@ _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-IT
 </br>
 
 # Track 4: Deformable and Novel Materials
-## Thursday, June 27, 11:00 – 12:30 PM
+## Thursday, June 27, 11:00 AM – 12:30 PM
 ## Room: Mission 2/ 3
 ### Session Chair: Young-Woo Park 
 
@@ -438,7 +438,7 @@ _Angella Mackey (Eindhoven University of Technology), Ron Wakkary (Simon Fraser 
 </br>
 
 # DIS Town Hall
-## Thursday, June 27, 5:30 – 6:30 PM
+## Thursday, June 27, 5:30 PM – 6:30 PM
 ## Room: Mission 2/ 3
 </br>
 
@@ -489,7 +489,7 @@ _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Insti
 </br>
 
 # Track 3: Diversity 
-## Friday, June 28, 9:00 – 10:30 AM
+## Friday, June 28, 9:00 AM – 10:30 AM
 ## Room: Bayview 3
 ### Session Chair: Firaz Peer 
 
@@ -637,7 +637,7 @@ __Paper: [Towards Affective Chronometry: Exploring Smart Materials and Actuators
 _Muhammad Umair (Lancaster University), Corina Sas (Lancaster University), Muhammad Hamza Latif (Lancaster University)_</br>
 
 __Paper: [Predictive Prototyping for Real-World Applications](https://dl.acm.org/citation.cfm?id=3322373)__</br>
-_Dieter Wallach (Ergosign GmbH), Sven Fackert,Vladimir Albach (Ergosign GmbH)_</br>
+_Dieter Wallach (Ergosign GmbH), Sven Fackert, Vladimir Albach (Ergosign GmbH)_</br>
 
 __Paper: [Feeding the World with Data: Visions of Data-Driven Farming](https://dl.acm.org/citation.cfm?id=3322382)__ </br>
 _Rosemary Steup (Indiana University), Lynn Dombrowski (Indiana University, IUPUI), Norman Su (Indiana University)_</br>
