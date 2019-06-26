@@ -86,7 +86,7 @@ _Cindy Lin (University of Michigan), Silvia Lindtner (University of Michigan), S
 </br>
 
 # Joint DIS and C&C Diversity and Inclusion Lunch
-## Wednesday, June 26, 12:30 – 2:00 PM
+## Wednesday, June 26, 12:30 PM – 2:00 PM
 ## Room: Banyan Court and Lawn (Sign up required)
 ### Diversity Lunch Organizers: Foad Hamidi and Stacy Branham
 
