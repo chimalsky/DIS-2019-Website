@@ -98,17 +98,17 @@ Please visit the [Diversity and Inclusion Lunch](https://dis2019.com/diversity-l
 ## Room: Bayview 1
 ### Session Chair: Aykut Coşkun 
 
-__Paper: Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data__</br>
+__Paper: [Creating Persona Skeletons from Imbalanced Datasets - A Case Study using U.S. Older Adults' Health Data](https://dl.acm.org/citation.cfm?id=3322285)__</br>
 _Haining Zhu (Penn State University), Hongjian Wang (Twitter), John Carroll (Pennsylvania State University)_</br>
 
-__Paper: Foregrounding Everyday Sounds in Dementia__</br> 
+__Paper: [Foregrounding Everyday Sounds in Dementia](https://dl.acm.org/citation.cfm?id=3322287)__</br> 
 ___Best Paper Award___</br> 
 _Maarten Houben (Eindhoven University of Technology), Rens Brankaert (University of Technology Eindhoven), Saskia Bakker (Eindhoven University of Technology), Gail Kenning (University of Technology Sydney), Inge Bongers (Tilburg University), Berry Eggen (Eindhoven University of Technology)_</br>
 
-__Paper: Activities as a Gateway to Sustained Subjective Well-Being Mediated by Products__</br>
+__Paper: [Activities as a Gateway to Sustained Subjective Well-Being Mediated by Products](https://dl.acm.org/citation.cfm?id=3322297)__</br>
 _Lisa Wiese (eBay, brands4friends), Anna Pohlmeyer (Delft Intsitute of Positive Design), Paul Hekkert (Delft University of Technology)_</br>
 
-__Paper: Performance by Design: Supporting Decisions Around Indoor Air Quality in Offices__</br>
+__Paper: [Performance by Design: Supporting Decisions Around Indoor Air Quality in Offices](https://dl.acm.org/citation.cfm?id=3322372)__</br>
 _Stephen Snow (University of Southampton), Michael Oakley (University of Southampton), m.c. schraefel (University of Southampton)_</br>
 </br>
 
@@ -117,16 +117,16 @@ _Stephen Snow (University of Southampton), Michael Oakley (University of Southam
 ## Room: Bayview 2
 ### Session Chair: Ellen Do 
 
-__Paper: Keep the Ball Rolling: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability__</br>
+__Paper: [Keep the Ball Rolling: Designing Game-Based Tangible VR for Spatial Penetrative Thinking Ability](https://dl.acm.org/citation.cfm?id=3322280)__</br>
 _Jack Shen-Kuen Chang (Pennsylvania State University), Alison Doucette (Ryerson University), Georgina Yeboah (Ryerson University), Timothy Welsh (University of Toronto), Michael Nitsche (Georgia Institute of Technology), Ali Mazalek (Ryerson University)_</br>
 
-__Paper: PneumAct: Pneumatic Kinesthetic Actuation of Body Joints in Virtual Reality Environments__</br>
+__Paper: [PneumAct: Pneumatic Kinesthetic Actuation of Body Joints in Virtual Reality Environments](https://dl.acm.org/citation.cfm?id=3322302)__</br>
 _Sebastian Günther (TU Darmstadt), Mohit Makhija (TU Darmstadt), Florian Müller (TU Darmstadt), Dominik Schön (TU Darmstadt), Max Mühlhäuser (TU Darmstadt), Markus Funk (TU Darmstadt)_</br>
 
-__Paper: Understanding Emerging Design Practices for Avatar Systems in the Commercial Social VR Ecology__</br>
+__Paper: [Understanding Emerging Design Practices for Avatar Systems in the Commercial Social VR Ecology](https://dl.acm.org/citation.cfm?id=3322352)__</br>
 _Anya Kolesnichenko (University of California, Santa Cruz), Joshua McVeigh-Schultz (University of California Santa Cuz), Katherine Isbister (University of California Santa Cruz)_</br>
 
-__Paper: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance__</br>
+__Paper: [Perch to Fly: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance](https://dl.acm.org/citation.cfm?id=3322357)__</br>
 _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser University), Thecla Schiphorst (Simon Fraser University), Carman Neustaedter (Simon Fraser University)_</br>
 </br>
 
@@ -135,17 +135,17 @@ _Yaying Zhang (Simon Fraser University), Bernhard E. Riecke (Simon Fraser Univer
 ## Room: Mission 2/ 3
 ### Session Chair: saiph savage 
 
-__Paper: Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar__</br>
+__Paper: [Mediating Relatedness for Adolescents with ME: Reducing Isolation through Minimal Interactions with a Robot Avatar](https://dl.acm.org/citation.cfm?id=3322319)__</br>
 _Alma Leora Culén (University of Oslo), Jorun Børsting (University of Oslo), Will Odom (Simon Fraser University)_</br>
 
-__Paper: Examining Online Practices of an Autism Parent Community in Turkey: Goals, Needs, and Opportunities__</br>
+__Paper: [Examining Online Practices of an Autism Parent Community in Turkey: Goals, Needs, and Opportunities](https://dl.acm.org/citation.cfm?id=3322344)__</br>
 _Zeynep Yildiz (Koç University), Doga Gatos (Koç University), Ozge Subasi (Koc University), Asim Evren Yantac (Koç Univeristy), Kemal Kuscu (Koç University)_</br>
 
-__Paper: "That's the Way Sighted People Do It": What Blind Parents Can Teach Technology Designers About Co-Reading with Children__</br>
+__Paper: ["That's the Way Sighted People Do It": What Blind Parents Can Teach Technology Designers About Co-Reading with Children](https://dl.acm.org/citation.cfm?id=3322374)__</br>
 ___Honourable Mention Award___</br> 
 _Kevin Storer (University of California, Irvine), Stacy Branham (University of California, Irvine)_</br>
 
-__Pictorial: The Cross-Sensory Globe: Participatory Design of a 3D Audio-Tactile Globe Prototype for Blind and Low-Vision Users to Learn Geography__</br>
+__Pictorial: [The Cross-Sensory Globe: Participatory Design of a 3D Audio-Tactile Globe Prototype for Blind and Low-Vision Users to Learn Geography](https://dl.acm.org/citation.cfm?id=3323686)__</br>
 _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD University), Peter Coppin (OCAD University)_</br>
 </br>
 
@@ -154,17 +154,17 @@ _Uttara Ghodke (OCAD University), Lena Yusim (OCAD U), Sowmya Somanath (OCAD Uni
 ## Room: Bayview 1
 ### Session Chair: Dan Lockton 
 
-__Paper: Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice__</br>
+__Paper: [Making Up Instruments: Design Fiction for Value Discovery in Communities of Musical Practice](https://dl.acm.org/citation.cfm?id=3322353)__</br>
 _Giacomo Lepri (Queen Mary University), Andrew P. McPherson (Queen Mary University of London)_</br>
 
-__Paper: muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
-___Honourable Mention Award___</br>
+__Paper: [muRedder: Shredding Speaker for Ephemeral Musical Experience__</br>
+___Honourable Mention Award](https://dl.acm.org/citation.cfm?id=3322362)___</br>
 _Kyung Jin Kim (UNIST), Sangsu Jang (UNIST), Bomin Kim (UNIST), Hyosun Kwon (Loughborough University), Young-Woo Park (UNIST)_</br>
 
-__Paper: Making Sense of Sensors: Discovery Through Craft Practice with an Open-Ended Sensor Material__</br>
+__Paper: [Making Sense of Sensors: Discovery Through Craft Practice with an Open-Ended Sensor Material](https://dl.acm.org/citation.cfm?id=3322368)__</br>
 _Charlotte Nordmoen (Queen Mary University of London), Jack Armitage (Queen Mary University of London), Fabio Morreale (Queen Mary University of London), Rebecca Stewart (Queen Mary University of London), Andrew P. McPherson (Queen Mary University of London)_</br>
 
-__Pictorial: ListeningCups: A Case of Data Tactility and Data Stories__</br>
+__Pictorial: [ListeningCups: A Case of Data Tactility and Data Stories](https://dl.acm.org/citation.cfm?id=3323694)__</br>
 _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Washington)_</br>
 </br>
 
@@ -173,16 +173,16 @@ _Audrey Desjardins (University of Washington), Timea Tihanyi (University of Wash
 ## Room: Bayview 2
 ### Session Chair: Josh Tanenbaum 
 
-__Paper: Exploring the Design of Social VR Experiences with Older Adults__</br>
+__Paper: [Exploring the Design of Social VR Experiences with Older Adults](https://dl.acm.org/citation.cfm?id=3322361)__</br>
 _Steven Baker (The University of Melbourne), Jenny Waycott (The University of Melbourne), Romina Carrasco (The University of Melbourne), Thuong Hoang (Deakin University), Frank Vetere (The University of Melbourne)_</br>
 
-__Paper: Devising Interactive Theatre: Trajectories of Performance, Choreography and Interaction Design__</br>
+__Paper: [Devising Interactive Theatre: Trajectories of Performance, Choreography and Interaction Design](https://dl.acm.org/citation.cfm?id=3322313)__</br>
 _Andrew Johnston (University of Technology Sydney)_</br>
 
-__Paper: Examining Interdependencies and Constraints in Co-Creation__</br>
+__Paper: [Examining Interdependencies and Constraints in Co-Creation](https://dl.acm.org/citation.cfm?id=3322317)__</br>
 _Bran Knowles (Lancaster University), Christopher Bull (Lancaster University), Nigel Davies (Lancaster University), Will Simm (Lancaster University), Oliver Bates (Lancaster University), Niall Hayes (Lancaster University)_</br>
 
-__Paper: Designing for Ballet Classes: Identifying and Mitigating Communication Challenges Between Dancers and Teachers__</br>
+__Paper: [Designing for Ballet Classes: Identifying and Mitigating Communication Challenges Between Dancers and Teachers](https://dl.acm.org/citation.cfm?id=3322312)__</br>
 _Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana University, IUPUI), Lynn Dombrowski (Indiana University, IUPUI)_</br>
 </br>
 
@@ -191,16 +191,16 @@ _Milka Trajkova (Indiana University, IUPUI), Francesco Cafaro (Indiana Universit
 ## Room: Mission 2/ 3
 ### Session Chair: Arne Berger 
 
-__Paper: Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings__</br>
+__Paper: [Sensing is Believing: What People Think Biosensors Can Reveal About Thoughts and Feelings](https://dl.acm.org/citation.cfm?id=3322286)__</br>
 _Nick Merrill (University of California, Berkeley), John Chuang (University of California, Berkeley), Coye Cheshire (University of California, Berkeley)_</br>
 
-__Pictorial: Judgment Call The Game: Using Design Fiction To Surface Ethical Concerns Related to Technology__</br>
+__Pictorial: [Judgment Call The Game: Using Design Fiction To Surface Ethical Concerns Related to Technology](https://dl.acm.org/citation.cfm?id=3323697)__</br>
 _Stephanie Ballard (University of Washington), Karen Chappell (Microsoft Corporation), Kristen Kennedy (Microsoft Corporation)_ </br>
 
-__Paper: A Design Approach Towards Affording the Trend of Privacy__</br>
+__Paper: [A Design Approach Towards Affording the Trend of Privacy](https://dl.acm.org/citation.cfm?id=3322324)__</br>
 _Daphne Muller (University of Technology Eindhoven), Pierre Levy (Eindhoven University of Technology)_</br>
 
-__Paper: Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis and Automated Decision-Making__</br>
+__Paper: [Biometric Mirror: Exploring Ethical Opinions Towards Facial Analysis and Automated Decision-Making](https://dl.acm.org/citation.cfm?id=3322304)__</br>
 _Niels Wouters (University of Melbourne), Ryan Kelly (The University of Melbourne), Eduardo Velloso (University of Melbourne), Katrin Wolf (Hamburg University of Applied Sciences), Hasan Shahid Ferdous (University of Melbourne), Joshua Newn (The University of Melbourne), Zaher Joukhadar (The University of Melbourne), Frank Vetere (The University of Melbourne)_</br>
 </br>
 
