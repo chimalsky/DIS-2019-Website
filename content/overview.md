@@ -34,8 +34,9 @@ The boundaries that Haraway lamented in 1990 were further eroded by the World Wi
 ## Room: Bayview 1
 ### Session Chair: Sarah Fox
 
-__Paper: The Stories People Tell About the Home Through IoT Toolkits__</br>
+__Paper: [The Stories People Tell About the Home Through IoT Toolkits](https://dl.acm.org/citation.cfm?id=3322308)__</br>
 _Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)_ </br>
+
 
 __Paper: Turker Tales: Integrating Tangential Play into Crowd Work__</br>
 _Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)_</br>
