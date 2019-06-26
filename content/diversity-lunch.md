@@ -32,7 +32,7 @@ Kathrin Gerling, Kieran Hicks, Olivier Szymanezyk, and Conor Linehan</br>
 Lunch boxes with several options (including vegetarian and vegan)</br> 
 - Date: Wednesday, June 26th </br> 
 - Time: 12:30 PM – 2:00 PM </br> 
-- Location: Hyatt Regency Mission Bay </br> 
+- Location: Banyan Court and Lawn </br> 
 - Cost: Free with prior registration. Please register using the following form: https://forms.gle/AYyKyuXoPSaDHt9D6 </br> 
 
 Please note that spaces are limited so please register early. We will confirm your registration prior to the beginning of the conference.</br> 
