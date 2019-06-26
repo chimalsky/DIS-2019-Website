@@ -249,8 +249,8 @@ _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munic
 __Paper: [Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies](https://dl.acm.org/citation.cfm?id=3322277)__</br>
 _Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University_</br>
 
-__Paper: [Clearing the Smoke: The Changing Identities and Work of Firefighters__</br>
-___Best Paper Award](https://dl.acm.org/citation.cfm?id=3322292)___</br>
+__Paper: [Clearing the Smoke: The Changing Identities and Work of Firefighters](https://dl.acm.org/citation.cfm?id=3322292)__</br>
+___Best Paper Award___</br>
 _Alyssa Rumsey (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
 __Paper: [How Do Gestures Matter for Mutual Awareness in Cockpits? Disclosing Interactions through Graphical Representations](https://dl.acm.org/citation.cfm?id=3322306)__</br>
@@ -476,8 +476,8 @@ _Samantha Krening (Georgia Institute of Technology), Karen Feigh (Georgia Tech)_
 __Paper: [Making an Interactive Dance Piece: Tensions in Integrating Technology in Art](https://dl.acm.org/citation.cfm?id=3322289)__</br>
 _Sarah Fdili Alaoui (LRI, Univ. Paris-Sud, CNRS, Inria, Université Paris-Saclay)_</br>
 
-__Paper: [Do You Have to Pee? A Design Space for Intimate and Somatic Data__</br>
-___Honourable Mention Award](https://dl.acm.org/citation.cfm?id=3322290)___</br>
+__Paper: [Do You Have to Pee? A Design Space for Intimate and Somatic Data](https://dl.acm.org/citation.cfm?id=3322290)__</br>
+___Honourable Mention Award___</br>
 _Karey Helms (KTH Royal Institute of Technology)_</br>
 
 __Paper: [Circus, Play and Technology Probes: Training Body Awareness and Control with Children](https://dl.acm.org/citation.cfm?id=3322377)__</br>
