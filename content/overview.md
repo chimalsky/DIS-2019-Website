@@ -228,16 +228,16 @@ Virtual reality’s painstakingly created virtuous identity as the “empathy ma
 ## Room: Bayview 1
 ### Session Chair: Josh Andres 
 
-__Paper: Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field__</br>
+__Paper: [Virtually the Same Experience? Learning from User Experience Evaluation of In-Vehicle Systems in VR and in the Field](https://dl.acm.org/citation.cfm?id=3322288)__</br>
 _Ingrid Pettersson (Digital User Experience), MariAnne Karlsson (Design & Human Factors), Florin Timotei Ghiurau (User Experience Center)_</br>
 
-__Paper: AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator__</br>
+__Paper: [AV-Pedestrian Interaction Design Using a Pedestrian Mixed Traffic Simulator](https://dl.acm.org/citation.cfm?id=3322328)__</br>
 _Karthik Mahadevan (University of Calgary), Elaheh Sanoubari (University of Manitoba), Sowmya Somanath (OCAD University), James E. Young (University of Manitoba), Ehud Sharlin (University of Calgary)_</br>
 
-__Paper: You Invaded my Tracking Space! Using Augmented Virtuality for Spotting Passersby inRoom-Scale Virtual Reality__</br>
+__Paper: [You Invaded my Tracking Space! Using Augmented Virtuality for Spotting Passersby inRoom-Scale Virtual Reality](https://dl.acm.org/citation.cfm?id=3322334)__</br>
 _Julius von Willich (TU Darmstadt), Markus Funk (TU Darmstadt), Florian Müller (TU Darmstadt), Karola Marky (Technische Universität Darmstadt), Jan Riemann (TU Darmstadt), Max Mühlhäuser (TU Darmstadt)_</br>
 
-__Paper: Should I Interrupt or Not? Understanding Interruptions in Head-Mounted Display Settings__</br>
+__Paper: [Should I Interrupt or Not? Understanding Interruptions in Head-Mounted Display Settings](https://dl.acm.org/citation.cfm?id=3322363)__</br>
 _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munich), Florian Alt (Bundeswehr University Munich_</br>
 </br>
 
@@ -246,17 +246,17 @@ _Ceenu George (LMU Munich), Philipp Janssen (LMU Munich), David Heuss (LMU Munic
 ## Room: Bayview 2
 ### Session Chair: Nick Merrill 
 
-__Paper: Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies__</br>
+__Paper: [Sharing 9-1-1 Video Call Information between Dispatchers and Firefighters During Everyday Emergencies](https://dl.acm.org/citation.cfm?id=3322277)__</br>
 _Carman Neustaedter (Simon Fraser University), Josh McGee (Simon Fraser University), Punyashlok Dash (Simon Fraser University_</br>
 
-__Paper: Clearing the Smoke: The Changing Identities and Work of Firefighters__</br>
-___Best Paper Award___</br>
+__Paper: [Clearing the Smoke: The Changing Identities and Work of Firefighters__</br>
+___Best Paper Award](https://dl.acm.org/citation.cfm?id=3322292)___</br>
 _Alyssa Rumsey (Georgia Institute of Technology), Christopher Le Dantec (Georgia Institute of Technology)_</br>
 
-__Paper: How Do Gestures Matter for Mutual Awareness in Cockpits? Disclosing Interactions through Graphical Representations__</br>
+__Paper: [How Do Gestures Matter for Mutual Awareness in Cockpits? Disclosing Interactions through Graphical Representations](https://dl.acm.org/citation.cfm?id=3322306)__</br>
 _Valentin Becquet (ENAC), Catherine Letondal (University of Toulouse - ENAC), Jean-Luc Vinot (University of Toulouse, ENAC), Sylvain Pauchet (University of Toulouse - ENAC)_</br>
 
-__Pictorial: Beepless - Using Peripheral Interaction in an Intensive Care Setting__</br>
+__Pictorial: [Beepless - Using Peripheral Interaction in an Intensive Care Setting](https://dl.acm.org/citation.cfm?id=3323696)__</br>
 _Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Maxima Medical Center), Saskia Bakker (Eindhoven University of Techonology), Pengcheng An (Eindhoven University of Techonology), Carola Pul (Maxima Medical Center), Peter Andriessen (Maxima Medical Center)_</br>
 </br>
 
@@ -265,17 +265,17 @@ _Miguel Cabral Guerra (Eindhoven University of Techonology), Deedee Kommers (Max
 ## Room: Bayview 3
 ### Session Chair: Teddy Seyed 
 
-__Paper: Designing Interactive Manual Wheelchair Skills Training for Children__</br>
+__Paper: [Designing Interactive Manual Wheelchair Skills Training for Children](https://dl.acm.org/citation.cfm?id=3322281)__</br>
 _Kathrin Gerling (KU Leuven), Kieran Hicks (University of Lincoln), Olivier Szymanezyk (University of Lincoln), Conor Linehan (University College Cork)_</br>
 
-__Paper: Magical Realism and Augmented Reality: Designing Apps with Children in a Cultural Institution__</br>
+__Paper: [Magical Realism and Augmented Reality: Designing Apps with Children in a Cultural Institution](https://dl.acm.org/citation.cfm?id=3322293)__</br>
 _Tom Schofield (Newcastle University), Diego Trujillo Pîsanty (Newcastle University), Gabriella Arrigoni (Newcastle University), Kim Reynolds (Newcastle University), Rachel Pattinson (Newcastle University)_</br>
 
-__Paper: A Scenario-Based Methodology for Exploring Risks: Children and Programmable IoT__</br>
+__Paper: [A Scenario-Based Methodology for Exploring Risks: Children and Programmable IoT](https://dl.acm.org/citation.cfm?id=3322315)__</br>
 ___Honourable Mention Award___ </br>
 _Bran Knowles (Lancaster University), Sophie Beck (Lancaster University), Joe Finney (Lancaster University), James Devine (Lancaster University), Joseph Lindley (Lancaster University)_</br>
 
-__Pictorial: See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems__</br>
+__Pictorial: [See the World Through the Eyes of a Child: Learning from Children Cognitive Maps for the Design of Children-Targeted Locative Systems](https://dl.acm.org/citation.cfm?id=3323700)__</br>
 ___Honourable Mention Pictorial___</br>
 _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-ITI; ARDITI), Marta Ferreira (Instituto Superior Técnico), Valentina Nisi (Madeira Interactive Technologies Institute), Nuno Jardim Nunes (IST - U. Lisbon)_</br>
 </br>
@@ -285,17 +285,17 @@ _Cláudia Silva (Madeira Interactive Technologies Institute), Catia Prandi (M-IT
 ## Room: Mission 2/ 3
 ### Session Chair: Young-Woo Park 
 
-__Paper: Non-Rigid HCI: A Review of Deformable Interfaces and Input__</br>
+__Paper: [Non-Rigid HCI: A Review of Deformable Interfaces and Input](https://dl.acm.org/citation.cfm?id=3322347)__</br>
 _Giovanni Troiano (Northeastern University), Alberto Boem (University of Tsukuba)_</br>
 
-__Paper: Phosphenes: Crafting Resistive Heaters within Thermoreactive Composites__</br>
+__Paper: [Phosphenes: Crafting Resistive Heaters within Thermoreactive Composites](https://dl.acm.org/citation.cfm?id=3322375)__</br>
 _Cesar Torres (UC Berkeley), Jessica Chang (UC Berkeley), Advaita Patel (UC Berkeley), Eric Paulos (UC Berkeley)_</br>
 
-__Pictorial: Sensing Kirigami__</br>
+__Pictorial: [Sensing Kirigami](https://dl.acm.org/citation.cfm?id=3323689)__</br>
 ___Best Pictorial___</br>
 _Clement Zheng (University of Colorado, Boulder), HyunJoo Oh (Georgia Institute of Technology), Laura Devendorf (University of Colorado Boulder), Ellen Yi-Luen Do (University of Colorado Boulder)_</br>
 
-__Pictorial: Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI__</br>
+__Pictorial: [Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI](https://dl.acm.org/citation.cfm?id=3323688)__</br>
 _Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus University), Mark Moore (Aarhus University), Marcelo Azevedo Dias (Aarhus University), Majken Kirkegaard Rasmussen (Aarhus University)_</br>
 </br>
 
@@ -304,16 +304,16 @@ _Sebastian Hines (Aarhus University), Magnus Høholt Kaspersen (Aarhus Universit
 ## Room: Bayview 1
 ### Session Chair: Stacy Branham 
 
-__Paper: Privacy, Patriarchy, and Participation on Social Media__</br>
+__Paper: [Privacy, Patriarchy, and Participation on Social Media](https://dl.acm.org/citation.cfm?id=3322355)__</br>
 _Naveena Karusala (University of Washington), Apoorva Bhalla (International Institute of Information Technology, Bangalore), Neha Kumar (Georgia Tech)_</br>
 
-__Paper: Anticipating Smart Home Security and Privacy Threats with Survivors of Intimate Partner Abuse__</br>
+__Paper: [Anticipating Smart Home Security and Privacy Threats with Survivors of Intimate Partner Abuse](https://dl.acm.org/citation.cfm?id=3322366)__</br>
 _Roxanne Leitão (University of the Arts London)_</br>
 
-__Pictorial: Vivewell: Speculating Near-Future Menstrual Tracking through Current Data Practices__</br>
+__Pictorial: [Vivewell: Speculating Near-Future Menstrual Tracking through Current Data Practices](https://dl.acm.org/citation.cfm?id=3323695)__</br>
 _Sarah Fox (University of California, San Diego), Noura Howell (University of California), Richmond Wong (University of California Berkeley), Franchesca Spektor (University of California, Berkeley)_</br>
 
-__Pictorial: Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience__</br>
+__Pictorial: [Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience](https://dl.acm.org/citation.cfm?id=3323692)__</br>
 ___Honourable Mention Pictorial___</br>
 _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Copenhagen), Laurens Boer (IT University Copenhagen)_</br>
 </br>
@@ -323,17 +323,17 @@ _Sarah Homewood (IT University of Copenhagen), Harvey Bewley (IT University Cope
 ## Room: Bayview 2
 ### Session Chair: Carman Neustaedter 
 
-__Paper: A Survey of Users' Expectations Towards On-Body Companion Robots__</br>
+__Paper: [A Survey of Users' Expectations Towards On-Body Companion Robots](https://dl.acm.org/citation.cfm?id=3322316)__</br>
 _Hao Jiang (Zhejiang University), Siyuan Lin (Zhejiang University), Veerajagadheswar Prabakaran (Singapore University of Technology and Design), Mohan Elara (Singapore University of Technology and Design), Lingyun Sun (Zhejiang University)_</br>
 
-__Paper: Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Robots and Conversational Agents__</br>
+__Paper: [Re-Embodiment and Co-Embodiment: Exploration of Social Presence for Robots and Conversational Agents](https://dl.acm.org/citation.cfm?id=3322340)__</br>
 _Michal Luria (Carnegie Mellon University), Samantha Reig (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University), Aaron Steinfeld (Carnegie Mellon University), Jodi Forlizzi (Carnegie Mellon University), John Zimmerman (Carnegie Mellon University)_</br>
 
-__Paper: Negotiating the Creative Space in Human-Robot Collaborative Design__</br>
+__Paper: [Negotiating the Creative Space in Human-Robot Collaborative Design](https://dl.acm.org/citation.cfm?id=3322343)__</br>
 ___Honourable Mention Award___</br>
 _Matthew Law (Cornell University), JiHyun Jeong (Cornell University), Amrit Kwatra (Cornell University), Malte Jung (Cornell University), Guy Hoffman (Cornell University)_</br>
 
-__Paper: Interaction Needs and Opportunities for Failing Robots__</br>
+__Paper: [Interaction Needs and Opportunities for Failing Robots](https://dl.acm.org/citation.cfm?id=3322345)__</br>
 _Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon University), Xiang Zhi Tan (Carnegie Mellon University)_</br>
 </br>
 
@@ -342,16 +342,16 @@ _Cecilia Morales (Carnegie Mellon University), Elizabeth Carter (Carnegie Mellon
 ## Room: Bayview 3
 ### Session Chair: Eun Jeong Cheon 
 
-__Paper: Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration__</br>
+__Paper: [Family Song: Research Through Design to Enable Music for Connection and Culture in Families Separated by Migration](https://dl.acm.org/citation.cfm?id=3322279)__</br>
 _Javier Tibau (Virginia Tech), Michael Stewart (James Madison University), Steve Harrison (Virginia Tech), Deborah Tatar (Virginia Tech)_</br>
 
-__Paper: Chronoscope: Designing Temporally Diverse Interactions with Personal Digital Photo Collections__</br>
+__Paper: [Chronoscope: Designing Temporally Diverse Interactions with Personal Digital Photo Collections](https://dl.acm.org/citation.cfm?id=3322301)__</br>
 _Amy Yo Sue Chen (Simon Fraser University), William Odom (Simon Fraser University), Ce Zhong (Simon Fraser University), Henry Lin (Simon Fraser University), Tal Amram (Simon Fraser University)_</br>
 
-__Paper: Personalised Soundscapes in Homes__</br>
+__Paper: [Personalised Soundscapes in Homes](https://dl.acm.org/citation.cfm?id=3322364)__</br>
 _Stine Lundgaard (Aalborg University), Peter Axel Nielsen (Aalborg University)_</br>
 
-__Pictorial: Peekaboo: Designing Observational Camera for Home Ecologies Concerning Privacy__</br>
+__Pictorial: [Peekaboo: Designing Observational Camera for Home Ecologies Concerning Privacy](https://dl.acm.org/citation.cfm?id=3323699)__</br>
 _Yu-Ting Cheng (Future Everyday), Mathias Funk (Eindhoven University of Technology), Wenn-Chieh Tsai (National Taiwan University), Lin-Lin Chen (Eindhoven University of Technology)_</br>
 </br>
 
@@ -387,16 +387,16 @@ Abstract: The DIS community has a long tradition of using the works of philosoph
 ## Room: Bayview 2
 ### Session Chair: Will Odom 
 
-__Paper: Understanding Embodied State Using Speculative Artifacts__</br>
+__Paper: [Understanding Embodied State Using Speculative Artifacts](https://dl.acm.org/citation.cfm?id=3322295)__</br>
 _J. Trevor D'Arcey (University of California, Santa Cruz), Julia Haines (Google), Elizabeth Churchill (Google)_</br>
 
-__Paper: Sensorstation: Exploring Simple Sensor Data in the Context of a Shared Apartment__</br>
+__Paper: [Sensorstation: Exploring Simple Sensor Data in the Context of a Shared Apartment](https://dl.acm.org/citation.cfm?id=3322309)__</br>
 _Teresa Denefleh (Chemnitz University of Technology), Arne Berger (Chemnitz University of Technology), Albrecht Kurze (Chemnitz University of Technology), Andreas Bischof (Chemnitz University of Technology), Christopher Frauenberger (TU Wien)_</br>
 
-__Paper: Bespoke Booklets: A Method for Situated Co-Speculation__</br>
+__Paper: [Bespoke Booklets: A Method for Situated Co-Speculation](https://dl.acm.org/citation.cfm?id=3322311)__</br>
 _Audrey Desjardins (University of Washington), Cayla Key (University of Washington), Heidi R. Biggs (University of Washington), Kelsey Aschenbeck (University of Washington)_</br>
 
-__Paper: Astral: Prototyping Mobile and Smart Object Interactive Behaviours Using Familiar Applications__</br>
+__Paper: [Astral: Prototyping Mobile and Smart Object Interactive Behaviours Using Familiar Applications](https://dl.acm.org/citation.cfm?id=3322329)__</br>
 _David Ledo (University of Calgary), Jo Vermeulen (Aarhus University), Sheelagh Carpendale (University of Calgary), Saul Greenberg (University of Calgary), Lora Oehlberg (University of Calgary), Sebastian Boring (University of Copenhagen)_</br>
 </br>
 
