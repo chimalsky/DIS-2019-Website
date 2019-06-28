@@ -492,8 +492,9 @@ _Vasiliki Tsaknaki (Royal Institute of Technology), Madeline Balaam (Royal Insti
 ## Room: Bayview 3
 ### Session Chair: Firaz Peer 
 
-__Paper: [Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy](https://dl.acm.org/citation.cfm?id=3322330)__</br>
-_Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)_</br>
+__Pictorial: [Design and Diversity? Speculations on What Could Go Wrong](https://dl.acm.org/citation.cfm?id=3323690)__</br>
+_Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of Washington), Pari Jonathan Gabriel (University of Washington), Daniela Rosner (University of Washington)_</br>
+</br>
 
 __Pictorial: [Diversifying the Domestic: A Design Inquiry into Collective and Mobile Living](https://dl.acm.org/citation.cfm?id=3323687)__</br>
 _William Odom (Simon Fraser University), Sumeet Anand (Simon Fraser University), Doenja Oogjes (Simon Fraser University), Jo Shin (Simon Fraser University)_</br>
@@ -502,9 +503,8 @@ __Pictorial: [Data Rhetoric and Mutual Gains Participation: Data Advocacy in US 
 ___Honourable Mention Pictorial___</br>
 _Vera Khovanskaya (Cornell University), Phoebe Sengers (Cornell University)_</br>
 
-__Pictorial: [Design and Diversity? Speculations on What Could Go Wrong](https://dl.acm.org/citation.cfm?id=3323690)__</br>
-_Lucas Franco Colusso (University of Washington), Cynthia Bennett (University of Washington), Pari Jonathan Gabriel (University of Washington), Daniela Rosner (University of Washington)_</br>
-</br>
+__Paper: [Data Infrastructure Literacy Workshops as Boundary Objects for Design and Data Literacy](https://dl.acm.org/citation.cfm?id=3322330)__</br>
+_Firaz Peer (Georgia Institute of Technology), Carl DiSalvo (Georgia Institute of Technology)_</br>
 
 # Track 4: Conversational Agents
 ## Friday, June 28, 9:00 AM – 10:30 AM
