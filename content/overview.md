@@ -37,7 +37,6 @@ The boundaries that Haraway lamented in 1990 were further eroded by the World Wi
 __Paper: [The Stories People Tell About the Home Through IoT Toolkits](https://dl.acm.org/citation.cfm?id=3322308)__</br>
 _Arne Berger (Chemnitz University of Technology), Aloha Ambe (Queensland University of Technology), Alessandro Soro (Queensland University of Technology), Dries De Roeck (Studio Dott.), Margot Brereton (QUT)_ </br>
 
-
 __Paper: [Turker Tales: Integrating Tangential Play into Crowd Work](https://dl.acm.org/citation.cfm?id=3322359)__</br>
 _Anna Kasunic (Carnegie Mellon University), Chun-Wei Chiang (West Virginia University), Geoff Kaufman (Carnegie Mellon University), Saiph Savage (West Virginia University)_</br>
 
@@ -378,7 +377,7 @@ _Sara Nabil (Newcastle University), Jan Kučera (Newcastle University), Nikolett
 ## Thursday, June 27, 4:00 PM – 5:30 PM
 ## Room: Bayview 1
 ### Organizers: Jeffrey Bardzell and Paul Dourish
-### Panelists: Margot Brereton, Jodi Forlizzi, and Vera Khovanskaya
+### Panelists: Margot Brereton, Lilly Irani, and Vera Khovanskaya
 Abstract: The DIS community has a long tradition of using the works of philosophers and critical theorists in research, including such thinkers as Heidegger, Foucault, Butler, Shusterman, Verbeek, and Tsing. When we think about theory in design, a number of questions arise. First, is theory only ever imported, or can we think about DIS research as a site at which theory is produced? Second, what are our obligations to get theory right in its own terms while also making it accessible and useful to the DIS community? Third, what are our responsibilities for contributing back to the theoretical traditions from which we are drawing? This panel will explore the range of obligations and responsibilities that characterize the DIS community’s engagement with theory.</br>
 </br>
 
